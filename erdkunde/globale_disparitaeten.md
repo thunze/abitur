@@ -7,7 +7,7 @@
 - Schwellenland: Staat auf dem Weg zum Industrieland
 - BRICS, OPEC, LLDC, LDC, SIDS etc.
 
-## Merkmale zur Kategorisierung von Ländern
+## Merkmale zur Kategorisierung von Staaten *(Aufgabe 1)*
 
 ### Indikatoren
 
@@ -16,9 +16,12 @@
 - GDI (schlecht: **0,8-0,4**; gut: **0,4-0**)
 - Gini-Koeffizient (schlecht: **70-45**; gut: **45-25**)
 - HPI (Letzter: **12,8**, Erster: **44,7**)
-- Erscheinungsbild
 
+### Sonstige Merkmale
+
+- Erscheinungsbild
+- Infrastruktur
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NTc0NjU1MSwxOTE0MDE3NzExLC00MT
-g1NDcxMjgsMTY1MjczMTg1Nl19
+eyJoaXN0b3J5IjpbMzE5NTYzNzIzLDE5MTQwMTc3MTEsLTQxOD
+U0NzEyOCwxNjUyNzMxODU2XX0=
 -->
