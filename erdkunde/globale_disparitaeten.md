@@ -79,6 +79,10 @@ HPI | Letzter: 12,8 | Erster: 44,7
 - individuelle Probleme des Staats werden Berücksichtigt (z. B. fehlendes Know-How, Kapital etc.)
 - schafft viele Arbeitsplätze
 
+### Nachhaltige Entwicklung (1990er-Jahre)
+- angepasste Unterstützung in Bereichen wie  
+- wissenschaftlich geprägtes Entwicklungsbild (Nachhaltigkeit etc.)
+
 ### Sonstige Strategien
 - *Nachhaltige Entwicklungsziele* bis 2030
 - Nachhaltigkeit allgemein
@@ -103,10 +107,10 @@ HPI | Letzter: 12,8 | Erster: 44,7
 - ggf. schlechte Arbeitsbedingungen
 - private Investoren ziehen Kapital ab
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDExNjgzMDYsNjk4MDQxMzM3LC03Mz
-g0MzI3MTAsLTU2NTk2NTY2NCwtMTA2MzQ5OTc1NywtMjEwMTIy
-MDg1NSw1NzU1NjE3MDksMTQ2NzU0OTg4MSwtMjAxNzc1MzEyOS
-w2OTY0NDgwMDgsMjU5NDIyNTIxLC0yMzkyNDcyNTUsLTIwNjA5
-MTAyMTAsNDE0MjI2NDIxLDE5MTQwMTc3MTEsLTQxODU0NzEyOC
-wxNjUyNzMxODU2XX0=
+eyJoaXN0b3J5IjpbMTk2NzUxNDY0MCw2OTgwNDEzMzcsLTczOD
+QzMjcxMCwtNTY1OTY1NjY0LC0xMDYzNDk5NzU3LC0yMTAxMjIw
+ODU1LDU3NTU2MTcwOSwxNDY3NTQ5ODgxLC0yMDE3NzUzMTI5LD
+Y5NjQ0ODAwOCwyNTk0MjI1MjEsLTIzOTI0NzI1NSwtMjA2MDkx
+MDIxMCw0MTQyMjY0MjEsMTkxNDAxNzcxMSwtNDE4NTQ3MTI4LD
+E2NTI3MzE4NTZdfQ==
 -->
