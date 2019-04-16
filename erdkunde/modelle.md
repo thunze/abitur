@@ -22,7 +22,10 @@
 - dennoch bleibt Küstenregion *stärker frequentiert* als das Landesinnere
 
 ### Modell der globalen und lokalen Fragmentierung (Scholz)
+![03](https://i.imgur.com/WnqyWjT.png)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MTgzODI1OSwxNjU1OTA5MDQ3LDM0NT
+eyJoaXN0b3J5IjpbLTk4OTk4OTI4NywxNjU1OTA5MDQ3LDM0NT
 cxNzU2Nl19
 -->
