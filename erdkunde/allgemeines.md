@@ -46,8 +46,12 @@ Sektor | Bereiche
 Primär | Landwirtschaft, Forstwirtschaft Fischfang
 Sekundär | Industrie / Produktion, Baugewerbe
 Tertiär | Dienstleistungen
+
+## Sonstige Fachbegriffe
+
+- *das Primat:* das Interesse (z. B. )
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjY3NDg4NDgsLTE3OTMwODgxMjMsLT
-g5MjM0MzYyNCwtNjk2Nzk2MzkzLC0xNjkxMzIxMTMwLC0yODUy
-OTQzMTEsLTgyNDMwNjI0MV19
+eyJoaXN0b3J5IjpbMTAzNzQ3NTc2NSwtMTc5MzA4ODEyMywtOD
+kyMzQzNjI0LC02OTY3OTYzOTMsLTE2OTEzMjExMzAsLTI4NTI5
+NDMxMSwtODI0MzA2MjQxXX0=
 -->
