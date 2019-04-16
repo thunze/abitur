@@ -17,11 +17,15 @@
 	- absolute **und** relative Werte nennen
 	- Ausnahmen und Besonderheiten hervorheben und erklären
 	- Zeitbezug herstellen / zeitliche Entwicklung aufzeigen
-	- Werte mit anderen Materialien verknüpfen / erklären
+	- Werte mit anderen Materialien **verknüpfen** / erklären
+	- **Raumbezug** beibehalten
 - **Quellenangaben**
 
 ### Evaluation *(Aufgabe 3)*
+
+- Argumente beider Seiten nennen
+- Bewer
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MzIwNzk4NiwtMjg1Mjk0MzExLC04Mj
-QzMDYyNDFdfQ==
+eyJoaXN0b3J5IjpbMTQ0NzQwODY0LC0yODUyOTQzMTEsLTgyND
+MwNjI0MV19
 -->
