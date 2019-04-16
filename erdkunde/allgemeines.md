@@ -8,15 +8,18 @@
 
 - **alles** aus Materialien herausschreiben und verwenden
 	- insbesondere bei **Karten**, in dem Fall am besten nach der Legende gehen
+- **Quellenangaben**
 
 ### Analyse *(Aufgabe 2)*
 
 - Fachwörter nutzen
-- Werte nennen, mit anderen Werten verknüpfen und einordnen (Grenzwerte)
-- Quellenangaben
+- Materialauswertung:
+	- ****abolute und relative Werte nennen****
+	- 
+- **Quellenangaben**
 
 ### Evaluation *(Aufgabe 3)*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2Njk0NDA5LC0yODUyOTQzMTEsLTgyND
-MwNjI0MV19
+eyJoaXN0b3J5IjpbLTE2MTgzNjczNywtMjg1Mjk0MzExLC04Mj
+QzMDYyNDFdfQ==
 -->
