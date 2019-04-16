@@ -21,7 +21,7 @@
 - HPI (Letzter: **12,8**, Erster: **44,7**)
 - evtl. *Bevölkerungsdichte*
 - evtl. *Verstädterungsgrad und -rate*
-(BIP )
+(BIP bezieht sich auf das erwirtschaftete Vermögen im Inland, BNE auf das einer Nationalität)
 
 ### Handelsbilanz vs. Terms of Trade
 
@@ -41,7 +41,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTMwNzY3ODEsLTIzOTI0NzI1NSwtMj
-A2MDkxMDIxMCw0MTQyMjY0MjEsMTkxNDAxNzcxMSwtNDE4NTQ3
-MTI4LDE2NTI3MzE4NTZdfQ==
+eyJoaXN0b3J5IjpbLTc3MTUwMzA3MiwtMjM5MjQ3MjU1LC0yMD
+YwOTEwMjEwLDQxNDIyNjQyMSwxOTE0MDE3NzExLC00MTg1NDcx
+MjgsMTY1MjczMTg1Nl19
 -->
