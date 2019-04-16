@@ -10,7 +10,7 @@
 - Klimazone **> Atlas S. 254-255, alternativ S. 244-247**
 - evtl. Vegetation **> Atlas S. 260-261**
 - evtl. Bodenfruchtbarkeit **> S. 256-257**
-- Aufgabenbezogenes
+- **Aufgabenbezogenes** (z. B. bei Landwirtschaft: Klima *ausführlich*)
 
 ### Beschreibung *(Aufgabe 1)*
 
@@ -33,10 +33,14 @@
 
 - Einleitung
 - Argumente beider Seiten nennen
-- Bewertungsgrundlage verwenden (z.B. Nachhaltigkeitsdreieck, sonstiges Leitbild)
+- Bewertungsgrundlage verwenden (z. B. Nachhaltigkeitsdreieck, sonstiges Leitbild)
 - Verbesserungsvorschläge
 - Fazit / Perspektive
+
+## Wirtschaftssektoren
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYxMDA4NzE0LC0xNjkxMzIxMTMwLC0yOD
-UyOTQzMTEsLTgyNDMwNjI0MV19
+eyJoaXN0b3J5IjpbLTE1MzM5NjExMTksLTE2OTEzMjExMzAsLT
+I4NTI5NDMxMSwtODI0MzA2MjQxXX0=
 -->
