@@ -79,11 +79,17 @@ HPI | Letzter: 12,8 | Erster: 44,7
 ## Beurteilung von Abbau und Export von Rohstoffen für Entwicklungsländer *(Aufgabe 3)*
 
 ### Chancen
-- 
+- Steigerung des BNE / BIP
+- Steuereinnahmen
+- Verbesserung der Handelsbilanz
+- Steigerung des Entwicklungsstandes (z. B. HDI)
+- Arbeitsplätze
+- Nutzung des naturräumlichen Potentials
+- politischer Einfluss durch Anbindung an den Weltmarkt
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjM0OTk3NTcsLTIxMDEyMjA4NTUsNT
-c1NTYxNzA5LDE0Njc1NDk4ODEsLTIwMTc3NTMxMjksNjk2NDQ4
-MDA4LDI1OTQyMjUyMSwtMjM5MjQ3MjU1LC0yMDYwOTEwMjEwLD
-QxNDIyNjQyMSwxOTE0MDE3NzExLC00MTg1NDcxMjgsMTY1Mjcz
-MTg1Nl19
+eyJoaXN0b3J5IjpbMTA0NjUyNDA5MCwtMTA2MzQ5OTc1NywtMj
+EwMTIyMDg1NSw1NzU1NjE3MDksMTQ2NzU0OTg4MSwtMjAxNzc1
+MzEyOSw2OTY0NDgwMDgsMjU5NDIyNTIxLC0yMzkyNDcyNTUsLT
+IwNjA5MTAyMTAsNDE0MjI2NDIxLDE5MTQwMTc3MTEsLTQxODU0
+NzEyOCwxNjUyNzMxODU2XX0=
 -->
