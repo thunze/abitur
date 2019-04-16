@@ -24,8 +24,8 @@
 ### Modell der globalen und lokalen Fragmentierung (Scholz)
 ![03](https://i.imgur.com/WnqyWjT.png)
 
-- 
+- Disparitäten existieren auf verschiedenen Raumebenen
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NjI2ODIwNSwtMTIzMzQxOTg0LDE2NT
-U5MDkwNDcsMzQ1NzE3NTY2XX0=
+eyJoaXN0b3J5IjpbLTU1ODI1MDk3NywxMTQ2MjY4MjA1LC0xMj
+MzNDE5ODQsMTY1NTkwOTA0NywzNDU3MTc1NjZdfQ==
 -->
