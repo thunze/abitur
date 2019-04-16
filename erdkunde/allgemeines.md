@@ -2,13 +2,13 @@
 
 ## Vorgehensweise
 
-### Lokalisierung (Aufgabe 1)
+### Lokalisierung *(Aufgabe 1)*
 
-### Beschreibung (Aufgabe 1)
+### Beschreibung *(Aufgabe 1)*
 
-### Analyse (Aufgabe 2)
+### Analyse *(Aufgabe 2)*
 
-### Evaluation (Aufgabe 3)
+### Evaluation *(Aufgabe 3)*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNDMwNjI0MV19
+eyJoaXN0b3J5IjpbLTI4NTI5NDMxMSwtODI0MzA2MjQxXX0=
 -->
