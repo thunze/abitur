@@ -3,7 +3,6 @@
 ## Kategorisierung von Staaten *(Aufgabe 1)*
 
 ### Fachbegriffe
-
 - Transformationsland: zentral verwaltete Wirtschaft > Marktwirtschaft
 - Schwellenland: Staat auf dem Weg zum Industrieland
 - BRICS, OPEC, LLDC, LDC, SIDS etc.
@@ -29,7 +28,6 @@ HPI | Letzter: 12,8 | Erster: 44,7
 *(das BIP bezieht sich auf das erwirtschaftete Vermögen im Inland, das BNE auf das einer Nationalität)*
 
 ### Handelsbilanz vs. Terms of Trade
-
 - **Handelsbilanz:**
 	- Wert aller exportierten Waren **–** Wert aller importierten Waren
 	- negative Handelsbilanz entspricht Verschuldung
@@ -39,7 +37,6 @@ HPI | Letzter: 12,8 | Erster: 44,7
 	- Verschlechterung der ToT: Exportgut hat niedrigeren Wert und/oder Importgut hat höheren Wert als vorher
 
 ### Sonstige Merkmale
-
 - Erscheinungsbild
 - Infrastruktur (auch Energieversorgung, **Wasserversorgung**)
 - politische Stabilität
@@ -48,7 +45,6 @@ HPI | Letzter: 12,8 | Erster: 44,7
 ## Ursachen für Entwicklungsrückstände *(Aufgabe 1 & 2)*
 
 ### Allgemein
-
 - Klima
 - naturräumliche und soziale Konfliktpotentiale (ggf. auf *Kolonialgeschichte* zurückzuführen)
 - Bevölkerungswachstum, auch durch *Migration*
@@ -58,13 +54,11 @@ HPI | Letzter: 12,8 | Erster: 44,7
 - diverse örtliche Gegebenheiten (siehe **Material**)
 
 ### Modernisierungstheorie
-
 - Ursachen im Land: fehlendes **Know-How** und **Kapital** + siehe oben
 - Aufstieg nur in **Entwicklungsstufen** möglich: durch Erlangen von Know-How und Kapital via *Sickereffekt*
 - Entwicklungsstand sei nur durch *Partizipation am Weltmarkt* bestimmt
 
 ### Dependenztheorie
-
 - Industrieländer müssen für Erfolg Entwicklungsländer ausbeuten
 - Entwicklungsländer sind auf Ressourcen der Industrieländer angewiesen
 - Armutsgründe sollten in der Abhängigkeit des Industrielandes von dem entsprechenden Entwicklungsland gesucht werden
@@ -84,12 +78,17 @@ HPI | Letzter: 12,8 | Erster: 44,7
 - Verbesserung der Handelsbilanz
 - Steigerung des Entwicklungsstandes (z. B. HDI)
 - Arbeitsplätze
-- Nutzung des naturräumlichen Potentials
-- politischer Einfluss durch Anbindung an den Weltmarkt
+- Nutzung des *naturräumlichen Potentials*
+- **politischer Einfluss** durch Anbindung an den Weltmarkt
+
+### Risiken
+
+- *Monostruktur*
+- Endlichkeit der Rohstoffe
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NjUyNDA5MCwtMTA2MzQ5OTc1NywtMj
-EwMTIyMDg1NSw1NzU1NjE3MDksMTQ2NzU0OTg4MSwtMjAxNzc1
-MzEyOSw2OTY0NDgwMDgsMjU5NDIyNTIxLC0yMzkyNDcyNTUsLT
-IwNjA5MTAyMTAsNDE0MjI2NDIxLDE5MTQwMTc3MTEsLTQxODU0
-NzEyOCwxNjUyNzMxODU2XX0=
+eyJoaXN0b3J5IjpbLTEwODM5OTU2MTgsLTEwNjM0OTk3NTcsLT
+IxMDEyMjA4NTUsNTc1NTYxNzA5LDE0Njc1NDk4ODEsLTIwMTc3
+NTMxMjksNjk2NDQ4MDA4LDI1OTQyMjUyMSwtMjM5MjQ3MjU1LC
+0yMDYwOTEwMjEwLDQxNDIyNjQyMSwxOTE0MDE3NzExLC00MTg1
+NDcxMjgsMTY1MjczMTg1Nl19
 -->
