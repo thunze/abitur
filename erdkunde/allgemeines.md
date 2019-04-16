@@ -4,6 +4,10 @@
 
 ### Lokalisierung *(Aufgabe 1)*
 
+- Lage im Gradnetz
+- Kontinent, Hauptstadt, Nachbarländer
+- Meeresanbindung, Flüsse
+
 ### Beschreibung *(Aufgabe 1)*
 
 - **alles** aus Materialien herausschreiben und verwenden
@@ -29,6 +33,6 @@
 - Verbesserungsvorschläge
 - Fazit / Perspektive
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTEzMjExMzAsLTI4NTI5NDMxMSwtOD
-I0MzA2MjQxXX0=
+eyJoaXN0b3J5IjpbLTkwMDAxODY4NywtMTY5MTMyMTEzMCwtMj
+g1Mjk0MzExLC04MjQzMDYyNDFdfQ==
 -->
