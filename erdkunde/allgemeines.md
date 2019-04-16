@@ -51,8 +51,10 @@ Tertiär | Dienstleistungen
 
 - Monokausalität vermeiden
 - um 5 *Prozent* gestiegen vs. um 5 *Prozent**punkte*** gestiegen
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDk3MjcxMTIsNzI3MzkxMTAxLC0xNz
-kzMDg4MTIzLC04OTIzNDM2MjQsLTY5Njc5NjM5MywtMTY5MTMy
-MTEzMCwtMjg1Mjk0MzExLC04MjQzMDYyNDFdfQ==
+eyJoaXN0b3J5IjpbMjAyNTk1NDQ3MCwtMTM0OTcyNzExMiw3Mj
+czOTExMDEsLTE3OTMwODgxMjMsLTg5MjM0MzYyNCwtNjk2Nzk2
+MzkzLC0xNjkxMzIxMTMwLC0yODUyOTQzMTEsLTgyNDMwNjI0MV
+19
 -->
