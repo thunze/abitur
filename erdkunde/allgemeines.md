@@ -23,9 +23,12 @@
 
 ### Evaluation *(Aufgabe 3)*
 
+- Einleitung
 - Argumente beider Seiten nennen
-- Bewer
+- Bewertungsgrundlage verwenden (z.B. Nachhaltigkeitsdreieck, sonstiges Leitbild)
+- Verbesserungsvorschläge
+- Fazit / Perspektive
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NzQwODY0LC0yODUyOTQzMTEsLTgyND
-MwNjI0MV19
+eyJoaXN0b3J5IjpbLTE2OTEzMjExMzAsLTI4NTI5NDMxMSwtOD
+I0MzA2MjQxXX0=
 -->
