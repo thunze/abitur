@@ -47,9 +47,12 @@ HPI | Letzter: 12,8 | Erster: 44,7
 
 ## Ursachen für Entwicklungsrückstände *(Aufgabe 1 & 2)*
 
+### Allgemein
 
+- naturräumliche und soziale Konfliktpotentiale
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTc3NTMxMjksNjk2NDQ4MDA4LDI1OT
-QyMjUyMSwtMjM5MjQ3MjU1LC0yMDYwOTEwMjEwLDQxNDIyNjQy
-MSwxOTE0MDE3NzExLC00MTg1NDcxMjgsMTY1MjczMTg1Nl19
+eyJoaXN0b3J5IjpbMTQ2NzU0OTg4MSwtMjAxNzc1MzEyOSw2OT
+Y0NDgwMDgsMjU5NDIyNTIxLC0yMzkyNDcyNTUsLTIwNjA5MTAy
+MTAsNDE0MjI2NDIxLDE5MTQwMTc3MTEsLTQxODU0NzEyOCwxNj
+UyNzMxODU2XX0=
 -->
