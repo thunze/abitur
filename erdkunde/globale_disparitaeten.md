@@ -50,7 +50,7 @@ HPI | Letzter: 12,8 | Erster: 44,7
 ### Allgemein
 
 - Klima
-- naturräumliche und soziale Konfliktpotentiale
+- naturräumliche und soziale Konfliktpotentiale (ggf. auf *Kolonialgeschichte* zurückzuführen)
 - Bevölkerungswachstum, auch durch *Migration*
 - hohe Rohstoffexporte / keine Weiterverarbeitung
 - *Monostruktur* in der Wirtschaft (ggf. einzelne Sektoren zu schwach)
@@ -66,8 +66,8 @@ HPI | Letzter: 12,8 | Erster: 44,7
 - *Milleniumsziele* bis 2030
 - Nachhaltigkeit allgemein
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjU4NzE1MjYsMTQ2NzU0OTg4MSwtMj
-AxNzc1MzEyOSw2OTY0NDgwMDgsMjU5NDIyNTIxLC0yMzkyNDcy
-NTUsLTIwNjA5MTAyMTAsNDE0MjI2NDIxLDE5MTQwMTc3MTEsLT
-QxODU0NzEyOCwxNjUyNzMxODU2XX0=
+eyJoaXN0b3J5IjpbLTEyMDc1NjA2MiwxNDY3NTQ5ODgxLC0yMD
+E3NzUzMTI5LDY5NjQ0ODAwOCwyNTk0MjI1MjEsLTIzOTI0NzI1
+NSwtMjA2MDkxMDIxMCw0MTQyMjY0MjEsMTkxNDAxNzcxMSwtND
+E4NTQ3MTI4LDE2NTI3MzE4NTZdfQ==
 -->
