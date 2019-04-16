@@ -66,7 +66,8 @@ HPI | Letzter: 12,8 | Erster: 44,7
 
 ## Entwicklungshilfe *(Aufgabe 2 & 3)*
 
-### 
+### Nachholende Modernisierung (1960er)
+
 
 ### Sonstige Strategien
 - *Nachhaltige Entwicklungsziele* bis 2030
@@ -92,10 +93,10 @@ HPI | Letzter: 12,8 | Erster: 44,7
 - ggf. schlechte Arbeitsbedingungen
 - private Investoren ziehen Kapital ab
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk4MDQxMzM3LC03Mzg0MzI3MTAsLTU2NT
-k2NTY2NCwtMTA2MzQ5OTc1NywtMjEwMTIyMDg1NSw1NzU1NjE3
-MDksMTQ2NzU0OTg4MSwtMjAxNzc1MzEyOSw2OTY0NDgwMDgsMj
-U5NDIyNTIxLC0yMzkyNDcyNTUsLTIwNjA5MTAyMTAsNDE0MjI2
-NDIxLDE5MTQwMTc3MTEsLTQxODU0NzEyOCwxNjUyNzMxODU2XX
-0=
+eyJoaXN0b3J5IjpbMTExOTQ3MTMzMyw2OTgwNDEzMzcsLTczOD
+QzMjcxMCwtNTY1OTY1NjY0LC0xMDYzNDk5NzU3LC0yMTAxMjIw
+ODU1LDU3NTU2MTcwOSwxNDY3NTQ5ODgxLC0yMDE3NzUzMTI5LD
+Y5NjQ0ODAwOCwyNTk0MjI1MjEsLTIzOTI0NzI1NSwtMjA2MDkx
+MDIxMCw0MTQyMjY0MjEsMTkxNDAxNzcxMSwtNDE4NTQ3MTI4LD
+E2NTI3MzE4NTZdfQ==
 -->
