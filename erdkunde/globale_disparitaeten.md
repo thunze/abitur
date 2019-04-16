@@ -11,9 +11,9 @@
 
 ### Indikatoren
 
-- ***ökologischer Fußabdruck*** *vs* ***Biokapazität***
-	- Finnland: **6,73** vs **13,34** gha / Person
-	-  Indien: **1,06** vs **0,44** gha / Person
+- ***ökologischer Fußabdruck*** *vs.* ***Biokapazität***
+	- Finnland: **6,73** vs. **13,34** gha / Person
+	-  Indien: **1,06** vs. **0,44** gha / Person
 - HDI, BNE pro Kopf, Lebenserwartung, Analphabetenrate, Einwohner pro Arzt etc. **> Atlas S. 274-275**
 - BIP (schlecht: **1-100** Mrd. USD; gut: **100-5000** Mrd. USD)
 - GDI (schlecht: **0,8-0,4**; gut: **0,4-0**)
@@ -21,6 +21,8 @@
 - HPI (Letzter: **12,8**, Erster: **44,7**)
 - evtl. *Bevölkerungsdichte*
 - evtl. *Verstädterungsgrad und -rate*
+
+### Handelsbilanz vs. Terms of Trade
 
 ### Sonstige Merkmale
 
@@ -31,6 +33,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzgwMjg5LDQxNDIyNjQyMSwxOTE0MD
-E3NzExLC00MTg1NDcxMjgsMTY1MjczMTg1Nl19
+eyJoaXN0b3J5IjpbLTIwNjA5MTAyMTAsNDE0MjI2NDIxLDE5MT
+QwMTc3MTEsLTQxODU0NzEyOCwxNjUyNzMxODU2XX0=
 -->
