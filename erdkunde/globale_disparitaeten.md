@@ -11,7 +11,7 @@
 
 ### Indikatoren
 
-- ***ökologischer Fußabdruck*** vs* *** ()
+- ***ökologischer Fußabdruck*** *vs* ***Biokapazität*** (Finnland: **6,73 **)
 - HDI, BNE pro Kopf, Lebenserwartung, Analphabetenrate, Einwohner pro Arzt etc. **> Atlas S. 274-275**
 - BIP (schlecht: **1-100** Mrd. USD; gut: **100-5000** Mrd. USD)
 - GDI (schlecht: **0,8-0,4**; gut: **0,4-0**)
@@ -28,6 +28,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjA1OTcwMTIsNDE0MjI2NDIxLDE5MT
+eyJoaXN0b3J5IjpbLTEzNTA1OTkxNjQsNDE0MjI2NDIxLDE5MT
 QwMTc3MTEsLTQxODU0NzEyOCwxNjUyNzMxODU2XX0=
 -->
