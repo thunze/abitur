@@ -41,7 +41,7 @@ HPI | Letzter: 12,8 | Erster: 44,7
 ### Sonstige Merkmale
 
 - Erscheinungsbild
-- Infrastruktur (auch Energieversorgung, (Trink-)wasserversorgung)
+- Infrastruktur (auch Energieversorgung, **Wasserversorgung**)
 - politische Stabilität
 - *Vulnerabilität* (bezüglich Naturgefahren)
 
@@ -53,13 +53,13 @@ HPI | Letzter: 12,8 | Erster: 44,7
 - naturräumliche und soziale Konfliktpotentiale
 - Bevölkerungswachstum, auch durch *Migration*
 - hohe Rohstoffexporte / keine Weiterverarbeitung
-- Herleitbarkeit durch *Indikatoren*
+- Herleitbarkeit durch *Indikatoren* und andere Merkmale (siehe oben)
 - diverse örtliche Gegebenheiten (siehe **Material**)
 
 ### 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MjQ2MzY2NywxNDY3NTQ5ODgxLC0yMD
-E3NzUzMTI5LDY5NjQ0ODAwOCwyNTk0MjI1MjEsLTIzOTI0NzI1
-NSwtMjA2MDkxMDIxMCw0MTQyMjY0MjEsMTkxNDAxNzcxMSwtND
-E4NTQ3MTI4LDE2NTI3MzE4NTZdfQ==
+eyJoaXN0b3J5IjpbNDc3MjQ1MTc2LDE0Njc1NDk4ODEsLTIwMT
+c3NTMxMjksNjk2NDQ4MDA4LDI1OTQyMjUyMSwtMjM5MjQ3MjU1
+LC0yMDYwOTEwMjEwLDQxNDIyNjQyMSwxOTE0MDE3NzExLC00MT
+g1NDcxMjgsMTY1MjczMTg1Nl19
 -->
