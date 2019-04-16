@@ -5,7 +5,7 @@
 ### Lokalisierung *(Aufgabe 1)*
 
 - Lage im Gradnetz
-- Kontinent, Hauptstadt, Nachbarländer
+- Kontinent, Hauptstadt, Nachbarländer (evtl. *Nord-Süd-Erstreckung*)
 - Meeresanbindung, Flüsse
 - Klimazone **> Atlas S. 254-255, alternativ S. 244-247**
 - evtl. Vegetation **> Atlas S. 260-261**
@@ -47,7 +47,7 @@ Primär | Landwirtschaft, Forstwirtschaft Fischfang
 Sekundär | Industrie / Produktion, Baugewerbe
 Tertiär | Dienstleistungen
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NjcxODQxMywtMTc5MzA4ODEyMywtOD
-kyMzQzNjI0LC02OTY3OTYzOTMsLTE2OTEzMjExMzAsLTI4NTI5
-NDMxMSwtODI0MzA2MjQxXX0=
+eyJoaXN0b3J5IjpbLTE0MjY3NDg4NDgsLTE3OTMwODgxMjMsLT
+g5MjM0MzYyNCwtNjk2Nzk2MzkzLC0xNjkxMzIxMTMwLC0yODUy
+OTQzMTEsLTgyNDMwNjI0MV19
 -->
