@@ -61,12 +61,12 @@ HPI | Letzter: 12,8 | Erster: 44,7
 ### Dependenztheorie
 - Industrieländer müssen für Erfolg Entwicklungsländer ausbeuten
 - Entwicklungsländer sind auf Ressourcen der Industrieländer angewiesen
-- Armutsgründe sollten in der Abhängigkeit des Industrielandes von dem entsprechenden Entwicklungsland gesucht werden
+- Zentrum profitiert mehr als Peripherie
 
 ## Entwicklungshilfe *(Aufgabe 2 & 3)*
 
 ### Sonstige Strategien
-- *Milleniumsziele* bis 2030
+- *Nachhaltige Entwicklungsziele* bis 2030
 - Nachhaltigkeit allgemein
 
 ## Beurteilung von Abbau und Export von Rohstoffen für Entwicklungsländer *(Aufgabe 3)*
@@ -89,9 +89,9 @@ HPI | Letzter: 12,8 | Erster: 44,7
 - ggf. schlechte Arbeitsbedingungen
 - private Investoren ziehen Kapital ab
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NTk2NTY2NCwtMTA2MzQ5OTc1NywtMj
-EwMTIyMDg1NSw1NzU1NjE3MDksMTQ2NzU0OTg4MSwtMjAxNzc1
-MzEyOSw2OTY0NDgwMDgsMjU5NDIyNTIxLC0yMzkyNDcyNTUsLT
-IwNjA5MTAyMTAsNDE0MjI2NDIxLDE5MTQwMTc3MTEsLTQxODU0
-NzEyOCwxNjUyNzMxODU2XX0=
+eyJoaXN0b3J5IjpbMTQ4OTQ4MzQwMywtNTY1OTY1NjY0LC0xMD
+YzNDk5NzU3LC0yMTAxMjIwODU1LDU3NTU2MTcwOSwxNDY3NTQ5
+ODgxLC0yMDE3NzUzMTI5LDY5NjQ0ODAwOCwyNTk0MjI1MjEsLT
+IzOTI0NzI1NSwtMjA2MDkxMDIxMCw0MTQyMjY0MjEsMTkxNDAx
+NzcxMSwtNDE4NTQ3MTI4LDE2NTI3MzE4NTZdfQ==
 -->
