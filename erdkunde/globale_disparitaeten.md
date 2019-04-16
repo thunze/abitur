@@ -14,6 +14,8 @@
 	- Finnland: **6,73** vs. **13,34** gha / Person
 	- Indien: **1,06** vs. **0,44** gha / Person
 - HDI, BNE pro Kopf, Lebenserwartung, Analphabetenrate, Einwohner pro Arzt etc. **> Atlas S. 274-275**
+
+| Indi
 - BIP (schlecht: **1-100** Mrd. USD; gut: **100-5000** Mrd. USD)
 - GDI (schlecht: **0,8-0,4**; gut: **0,4-0**)
 - Gini-Koeffizient (schlecht: **70-45**; gut: **45-25**)
@@ -43,7 +45,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk2NDQ4MDA4LDI1OTQyMjUyMSwtMjM5Mj
-Q3MjU1LC0yMDYwOTEwMjEwLDQxNDIyNjQyMSwxOTE0MDE3NzEx
-LC00MTg1NDcxMjgsMTY1MjczMTg1Nl19
+eyJoaXN0b3J5IjpbMTY2MTgxMjY2Miw2OTY0NDgwMDgsMjU5ND
+IyNTIxLC0yMzkyNDcyNTUsLTIwNjA5MTAyMTAsNDE0MjI2NDIx
+LDE5MTQwMTc3MTEsLTQxODU0NzEyOCwxNjUyNzMxODU2XX0=
 -->
