@@ -19,6 +19,7 @@
 - GDI (schlecht: **0,8-0,4**; gut: **0,4-0**)
 - Gini-Koeffizient (schlecht: **70-45**; gut: **45-25**)
 - HPI (Letzter: **12,8**, Erster: **44,7**)
+- evtl. *Bevölkerungsdichte*
 - evtl. *Verstädterungsgrad und -rate*
 
 ### Sonstige Merkmale
@@ -30,6 +31,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMyNDgxNDI0LDQxNDIyNjQyMSwxOTE0MD
+eyJoaXN0b3J5IjpbLTE3MzgwMjg5LDQxNDIyNjQyMSwxOTE0MD
 E3NzExLC00MTg1NDcxMjgsMTY1MjczMTg1Nl19
 -->
