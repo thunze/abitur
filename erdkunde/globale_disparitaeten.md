@@ -34,7 +34,7 @@ HPI | Letzter: 12,8 | Erster: 44,7
 	- Wert aller exportierten Waren **–** Wert aller importierten Waren
 	- negative Handelsbilanz entspricht Verschuldung
 - **Terms of Trade:**
-	- *Austauschverhältnis* von Importgut und Exportgut
+	- *Austauschverhältnis* von allen Import- und Exportgütern in einem Land 
 	- Verbesserung der ToT: Exportgut hat höheren Wert und/oder Importgut hat niedrigeren Wert als vorher
 	- Verschlechterung der ToT: Exportgut hat niedrigeren Wert und/oder Importgut hat höheren Wert als vorher
 
@@ -66,8 +66,8 @@ HPI | Letzter: 12,8 | Erster: 44,7
 - *Milleniumsziele* bis 2030
 - Nachhaltigkeit allgemein
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDc1NjA2MiwxNDY3NTQ5ODgxLC0yMD
-E3NzUzMTI5LDY5NjQ0ODAwOCwyNTk0MjI1MjEsLTIzOTI0NzI1
-NSwtMjA2MDkxMDIxMCw0MTQyMjY0MjEsMTkxNDAxNzcxMSwtND
-E4NTQ3MTI4LDE2NTI3MzE4NTZdfQ==
+eyJoaXN0b3J5IjpbNTc1NTYxNzA5LDE0Njc1NDk4ODEsLTIwMT
+c3NTMxMjksNjk2NDQ4MDA4LDI1OTQyMjUyMSwtMjM5MjQ3MjU1
+LC0yMDYwOTEwMjEwLDQxNDIyNjQyMSwxOTE0MDE3NzExLC00MT
+g1NDcxMjgsMTY1MjczMTg1Nl19
 -->
