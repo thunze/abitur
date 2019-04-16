@@ -59,9 +59,8 @@ HPI | Letzter: 12,8 | Erster: 44,7
 
 ### Modernisierungstheorie
 
-- Ursachen im Land: fehlendes K
-- Aufstieg in Entwicklungsstufen über *Sickereffekt*
-- 
+- Ursachen im Land: fehlendes Know-How und Kapital + siehe oben
+- Aufstieg in **Entwicklungsstufen** durch Erlangen von Know-How und Kapital via *Sickereffekt*
 
 ## Entwicklungshilfe *(Aufgabe 2 & 3)*
 
@@ -75,9 +74,9 @@ HPI | Letzter: 12,8 | Erster: 44,7
 ### Chancen
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk1NjE1NjQwLC0yMTAxMjIwODU1LDU3NT
-U2MTcwOSwxNDY3NTQ5ODgxLC0yMDE3NzUzMTI5LDY5NjQ0ODAw
-OCwyNTk0MjI1MjEsLTIzOTI0NzI1NSwtMjA2MDkxMDIxMCw0MT
-QyMjY0MjEsMTkxNDAxNzcxMSwtNDE4NTQ3MTI4LDE2NTI3MzE4
-NTZdfQ==
+eyJoaXN0b3J5IjpbLTkxOTA4NzI4NSwtMjEwMTIyMDg1NSw1Nz
+U1NjE3MDksMTQ2NzU0OTg4MSwtMjAxNzc1MzEyOSw2OTY0NDgw
+MDgsMjU5NDIyNTIxLC0yMzkyNDcyNTUsLTIwNjA5MTAyMTAsND
+E0MjI2NDIxLDE5MTQwMTc3MTEsLTQxODU0NzEyOCwxNjUyNzMx
+ODU2XX0=
 -->
