@@ -17,7 +17,7 @@
 ### Modell der idealtypischen Verkehrsentwicklung (Taaffe)
 ![02](https://i.imgur.com/iGJYJ5b.png)
 
-- Entwicklung beginnt bei einem Hafen (Küstenregion)
+- zuerst nur ein Hafen (Küstenregion)
 - linienförmige Entwicklung des Verkehrs ins Landesinnere, immer mehr Querverstrebungen
 - dennoch bleibt Küstenregion *stärker frequentiert* als das Landesinnere
 
@@ -26,6 +26,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4OTk4OTI4NywxNjU1OTA5MDQ3LDM0NT
-cxNzU2Nl19
+eyJoaXN0b3J5IjpbMTkzMDA2NzcxLDE2NTU5MDkwNDcsMzQ1Nz
+E3NTY2XX0=
 -->
