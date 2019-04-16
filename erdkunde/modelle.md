@@ -18,7 +18,7 @@
 ![02](https://i.imgur.com/iGJYJ5b.png)
 
 - zuerst nur ein Hafen (Küstenregion)
-- linienförmige Entwicklung des Verkehrs ins Landesinnere, immer mehr Querverstrebungen
+- danach **Zubringer** und immer mehr **Querverbindungen**
 - dennoch bleibt Küstenregion *stärker frequentiert* als das Landesinnere
 
 ### Modell der globalen und lokalen Fragmentierung (Scholz)
@@ -26,6 +26,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMDA2NzcxLDE2NTU5MDkwNDcsMzQ1Nz
-E3NTY2XX0=
+eyJoaXN0b3J5IjpbLTEyMzM0MTk4NCwxNjU1OTA5MDQ3LDM0NT
+cxNzU2Nl19
 -->
