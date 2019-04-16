@@ -27,6 +27,7 @@
 	- Zeitbezug herstellen / zeitliche Entwicklung aufzeigen
 	- Werte mit anderen Materialien **verknüpfen** / erklären
 	- **Raumbezug** beibehalten
+- bei Modellen: **erst** Modelle beschreiben, dann anwenden
 - **Quellenangaben**
 
 ### Evaluation *(Aufgabe 3)*
@@ -46,7 +47,7 @@ Primär | Landwirtschaft, Forstwirtschaft Fischfang
 Sekundär | Industrie / Produktion, Baugewerbe
 Tertiär | Dienstleistungen
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTMwODgxMjMsLTg5MjM0MzYyNCwtNj
-k2Nzk2MzkzLC0xNjkxMzIxMTMwLC0yODUyOTQzMTEsLTgyNDMw
-NjI0MV19
+eyJoaXN0b3J5IjpbLTQ2OTk3MTcxMSwtMTc5MzA4ODEyMywtOD
+kyMzQzNjI0LC02OTY3OTYzOTMsLTE2OTEzMjExMzAsLTI4NTI5
+NDMxMSwtODI0MzA2MjQxXX0=
 -->
