@@ -7,7 +7,7 @@
 - Schwellenland: Staat auf dem Weg zum Industrieland
 - BRICS, OPEC, LLDC, LDC, SIDS etc.
 
-## Merkmale zur Kategorisierung von Staaten *(Aufgabe 1)*
+## Kategorisierung von Staaten *(Aufgabe 1)*
 
 ### Indikatoren
 
@@ -21,7 +21,7 @@
 - HPI (Letzter: **12,8**, Erster: **44,7**)
 - evtl. *Bevölkerungsdichte*
 - evtl. *Verstädterungsgrad und -rate*
-(BIP bezieht sich auf das erwirtschaftete Vermögen im Inland, BNE auf das einer Nationalität)
+*(das BIP bezieht sich auf das erwirtschaftete Vermögen im Inland, das BNE auf das einer Nationalität)*
 
 ### Handelsbilanz vs. Terms of Trade
 
@@ -41,7 +41,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MTUwMzA3MiwtMjM5MjQ3MjU1LC0yMD
+eyJoaXN0b3J5IjpbMTM2NzYwMzAwOSwtMjM5MjQ3MjU1LC0yMD
 YwOTEwMjEwLDQxNDIyNjQyMSwxOTE0MDE3NzExLC00MTg1NDcx
 MjgsMTY1MjczMTg1Nl19
 -->
