@@ -50,12 +50,15 @@ HPI | Letzter: 12,8 | Erster: 44,7
 ### Allgemein
 
 - naturräumliche und soziale Konfliktpotentiale
+- Bevölkerungswachstum, auch durch *Migration*
+- hohe Rohstoffexporte / keine Weiterverarbeitung
+- Herleitbarkeit durch *Indikatoren*
 - diverse örtliche Gegebenheiten (siehe **Material**)
 
 ### 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODE1NjIwNjAsMTQ2NzU0OTg4MSwtMj
-AxNzc1MzEyOSw2OTY0NDgwMDgsMjU5NDIyNTIxLC0yMzkyNDcy
-NTUsLTIwNjA5MTAyMTAsNDE0MjI2NDIxLDE5MTQwMTc3MTEsLT
-QxODU0NzEyOCwxNjUyNzMxODU2XX0=
+eyJoaXN0b3J5IjpbLTQzNjc4ODIyOCwxNDY3NTQ5ODgxLC0yMD
+E3NzUzMTI5LDY5NjQ0ODAwOCwyNTk0MjI1MjEsLTIzOTI0NzI1
+NSwtMjA2MDkxMDIxMCw0MTQyMjY0MjEsMTkxNDAxNzcxMSwtND
+E4NTQ3MTI4LDE2NTI3MzE4NTZdfQ==
 -->
