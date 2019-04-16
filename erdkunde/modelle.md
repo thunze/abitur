@@ -25,7 +25,9 @@
 ![03](https://i.imgur.com/WnqyWjT.png)
 
 - Disparitäten existieren auf verschiedenen Raumebenen
+- auf allen Ebenen gibt es Gewinner und Verlierer, **abhängig von deren Partizipation am Globalisierungsprozess**
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1ODI1MDk3NywxMTQ2MjY4MjA1LC0xMj
-MzNDE5ODQsMTY1NTkwOTA0NywzNDU3MTc1NjZdfQ==
+eyJoaXN0b3J5IjpbNDQyODM0NDk3LDExNDYyNjgyMDUsLTEyMz
+M0MTk4NCwxNjU1OTA5MDQ3LDM0NTcxNzU2Nl19
 -->
