@@ -39,13 +39,12 @@
 
 ## Wirtschaftssektoren
 
-| Sektor | Bereiche |
-| --- | --- |
-Primärer Sektor | Landwirtschaft, Forstwirtschaft Fischfang |
-Sekundärer Sektor | Industrie / Produktion, Baugewerbe |
-Tertiärer Sektor | Dienstleistungen |
-
+Sektor | Bereiche
+--- | ---
+Primärer Sektor | Landwirtschaft, Forstwirtschaft Fischfang
+Sekundärer Sektor | Industrie / Produktion, Baugewerbe
+Tertiärer Sektor | Dienstleistungen
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcwNzI3NDkwLC02OTY3OTYzOTMsLTE2OT
-EzMjExMzAsLTI4NTI5NDMxMSwtODI0MzA2MjQxXX0=
+eyJoaXN0b3J5IjpbLTg5MjM0MzYyNCwtNjk2Nzk2MzkzLC0xNj
+kxMzIxMTMwLC0yODUyOTQzMTEsLTgyNDMwNjI0MV19
 -->
