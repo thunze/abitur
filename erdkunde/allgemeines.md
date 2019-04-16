@@ -32,7 +32,8 @@
 ### Evaluation *(Aufgabe 3)*
 
 - Einleitung
-- Argumente beider Seiten nennen
+- Bezug zu Aufgabe 1 & 2
+- Argumente beider Seiten nennen > **strukturiert!**
 - Bewertungsgrundlage verwenden (z. B. Nachhaltigkeitsdreieck, sonstiges Leitbild)
 - Verbesserungsvorschläge
 - Fazit / Perspektive
@@ -45,7 +46,7 @@ Primär | Landwirtschaft, Forstwirtschaft Fischfang
 Sekundär | Industrie / Produktion, Baugewerbe
 Tertiär | Dienstleistungen
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg1OTAxMjc5LC04OTIzNDM2MjQsLTY5Nj
-c5NjM5MywtMTY5MTMyMTEzMCwtMjg1Mjk0MzExLC04MjQzMDYy
-NDFdfQ==
+eyJoaXN0b3J5IjpbLTE3OTMwODgxMjMsLTg5MjM0MzYyNCwtNj
+k2Nzk2MzkzLC0xNjkxMzIxMTMwLC0yODUyOTQzMTEsLTgyNDMw
+NjI0MV19
 -->
