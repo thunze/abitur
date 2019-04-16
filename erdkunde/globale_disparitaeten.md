@@ -66,7 +66,6 @@ HPI | Letzter: 12,8 | Erster: 44,7
 ## Entwicklungshilfe *(Aufgabe 2 & 3)*
 
 ### Sonstige Strategien
-
 - *Milleniumsziele* bis 2030
 - Nachhaltigkeit allgemein
 
@@ -82,13 +81,13 @@ HPI | Letzter: 12,8 | Erster: 44,7
 - **politischer Einfluss** durch Anbindung an den Weltmarkt
 
 ### Risiken
-
 - *Monostruktur*
 - Endlichkeit der Rohstoffe
+- Abhängigkeit vom Weltmarkt (Preis, Nachfrage) und vom Nutzen des Rohstoffes (Innovation kann unnötig machen)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODM5OTU2MTgsLTEwNjM0OTk3NTcsLT
-IxMDEyMjA4NTUsNTc1NTYxNzA5LDE0Njc1NDk4ODEsLTIwMTc3
-NTMxMjksNjk2NDQ4MDA4LDI1OTQyMjUyMSwtMjM5MjQ3MjU1LC
-0yMDYwOTEwMjEwLDQxNDIyNjQyMSwxOTE0MDE3NzExLC00MTg1
-NDcxMjgsMTY1MjczMTg1Nl19
+eyJoaXN0b3J5IjpbNTc1MDkwMDIxLC0xMDYzNDk5NzU3LC0yMT
+AxMjIwODU1LDU3NTU2MTcwOSwxNDY3NTQ5ODgxLC0yMDE3NzUz
+MTI5LDY5NjQ0ODAwOCwyNTk0MjI1MjEsLTIzOTI0NzI1NSwtMj
+A2MDkxMDIxMCw0MTQyMjY0MjEsMTkxNDAxNzcxMSwtNDE4NTQ3
+MTI4LDE2NTI3MzE4NTZdfQ==
 -->
