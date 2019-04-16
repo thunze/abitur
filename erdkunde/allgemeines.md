@@ -39,8 +39,8 @@
 
 ## Wirtschaftssektoren
 
-
+|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzM5NjExMTksLTE2OTEzMjExMzAsLT
-I4NTI5NDMxMSwtODI0MzA2MjQxXX0=
+eyJoaXN0b3J5IjpbLTY5Njc5NjM5MywtMTY5MTMyMTEzMCwtMj
+g1Mjk0MzExLC04MjQzMDYyNDFdfQ==
 -->
