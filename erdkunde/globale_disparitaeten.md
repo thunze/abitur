@@ -5,7 +5,7 @@
 - Nord-Süd-Dialog
 - Transformationsländer: zentral verwaltete Wirtschaft > Marktwirtschaft
 - Schwellenländer: Staat auf dem Weg zum Industrieland
-- BRICS, OPECLLDC
+- BRICS, OPEC, LLDC, LDC, SIDS etc.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjM3MzI3MjJdfQ==
+eyJoaXN0b3J5IjpbMTY1MjczMTg1Nl19
 -->
