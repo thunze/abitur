@@ -47,9 +47,11 @@ Tertiär | Dienstleistungen
 
 - *das Primat:* die vorrangige / dominante Stellung (z. B. der Wirtschaft gegenüber der Politik)
 
-## Standar
+## Standardprobleme
+
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMDcwNTM2Miw3MjczOTExMDEsLTE3OT
+eyJoaXN0b3J5IjpbLTkwMDk2ODI4Nyw3MjczOTExMDEsLTE3OT
 MwODgxMjMsLTg5MjM0MzYyNCwtNjk2Nzk2MzkzLC0xNjkxMzIx
 MTMwLC0yODUyOTQzMTEsLTgyNDMwNjI0MV19
 -->
