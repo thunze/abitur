@@ -57,7 +57,11 @@ HPI | Letzter: 12,8 | Erster: 44,7
 - Herleitbarkeit durch *Indikatoren* und andere Merkmale (siehe oben)
 - diverse örtliche Gegebenheiten (siehe **Material**)
 
-### 
+### Modernisierungstheorie
+
+- Ursachen im Land: fehlendes K
+- Aufstieg in Entwicklungsstufen über *Sickereffekt*
+- 
 
 ## Entwicklungshilfe *(Aufgabe 2 & 3)*
 
@@ -71,8 +75,9 @@ HPI | Letzter: 12,8 | Erster: 44,7
 ### Chancen
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDEyMjA4NTUsNTc1NTYxNzA5LDE0Nj
-c1NDk4ODEsLTIwMTc3NTMxMjksNjk2NDQ4MDA4LDI1OTQyMjUy
-MSwtMjM5MjQ3MjU1LC0yMDYwOTEwMjEwLDQxNDIyNjQyMSwxOT
-E0MDE3NzExLC00MTg1NDcxMjgsMTY1MjczMTg1Nl19
+eyJoaXN0b3J5IjpbNjk1NjE1NjQwLC0yMTAxMjIwODU1LDU3NT
+U2MTcwOSwxNDY3NTQ5ODgxLC0yMDE3NzUzMTI5LDY5NjQ0ODAw
+OCwyNTk0MjI1MjEsLTIzOTI0NzI1NSwtMjA2MDkxMDIxMCw0MT
+QyMjY0MjEsMTkxNDAxNzcxMSwtNDE4NTQ3MTI4LDE2NTI3MzE4
+NTZdfQ==
 -->
