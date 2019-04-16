@@ -83,11 +83,15 @@ HPI | Letzter: 12,8 | Erster: 44,7
 ### Risiken
 - *Monostruktur*
 - Endlichkeit der Rohstoffe
-- Abhängigkeit vom Weltmarkt (Preis, Nachfrage) und vom Nutzen des Rohstoffes (Innovation kann unnötig machen)
+- Abhängigkeit vom Weltmarkt (Preis, Nachfrage) und vom Nutzen des Rohstoffes (*Innovation* kann diesen redundant machen)
+- Problematik der fehlenden Weiterverarbeitung
+- Umweltbeeinträchtigung
+- ggf. schlechte Arbeitsbedingungen
+- private Investoren ziehen Kapital ab
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc1MDkwMDIxLC0xMDYzNDk5NzU3LC0yMT
-AxMjIwODU1LDU3NTU2MTcwOSwxNDY3NTQ5ODgxLC0yMDE3NzUz
-MTI5LDY5NjQ0ODAwOCwyNTk0MjI1MjEsLTIzOTI0NzI1NSwtMj
-A2MDkxMDIxMCw0MTQyMjY0MjEsMTkxNDAxNzcxMSwtNDE4NTQ3
-MTI4LDE2NTI3MzE4NTZdfQ==
+eyJoaXN0b3J5IjpbLTU2NTk2NTY2NCwtMTA2MzQ5OTc1NywtMj
+EwMTIyMDg1NSw1NzU1NjE3MDksMTQ2NzU0OTg4MSwtMjAxNzc1
+MzEyOSw2OTY0NDgwMDgsMjU5NDIyNTIxLC0yMzkyNDcyNTUsLT
+IwNjA5MTAyMTAsNDE0MjI2NDIxLDE5MTQwMTc3MTEsLTQxODU0
+NzEyOCwxNjUyNzMxODU2XX0=
 -->
