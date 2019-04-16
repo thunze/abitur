@@ -65,9 +65,13 @@ HPI | Letzter: 12,8 | Erster: 44,7
 
 - *Milleniumsziele* bis 2030
 - Nachhaltigkeit allgemein
+
+## Beurteilung von Abbau und Export von Rohstoffen für Entwicklungsländer *(Aufgabe 3)*
+
+### Chancen
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc1NTYxNzA5LDE0Njc1NDk4ODEsLTIwMT
-c3NTMxMjksNjk2NDQ4MDA4LDI1OTQyMjUyMSwtMjM5MjQ3MjU1
-LC0yMDYwOTEwMjEwLDQxNDIyNjQyMSwxOTE0MDE3NzExLC00MT
-g1NDcxMjgsMTY1MjczMTg1Nl19
+eyJoaXN0b3J5IjpbNjA0ODM3Nzc0LDU3NTU2MTcwOSwxNDY3NT
+Q5ODgxLC0yMDE3NzUzMTI5LDY5NjQ0ODAwOCwyNTk0MjI1MjEs
+LTIzOTI0NzI1NSwtMjA2MDkxMDIxMCw0MTQyMjY0MjEsMTkxND
+AxNzcxMSwtNDE4NTQ3MTI4LDE2NTI3MzE4NTZdfQ==
 -->
