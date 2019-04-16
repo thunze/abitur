@@ -24,8 +24,8 @@
 ### Modell der globalen und lokalen Fragmentierung (Scholz)
 ![03](https://i.imgur.com/WnqyWjT.png)
 
-
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzM0MTk4NCwxNjU1OTA5MDQ3LDM0NT
-cxNzU2Nl19
+eyJoaXN0b3J5IjpbMTE0NjI2ODIwNSwtMTIzMzQxOTg0LDE2NT
+U5MDkwNDcsMzQ1NzE3NTY2XX0=
 -->
