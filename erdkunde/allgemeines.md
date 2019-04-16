@@ -7,7 +7,10 @@
 - Lage im Gradnetz
 - Kontinent, Hauptstadt, Nachbarländer
 - Meeresanbindung, Flüsse
-- Klimazone **> Atlas S. **
+- Klimazone **> Atlas S. 254-255, alternativ S. 244-247**
+- evtl. Vegetation **> Atlas S. 260-261**
+- evtl. Bodenfruchtbarkeit **> S. 256-257**
+- Aufgabenbezogenes
 
 ### Beschreibung *(Aufgabe 1)*
 
@@ -34,6 +37,6 @@
 - Verbesserungsvorschläge
 - Fazit / Perspektive
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODEzODA3NTIsLTE2OTEzMjExMzAsLT
-I4NTI5NDMxMSwtODI0MzA2MjQxXX0=
+eyJoaXN0b3J5IjpbNzYxMDA4NzE0LC0xNjkxMzIxMTMwLC0yOD
+UyOTQzMTEsLTgyNDMwNjI0MV19
 -->
