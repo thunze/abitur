@@ -21,11 +21,16 @@
 - HPI (Letzter: **12,8**, Erster: **44,7**)
 - evtl. *Bevölkerungsdichte*
 - evtl. *Verstädterungsgrad und -rate*
+(BIP )
 
 ### Handelsbilanz vs. Terms of Trade
 
-#### Handelbilanz
-- 
+- **Handelsbilanz:**
+	- Wert aller exportierten Waren **–** Wert aller importierten Waren
+- **Terms of Trade:**
+	- *Austauschverhältnis* von Importgut und Exportgut
+	- Verbesserung der ToT: Exportgut hat höheren Wert und/oder Importgut hat niedrigeren Wert als vorher
+	- Verschlechterung der ToT: Exportgut hat niedrigeren Wert und/oder Importgut hat höheren Wert als vorher
 
 ### Sonstige Merkmale
 
@@ -36,7 +41,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MzE1MzMzMSwtMjM5MjQ3MjU1LC0yMD
-YwOTEwMjEwLDQxNDIyNjQyMSwxOTE0MDE3NzExLC00MTg1NDcx
-MjgsMTY1MjczMTg1Nl19
+eyJoaXN0b3J5IjpbLTE5NTMwNzY3ODEsLTIzOTI0NzI1NSwtMj
+A2MDkxMDIxMCw0MTQyMjY0MjEsMTkxNDAxNzcxMSwtNDE4NTQ3
+MTI4LDE2NTI3MzE4NTZdfQ==
 -->
