@@ -15,10 +15,11 @@
 	- Indien: **1,06** vs. **0,44** gha / Person
 - HDI, BNE pro Kopf, Lebenserwartung, Analphabetenrate, Einwohner pro Arzt etc. **> Atlas S. 274-275**
 
-| Indi
-- BIP (schlecht: **1-100** Mrd. USD; gut: **100-5000** Mrd. USD)
-- GDI (schlecht: **0,8-0,4**; gut: **0,4-0**)
-- Gini-Koeffizient (schlecht: **70-45**; gut: **45-25**)
+Indikator | eher schlechter Bereich | eher guter Bereich
+--- |:---:|:---:
+BIP | **1-100** Mrd. USD | **100-5000** Mrd. USD
+GDI | **0,8-0,4** | **0,4-0**
+Gini-Koeffizient (schlecht: **70-45**; gut: **45-25**)
 - HPI (Letzter: **12,8**, Erster: **44,7**)
 - evtl. *Bevölkerungsdichte*
 - evtl. *Verstädterungsgrad und -rate*
@@ -45,7 +46,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MTgxMjY2Miw2OTY0NDgwMDgsMjU5ND
+eyJoaXN0b3J5IjpbLTEzOTA2MjA2OSw2OTY0NDgwMDgsMjU5ND
 IyNTIxLC0yMzkyNDcyNTUsLTIwNjA5MTAyMTAsNDE0MjI2NDIx
 LDE5MTQwMTc3MTEsLTQxODU0NzEyOCwxNjUyNzMxODU2XX0=
 -->
