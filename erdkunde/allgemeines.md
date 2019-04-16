@@ -50,10 +50,9 @@ Tertiär | Dienstleistungen
 ## Standardprobleme
 
 - Monokausalität vermeiden
-- um 5
--%
+- um 5 *Prozent* gestiegen vs. um 5 *Prozent**punkte*** gestiegen
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMDYwNzA2Myw3MjczOTExMDEsLTE3OT
-MwODgxMjMsLTg5MjM0MzYyNCwtNjk2Nzk2MzkzLC0xNjkxMzIx
-MTMwLC0yODUyOTQzMTEsLTgyNDMwNjI0MV19
+eyJoaXN0b3J5IjpbLTEzNDk3MjcxMTIsNzI3MzkxMTAxLC0xNz
+kzMDg4MTIzLC04OTIzNDM2MjQsLTY5Njc5NjM5MywtMTY5MTMy
+MTEzMCwtMjg1Mjk0MzExLC04MjQzMDYyNDFdfQ==
 -->
