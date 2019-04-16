@@ -16,12 +16,14 @@
 - GDI (schlecht: **0,8-0,4**; gut: **0,4-0**)
 - Gini-Koeffizient (schlecht: **70-45**; gut: **45-25**)
 - HPI (Letzter: **12,8**, Erster: **44,7**)
+- evtl. Verstädterungsgrad und -rate
 
 ### Sonstige Merkmale
 
 - Erscheinungsbild
-- Infrastruktur
+- Infrastruktur (auch E)
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE5NTYzNzIzLDE5MTQwMTc3MTEsLTQxOD
-U0NzEyOCwxNjUyNzMxODU2XX0=
+eyJoaXN0b3J5IjpbLTgzMDk4MTY1NSwxOTE0MDE3NzExLC00MT
+g1NDcxMjgsMTY1MjczMTg1Nl19
 -->
