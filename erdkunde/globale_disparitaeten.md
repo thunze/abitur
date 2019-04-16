@@ -105,8 +105,9 @@ HPI | Letzter: 12,8 | Erster: 44,7
 - Umweltbeeinträchtigung
 - ggf. schlechte Arbeitsbedingungen
 - private Investoren ziehen Kapital ab
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NTEzNzU2LDY5ODA0MTMzNywtNzM4ND
+eyJoaXN0b3J5IjpbNDk4MjQ0ODE4LDY5ODA0MTMzNywtNzM4ND
 MyNzEwLC01NjU5NjU2NjQsLTEwNjM0OTk3NTcsLTIxMDEyMjA4
 NTUsNTc1NTYxNzA5LDE0Njc1NDk4ODEsLTIwMTc3NTMxMjksNj
 k2NDQ4MDA4LDI1OTQyMjUyMSwtMjM5MjQ3MjU1LC0yMDYwOTEw
