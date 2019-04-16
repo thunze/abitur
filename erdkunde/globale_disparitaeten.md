@@ -21,9 +21,12 @@
 ### Sonstige Merkmale
 
 - Erscheinungsbild
-- Infrastruktur (auch E)
-- 
+- Infrastruktur (auch Energieversorgung, Wasserversorgung)
+- politische Stabilität
+- Vulnerabilität (bezüglich Naturgefahren)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMDk4MTY1NSwxOTE0MDE3NzExLC00MT
-g1NDcxMjgsMTY1MjczMTg1Nl19
+eyJoaXN0b3J5IjpbLTEwNTI5MzQ4MDcsMTkxNDAxNzcxMSwtND
+E4NTQ3MTI4LDE2NTI3MzE4NTZdfQ==
 -->
