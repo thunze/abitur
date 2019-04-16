@@ -25,9 +25,10 @@
 ![03](https://i.imgur.com/WnqyWjT.png)
 
 - Disparitäten existieren auf verschiedenen Raumebenen
-- auf allen Ebenen gibt es Gewinner und Verlierer, **abhängig von deren Partizipation am Globalisierungsprozess**
+- auf allen Ebenen gibt es Gewinner und Verlierer, abhängig von deren Partizipation an der **Globalisierung** und am **Weltmarkt**
+- so kann auch ein *globaler Ort* in einem EL und die *neue Peripherie* in einem IL sein
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQyODM0NDk3LDExNDYyNjgyMDUsLTEyMz
-M0MTk4NCwxNjU1OTA5MDQ3LDM0NTcxNzU2Nl19
+eyJoaXN0b3J5IjpbLTExNzYzMTI3MjEsMTE0NjI2ODIwNSwtMT
+IzMzQxOTg0LDE2NTU5MDkwNDcsMzQ1NzE3NTY2XX0=
 -->
