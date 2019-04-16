@@ -71,8 +71,11 @@ HPI | Letzter: 12,8 | Erster: 44,7
 - *Sickereffekt* angenommen, findet jedoch zumeist **nicht** statt **> regionale Disparitäten**
 
 ### Grundbedürfnisstrategie (1970er-Jahre)
-- Grundbedürfnisse der Bevölkerung werden vorerst gedeckt (erhöhte Produktivität wird erwartet)
-	- *Hilfe zur Selbsthilfe*
+- Grundbedürfnisse der Bevölkerung (z. B. Nahrung, Kleidung, Gesundheit, Bildung) werden vorerst gedeckt (erhöhte Produktivität wird erwartet)
+	- *Hilfe zur Selbsthilfe*, oftmals erfolgreich
+
+### Angepasste Entwicklung (1970er-Jahre)
+
 
 ### Sonstige Strategien
 - *Nachhaltige Entwicklungsziele* bis 2030
@@ -98,10 +101,10 @@ HPI | Letzter: 12,8 | Erster: 44,7
 - ggf. schlechte Arbeitsbedingungen
 - private Investoren ziehen Kapital ab
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczODkxMDE5OCw2OTgwNDEzMzcsLTczOD
-QzMjcxMCwtNTY1OTY1NjY0LC0xMDYzNDk5NzU3LC0yMTAxMjIw
-ODU1LDU3NTU2MTcwOSwxNDY3NTQ5ODgxLC0yMDE3NzUzMTI5LD
-Y5NjQ0ODAwOCwyNTk0MjI1MjEsLTIzOTI0NzI1NSwtMjA2MDkx
-MDIxMCw0MTQyMjY0MjEsMTkxNDAxNzcxMSwtNDE4NTQ3MTI4LD
-E2NTI3MzE4NTZdfQ==
+eyJoaXN0b3J5IjpbLTE4Njg3ODQ5ODksNjk4MDQxMzM3LC03Mz
+g0MzI3MTAsLTU2NTk2NTY2NCwtMTA2MzQ5OTc1NywtMjEwMTIy
+MDg1NSw1NzU1NjE3MDksMTQ2NzU0OTg4MSwtMjAxNzc1MzEyOS
+w2OTY0NDgwMDgsMjU5NDIyNTIxLC0yMzkyNDcyNTUsLTIwNjA5
+MTAyMTAsNDE0MjI2NDIxLDE5MTQwMTc3MTEsLTQxODU0NzEyOC
+wxNjUyNzMxODU2XX0=
 -->
