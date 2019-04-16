@@ -68,10 +68,11 @@ HPI | Letzter: 12,8 | Erster: 44,7
 
 ### Nachholende Modernisierung (1960er-Jahre)
 - Fremdfinanzierung von Großprojekten durch Industrieländer
-- *Sickereffekt* angenommen, findet jedoch zumeist **nicht** statt **strong text**
+- *Sickereffekt* angenommen, findet jedoch zumeist **nicht** statt **> regionale Disparitäten**
 
 ### Grundbedürfnisstrategie (1970er-Jahre)
-- 
+- Grundbedürfnisse der Bevölkerung werden vorerst gedeckt (erhöhte Produktivität wird erwartet)
+	- *Hilfe zur Selbsthilfe*
 
 ### Sonstige Strategien
 - *Nachhaltige Entwicklungsziele* bis 2030
@@ -97,10 +98,10 @@ HPI | Letzter: 12,8 | Erster: 44,7
 - ggf. schlechte Arbeitsbedingungen
 - private Investoren ziehen Kapital ab
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ5MzYzMzY0LDY5ODA0MTMzNywtNzM4ND
-MyNzEwLC01NjU5NjU2NjQsLTEwNjM0OTk3NTcsLTIxMDEyMjA4
-NTUsNTc1NTYxNzA5LDE0Njc1NDk4ODEsLTIwMTc3NTMxMjksNj
-k2NDQ4MDA4LDI1OTQyMjUyMSwtMjM5MjQ3MjU1LC0yMDYwOTEw
-MjEwLDQxNDIyNjQyMSwxOTE0MDE3NzExLC00MTg1NDcxMjgsMT
-Y1MjczMTg1Nl19
+eyJoaXN0b3J5IjpbMTczODkxMDE5OCw2OTgwNDEzMzcsLTczOD
+QzMjcxMCwtNTY1OTY1NjY0LC0xMDYzNDk5NzU3LC0yMTAxMjIw
+ODU1LDU3NTU2MTcwOSwxNDY3NTQ5ODgxLC0yMDE3NzUzMTI5LD
+Y5NjQ0ODAwOCwyNTk0MjI1MjEsLTIzOTI0NzI1NSwtMjA2MDkx
+MDIxMCw0MTQyMjY0MjEsMTkxNDAxNzcxMSwtNDE4NTQ3MTI4LD
+E2NTI3MzE4NTZdfQ==
 -->
