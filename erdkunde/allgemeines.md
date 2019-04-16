@@ -43,9 +43,9 @@ Sektor | Bereiche
 --- | ---
 Primär | Landwirtschaft, Forstwirtschaft Fischfang
 Sekundär | Industrie / Produktion, Baugewerbe
-Tertiärer Sektor | Dienstleistungen
+Tertiär | Dienstleistungen
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxOTMxNTg2MCwtODkyMzQzNjI0LC02OT
-Y3OTYzOTMsLTE2OTEzMjExMzAsLTI4NTI5NDMxMSwtODI0MzA2
-MjQxXX0=
+eyJoaXN0b3J5IjpbNzg1OTAxMjc5LC04OTIzNDM2MjQsLTY5Nj
+c5NjM5MywtMTY5MTMyMTEzMCwtMjg1Mjk0MzExLC04MjQzMDYy
+NDFdfQ==
 -->
