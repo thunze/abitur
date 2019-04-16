@@ -12,7 +12,7 @@
 
 - ***ökologischer Fußabdruck*** *vs.* ***Biokapazität***
 	- Finnland: **6,73** vs. **13,34** gha / Person
-	-  Indien: **1,06** vs. **0,44** gha / Person
+	- Indien: **1,06** vs. **0,44** gha / Person
 - HDI, BNE pro Kopf, Lebenserwartung, Analphabetenrate, Einwohner pro Arzt etc. **> Atlas S. 274-275**
 - BIP (schlecht: **1-100** Mrd. USD; gut: **100-5000** Mrd. USD)
 - GDI (schlecht: **0,8-0,4**; gut: **0,4-0**)
@@ -26,6 +26,7 @@
 
 - **Handelsbilanz:**
 	- Wert aller exportierten Waren **–** Wert aller importierten Waren
+	- negative Handelsbilanz entspricht Verschuldung
 - **Terms of Trade:**
 	- *Austauschverhältnis* von Importgut und Exportgut
 	- Verbesserung der ToT: Exportgut hat höheren Wert und/oder Importgut hat niedrigeren Wert als vorher
@@ -42,7 +43,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU5NDIyNTIxLC0yMzkyNDcyNTUsLTIwNj
-A5MTAyMTAsNDE0MjI2NDIxLDE5MTQwMTc3MTEsLTQxODU0NzEy
-OCwxNjUyNzMxODU2XX0=
+eyJoaXN0b3J5IjpbNjk2NDQ4MDA4LDI1OTQyMjUyMSwtMjM5Mj
+Q3MjU1LC0yMDYwOTEwMjEwLDQxNDIyNjQyMSwxOTE0MDE3NzEx
+LC00MTg1NDcxMjgsMTY1MjczMTg1Nl19
 -->
