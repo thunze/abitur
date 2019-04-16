@@ -66,7 +66,8 @@ HPI | Letzter: 12,8 | Erster: 44,7
 ### Dependenztheorie
 
 - Industrieländer müssen für Erfolg Entwicklungsländer ausbeuten
-- Armutsgründe sollten in der Abhängigkeit des IL von dem entsprechende Entwicklungsland gesucht werden
+- Entwicklungsländer sind auf Ressourc
+- Armutsgründe sollten in der Abhängigkeit des Industrielandes von dem entsprechenden Entwicklungsland gesucht werden
 
 ## Entwicklungshilfe *(Aufgabe 2 & 3)*
 
@@ -80,7 +81,7 @@ HPI | Letzter: 12,8 | Erster: 44,7
 ### Chancen
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzODI0MzgyNCwtMjEwMTIyMDg1NSw1Nz
+eyJoaXN0b3J5IjpbMTczMzMxNDAxMywtMjEwMTIyMDg1NSw1Nz
 U1NjE3MDksMTQ2NzU0OTg4MSwtMjAxNzc1MzEyOSw2OTY0NDgw
 MDgsMjU5NDIyNTIxLC0yMzkyNDcyNTUsLTIwNjA5MTAyMTAsND
 E0MjI2NDIxLDE5MTQwMTc3MTEsLTQxODU0NzEyOCwxNjUyNzMx
