@@ -57,9 +57,16 @@ HPI | Letzter: 12,8 | Erster: 44,7
 - diverse örtliche Gegebenheiten (siehe **Material**)
 
 ### 
+
+## Entwicklungshilfe *(Aufgabe 2 & 3)*
+
+### Sonstige Strategien
+
+- *Milleniumsziele* bis 2030
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc3MjQ1MTc2LDE0Njc1NDk4ODEsLTIwMT
-c3NTMxMjksNjk2NDQ4MDA4LDI1OTQyMjUyMSwtMjM5MjQ3MjU1
-LC0yMDYwOTEwMjEwLDQxNDIyNjQyMSwxOTE0MDE3NzExLC00MT
-g1NDcxMjgsMTY1MjczMTg1Nl19
+eyJoaXN0b3J5IjpbMTMxNDU1Njc1NywxNDY3NTQ5ODgxLC0yMD
+E3NzUzMTI5LDY5NjQ0ODAwOCwyNTk0MjI1MjEsLTIzOTI0NzI1
+NSwtMjA2MDkxMDIxMCw0MTQyMjY0MjEsMTkxNDAxNzcxMSwtND
+E4NTQ3MTI4LDE2NTI3MzE4NTZdfQ==
 -->
