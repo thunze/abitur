@@ -15,11 +15,13 @@
 - ***Profiteur:*** *Industrieland / Kolonialmacht* vor *Zentralregion* vor *peripheren Regionen*
 
 ### Modell der idealtypischen Verkehrsentwicklung (Taaffe)
+
 - Entwicklung beginnt bei dem betreffenden Hafen
-- 
+- linienförmige Entwicklung des Verkehrs ins Landesinnere, immer mehr Querverstrebungen
+- dennoch bleibt Küstenregion *stärker frequentiert* als das Landesinnere
 
 ### Modell der globalen und lokalen Fragmentierung (Scholz)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MTkzNjE5OSwxNjU1OTA5MDQ3LDM0NT
+eyJoaXN0b3J5IjpbLTg5ODg3MDM2MiwxNjU1OTA5MDQ3LDM0NT
 cxNzU2Nl19
 -->
