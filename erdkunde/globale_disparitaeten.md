@@ -11,9 +11,10 @@
 
 ### Indikatoren
 
-- HDI, BNE pro Kopf, Lebenserwartung, Analphabetenrate, Einwohner pro Arzt etc. __> Atlas S. 274-275__
-- BIP (gut: 1-100 Mrd. U)
+- HDI, BNE pro Kopf, Lebenserwartung, Analphabetenrate, Einwohner pro Arzt etc. **> Atlas S. 274-275**
+- BIP (schlecht: **1-100** Mrd. USD, gut: **100-5000** Mrd. USD)
+- GDI (schlecht: 0,8-0,4, gut:)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjEwNDE1MTksMTkxNDAxNzcxMSwtND
-E4NTQ3MTI4LDE2NTI3MzE4NTZdfQ==
+eyJoaXN0b3J5IjpbLTI0MzMxNzQyMywxOTE0MDE3NzExLC00MT
+g1NDcxMjgsMTY1MjczMTg1Nl19
 -->
