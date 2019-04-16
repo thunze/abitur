@@ -12,12 +12,14 @@
 	- EL importieren Halbfertigwaren, die sie mit importierten Produktionsmitteln weiterverarbeiten
 	- EL exportieren (mit importierten Produktionsmitteln) *veredelte* Rohstoffe
 	- weiterhin Weitergabe in die *peripheren Regionen*
-- ***Profiteur:*** Industrieland / Kolonialmacht *vor* Zentralregion *vor* peripheren Regionen
+- ***Profiteur:*** *Industrieland / Kolonialmacht* vor *Zentralregion* vor *peripheren Regionen*
 
 ### Modell der idealtypischen Verkehrsentwicklung (Taaffe)
+- Entwicklung beginnt bei dem betreffenden Hafen
+- 
 
 ### Modell der globalen und lokalen Fragmentierung (Scholz)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTUwNzUyMzcsMTY1NTkwOTA0NywzND
-U3MTc1NjZdfQ==
+eyJoaXN0b3J5IjpbMTQ1MTkzNjE5OSwxNjU1OTA5MDQ3LDM0NT
+cxNzU2Nl19
 -->
