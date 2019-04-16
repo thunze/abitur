@@ -14,6 +14,7 @@ Staat | *ökologischer Fußabdruck* | *Biokapazität*
 Finnland | 6,73 gha / Person | 13,34 gha / Person
 Indien | 1,06 gha / Person | 0,44 gha / Person
 
+(gha = *globale Hektar* / durchschnittlich nutzbare Fläche in Hektar)
 - HDI, BNE pro Kopf, Lebenserwartung, Analphabetenrate, Einwohner pro Arzt etc. **> Atlas S. 274-275**
 
 Indikator | eher schlechter Bereich | eher guter Bereich
@@ -89,9 +90,9 @@ HPI | Letzter: 12,8 | Erster: 44,7
 - ggf. schlechte Arbeitsbedingungen
 - private Investoren ziehen Kapital ab
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4OTQ4MzQwMywtNTY1OTY1NjY0LC0xMD
-YzNDk5NzU3LC0yMTAxMjIwODU1LDU3NTU2MTcwOSwxNDY3NTQ5
-ODgxLC0yMDE3NzUzMTI5LDY5NjQ0ODAwOCwyNTk0MjI1MjEsLT
-IzOTI0NzI1NSwtMjA2MDkxMDIxMCw0MTQyMjY0MjEsMTkxNDAx
-NzcxMSwtNDE4NTQ3MTI4LDE2NTI3MzE4NTZdfQ==
+eyJoaXN0b3J5IjpbOTYzNzMyMzU3LC01NjU5NjU2NjQsLTEwNj
+M0OTk3NTcsLTIxMDEyMjA4NTUsNTc1NTYxNzA5LDE0Njc1NDk4
+ODEsLTIwMTc3NTMxMjksNjk2NDQ4MDA4LDI1OTQyMjUyMSwtMj
+M5MjQ3MjU1LC0yMDYwOTEwMjEwLDQxNDIyNjQyMSwxOTE0MDE3
+NzExLC00MTg1NDcxMjgsMTY1MjczMTg1Nl19
 -->
