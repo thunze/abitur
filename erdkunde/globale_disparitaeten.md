@@ -24,7 +24,8 @@
 
 ### Handelsbilanz vs. Terms of Trade
 
-- Handelbilanz
+#### Handelbilanz
+- 
 
 ### Sonstige Merkmale
 
@@ -35,7 +36,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzOTI0NzI1NSwtMjA2MDkxMDIxMCw0MT
-QyMjY0MjEsMTkxNDAxNzcxMSwtNDE4NTQ3MTI4LDE2NTI3MzE4
-NTZdfQ==
+eyJoaXN0b3J5IjpbMTQ3MzE1MzMzMSwtMjM5MjQ3MjU1LC0yMD
+YwOTEwMjEwLDQxNDIyNjQyMSwxOTE0MDE3NzExLC00MTg1NDcx
+MjgsMTY1MjczMTg1Nl19
 -->
