@@ -10,13 +10,15 @@
 
 ### Indikatoren
 
-*ökologischer Fußabdruck* | *Biokapazität*
+Staat | *ökologischer Fußabdruck* | *Biokapazität*
+--- | :---: | :---:
+
 	- Finnland: **6,73** vs. **13,34** gha / Person
 	- Indien: **1,06** vs. **0,44** gha / Person
 - HDI, BNE pro Kopf, Lebenserwartung, Analphabetenrate, Einwohner pro Arzt etc. **> Atlas S. 274-275**
 
 Indikator | eher schlechter Bereich | eher guter Bereich
---- |:---:|:---:
+--- | :---: | :---:
 BIP | 1-100 Mrd. USD | 100-5000 Mrd. USD
 GDI | 0,8-0,4 | 0,4-0
 Gini-Koeffizient | 70-45 | 45-25
@@ -47,7 +49,7 @@ HPI | Letzter: 12,8 | Erster: 44,7
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODI5Mjk4NzksNjk2NDQ4MDA4LDI1OT
-QyMjUyMSwtMjM5MjQ3MjU1LC0yMDYwOTEwMjEwLDQxNDIyNjQy
-MSwxOTE0MDE3NzExLC00MTg1NDcxMjgsMTY1MjczMTg1Nl19
+eyJoaXN0b3J5IjpbLTI1NDMxODk3OSw2OTY0NDgwMDgsMjU5ND
+IyNTIxLC0yMzkyNDcyNTUsLTIwNjA5MTAyMTAsNDE0MjI2NDIx
+LDE5MTQwMTc3MTEsLTQxODU0NzEyOCwxNjUyNzMxODU2XX0=
 -->
