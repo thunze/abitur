@@ -27,9 +27,9 @@
 - Disparitäten existieren auf verschiedenen Raumebenen
 - auf allen Ebenen gibt es Gewinner und Verlierer, abhängig von deren Partizipation an der **Globalisierung** und am **Weltmarkt**
 - so kann auch ein *globaler Ort* in einem EL und die *neue Peripherie* in einem IL sein
-- Bespiel *globalisierter Ort* (Scheingewinner): Head-Office neben Slum
-$\infty$
+- Bespiel *globalisierter Ort*: Head-Office neben Slum (Scheingewinner, andere Regionen schöpfen Gewinn ab)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA0MTQyMjEyLDExNDYyNjgyMDUsLTEyMz
-M0MTk4NCwxNjU1OTA5MDQ3LDM0NTcxNzU2Nl19
+eyJoaXN0b3J5IjpbMTgzMjk4NzM2OCwxMTQ2MjY4MjA1LC0xMj
+MzNDE5ODQsMTY1NTkwOTA0NywzNDU3MTc1NjZdfQ==
 -->
