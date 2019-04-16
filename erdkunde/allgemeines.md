@@ -49,9 +49,11 @@ Tertiär | Dienstleistungen
 
 ## Standardprobleme
 
-- 
+- Monokausalität vermeiden
+- um 5
+-%
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMDk2ODI4Nyw3MjczOTExMDEsLTE3OT
+eyJoaXN0b3J5IjpbLTMzMDYwNzA2Myw3MjczOTExMDEsLTE3OT
 MwODgxMjMsLTg5MjM0MzYyNCwtNjk2Nzk2MzkzLC0xNjkxMzIx
 MTMwLC0yODUyOTQzMTEsLTgyNDMwNjI0MV19
 -->
