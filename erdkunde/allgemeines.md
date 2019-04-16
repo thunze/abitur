@@ -14,12 +14,14 @@
 
 - Fachwörter nutzen
 - Materialauswertung:
-	- ****abolute und relative Werte nennen****
-	- 
+	- absolute **und** relative Werte nennen
+	- Ausnahmen und Besonderheiten hervorheben und erklären
+	- Zeitbezug herstellen / zeitliche Entwicklung aufzeigen
+	- Werte mit anderen Materialien verknüpfen / erklären
 - **Quellenangaben**
 
 ### Evaluation *(Aufgabe 3)*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTgzNjczNywtMjg1Mjk0MzExLC04Mj
+eyJoaXN0b3J5IjpbLTI5MzIwNzk4NiwtMjg1Mjk0MzExLC04Mj
 QzMDYyNDFdfQ==
 -->
