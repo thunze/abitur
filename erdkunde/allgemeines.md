@@ -7,6 +7,7 @@
 - Lage im Gradnetz
 - Kontinent, Hauptstadt, Nachbarländer
 - Meeresanbindung, Flüsse
+- Klimazone **> Atlas S. **
 
 ### Beschreibung *(Aufgabe 1)*
 
@@ -33,6 +34,6 @@
 - Verbesserungsvorschläge
 - Fazit / Perspektive
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMDAxODY4NywtMTY5MTMyMTEzMCwtMj
-g1Mjk0MzExLC04MjQzMDYyNDFdfQ==
+eyJoaXN0b3J5IjpbLTEwODEzODA3NTIsLTE2OTEzMjExMzAsLT
+I4NTI5NDMxMSwtODI0MzA2MjQxXX0=
 -->
