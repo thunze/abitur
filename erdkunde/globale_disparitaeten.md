@@ -1,13 +1,12 @@
 # Globale Disparitäten
 
-## Fachbegriffe
+## Kategorisierung von Staaten *(Aufgabe 1)*
 
-- *Nord-Süd-Dialog*
+### Fachbegriffe
+
 - Transformationsland: zentral verwaltete Wirtschaft > Marktwirtschaft
 - Schwellenland: Staat auf dem Weg zum Industrieland
 - BRICS, OPEC, LLDC, LDC, SIDS etc.
-
-## Kategorisierung von Staaten *(Aufgabe 1)*
 
 ### Indikatoren
 
@@ -39,9 +38,11 @@
 - politische Stabilität
 - *Vulnerabilität* (bezüglich Naturgefahren)
 
+## Ursachen für Entwicklungsrückstände *(Aufgabe 1 & 2)*
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NzYwMzAwOSwtMjM5MjQ3MjU1LC0yMD
-YwOTEwMjEwLDQxNDIyNjQyMSwxOTE0MDE3NzExLC00MTg1NDcx
-MjgsMTY1MjczMTg1Nl19
+eyJoaXN0b3J5IjpbMjU5NDIyNTIxLC0yMzkyNDcyNTUsLTIwNj
+A5MTAyMTAsNDE0MjI2NDIxLDE5MTQwMTc3MTEsLTQxODU0NzEy
+OCwxNjUyNzMxODU2XX0=
 -->
