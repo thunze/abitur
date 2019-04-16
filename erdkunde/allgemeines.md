@@ -3,7 +3,6 @@
 ## Vorgehensweise
 
 ### Lokalisierung *(Aufgabe 1)*
-
 - Lage im Gradnetz
 - Kontinent, Hauptstadt, Nachbarländer (evtl. *Nord-Süd-Erstreckung*)
 - Meeresanbindung, Flüsse
@@ -13,13 +12,11 @@
 - **Aufgabenbezogenes** (z. B. bei Landwirtschaft: Klima *ausführlich*)
 
 ### Beschreibung *(Aufgabe 1)*
-
 - **alles** aus Materialien herausschreiben und verwenden
 	- insbesondere bei **Karten**, in dem Fall am besten nach der Legende gehen
 - **Quellenangaben**
 
 ### Analyse *(Aufgabe 2)*
-
 - Fachwörter nutzen
 - Materialauswertung:
 	- absolute **und** relative Werte nennen
@@ -31,7 +28,6 @@
 - **Quellenangaben**
 
 ### Evaluation *(Aufgabe 3)*
-
 - Einleitung
 - Bezug zu Aufgabe 1 & 2
 - Argumente beider Seiten nennen > **strukturiert!**
@@ -51,7 +47,7 @@ Tertiär | Dienstleistungen
 
 - *das Primat:* die vorrangige / dominante Stellung (z. B. der Wirtschaft gegenüber der Politik)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNDI5NDM5NywtMTc5MzA4ODEyMywtOD
-kyMzQzNjI0LC02OTY3OTYzOTMsLTE2OTEzMjExMzAsLTI4NTI5
-NDMxMSwtODI0MzA2MjQxXX0=
+eyJoaXN0b3J5IjpbNzI3MzkxMTAxLC0xNzkzMDg4MTIzLC04OT
+IzNDM2MjQsLTY5Njc5NjM5MywtMTY5MTMyMTEzMCwtMjg1Mjk0
+MzExLC04MjQzMDYyNDFdfQ==
 -->
