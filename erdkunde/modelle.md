@@ -1,7 +1,10 @@
+# Modelle
 
+## Globale Disparitäten
 
+### Zentrum-Peripherie-Modell (Rauch)
 
-> Written with [StackEdit](https://stackedit.io/).
+### Modell der idealtypischen Verkehrsentwicklung (Taaffe)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbOTIwMDM2MTAwXX0=
 -->
