@@ -46,8 +46,10 @@ Tertiär | Dienstleistungen
 ## Sonstige Fachbegriffe
 
 - *das Primat:* die vorrangige / dominante Stellung (z. B. der Wirtschaft gegenüber der Politik)
+
+## Standar
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI3MzkxMTAxLC0xNzkzMDg4MTIzLC04OT
-IzNDM2MjQsLTY5Njc5NjM5MywtMTY5MTMyMTEzMCwtMjg1Mjk0
-MzExLC04MjQzMDYyNDFdfQ==
+eyJoaXN0b3J5IjpbMTcxMDcwNTM2Miw3MjczOTExMDEsLTE3OT
+MwODgxMjMsLTg5MjM0MzYyNCwtNjk2Nzk2MzkzLC0xNjkxMzIx
+MTMwLC0yODUyOTQzMTEsLTgyNDMwNjI0MV19
 -->
