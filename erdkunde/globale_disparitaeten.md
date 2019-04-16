@@ -11,8 +11,8 @@
 
 ### Indikatoren
 
-- HDI, 
+- HDI, BNE pro Kopf, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMDkxNjM1NywxOTE0MDE3NzExLC00MT
-g1NDcxMjgsMTY1MjczMTg1Nl19
+eyJoaXN0b3J5IjpbLTEyMDI2MDU3MDksMTkxNDAxNzcxMSwtND
+E4NTQ3MTI4LDE2NTI3MzE4NTZdfQ==
 -->
