@@ -11,8 +11,9 @@
 
 ### Indikatoren
 
-- HDI, BNE pro Kopf, 
+- HDI, BNE pro Kopf, Lebenserwartung, Analphabetenrate, Einwohner pro Arzt etc. __> Atlas S. 274-275__
+- BIP (gut: 1-100 Mrd. U)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDI2MDU3MDksMTkxNDAxNzcxMSwtND
+eyJoaXN0b3J5IjpbLTE0NjEwNDE1MTksMTkxNDAxNzcxMSwtND
 E4NTQ3MTI4LDE2NTI3MzE4NTZdfQ==
 -->
