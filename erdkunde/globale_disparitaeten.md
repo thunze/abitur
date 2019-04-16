@@ -11,8 +11,8 @@
 
 ### Indikatoren
 
-- HDI
+- HDI, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNDAxNzcxMSwtNDE4NTQ3MTI4LDE2NT
-I3MzE4NTZdfQ==
+eyJoaXN0b3J5IjpbLTcwMDkxNjM1NywxOTE0MDE3NzExLC00MT
+g1NDcxMjgsMTY1MjczMTg1Nl19
 -->
