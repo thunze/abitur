@@ -6,7 +6,7 @@
 - *Flucht*, *Arbeitsmigration*, *Binnenmigration*
 
 ### Indikatoren
-- 
+- *Geburtenrate / -ziffer:* Lebendgeborene pro Einwohnerzahl in einem Zeitraum (oder )
 
 ## Starkes Bevölkerungswachstum in Entwicklungsländern *(Aufgabe 2 & 3)*
 
@@ -20,6 +20,6 @@
 
 - *TODO: Vierfeldtabelle*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzE5NzUwODUsMTc2MzU3NTE2NywtNj
-A5Njk2Nzc5LC03NTIxNjA4NzFdfQ==
+eyJoaXN0b3J5IjpbMjI2OTI0ODIwLDE3NjM1NzUxNjcsLTYwOT
+Y5Njc3OSwtNzUyMTYwODcxXX0=
 -->
