@@ -22,8 +22,9 @@
 	- *Unternehmensstandorte* verlagern sich in Richtung Stadt
 
 ### Auswege
-- Zusammenführung von örtlichen Gemeinden (kostensparend)
-- Misch
+- **Zusammenführung** von örtlichen Gemeinden (kostensparend)
+- **Mischung** von älteren und jüngeren Menschen
+- Erhaltung der Versorgung in *peripheren Regionen* / Erhaltung der Attraktivität
 
 ## Starkes Bevölkerungswachstum in Entwicklungsländern *(Aufgabe 2 & 3)*
 
@@ -46,7 +47,7 @@
 
 - *TODO: Vierfeldtabelle*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA3MjQyNjE3LC05MjE1NTk1NDgsLTEwMD
-AwNTM3MjcsLTE2OTQwNTcyMjIsMTc2MzU3NTE2NywtNjA5Njk2
-Nzc5LC03NTIxNjA4NzFdfQ==
+eyJoaXN0b3J5IjpbLTE3OTUxMzY3NTgsLTkyMTU1OTU0OCwtMT
+AwMDA1MzcyNywtMTY5NDA1NzIyMiwxNzYzNTc1MTY3LC02MDk2
+OTY3NzksLTc1MjE2MDg3MV19
 -->
