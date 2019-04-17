@@ -1,12 +1,18 @@
 # Bevölkerungsentwicklung & Migration
 
-## Allgemeines
+## Allgemeines 
 
 ### Fachbegriffe
 - 
 
+
+
 ## Bevölkerungswachstum in Entwicklungsländern
+
+### Ursachen
+
+### Folgen
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NjgxNDcwMCwtNjA5Njk2Nzc5LC03NT
-IxNjA4NzFdfQ==
+eyJoaXN0b3J5IjpbLTE4MTY5Nzg3NjQsLTYwOTY5Njc3OSwtNz
+UyMTYwODcxXX0=
 -->
