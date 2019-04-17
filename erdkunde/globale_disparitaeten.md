@@ -26,6 +26,7 @@ HPI | Letzter: 12,8 | Erster: 44,7
 
 - evtl. *Bevölkerungsdichte*
 - evtl. *Verstädterungsgrad und -rate*
+
 *(das BIP bezieht sich auf das erwirtschaftete Vermögen im Inland, das BNE auf das einer Nationalität)*
 
 ### Handelsbilanz vs. Terms of Trade
@@ -107,10 +108,10 @@ HPI | Letzter: 12,8 | Erster: 44,7
 - private Investoren ziehen Kapital ab
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mzg4MDk4NjYsNDk4MjQ0ODE4LDY5OD
-A0MTMzNywtNzM4NDMyNzEwLC01NjU5NjU2NjQsLTEwNjM0OTk3
-NTcsLTIxMDEyMjA4NTUsNTc1NTYxNzA5LDE0Njc1NDk4ODEsLT
-IwMTc3NTMxMjksNjk2NDQ4MDA4LDI1OTQyMjUyMSwtMjM5MjQ3
-MjU1LC0yMDYwOTEwMjEwLDQxNDIyNjQyMSwxOTE0MDE3NzExLC
-00MTg1NDcxMjgsMTY1MjczMTg1Nl19
+eyJoaXN0b3J5IjpbLTEyNzY5Njc1MTYsLTE1Mzg4MDk4NjYsND
+k4MjQ0ODE4LDY5ODA0MTMzNywtNzM4NDMyNzEwLC01NjU5NjU2
+NjQsLTEwNjM0OTk3NTcsLTIxMDEyMjA4NTUsNTc1NTYxNzA5LD
+E0Njc1NDk4ODEsLTIwMTc3NTMxMjksNjk2NDQ4MDA4LDI1OTQy
+MjUyMSwtMjM5MjQ3MjU1LC0yMDYwOTEwMjEwLDQxNDIyNjQyMS
+wxOTE0MDE3NzExLC00MTg1NDcxMjgsMTY1MjczMTg1Nl19
 -->
