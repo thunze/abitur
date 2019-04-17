@@ -32,8 +32,10 @@
 ## Bevölkerungsentwicklung & Migration
 
 ### Modell des demographischen Übergangs
+
+### Push-Pull-Modell der Migration (Lee)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTczNTUxOTEsMTgzMjk4NzM2OCwxMT
-Q2MjY4MjA1LC0xMjMzNDE5ODQsMTY1NTkwOTA0NywzNDU3MTc1
-NjZdfQ==
+eyJoaXN0b3J5IjpbOTM1OTE0NjA0LDE4MzI5ODczNjgsMTE0Nj
+I2ODIwNSwtMTIzMzQxOTg0LDE2NTU5MDkwNDcsMzQ1NzE3NTY2
+XX0=
 -->
