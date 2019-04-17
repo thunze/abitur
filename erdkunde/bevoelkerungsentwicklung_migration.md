@@ -17,11 +17,12 @@
 ### Ursachen
 
 ### Folgen
-- (zeitweise*Überbevölkerung*
+- *Überbevölkerung*
 - teure Instandhaltung der **Infrastruktur**
-- Anstieg des Pflegebedarfs (da später **urnenförmige** Bevölkerungspyramide)
-	**> nur bei Annahme des Modells des demographischen Wandels**
-- 
+- Konfliktpotential
+- Ernährungssi
+- später bei Annahme des Modells des **demographischen Wandels**:
+	- Anstieg des Pflegebedarfs (da später **urnenförmige** Bevölkerungspyramide)
 
 ### Auswege
 - *Enttabuisierung*
@@ -30,6 +31,6 @@
 
 - *TODO: Vierfeldtabelle*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNTkzNzUyMSwtMTY5NDA1NzIyMiwxNz
-YzNTc1MTY3LC02MDk2OTY3NzksLTc1MjE2MDg3MV19
+eyJoaXN0b3J5IjpbLTEzNDIzODk2OTksLTE2OTQwNTcyMjIsMT
+c2MzU3NTE2NywtNjA5Njk2Nzc5LC03NTIxNjA4NzFdfQ==
 -->
