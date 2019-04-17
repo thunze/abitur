@@ -32,10 +32,13 @@
 ## Bevölkerungsentwicklung & Migration
 
 ### Modell des demographischen Übergangs
+- *Zweiter Demographischer Übergang*
+	- Einsicht, dass zu viele Menschen vorhanden sein werden
+	- Maßnahmen des Staates (z. B. Versteuerung)
 
 ### Push-Pull-Modell der Migration (Lee)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM1OTE0NjA0LDE4MzI5ODczNjgsMTE0Nj
-I2ODIwNSwtMTIzMzQxOTg0LDE2NTU5MDkwNDcsMzQ1NzE3NTY2
-XX0=
+eyJoaXN0b3J5IjpbNTg0MDk3NTI3LDkzNTkxNDYwNCwxODMyOT
+g3MzY4LDExNDYyNjgyMDUsLTEyMzM0MTk4NCwxNjU1OTA5MDQ3
+LDM0NTcxNzU2Nl19
 -->
