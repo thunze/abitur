@@ -2,7 +2,7 @@
 
 ## Kategorisierung von Räumen *(Aufgabe 1)*
 
-### Fachbegriffe 
+### Fachbegriffe
 - *Flucht*, *Arbeitsmigration*, *Binnenmigration*
 
 ### Indikatoren
@@ -51,9 +51,10 @@
 --- | --- | ---
 **Chancen** | <li>Rücküberweisungen</li><li>kurzfristige Senkung der Armut</li> | <li>neue Arbeitskräfte</li><li>kultureller Austausch</li>
 **Risiken** | <li>"Brain drain" / Mangel an Fachkräften</li><li>Familientrennung</li><li>geringere Steuereinnahmen</li> | <li>Segregation</li><li>Überforderung</li>
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMzQzNDc2NiwtMTQ1ODE5MTM1MSwxND
-E5MTc4Mjc0LC0xNzk1MTM2NzU4LC05MjE1NTk1NDgsLTEwMDAw
-NTM3MjcsLTE2OTQwNTcyMjIsMTc2MzU3NTE2NywtNjA5Njk2Nz
-c5LC03NTIxNjA4NzFdfQ==
+eyJoaXN0b3J5IjpbLTIwODI3NzY3ODIsLTUyMzQzNDc2NiwtMT
+Q1ODE5MTM1MSwxNDE5MTc4Mjc0LC0xNzk1MTM2NzU4LC05MjE1
+NTk1NDgsLTEwMDAwNTM3MjcsLTE2OTQwNTcyMjIsMTc2MzU3NT
+E2NywtNjA5Njk2Nzc5LC03NTIxNjA4NzFdfQ==
 -->
