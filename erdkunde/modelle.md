@@ -29,7 +29,11 @@
 - so kann auch ein *globaler Ort* in einem EL und die *neue Peripherie* in einem IL sein
 - Bespiel *globalisierter Ort*: Head-Office neben Slum (Scheingewinner, andere Regionen schöpfen Gewinn ab)
 
+## Bevölkerungsentwicklung & Migration
+
+##
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMjk4NzM2OCwxMTQ2MjY4MjA1LC0xMj
-MzNDE5ODQsMTY1NTkwOTA0NywzNDU3MTc1NjZdfQ==
+eyJoaXN0b3J5IjpbLTE2NzM5NTQ2MTMsMTgzMjk4NzM2OCwxMT
+Q2MjY4MjA1LC0xMjMzNDE5ODQsMTY1NTkwOTA0NywzNDU3MTc1
+NjZdfQ==
 -->
