@@ -1,6 +1,6 @@
 # Globale Disparitäten
 
-## Kategorisierung von Staaten *(Aufgabe 1)*
+## Kategorisierung von Räumen *(Aufgabe 1)*
 
 ### Fachbegriffe
 - Transformationsland: zentral verwaltete Wirtschaft > Marktwirtschaft
@@ -107,10 +107,10 @@ HPI | Letzter: 12,8 | Erster: 44,7
 - private Investoren ziehen Kapital ab
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk4MjQ0ODE4LDY5ODA0MTMzNywtNzM4ND
-MyNzEwLC01NjU5NjU2NjQsLTEwNjM0OTk3NTcsLTIxMDEyMjA4
-NTUsNTc1NTYxNzA5LDE0Njc1NDk4ODEsLTIwMTc3NTMxMjksNj
-k2NDQ4MDA4LDI1OTQyMjUyMSwtMjM5MjQ3MjU1LC0yMDYwOTEw
-MjEwLDQxNDIyNjQyMSwxOTE0MDE3NzExLC00MTg1NDcxMjgsMT
-Y1MjczMTg1Nl19
+eyJoaXN0b3J5IjpbLTE3MTI4Njg2Nyw0OTgyNDQ4MTgsNjk4MD
+QxMzM3LC03Mzg0MzI3MTAsLTU2NTk2NTY2NCwtMTA2MzQ5OTc1
+NywtMjEwMTIyMDg1NSw1NzU1NjE3MDksMTQ2NzU0OTg4MSwtMj
+AxNzc1MzEyOSw2OTY0NDgwMDgsMjU5NDIyNTIxLC0yMzkyNDcy
+NTUsLTIwNjA5MTAyMTAsNDE0MjI2NDIxLDE5MTQwMTc3MTEsLT
+QxODU0NzEyOCwxNjUyNzMxODU2XX0=
 -->
