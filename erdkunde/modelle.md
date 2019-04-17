@@ -33,14 +33,18 @@
 
 ### Modell des demographischen Übergangs
 ![04](https://i.imgur.com/ExERIGY.png)
+
 - *Zweiter Demographischer Übergang:*
 	- Einsicht, dass zu viele Menschen vorhanden sein werden
 	- Maßnahmen des Staates (z. B. Versteuerung)
 
 ### Push-Pull-Modell der Migration (Lee)
 ![05](https://i.imgur.com/jZtNmCM.jpg)
+
+- *TODO*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzIyMzc3NzIsMTA2NTA4MDAxMSw1OD
-QwOTc1MjcsOTM1OTE0NjA0LDE4MzI5ODczNjgsMTE0NjI2ODIw
-NSwtMTIzMzQxOTg0LDE2NTU5MDkwNDcsMzQ1NzE3NTY2XX0=
+eyJoaXN0b3J5IjpbNzM5NzUxNjY5LC0xNzcyMjM3NzcyLDEwNj
+UwODAwMTEsNTg0MDk3NTI3LDkzNTkxNDYwNCwxODMyOTg3MzY4
+LDExNDYyNjgyMDUsLTEyMzM0MTk4NCwxNjU1OTA5MDQ3LDM0NT
+cxNzU2Nl19
 -->
