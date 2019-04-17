@@ -45,13 +45,13 @@
 ![05](https://i.imgur.com/jZtNmCM.jpg)
 
 - **+:** haltende bzw. anziehende Faktoren (z. B. Familie; Arbeit, Sicherheit)
-- **--:** abstoßende Faktoren (z. B. Arbeitslosigkeit, Krieg; )
+- **--:** abstoßende Faktoren (z. B. Arbeitslosigkeit, Krieg; Intoleranz)
 - zusätzlich: neutrale Faktoren
 - intervenierende Hindernisse z. B. Relief, Grenzen, Entfernung etc. (die Reise betreffend)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODUwNTkxNjAsNzM5NzUxNjY5LC0xNz
-cyMjM3NzcyLDEwNjUwODAwMTEsNTg0MDk3NTI3LDkzNTkxNDYw
-NCwxODMyOTg3MzY4LDExNDYyNjgyMDUsLTEyMzM0MTk4NCwxNj
-U1OTA5MDQ3LDM0NTcxNzU2Nl19
+eyJoaXN0b3J5IjpbLTQ3MTkzNzMxNiw3Mzk3NTE2NjksLTE3Nz
+IyMzc3NzIsMTA2NTA4MDAxMSw1ODQwOTc1MjcsOTM1OTE0NjA0
+LDE4MzI5ODczNjgsMTE0NjI2ODIwNSwtMTIzMzQxOTg0LDE2NT
+U5MDkwNDcsMzQ1NzE3NTY2XX0=
 -->
