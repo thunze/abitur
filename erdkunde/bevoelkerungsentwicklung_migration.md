@@ -2,12 +2,11 @@
 
 ## Kategorisierung von Räumen *(Aufgabe 1)*
 
-### Fachbegriffe
-- *Flucht:* 
-- *Arbeitsmigration:* 
-- *Binnenmigration:* 
+### Fachbegriffe 
+- *Flucht*, *Arbeitsmigration*, *Binnenmigration*
 
 ### Indikatoren
+- 
 
 ## Starkes Bevölkerungswachstum in Entwicklungsländern *(Aufgabe 2 & 3)*
 
@@ -21,6 +20,6 @@
 
 - *TODO: Vierfeldtabelle*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NzIxMjk5NCwxNzYzNTc1MTY3LC02MD
-k2OTY3NzksLTc1MjE2MDg3MV19
+eyJoaXN0b3J5IjpbLTIxMzE5NzUwODUsMTc2MzU3NTE2NywtNj
+A5Njk2Nzc5LC03NTIxNjA4NzFdfQ==
 -->
