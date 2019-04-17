@@ -19,9 +19,9 @@
 ### Folgen
 - *Überbevölkerung*
 - teure Instandhaltung der **Infrastruktur** (inkl. Energie- und Wasserversorgung etc.)
-- öffentliche Dienste in grödß
+- **öffentliche Infrastruktur** in größerem Ausmaß benötigt (Schulen, Krankenhäuser) 
 - soziales Konfliktpotential
-- Ernährungssicherung: Modernisierung der Landwirtschaft, Ertragssteigerung
+- **Ernährungssicherung** muss gewährleistet werden
 - später bei Annahme des Modells des **demographischen Wandels**:
 	- Anstieg des Pflegebedarfs (da später **urnenförmige** Bevölkerungspyramide)
 
@@ -32,6 +32,6 @@
 
 - *TODO: Vierfeldtabelle*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjQzNTE1MDEsLTE2OTQwNTcyMjIsMT
-c2MzU3NTE2NywtNjA5Njk2Nzc5LC03NTIxNjA4NzFdfQ==
+eyJoaXN0b3J5IjpbLTQ2NDA5MTc2NCwtMTY5NDA1NzIyMiwxNz
+YzNTc1MTY3LC02MDk2OTY3NzksLTc1MjE2MDg3MV19
 -->
