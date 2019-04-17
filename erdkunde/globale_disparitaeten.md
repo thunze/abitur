@@ -3,7 +3,7 @@
 ## Kategorisierung von Räumen *(Aufgabe 1)*
 
 ### Fachbegriffe
-- *Transformationsland:* zentral verwaltete Wirtschaft > Marktwirtschaft
+- *Transformationsland:* Wandel von zentral verwalteter Wirtschaft zur Marktwirtschaft
 - *Schwellenland:* Staat auf dem Weg zum Industrieland
 - *BRICS, OPEC, LLDC, LDC, SIDS* etc.
 
@@ -107,7 +107,7 @@ HPI | Letzter: 12,8 | Erster: 44,7
 - private Investoren ziehen Kapital ab
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDMxOTgxNzUsNDk4MjQ0ODE4LDY5OD
+eyJoaXN0b3J5IjpbLTE1Mzg4MDk4NjYsNDk4MjQ0ODE4LDY5OD
 A0MTMzNywtNzM4NDMyNzEwLC01NjU5NjU2NjQsLTEwNjM0OTk3
 NTcsLTIxMDEyMjA4NTUsNTc1NTYxNzA5LDE0Njc1NDk4ODEsLT
 IwMTc3NTMxMjksNjk2NDQ4MDA4LDI1OTQyMjUyMSwtMjM5MjQ3
