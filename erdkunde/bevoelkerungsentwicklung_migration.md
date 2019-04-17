@@ -49,11 +49,11 @@
 
 <br> | Herkunftsländer | Zielländer
 --- | --- | ---
-*Chancen* | <li>Rücküberweisungen</li><li>kurzfristige Senkung der Armut</li> | 
-*Risiken* | 
+*Chancen* | <li>Rücküberweisungen</li><li>kurzfristige Senkung der Armut</li> | <li>neue Arbeitskräfte</li><li>kultureller Austausch</li>
+*Risiken* | <li>"Brain drain" / Mangel an Fachkräften</li><li>Famili</li>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MTgyMzQzNiwtMTQ1ODE5MTM1MSwxND
-E5MTc4Mjc0LC0xNzk1MTM2NzU4LC05MjE1NTk1NDgsLTEwMDAw
-NTM3MjcsLTE2OTQwNTcyMjIsMTc2MzU3NTE2NywtNjA5Njk2Nz
-c5LC03NTIxNjA4NzFdfQ==
+eyJoaXN0b3J5IjpbNzU4MjE2MTY3LC0xNDU4MTkxMzUxLDE0MT
+kxNzgyNzQsLTE3OTUxMzY3NTgsLTkyMTU1OTU0OCwtMTAwMDA1
+MzcyNywtMTY5NDA1NzIyMiwxNzYzNTc1MTY3LC02MDk2OTY3Nz
+ksLTc1MjE2MDg3MV19
 -->
