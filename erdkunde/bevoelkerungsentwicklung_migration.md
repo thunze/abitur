@@ -6,9 +6,10 @@
 - *Flucht*, *Arbeitsmigration*, *Binnenmigration*
 
 ### Indikatoren
-- *Geburtenrate / -ziffer:* Lebendgeborene pro Einwohnerzahl in einem Zeitraum (oder Prozentsatz)
-- *Sterberate / -ziffer / Mortalitätsrate:* Gestorbene pro Einwohnerzahl in einem Zeitraum (oder Prozentsatz)
-- *natürliche Bevölkerungsentwicklung:* Geburtenrate $-$ Sterberate
+- *Geburtenrate / -ziffer:* **Lebendgeborene** pro Einwohnerzahl in einem Zeitraum (oder Prozentsatz)
+- *Sterberate / -ziffer / Mortalitätsrate:* **Gestorbene** pro Einwohnerzahl in einem Zeitraum (oder Prozentsatz)
+- *natürliche Bevölkerungsentwicklung:* *Geburtenrate* minus *Sterberate*
+- *Migrationssaldo:* *Einwanderung / Immigration* minus
 
 ## Starkes Bevölkerungswachstum in Entwicklungsländern *(Aufgabe 2 & 3)*
 
@@ -22,6 +23,6 @@
 
 - *TODO: Vierfeldtabelle*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3OTM0NTE2LDE3NjM1NzUxNjcsLTYwOT
-Y5Njc3OSwtNzUyMTYwODcxXX0=
+eyJoaXN0b3J5IjpbMTA3MTYwMzEwMiwxNzYzNTc1MTY3LC02MD
+k2OTY3NzksLTc1MjE2MDg3MV19
 -->
