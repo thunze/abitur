@@ -12,6 +12,11 @@
 - *Migrationssaldo:* Einwanderung / *Immigration* minus Auswanderung / *Emigration*
 - *Fertilitätsrate:* Kinderzahl pro Frau (optimal: 2,1)
 
+## Demographischer Wandel
+
+### Folgen
+- qualifizierte Arbeiter wandern in *urbane* Regionen ab
+
 ## Starkes Bevölkerungswachstum in Entwicklungsländern *(Aufgabe 2 & 3)*
 
 ### Folgen
@@ -35,7 +40,7 @@
 
 - *TODO: Vierfeldtabelle*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMTU1OTU0OCwtMTAwMDA1MzcyNywtMT
-Y5NDA1NzIyMiwxNzYzNTc1MTY3LC02MDk2OTY3NzksLTc1MjE2
-MDg3MV19
+eyJoaXN0b3J5IjpbLTEyMDcxODg4NDQsLTkyMTU1OTU0OCwtMT
+AwMDA1MzcyNywtMTY5NDA1NzIyMiwxNzYzNTc1MTY3LC02MDk2
+OTY3NzksLTc1MjE2MDg3MV19
 -->
