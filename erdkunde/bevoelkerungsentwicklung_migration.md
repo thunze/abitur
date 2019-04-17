@@ -27,12 +27,14 @@
 	- Anstieg des Pflegebedarfs (da später **urnenförmige** Bevölkerungspyramide)
 
 ### Auswege
-- *Enttabuisierung*
+- *Enttabuisierung* / Aufklärung
+- materielle ()Anreize
+**> auf den Raum zuschnittene Lösung nötig**
 
 ## Beurteilung von Migrationsprozessen *(Aufgabe 3)*
 
 - *TODO: Vierfeldtabelle*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NTMyODQxOSwtMTY5NDA1NzIyMiwxNz
-YzNTc1MTY3LC02MDk2OTY3NzksLTc1MjE2MDg3MV19
+eyJoaXN0b3J5IjpbNTEwNzgwNjM2LC0xNjk0MDU3MjIyLDE3Nj
+M1NzUxNjcsLTYwOTY5Njc3OSwtNzUyMTYwODcxXX0=
 -->
