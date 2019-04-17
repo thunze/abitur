@@ -3,9 +3,9 @@
 ## Kategorisierung von Räumen *(Aufgabe 1)*
 
 ### Fachbegriffe
-- Transformationsland: zentral verwaltete Wirtschaft > Marktwirtschaft
-- Schwellenland: Staat auf dem Weg zum Industrieland
-- BRICS, OPEC, LLDC, LDC, SIDS etc.
+- *Transformationsland:* zentral verwaltete Wirtschaft > Marktwirtschaft
+- *Schwellenland:* Staat auf dem Weg zum Industrieland
+- *BRICS, OPEC, LLDC, LDC, SIDS* etc.
 
 ### Indikatoren
 
@@ -107,10 +107,10 @@ HPI | Letzter: 12,8 | Erster: 44,7
 - private Investoren ziehen Kapital ab
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTI4Njg2Nyw0OTgyNDQ4MTgsNjk4MD
-QxMzM3LC03Mzg0MzI3MTAsLTU2NTk2NTY2NCwtMTA2MzQ5OTc1
-NywtMjEwMTIyMDg1NSw1NzU1NjE3MDksMTQ2NzU0OTg4MSwtMj
-AxNzc1MzEyOSw2OTY0NDgwMDgsMjU5NDIyNTIxLC0yMzkyNDcy
-NTUsLTIwNjA5MTAyMTAsNDE0MjI2NDIxLDE5MTQwMTc3MTEsLT
-QxODU0NzEyOCwxNjUyNzMxODU2XX0=
+eyJoaXN0b3J5IjpbLTE2NDMxOTgxNzUsNDk4MjQ0ODE4LDY5OD
+A0MTMzNywtNzM4NDMyNzEwLC01NjU5NjU2NjQsLTEwNjM0OTk3
+NTcsLTIxMDEyMjA4NTUsNTc1NTYxNzA5LDE0Njc1NDk4ODEsLT
+IwMTc3NTMxMjksNjk2NDQ4MDA4LDI1OTQyMjUyMSwtMjM5MjQ3
+MjU1LC0yMDYwOTEwMjEwLDQxNDIyNjQyMSwxOTE0MDE3NzExLC
+00MTg1NDcxMjgsMTY1MjczMTg1Nl19
 -->
