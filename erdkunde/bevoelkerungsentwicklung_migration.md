@@ -19,6 +19,7 @@
 - teure Instandhaltung der **Infrastruktur** (inkl. Energie- und Wasserversorgung etc.)
 - **öffentliche Infrastruktur** in größerem Ausmaß benötigt (Schulen, Krankenhäuser) 
 - soziales Konfliktpotential
+- 
 - **Ernährungssicherung** muss gewährleistet werden
 	- *Bodendegradation* möglich
 - später bei Annahme des Modells des **demographischen Wandels**:
@@ -34,6 +35,7 @@
 
 - *TODO: Vierfeldtabelle*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDAwNTM3MjcsLTE2OTQwNTcyMjIsMT
-c2MzU3NTE2NywtNjA5Njk2Nzc5LC03NTIxNjA4NzFdfQ==
+eyJoaXN0b3J5IjpbLTE1MzQ3MDc2ODQsLTEwMDAwNTM3MjcsLT
+E2OTQwNTcyMjIsMTc2MzU3NTE2NywtNjA5Njk2Nzc5LC03NTIx
+NjA4NzFdfQ==
 -->
