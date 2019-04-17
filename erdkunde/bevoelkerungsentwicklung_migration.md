@@ -24,11 +24,12 @@
 - 
 
 ### Auswege
+- *Enttabuisierung*
 
 ## Beurteilung von Migrationsprozessen *(Aufgabe 3)*
 
 - *TODO: Vierfeldtabelle*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODE5MDczNDYsMTc2MzU3NTE2NywtNj
+eyJoaXN0b3J5IjpbLTE2OTQwNTcyMjIsMTc2MzU3NTE2NywtNj
 A5Njk2Nzc5LC03NTIxNjA4NzFdfQ==
 -->
