@@ -22,7 +22,8 @@
 	- *Unternehmensstandorte* verlagern sich in Richtung Stadt
 
 ### Auswege
-- **Zusammenführung** von örtlichen Gemeinden (kostensparend)
+- zukunftsorientierte **Seniorenpolitik**
+- **Kooperation** oder sogar **Zusammenführung** von örtlichen Gemeinden (kostensparend)
 - **Mischung** von älteren und jüngeren Menschen
 - Erhaltung der Versorgung in *peripheren Regionen* / Erhaltung der Attraktivität
 
@@ -47,7 +48,8 @@
 
 - *TODO: Vierfeldtabelle* (Chancen, Risiken, Herkunftsländer, Zielländer)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxOTE3ODI3NCwtMTc5NTEzNjc1OCwtOT
-IxNTU5NTQ4LC0xMDAwMDUzNzI3LC0xNjk0MDU3MjIyLDE3NjM1
-NzUxNjcsLTYwOTY5Njc3OSwtNzUyMTYwODcxXX0=
+eyJoaXN0b3J5IjpbLTE0NTgxOTEzNTEsMTQxOTE3ODI3NCwtMT
+c5NTEzNjc1OCwtOTIxNTU5NTQ4LC0xMDAwMDUzNzI3LC0xNjk0
+MDU3MjIyLDE3NjM1NzUxNjcsLTYwOTY5Njc3OSwtNzUyMTYwOD
+cxXX0=
 -->
