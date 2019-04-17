@@ -19,7 +19,9 @@
 ### Folgen
 - (zeitweise) *Überbevölkerung*
 - teure Instandhaltung der **Infrastruktur**
-- Anstieg des Pflegebedarfs (da später: urnenförmige Bevölkerungspyramide)
+- Anstieg des Pflegebedarfs (da später **urnenförmige** Bevölkerungspyramide)
+	**> nur bei Annahme des Modells des demographischen Wandels**
+- 
 
 ### Auswege
 
@@ -27,6 +29,6 @@
 
 - *TODO: Vierfeldtabelle*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyODA0NTYxLDE3NjM1NzUxNjcsLTYwOT
-Y5Njc3OSwtNzUyMTYwODcxXX0=
+eyJoaXN0b3J5IjpbLTE2ODE5MDczNDYsMTc2MzU3NTE2NywtNj
+A5Njk2Nzc5LC03NTIxNjA4NzFdfQ==
 -->
