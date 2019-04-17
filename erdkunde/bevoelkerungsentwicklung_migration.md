@@ -1,6 +1,8 @@
 # Bevölkerungsentwicklung & Migration
 
 ## Migrationsströme global
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MjE2MDg3MV19
+eyJoaXN0b3J5IjpbLTYwOTY5Njc3OSwtNzUyMTYwODcxXX0=
 -->
