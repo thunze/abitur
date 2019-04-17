@@ -1,11 +1,10 @@
 # Bevölkerungsentwicklung & Migration
 
-## K
+## Kategorisierung von Räumen *(Aufgabe 1)*
 
 ### Fachbegriffe
-- 
 
-
+### Indikatoren
 
 ## Bevölkerungswachstum in Entwicklungsländern
 
@@ -16,6 +15,6 @@
 ### Problemlösungen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODUzNzU4NDksLTYwOTY5Njc3OSwtNz
-UyMTYwODcxXX0=
+eyJoaXN0b3J5IjpbLTY1ODM0OTAwOCwtNjA5Njk2Nzc5LC03NT
+IxNjA4NzFdfQ==
 -->
