@@ -47,11 +47,12 @@
 
 ## Beurteilung von Migrationsprozessen *(Aufgabe 3)*
 
-x | Herkunftsländer | Zielländer
+<br> | Herkunftsländer | Zielländer
 --- | --- | ---
-
+*Chancen* | 
+*Risiken* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Nzg0OTU4MzcsLTE0NTgxOTEzNTEsMT
+eyJoaXN0b3J5IjpbLTExMjQyNjE0OTQsLTE0NTgxOTEzNTEsMT
 QxOTE3ODI3NCwtMTc5NTEzNjc1OCwtOTIxNTU5NTQ4LC0xMDAw
 MDUzNzI3LC0xNjk0MDU3MjIyLDE3NjM1NzUxNjcsLTYwOTY5Nj
 c3OSwtNzUyMTYwODcxXX0=
