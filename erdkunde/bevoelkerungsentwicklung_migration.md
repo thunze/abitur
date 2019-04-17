@@ -17,7 +17,7 @@
 ### Ursachen
 
 ### Folgen
-- (zeitweise) *Überbevölkerung*
+- (zeitweise*Überbevölkerung*
 - teure Instandhaltung der **Infrastruktur**
 - Anstieg des Pflegebedarfs (da später **urnenförmige** Bevölkerungspyramide)
 	**> nur bei Annahme des Modells des demographischen Wandels**
@@ -30,6 +30,6 @@
 
 - *TODO: Vierfeldtabelle*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTQwNTcyMjIsMTc2MzU3NTE2NywtNj
-A5Njk2Nzc5LC03NTIxNjA4NzFdfQ==
+eyJoaXN0b3J5IjpbMTgyNTkzNzUyMSwtMTY5NDA1NzIyMiwxNz
+YzNTc1MTY3LC02MDk2OTY3NzksLTc1MjE2MDg3MV19
 -->
