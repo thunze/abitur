@@ -22,6 +22,7 @@
 - **öffentliche Infrastruktur** in größerem Ausmaß benötigt (Schulen, Krankenhäuser) 
 - soziales Konfliktpotential
 - **Ernährungssicherung** muss gewährleistet werden
+	- *Bodendegradation* möglich
 - später bei Annahme des Modells des **demographischen Wandels**:
 	- Anstieg des Pflegebedarfs (da später **urnenförmige** Bevölkerungspyramide)
 
@@ -32,6 +33,6 @@
 
 - *TODO: Vierfeldtabelle*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NDA5MTc2NCwtMTY5NDA1NzIyMiwxNz
+eyJoaXN0b3J5IjpbMTA1NTMyODQxOSwtMTY5NDA1NzIyMiwxNz
 YzNTc1MTY3LC02MDk2OTY3NzksLTc1MjE2MDg3MV19
 -->
