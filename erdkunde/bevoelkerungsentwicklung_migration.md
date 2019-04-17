@@ -49,11 +49,11 @@
 
 <br> | Herkunftsländer | Zielländer
 --- | --- | ---
-*Chancen* | 
-*Risiken* 
+*Chancen* | <li>Rücküberweisungen</li><li>kurzfristige Senkung der Armut</li> | 
+*Risiken* | 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjQyNjE0OTQsLTE0NTgxOTEzNTEsMT
-QxOTE3ODI3NCwtMTc5NTEzNjc1OCwtOTIxNTU5NTQ4LC0xMDAw
-MDUzNzI3LC0xNjk0MDU3MjIyLDE3NjM1NzUxNjcsLTYwOTY5Nj
-c3OSwtNzUyMTYwODcxXX0=
+eyJoaXN0b3J5IjpbMTc4MTgyMzQzNiwtMTQ1ODE5MTM1MSwxND
+E5MTc4Mjc0LC0xNzk1MTM2NzU4LC05MjE1NTk1NDgsLTEwMDAw
+NTM3MjcsLTE2OTQwNTcyMjIsMTc2MzU3NTE2NywtNjA5Njk2Nz
+c5LC03NTIxNjA4NzFdfQ==
 -->
