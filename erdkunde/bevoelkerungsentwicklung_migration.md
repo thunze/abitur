@@ -14,8 +14,6 @@
 
 ## Starkes Bevölkerungswachstum in Entwicklungsländern *(Aufgabe 2 & 3)*
 
-### Ursachen
-
 ### Folgen
 - *Überbevölkerung*
 - teure Instandhaltung der **Infrastruktur** (inkl. Energie- und Wasserversorgung etc.)
@@ -28,7 +26,7 @@
 
 ### Auswege
 - *Enttabuisierung* / Aufklärung
-- **materielle** (z. B. Geld) und
+- **materielle** Anreize (z. B. finanzielle Unterstützung)
 - **nichtmaterielle** Anreize (z. B. Einbeziehung von Autoritäten / Religion)
 **> auf den Raum zuschnittene Lösung nötig**
 
@@ -36,6 +34,6 @@
 
 - *TODO: Vierfeldtabelle*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MDYyNTY2MCwtMTY5NDA1NzIyMiwxNz
-YzNTc1MTY3LC02MDk2OTY3NzksLTc1MjE2MDg3MV19
+eyJoaXN0b3J5IjpbLTEwMDAwNTM3MjcsLTE2OTQwNTcyMjIsMT
+c2MzU3NTE2NywtNjA5Njk2Nzc5LC03NTIxNjA4NzFdfQ==
 -->
