@@ -15,10 +15,11 @@
 ## Demographischer Wandel
 
 ### Folgen
-- qualifizierte Arbeiter wandern in *urbane* Regionen ab
 - Anstieg des Pflegebedarfs (da **urnenförmige** Bevölkerungspyramide)
 - mangelnde *Innovation*
-- Unternehmensstandorte verlagern
+- *Verstädterung*
+	- **qualifizierte Arbeiter** wandern in Stadt ab
+	- **Unternehmensstandorte** verlagern sich in Richtung Stadt 
 
 ## Starkes Bevölkerungswachstum in Entwicklungsländern *(Aufgabe 2 & 3)*
 
@@ -41,7 +42,7 @@
 
 - *TODO: Vierfeldtabelle*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MzY1ODYxNiwtOTIxNTU5NTQ4LC0xMD
-AwMDUzNzI3LC0xNjk0MDU3MjIyLDE3NjM1NzUxNjcsLTYwOTY5
-Njc3OSwtNzUyMTYwODcxXX0=
+eyJoaXN0b3J5IjpbLTcxNjgyMjI0LC05MjE1NTk1NDgsLTEwMD
+AwNTM3MjcsLTE2OTQwNTcyMjIsMTc2MzU3NTE2NywtNjA5Njk2
+Nzc5LC03NTIxNjA4NzFdfQ==
 -->
