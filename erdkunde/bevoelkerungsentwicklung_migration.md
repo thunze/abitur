@@ -6,16 +6,16 @@
 
 ### Indikatoren
 
-## Bevölkerungswachstum in Entwicklungsländern
+## Starkes Bevölkerungswachstum in Entwicklungsländern
 
-### Ursachen vons
+### Ursachen
 
 ### Folgen
 
-### Problemlösungen
+### Auswege
 
-## F
+## Beurteilung von Migrationsprozessen *(Aufgabe 3*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTUwODAzMTAsLTYwOTY5Njc3OSwtNz
-UyMTYwODcxXX0=
+eyJoaXN0b3J5IjpbMTg2MjIyMDY1OCwtNjA5Njk2Nzc5LC03NT
+IxNjA4NzFdfQ==
 -->
