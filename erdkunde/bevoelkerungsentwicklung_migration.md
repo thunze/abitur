@@ -16,6 +16,9 @@
 
 ### Folgen
 - qualifizierte Arbeiter wandern in *urbane* Regionen ab
+- Anstieg des Pflegebedarfs (da **urnenförmige** Bevölkerungspyramide)
+- mangelnde *Innovation*
+- Unternehmensstandorte verlagern
 
 ## Starkes Bevölkerungswachstum in Entwicklungsländern *(Aufgabe 2 & 3)*
 
@@ -27,8 +30,6 @@
 - Migration / Platzmangel
 - **Ernährungssicherung** muss gewährleistet werden
 	- *Bodendegradation* möglich
-- später bei Annahme des Modells des **demographischen Wandels**:
-	- Anstieg des Pflegebedarfs (da später **urnenförmige** Bevölkerungspyramide)
 
 ### Auswege
 - *Enttabuisierung* / Aufklärung
@@ -40,7 +41,7 @@
 
 - *TODO: Vierfeldtabelle*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDcxODg4NDQsLTkyMTU1OTU0OCwtMT
-AwMDA1MzcyNywtMTY5NDA1NzIyMiwxNzYzNTc1MTY3LC02MDk2
-OTY3NzksLTc1MjE2MDg3MV19
+eyJoaXN0b3J5IjpbMTE1MzY1ODYxNiwtOTIxNTU5NTQ4LC0xMD
+AwMDUzNzI3LC0xNjk0MDU3MjIyLDE3NjM1NzUxNjcsLTYwOTY5
+Njc3OSwtNzUyMTYwODcxXX0=
 -->
