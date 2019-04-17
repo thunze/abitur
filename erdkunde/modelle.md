@@ -34,9 +34,9 @@
 ### Modell des demographischen Übergangs
 ![04](https://i.imgur.com/ExERIGY.png)
 
-- Phase 2: Medizin und Hygiene werden besser
-- 
-- *Zweiter Demographischer Übergang:*
+- **Phase 2:** Medizin und Hygiene werden besser
+- **Phase 3--4:** Geburten aus Gründen der Altersvorsorge nicht mehr nötig
+- ***Zweiter Demographischer Übergang:***
 	- Einsicht, dass zu viele Menschen vorhanden sein werden
 	- Maßnahmen des Staates (z. B. Versteuerung)
 
@@ -45,7 +45,7 @@
 
 - *TODO*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMzNTc5MTc3LDczOTc1MTY2OSwtMTc3Mj
+eyJoaXN0b3J5IjpbNTE0OTYzNzYxLDczOTc1MTY2OSwtMTc3Mj
 IzNzc3MiwxMDY1MDgwMDExLDU4NDA5NzUyNyw5MzU5MTQ2MDQs
 MTgzMjk4NzM2OCwxMTQ2MjY4MjA1LC0xMjMzNDE5ODQsMTY1NT
 kwOTA0NywzNDU3MTc1NjZdfQ==
