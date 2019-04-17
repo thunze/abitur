@@ -44,10 +44,12 @@
 ### Push-Pull-Modell der Migration (Lee)
 ![05](https://i.imgur.com/jZtNmCM.jpg)
 
-- **+:**
+- **+:** haltende bzw. anziehende Faktoren
+- **--–—:** abstoßende Faktoren
+- zusätzlich: neutrale Faktoren
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE1MDI5OTQ0LDczOTc1MTY2OSwtMTc3Mj
-IzNzc3MiwxMDY1MDgwMDExLDU4NDA5NzUyNyw5MzU5MTQ2MDQs
-MTgzMjk4NzM2OCwxMTQ2MjY4MjA1LC0xMjMzNDE5ODQsMTY1NT
-kwOTA0NywzNDU3MTc1NjZdfQ==
+eyJoaXN0b3J5IjpbMTk2Nzg1NTU4Niw3Mzk3NTE2NjksLTE3Nz
+IyMzc3NzIsMTA2NTA4MDAxMSw1ODQwOTc1MjcsOTM1OTE0NjA0
+LDE4MzI5ODczNjgsMTE0NjI2ODIwNSwtMTIzMzQxOTg0LDE2NT
+U5MDkwNDcsMzQ1NzE3NTY2XX0=
 -->
