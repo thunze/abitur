@@ -16,10 +16,10 @@
 
 ### Folgen
 - Anstieg des Pflegebedarfs (da **urnenförmige** Bevölkerungspyramide)
-- mangelnde *Innovation*
-- *Verstädterung*
-	- **qualifizierte Arbeiter** wandern in Stadt ab
-	- **Unternehmensstandorte** verlagern sich in Richtung Stadt 
+- mangelnde *Innovation* / negativer Einfluss auf die Wirtschaft
+- ***Verstädterung***
+	- qualifizierte Arbeiter wandern in Stadt ab
+	- *Unternehmensstandorte* verlagern sich in Richtung Stadt
 
 ## Starkes Bevölkerungswachstum in Entwicklungsländern *(Aufgabe 2 & 3)*
 
@@ -42,7 +42,7 @@
 
 - *TODO: Vierfeldtabelle*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNjgyMjI0LC05MjE1NTk1NDgsLTEwMD
+eyJoaXN0b3J5IjpbMjU3NDQ5OTQwLC05MjE1NTk1NDgsLTEwMD
 AwNTM3MjcsLTE2OTQwNTcyMjIsMTc2MzU3NTE2NywtNjA5Njk2
 Nzc5LC03NTIxNjA4NzFdfQ==
 -->
