@@ -28,13 +28,14 @@
 
 ### Auswege
 - *Enttabuisierung* / Aufklärung
-- materielle ()Anreize
+- **materielle** (z. B. Geld) und
+- **nichtmaterielle** Anreize (z. B. Einbeziehung von Autoritäten / Religion)
 **> auf den Raum zuschnittene Lösung nötig**
 
 ## Beurteilung von Migrationsprozessen *(Aufgabe 3)*
 
 - *TODO: Vierfeldtabelle*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEwNzgwNjM2LC0xNjk0MDU3MjIyLDE3Nj
-M1NzUxNjcsLTYwOTY5Njc3OSwtNzUyMTYwODcxXX0=
+eyJoaXN0b3J5IjpbMTQ5MDYyNTY2MCwtMTY5NDA1NzIyMiwxNz
+YzNTc1MTY3LC02MDk2OTY3NzksLTc1MjE2MDg3MV19
 -->
