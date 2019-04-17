@@ -3,7 +3,9 @@
 ## Kategorisierung von Räumen *(Aufgabe 1)*
 
 ### Fachbegriffe
-- Flucht: 
+- *Flucht:*
+- *Arbeitsmigration:*
+- *Binnenmigration*
 
 ### Indikatoren
 
@@ -19,6 +21,6 @@
 
 - *TODO: Vierfeldtabelle*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEwMDkzMTQ5LC02MDk2OTY3NzksLTc1Mj
-E2MDg3MV19
+eyJoaXN0b3J5IjpbLTg3NDgzNzUwOSwtNjA5Njk2Nzc5LC03NT
+IxNjA4NzFdfQ==
 -->
