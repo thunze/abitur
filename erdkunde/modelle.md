@@ -44,14 +44,14 @@
 ### Push-Pull-Modell der Migration (Lee)
 ![05](https://i.imgur.com/jZtNmCM.jpg)
 
-- **+:** haltende bzw. anziehende Faktoren
-- **--:** abstoßende Faktoren
+- **+:** haltende bzw. anziehende Faktoren (z. B. Familie; Arbeit, Sicherheit)
+- **--:** abstoßende Faktoren (z. B. Arbeitslosigkeit, Krieg; )
 - zusätzlich: neutrale Faktoren
-- intervenierende Hindernisse z. B. Relief, Gewässer etc. (die Reise betreffend)
+- intervenierende Hindernisse z. B. Relief, Grenzen, Entfernung etc. (die Reise betreffend)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc1NTE4MjU4LDczOTc1MTY2OSwtMTc3Mj
-IzNzc3MiwxMDY1MDgwMDExLDU4NDA5NzUyNyw5MzU5MTQ2MDQs
-MTgzMjk4NzM2OCwxMTQ2MjY4MjA1LC0xMjMzNDE5ODQsMTY1NT
-kwOTA0NywzNDU3MTc1NjZdfQ==
+eyJoaXN0b3J5IjpbLTE5ODUwNTkxNjAsNzM5NzUxNjY5LC0xNz
+cyMjM3NzcyLDEwNjUwODAwMTEsNTg0MDk3NTI3LDkzNTkxNDYw
+NCwxODMyOTg3MzY4LDExNDYyNjgyMDUsLTEyMzM0MTk4NCwxNj
+U1OTA5MDQ3LDM0NTcxNzU2Nl19
 -->
