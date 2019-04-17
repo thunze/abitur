@@ -9,9 +9,7 @@
 
 ### Indikatoren
 
-## Starkes Bevölkerungswachstum in Entwicklungsländern
-
-### Ursachen
+## Starkes Bevölkerungswachstum in Entwicklungsländern ()
 
 ### Folgen
 
@@ -21,6 +19,6 @@
 
 - *TODO: Vierfeldtabelle*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MzU3NTE2NywtNjA5Njk2Nzc5LC03NT
-IxNjA4NzFdfQ==
+eyJoaXN0b3J5IjpbLTIxMzI2MzkzODgsMTc2MzU3NTE2NywtNj
+A5Njk2Nzc5LC03NTIxNjA4NzFdfQ==
 -->
