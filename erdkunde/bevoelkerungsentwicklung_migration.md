@@ -45,9 +45,9 @@
 
 ## Beurteilung von Migrationsprozessen *(Aufgabe 3)*
 
-- *TODO: Vierfeldtabelle*
+- *TODO: Vierfeldtabelle* (Chancen, Risiken, Herkunftsländer, Zielländer)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTUxMzY3NTgsLTkyMTU1OTU0OCwtMT
-AwMDA1MzcyNywtMTY5NDA1NzIyMiwxNzYzNTc1MTY3LC02MDk2
-OTY3NzksLTc1MjE2MDg3MV19
+eyJoaXN0b3J5IjpbMTQxOTE3ODI3NCwtMTc5NTEzNjc1OCwtOT
+IxNTU5NTQ4LC0xMDAwMDUzNzI3LC0xNjk0MDU3MjIyLDE3NjM1
+NzUxNjcsLTYwOTY5Njc3OSwtNzUyMTYwODcxXX0=
 -->
