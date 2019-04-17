@@ -34,6 +34,7 @@
 ### Modell des demographischen Übergangs
 ![04](https://i.imgur.com/ExERIGY.png)
 
+- am ehesten auf **westliche Industriestaaten** anwendbar 
 - **Phase 2:** Medizin und Hygiene werden besser
 - **Phase 3--4:** Geburten aus Gründen der Altersvorsorge nicht mehr nötig
 - ***Zweiter Demographischer Übergang:***
@@ -43,9 +44,9 @@
 ### Push-Pull-Modell der Migration (Lee)
 ![05](https://i.imgur.com/jZtNmCM.jpg)
 
-- *TODO*
+- **+:**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE0OTYzNzYxLDczOTc1MTY2OSwtMTc3Mj
+eyJoaXN0b3J5IjpbMjE1MDI5OTQ0LDczOTc1MTY2OSwtMTc3Mj
 IzNzc3MiwxMDY1MDgwMDExLDU4NDA5NzUyNyw5MzU5MTQ2MDQs
 MTgzMjk4NzM2OCwxMTQ2MjY4MjA1LC0xMjMzNDE5ODQsMTY1NT
 kwOTA0NywzNDU3MTc1NjZdfQ==
