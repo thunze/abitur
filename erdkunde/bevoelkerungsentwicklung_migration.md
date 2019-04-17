@@ -12,7 +12,7 @@
 - *Migrationssaldo:* Einwanderung / *Immigration* minus Auswanderung / *Emigration*
 - *Fertilitätsrate:* Kinderzahl pro Frau (optimal: 2,1)
 
-## Demographischer Wandel
+## Demographischer Wandel *(Aufgabe 2 & 3)*
 
 ### Folgen
 - Anstieg des Pflegebedarfs (da **urnenförmige** Bevölkerungspyramide)
@@ -20,6 +20,10 @@
 - ***Verstädterung***
 	- qualifizierte Arbeiter wandern in Stadt ab
 	- *Unternehmensstandorte* verlagern sich in Richtung Stadt
+
+### Auswege
+- Zusammenführung von örtlichen Gemeinden (kostensparend)
+- Misch
 
 ## Starkes Bevölkerungswachstum in Entwicklungsländern *(Aufgabe 2 & 3)*
 
@@ -42,7 +46,7 @@
 
 - *TODO: Vierfeldtabelle*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU3NDQ5OTQwLC05MjE1NTk1NDgsLTEwMD
+eyJoaXN0b3J5IjpbODA3MjQyNjE3LC05MjE1NTk1NDgsLTEwMD
 AwNTM3MjcsLTE2OTQwNTcyMjIsMTc2MzU3NTE2NywtNjA5Njk2
 Nzc5LC03NTIxNjA4NzFdfQ==
 -->
