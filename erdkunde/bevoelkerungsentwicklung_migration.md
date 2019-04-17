@@ -42,14 +42,17 @@
 - *Enttabuisierung* / Aufklärung
 - **materielle** Anreize (z. B. finanzielle Unterstützung)
 - **nichtmaterielle** Anreize (z. B. Einbeziehung von Autoritäten / Religion)
+
 **> auf den Raum zuschnittene Lösung nötig**
 
 ## Beurteilung von Migrationsprozessen *(Aufgabe 3)*
 
-- *TODO: Vierfeldtabelle* (Chancen, Risiken, Herkunftsländer, Zielländer)
+x | Herkunftsländer | Zielländer
+--- | --- | ---
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTgxOTEzNTEsMTQxOTE3ODI3NCwtMT
-c5NTEzNjc1OCwtOTIxNTU5NTQ4LC0xMDAwMDUzNzI3LC0xNjk0
-MDU3MjIyLDE3NjM1NzUxNjcsLTYwOTY5Njc3OSwtNzUyMTYwOD
-cxXX0=
+eyJoaXN0b3J5IjpbLTE5Nzg0OTU4MzcsLTE0NTgxOTEzNTEsMT
+QxOTE3ODI3NCwtMTc5NTEzNjc1OCwtOTIxNTU5NTQ4LC0xMDAw
+MDUzNzI3LC0xNjk0MDU3MjIyLDE3NjM1NzUxNjcsLTYwOTY5Nj
+c3OSwtNzUyMTYwODcxXX0=
 -->
