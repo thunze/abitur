@@ -36,7 +36,7 @@
 
 - am ehesten auf **westliche Industriestaaten** anwendbar 
 - **Phase 2:** Medizin und Hygiene werden besser
-- **Phase 3--4:** Geburten aus Gründen der Altersvorsorge nicht mehr nötig
+- **Phase 3–4:** Geburten aus Gründen der Altersvorsorge nicht mehr nötig
 - ***Zweiter Demographischer Übergang:***
 	- Einsicht, dass zu viele Menschen vorhanden sein werden
 	- Maßnahmen des Staates (z. B. Versteuerung)
@@ -45,13 +45,13 @@
 ![05](https://i.imgur.com/jZtNmCM.jpg)
 
 - **+:** haltende bzw. anziehende Faktoren (z. B. Familie; Arbeit, Sicherheit)
-- **--:** abstoßende Faktoren (z. B. Arbeitslosigkeit, Krieg; Intoleranz)
+- **–:** abstoßende Faktoren (z. B. Arbeitslosigkeit, Krieg; Intoleranz)
 - zusätzlich: neutrale Faktoren
 - intervenierende Hindernisse z. B. Relief, Grenzen, Entfernung etc. (die Reise betreffend)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MTkzNzMxNiw3Mzk3NTE2NjksLTE3Nz
-IyMzc3NzIsMTA2NTA4MDAxMSw1ODQwOTc1MjcsOTM1OTE0NjA0
-LDE4MzI5ODczNjgsMTE0NjI2ODIwNSwtMTIzMzQxOTg0LDE2NT
-U5MDkwNDcsMzQ1NzE3NTY2XX0=
+eyJoaXN0b3J5IjpbMTQ5MTMyNjk2MiwtNDcxOTM3MzE2LDczOT
+c1MTY2OSwtMTc3MjIzNzc3MiwxMDY1MDgwMDExLDU4NDA5NzUy
+Nyw5MzU5MTQ2MDQsMTgzMjk4NzM2OCwxMTQ2MjY4MjA1LC0xMj
+MzNDE5ODQsMTY1NTkwOTA0NywzNDU3MTc1NjZdfQ==
 -->
