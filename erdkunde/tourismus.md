@@ -62,9 +62,9 @@
 	**> ausländische Investoren & Reiseveranstalter**
 - **Monostruktur** (vor allem andere Sektoren unterrepräsentiert)
 - vor allem **ökologische** Langzeitfolgen möglich
-- 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NjA1NjU3NiwtNzg4NTkyNDE4LC0xNT
-k2MjIyNzY3LDIxODg1Njc4NywxOTUzOTkwMTI0LC0xODAxODI2
-NjUsLTQ3ODUxNjI3NiwtMTIwMDg2MDM0OV19
+eyJoaXN0b3J5IjpbLTE2ODMxNjkwMzcsLTc4ODU5MjQxOCwtMT
+U5NjIyMjc2NywyMTg4NTY3ODcsMTk1Mzk5MDEyNCwtMTgwMTgy
+NjY1LC00Nzg1MTYyNzYsLTEyMDA4NjAzNDldfQ==
 -->
