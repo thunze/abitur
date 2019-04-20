@@ -28,6 +28,7 @@
 - hoher Energie- und Wasserverbrauch
 - meist problematisches **Abfallmanagement**
 - bietet viele **Arbeitsplätze**
+- Attraktivitätsverlust durch **Überfüllung**
 
 ### Sanfter Tourismus / Nachhaltiger Tourismus
 - Stärkung des **Individualtourismus**
@@ -55,7 +56,7 @@
 - **Monostruktur** (vor allem andere Sektoren unterrepräsentiert)
 - ggf. *Devisenabfluss*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc3NTA4MTYxLC0xNTk2MjIyNzY3LDIxOD
-g1Njc4NywxOTUzOTkwMTI0LC0xODAxODI2NjUsLTQ3ODUxNjI3
-NiwtMTIwMDg2MDM0OV19
+eyJoaXN0b3J5IjpbLTc4ODU5MjQxOCwtMTU5NjIyMjc2NywyMT
+g4NTY3ODcsMTk1Mzk5MDEyNCwtMTgwMTgyNjY1LC00Nzg1MTYy
+NzYsLTEyMDA4NjAzNDldfQ==
 -->
