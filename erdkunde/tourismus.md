@@ -45,13 +45,14 @@
 ## Beurteilung von Tourismus in Entwicklungsländern
 
 ### Chancen
-- wirtschaftliches Wachstum im **tertiären Sektor** durch Kaufkraft der Touristen
+- wirtschaftliches Wachstum im **tertiären Sektor**
+- zusätzliche Deviseneinnahmen
 
 ### Risiken
 - **Monostruktur** (vor allem andere Sektoren unterrepräsentiert)
-- 
+- ggf. Devisenabfluss
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NjEzNDUxOSwyMTg4NTY3ODcsMTk1Mz
-k5MDEyNCwtMTgwMTgyNjY1LC00Nzg1MTYyNzYsLTEyMDA4NjAz
-NDldfQ==
+eyJoaXN0b3J5IjpbLTE1OTYyMjI3NjcsMjE4ODU2Nzg3LDE5NT
+M5OTAxMjQsLTE4MDE4MjY2NSwtNDc4NTE2Mjc2LC0xMjAwODYw
+MzQ5XX0=
 -->
