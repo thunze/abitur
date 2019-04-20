@@ -54,14 +54,16 @@
 ### Destinationslebenszyklusmodell (Butler)
 ![06](https://i.imgur.com/D6vDSkW.png)
 
-- **1. Phase – *Erkundung:*** Einzelne Touristen erkunden die Region aufgrund der Natur oder bestimmter Attraktionen.
-- **2. Phase – *Erschließung:*** Der Aufbau der Infrastruktur 
+- **1. Phase – *Erkundung:***
+	- Einzelne Touristen erkunden die Region aufgrund der Natur oder bestimmter Attraktionen.
+- **2. Phase – *Erschließung:*** Der Aufbau der Infrastruktur für die Touristen verbessert die Rahmenbedingungen für die weitere Entwicklung.
+- **3. Phase – *Entwicklung:*** Der Anstieg der Nachfrage
 
 ### Modell der raumzeitlichen Entfaltung (Vorlaufer)
 ![07](https://i.imgur.com/1REkSme.jpg)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MjU0ODMwMiw4NjUzNjQxMjUsMTc3Mz
+eyJoaXN0b3J5IjpbMTc1MDkwMjQxNyw4NjUzNjQxMjUsMTc3Mz
 YzMjQwOSwxNDkxMzI2OTYyLC00NzE5MzczMTYsNzM5NzUxNjY5
 LC0xNzcyMjM3NzcyLDEwNjUwODAwMTEsNTg0MDk3NTI3LDkzNT
 kxNDYwNCwxODMyOTg3MzY4LDExNDYyNjgyMDUsLTEyMzM0MTk4
