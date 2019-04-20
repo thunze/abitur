@@ -12,6 +12,8 @@
 	- Sport- / Freizeit- / Unterhaltungseinrichtungen
 	- Saisonalität
 
+## Arten von Tourismus und Beurteilung derer
+
 ### Massentourismus
 - pauschale Reiseangebote durch international agierende **Tourismuskonzerne**
 - Entwicklungsprojekte mit hohem **Landschaftsverbrauch**
@@ -24,7 +26,7 @@
 	**> Bodenerosion**
 - starke **Fremdsteuerung**, kaum Einfluss der Einheimischen **> *Devisenabfluss***
 - hoher Energie- und Wasserverbrauch
-- problematisches **Abfallmanagement**
+- meist problematisches **Abfallmanagement**
 - bietet viele **Arbeitsplätze**
 
 ### Sanfter Tourismus / Nachhaltiger Tourismus
@@ -37,8 +39,8 @@
 - ressourcenschonendes **Anreiseverhalten** (ÖPNV)
 - **längerer Aufenthalt**
 - **Schonung** von Natur und Umwelt
-- Einheimische haben Ein
+- Einheimische haben **Einfluss** auf die lokale Entwicklung des Tourismus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MTU1NzEzNywxOTUzOTkwMTI0LC0xOD
+eyJoaXN0b3J5IjpbLTU1OTc3MzQ3NywxOTUzOTkwMTI0LC0xOD
 AxODI2NjUsLTQ3ODUxNjI3NiwtMTIwMDg2MDM0OV19
 -->
