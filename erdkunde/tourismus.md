@@ -13,9 +13,11 @@
 	- Saisonalität
 
 ### Massentourismus
+- hoher Energie- und Wasserverbrauch
+- hoher 
 
-### Sanfter / achhaltiger Tourismus
+### Sanfter Tourismus / Nachhaltiger Tourismus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU3OTI5MTA0LC00Nzg1MTYyNzYsLTEyMD
-A4NjAzNDldfQ==
+eyJoaXN0b3J5IjpbLTE4MDE4MjY2NSwtNDc4NTE2Mjc2LC0xMj
+AwODYwMzQ5XX0=
 -->
