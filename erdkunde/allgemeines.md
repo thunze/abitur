@@ -24,7 +24,7 @@
 	- Zeitbezug herstellen / zeitliche Entwicklung aufzeigen
 	- Werte mit anderen Materialien **verknüpfen** / erklären
 	- **Raumbezug** beibehalten
-- bei Modellen: erst Modelle *beschreiben*, dann *anwenden*
+- bei Modellen: erst Modelle **beschreiben**, dann **anwenden**
 - **Quellenangaben**
 
 ### Evaluation *(Aufgabe 3)*
@@ -53,8 +53,8 @@ Tertiär | Dienstleistungen
 - um 5 *Prozent* gestiegen vs. um 5 *Prozent**punkte*** gestiegen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNTk1NDQ3MCwtMTM0OTcyNzExMiw3Mj
-czOTExMDEsLTE3OTMwODgxMjMsLTg5MjM0MzYyNCwtNjk2Nzk2
-MzkzLC0xNjkxMzIxMTMwLC0yODUyOTQzMTEsLTgyNDMwNjI0MV
-19
+eyJoaXN0b3J5IjpbLTI0NDYxNTQ2MiwyMDI1OTU0NDcwLC0xMz
+Q5NzI3MTEyLDcyNzM5MTEwMSwtMTc5MzA4ODEyMywtODkyMzQz
+NjI0LC02OTY3OTYzOTMsLTE2OTEzMjExMzAsLTI4NTI5NDMxMS
+wtODI0MzA2MjQxXX0=
 -->
