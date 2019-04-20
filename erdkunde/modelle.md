@@ -71,15 +71,16 @@
 
 - ein neuer **Wachstumspol** entsteht
 - regionale *Disparitäten* werden abgebaut
-- Zulieferungskette spielt
+- Destination und Umland werden deutlich bedeutsamer – Hauptstadt und Umland werden weniger relevant
+- Zulieferungskette spielt eine zentrale Rolle
 
 **> Atlas S. 273**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMjUwNjczNywtMjkzNDc5NzI0LDExNj
-U0MjEwNTcsODY1MzY0MTI1LDE3NzM2MzI0MDksMTQ5MTMyNjk2
-MiwtNDcxOTM3MzE2LDczOTc1MTY2OSwtMTc3MjIzNzc3MiwxMD
-Y1MDgwMDExLDU4NDA5NzUyNyw5MzU5MTQ2MDQsMTgzMjk4NzM2
-OCwxMTQ2MjY4MjA1LC0xMjMzNDE5ODQsMTY1NTkwOTA0NywzND
-U3MTc1NjZdfQ==
+eyJoaXN0b3J5IjpbLTIwMTgyNTM5MzAsLTI5MzQ3OTcyNCwxMT
+Y1NDIxMDU3LDg2NTM2NDEyNSwxNzczNjMyNDA5LDE0OTEzMjY5
+NjIsLTQ3MTkzNzMxNiw3Mzk3NTE2NjksLTE3NzIyMzc3NzIsMT
+A2NTA4MDAxMSw1ODQwOTc1MjcsOTM1OTE0NjA0LDE4MzI5ODcz
+NjgsMTE0NjI2ODIwNSwtMTIzMzQxOTg0LDE2NTU5MDkwNDcsMz
+Q1NzE3NTY2XX0=
 -->
