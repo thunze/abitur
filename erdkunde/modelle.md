@@ -52,15 +52,17 @@
 ## Tourismus
 
 ### Destinationslebenszyklusmodell (Butler)
+![06](https://i.imgur.com/D6vDSkW.png)
 
 ### Modell der raumzeitlichen Entfaltung (Vorlaufer)
+
 
 ### Modell der raumzeitlichen Entfaltung (?)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MzYzMjQwOSwxNDkxMzI2OTYyLC00Nz
-E5MzczMTYsNzM5NzUxNjY5LC0xNzcyMjM3NzcyLDEwNjUwODAw
-MTEsNTg0MDk3NTI3LDkzNTkxNDYwNCwxODMyOTg3MzY4LDExND
-YyNjgyMDUsLTEyMzM0MTk4NCwxNjU1OTA5MDQ3LDM0NTcxNzU2
-Nl19
+eyJoaXN0b3J5IjpbMTY5OTY2OTMyMywxNzczNjMyNDA5LDE0OT
+EzMjY5NjIsLTQ3MTkzNzMxNiw3Mzk3NTE2NjksLTE3NzIyMzc3
+NzIsMTA2NTA4MDAxMSw1ODQwOTc1MjcsOTM1OTE0NjA0LDE4Mz
+I5ODczNjgsMTE0NjI2ODIwNSwtMTIzMzQxOTg0LDE2NTU5MDkw
+NDcsMzQ1NzE3NTY2XX0=
 -->
