@@ -41,7 +41,16 @@
 - **Schonung** von Natur und Umwelt
 - Einheimische haben **Einfluss** auf die lokale Entwicklung des Tourismus
 - **Sensibilisierung** der Touristen
+
+## Beurteilung von Tourismus in Entwicklungsländern
+
+### Chancen
+- wirtschaftliches Wachstum im **tertiären Sektor** durch Kaufkraft der Touristen
+
+Risiken
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE4ODU2Nzg3LDE5NTM5OTAxMjQsLTE4MD
-E4MjY2NSwtNDc4NTE2Mjc2LC0xMjAwODYwMzQ5XX0=
+eyJoaXN0b3J5IjpbMTgwNjQ5NjIzNCwyMTg4NTY3ODcsMTk1Mz
+k5MDEyNCwtMTgwMTgyNjY1LC00Nzg1MTYyNzYsLTEyMDA4NjAz
+NDldfQ==
 -->
