@@ -59,14 +59,16 @@
 - **2. Phase – *Erschließung:***
 	- Der Aufbau der Infrastruktur für die Touristen verbessert die Rahmenbedingungen für die weitere Entwicklung.
 - **3. Phase – *Entwicklung:***
-	- Ein Anstieg der Nachfrage und eine boomartige Entwicklung der Touristenzahl verbunden mit einer 
+	- Ein Anstieg der Nachfrage und eine boomartige Entwicklung der Touristenzahl ist verbunden mit einer zunehmenden Belastung der Umwelt.
+- **4. Phase – *Konsolidierung:***
+	- Die Destination etabliert sich auf dem (inter-)nationale
 
 ### Modell der raumzeitlichen Entfaltung (Vorlaufer)
 ![07](https://i.imgur.com/1REkSme.jpg)
 
 **> Atlas S. **
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMzI2MTU4Nyw4NjUzNjQxMjUsMTc3Mz
+eyJoaXN0b3J5IjpbMTU3ODc5NTkzNSw4NjUzNjQxMjUsMTc3Mz
 YzMjQwOSwxNDkxMzI2OTYyLC00NzE5MzczMTYsNzM5NzUxNjY5
 LC0xNzcyMjM3NzcyLDEwNjUwODAwMTEsNTg0MDk3NTI3LDkzNT
 kxNDYwNCwxODMyOTg3MzY4LDExNDYyNjgyMDUsLTEyMzM0MTk4
