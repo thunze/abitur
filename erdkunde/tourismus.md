@@ -40,19 +40,22 @@
 - **längerer Aufenthalt**
 - **Schonung** von Natur und Umwelt
 - Einheimische haben **Einfluss** auf die lokale Entwicklung des Tourismus
+	- faire Löhne
 - **Sensibilisierung** der Touristen
 
 ## Beurteilung von Tourismus in Entwicklungsländern
 
 ### Chancen
 - wirtschaftliches Wachstum im **tertiären Sektor**
-- zusätzliche Deviseneinnahmen
+- zusätzliche *Deviseneinnahmen*
+- *Außenhandelsdefizit* wird verringert
+- verbesserte Infrastruktur
 
 ### Risiken
 - **Monostruktur** (vor allem andere Sektoren unterrepräsentiert)
-- ggf. Devisenabfluss
+- ggf. *Devisenabfluss*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTYyMjI3NjcsMjE4ODU2Nzg3LDE5NT
-M5OTAxMjQsLTE4MDE4MjY2NSwtNDc4NTE2Mjc2LC0xMjAwODYw
-MzQ5XX0=
+eyJoaXN0b3J5IjpbNjE2Mjc2OTgsLTE1OTYyMjI3NjcsMjE4OD
+U2Nzg3LDE5NTM5OTAxMjQsLTE4MDE4MjY2NSwtNDc4NTE2Mjc2
+LC0xMjAwODYwMzQ5XX0=
 -->
