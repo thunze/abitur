@@ -20,13 +20,16 @@
 - **importierter** Lebensstil
 - Wahl des **Reisemittels** nur unter zeit- und kostenökonomischen Aspekten
 - Trend zu **kurzer Aufenthaltsdauer**
-- starke Beanspruchung der **natürlichen Ressourcen**
+- starke Beanspruchung der **natürlichen Ressourcen** (Wasser, Flora & Fauna)
+	**> Bodenerosion**
 - starke Fremdsteuerung, kaum Einfluss der Einheimischen
 - hoher Energie- und Wasserverbrauch
+- problematisches Abfallmanagement
+- viele 
 
 
 ### Sanfter Tourismus / Nachhaltiger Tourismus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NTc2MDIxLC0xODAxODI2NjUsLTQ3OD
-UxNjI3NiwtMTIwMDg2MDM0OV19
+eyJoaXN0b3J5IjpbMTIxNjQ4MDgxOCwtMTgwMTgyNjY1LC00Nz
+g1MTYyNzYsLTEyMDA4NjAzNDldfQ==
 -->
