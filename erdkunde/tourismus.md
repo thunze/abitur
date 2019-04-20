@@ -12,7 +12,7 @@
 	- Sport- / Freizeit- / Unterhaltungseinrichtungen
 	- Saisonalität
 
-## Arten von Tourismus und Beurteilung derer
+## Arten von Tourismus und Beurteilung derer *(Aufgabe 2 & 3)*
 
 ### Massentourismus
 - pauschale Reiseangebote durch international agierende **Tourismuskonzerne**
@@ -30,10 +30,10 @@
 - bietet viele **Arbeitsplätze**
 
 ### Sanfter Tourismus / Nachhaltiger Tourismus
-
 - Stärkung des **Individualtourismus**
 - kein hoher Landschaftsverbrauch
 - Vermeidung von Zersiedelung
+	- **Schutzgebiete** werden gekennzeichnet
 - **nachhaltige** Infrastrukturmaßnahmen
 - Rücksichtnahme auf **Sitten** und **Gebräuche**
 - ressourcenschonendes **Anreiseverhalten** (ÖPNV)
@@ -41,6 +41,6 @@
 - **Schonung** von Natur und Umwelt
 - Einheimische haben **Einfluss** auf die lokale Entwicklung des Tourismus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1OTc3MzQ3NywxOTUzOTkwMTI0LC0xOD
-AxODI2NjUsLTQ3ODUxNjI3NiwtMTIwMDg2MDM0OV19
+eyJoaXN0b3J5IjpbLTE1NDIyNzA1NjgsMTk1Mzk5MDEyNCwtMT
+gwMTgyNjY1LC00Nzg1MTYyNzYsLTEyMDA4NjAzNDldfQ==
 -->
