@@ -2,7 +2,7 @@
 
 ## Kategorisierung von Destinationen *(Aufgabe 1)*
 
-### Attraktivitätspotential
+### Potential zur Attraktivität
 - **naturräumliches Potential:** Vegetation, Fauna, Relief, Klima
 - **kulturräumliches Potential:** Sehenswürdigkeiten, Tradition, Sprache, Küche
 - **touristische Ausstattungsmerkmale:**
@@ -12,8 +12,10 @@
 	- Sport- / Freizeit- / Unterhaltungseinrichtungen
 	- Saisonalität
 
-### 
+### Massentourismus
 
+### Sanfter / achhaltiger Tourismus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3ODUxNjI3NiwtMTIwMDg2MDM0OV19
+eyJoaXN0b3J5IjpbNjU3OTI5MTA0LC00Nzg1MTYyNzYsLTEyMD
+A4NjAzNDldfQ==
 -->
