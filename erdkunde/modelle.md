@@ -49,9 +49,17 @@
 - zusätzlich: neutrale Faktoren
 - intervenierende Hindernisse z. B. Relief, Grenzen, Entfernung etc. (die Reise betreffend)
 
+## Tourismus
+
+### Destinationslebenszyklusmodell (Butler)
+
+### Modell der raumzeitlichen Entfaltung (Vorlaufer)
+
+### Modell der raumzeitlichen Entfaltung (?)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MTMyNjk2MiwtNDcxOTM3MzE2LDczOT
-c1MTY2OSwtMTc3MjIzNzc3MiwxMDY1MDgwMDExLDU4NDA5NzUy
-Nyw5MzU5MTQ2MDQsMTgzMjk4NzM2OCwxMTQ2MjY4MjA1LC0xMj
-MzNDE5ODQsMTY1NTkwOTA0NywzNDU3MTc1NjZdfQ==
+eyJoaXN0b3J5IjpbMTkxNzA0NTgwMywxNDkxMzI2OTYyLC00Nz
+E5MzczMTYsNzM5NzUxNjY5LC0xNzcyMjM3NzcyLDEwNjUwODAw
+MTEsNTg0MDk3NTI3LDkzNTkxNDYwNCwxODMyOTg3MzY4LDExND
+YyNjgyMDUsLTEyMzM0MTk4NCwxNjU1OTA5MDQ3LDM0NTcxNzU2
+Nl19
 -->
