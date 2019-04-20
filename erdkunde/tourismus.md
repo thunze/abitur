@@ -3,7 +3,7 @@
 ## Kategorisierung von Destinationen *(Aufgabe 1)*
 
 ### Potential zur Attraktivität
-- **naturräumliches Potential:** Vegetation, Fauna, Relief, Klima
+- **naturräumliches Potential:** Vegetation, Fauna, Relief, Klima, **Lage / Wasser**
 - **kulturräumliches Potential:** Sehenswürdigkeiten, Tradition, Sprache, Küche
 - **touristische Ausstattungsmerkmale:**
 	- Verkehrsanbindung / Erreichbarkeit
@@ -42,6 +42,6 @@
 - Einheimische haben **Einfluss** auf die lokale Entwicklung des Tourismus
 - **Sensibilisierung** der Touristen
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUwNTk0NDIsMTk1Mzk5MDEyNCwtMTgwMT
-gyNjY1LC00Nzg1MTYyNzYsLTEyMDA4NjAzNDldfQ==
+eyJoaXN0b3J5IjpbMjE4ODU2Nzg3LDE5NTM5OTAxMjQsLTE4MD
+E4MjY2NSwtNDc4NTE2Mjc2LC0xMjAwODYwMzQ5XX0=
 -->
