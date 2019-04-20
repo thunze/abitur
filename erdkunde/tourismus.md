@@ -19,12 +19,14 @@
 - auf Wachstum angelegte Infrastruktur
 - **importierter** Lebensstil
 - Wahl des **Reisemittels** nur unter zeit- und kostenökonomischen Aspekten
-- Trend zu kurzer Aufenthaltsdauer
+- Trend zu **kurzer Aufenthaltsdauer**
+- starke Beanspruchung der **natürlichen Ressourcen**
+- starke Fremdsteuerung, kaum Einfluss der Einheimischen
 - hoher Energie- und Wasserverbrauch
-- hoher 
+
 
 ### Sanfter Tourismus / Nachhaltiger Tourismus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NDQ1NTM4MCwtMTgwMTgyNjY1LC00Nz
-g1MTYyNzYsLTEyMDA4NjAzNDldfQ==
+eyJoaXN0b3J5IjpbMTc5NTc2MDIxLC0xODAxODI2NjUsLTQ3OD
+UxNjI3NiwtMTIwMDg2MDM0OV19
 -->
