@@ -56,8 +56,9 @@
 ### Modell der raumzeitlichen Entfaltung (Vorlaufer)
 
 ### Modell der raumzeitlichen Entfaltung (?)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNzA0NTgwMywxNDkxMzI2OTYyLC00Nz
+eyJoaXN0b3J5IjpbMTc3MzYzMjQwOSwxNDkxMzI2OTYyLC00Nz
 E5MzczMTYsNzM5NzUxNjY5LC0xNzcyMjM3NzcyLDEwNjUwODAw
 MTEsNTg0MDk3NTI3LDkzNTkxNDYwNCwxODMyOTg3MzY4LDExND
 YyNjgyMDUsLTEyMzM0MTk4NCwxNjU1OTA5MDQ3LDM0NTcxNzU2
