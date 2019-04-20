@@ -40,7 +40,7 @@
 - **längerer Aufenthalt**
 - **Schonung** von Natur und Umwelt
 - Einheimische haben **Einfluss** auf die lokale Entwicklung des Tourismus
-	- faire Löhne
+	**> faire Löhne**
 - **Sensibilisierung** der Touristen
 
 ## Beurteilung von Tourismus in Entwicklungsländern
@@ -55,7 +55,7 @@
 - **Monostruktur** (vor allem andere Sektoren unterrepräsentiert)
 - ggf. *Devisenabfluss*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE2Mjc2OTgsLTE1OTYyMjI3NjcsMjE4OD
-U2Nzg3LDE5NTM5OTAxMjQsLTE4MDE4MjY2NSwtNDc4NTE2Mjc2
-LC0xMjAwODYwMzQ5XX0=
+eyJoaXN0b3J5IjpbMzc3NTA4MTYxLC0xNTk2MjIyNzY3LDIxOD
+g1Njc4NywxOTUzOTkwMTI0LC0xODAxODI2NjUsLTQ3ODUxNjI3
+NiwtMTIwMDg2MDM0OV19
 -->
