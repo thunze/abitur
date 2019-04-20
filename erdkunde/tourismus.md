@@ -40,7 +40,8 @@
 - **längerer Aufenthalt**
 - **Schonung** von Natur und Umwelt
 - Einheimische haben **Einfluss** auf die lokale Entwicklung des Tourismus
+- **Sensibilisierung** der Touristen
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDIyNzA1NjgsMTk1Mzk5MDEyNCwtMT
-gwMTgyNjY1LC00Nzg1MTYyNzYsLTEyMDA4NjAzNDldfQ==
+eyJoaXN0b3J5IjpbNTUwNTk0NDIsMTk1Mzk5MDEyNCwtMTgwMT
+gyNjY1LC00Nzg1MTYyNzYsLTEyMDA4NjAzNDldfQ==
 -->
