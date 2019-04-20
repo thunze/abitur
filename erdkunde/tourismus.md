@@ -15,12 +15,16 @@
 ### Massentourismus
 - pauschale Reiseangebote durch international agierende **Tourismuskonzerne**
 - Entwicklungsprojekte mit hohem **Landschaftsverbrauch**
-- Ausbau und Erweiterung der *Bebauungsareale*
+- Ausbau und **Erweiterung** der *Bebauungsareale*
+- auf Wachstum angelegte Infrastruktur
+- **importierter** Lebensstil
+- Wahl des **Reisemittels** nur unter zeit- und kostenökonomischen Aspekten
+- Trend zu kurzer Aufenthaltsdauer
 - hoher Energie- und Wasserverbrauch
 - hoher 
 
 ### Sanfter Tourismus / Nachhaltiger Tourismus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTMyODQyOTgsLTE4MDE4MjY2NSwtND
-c4NTE2Mjc2LC0xMjAwODYwMzQ5XX0=
+eyJoaXN0b3J5IjpbMTA0NDQ1NTM4MCwtMTgwMTgyNjY1LC00Nz
+g1MTYyNzYsLTEyMDA4NjAzNDldfQ==
 -->
