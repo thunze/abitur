@@ -28,7 +28,12 @@
 - bietet viele **Arbeitsplätze**
 
 ### Sanfter Tourismus / Nachhaltiger Tourismus
+
+- Stärkung des **Individualtourismus**
+- kein hoher Landschaftsverbrauch
+- Vermeidung von Zersiedelung
+- **angepasste** Infrastrukturmaßnahmen
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1Mzk5MDEyNCwtMTgwMTgyNjY1LC00Nz
-g1MTYyNzYsLTEyMDA4NjAzNDldfQ==
+eyJoaXN0b3J5IjpbLTE2NjgyNDgzNDksMTk1Mzk5MDEyNCwtMT
+gwMTgyNjY1LC00Nzg1MTYyNzYsLTEyMDA4NjAzNDldfQ==
 -->
