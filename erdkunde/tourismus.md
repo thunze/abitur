@@ -47,10 +47,11 @@
 ### Chancen
 - wirtschaftliches Wachstum im **tertiären Sektor** durch Kaufkraft der Touristen
 
-Risiken
+### Risiken
+- **Monostruktur** (vor allem andere Sektoren unterrepräsentiert)
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNjQ5NjIzNCwyMTg4NTY3ODcsMTk1Mz
+eyJoaXN0b3J5IjpbLTM0NjEzNDUxOSwyMTg4NTY3ODcsMTk1Mz
 k5MDEyNCwtMTgwMTgyNjY1LC00Nzg1MTYyNzYsLTEyMDA4NjAz
 NDldfQ==
 -->
