@@ -64,16 +64,17 @@
 	- Die Destination **etabliert** sich auf dem (inter-)nationalen Tourismusmarkt; die Zuwachsrate verkleinert sich.
 - **5. Phase – *Stagnation:***
 	- Es gibt keinen Zuwachs mehr. Die Region ist bekannt, aber nicht mehr "in".
-- **6. Phase – *Erneuerung:***
+- **6. Phase – *Erneuerung / [...] / Verfall:***
 
 ### Modell der raumzeitlichen Entfaltung (Vorlaufer)
 ![07](https://i.imgur.com/1REkSme.jpg)
 
 **> Atlas S. 273**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQxNzUyNjUyLDExNjU0MjEwNTcsODY1Mz
-Y0MTI1LDE3NzM2MzI0MDksMTQ5MTMyNjk2MiwtNDcxOTM3MzE2
-LDczOTc1MTY2OSwtMTc3MjIzNzc3MiwxMDY1MDgwMDExLDU4ND
-A5NzUyNyw5MzU5MTQ2MDQsMTgzMjk4NzM2OCwxMTQ2MjY4MjA1
-LC0xMjMzNDE5ODQsMTY1NTkwOTA0NywzNDU3MTc1NjZdfQ==
+eyJoaXN0b3J5IjpbLTI5MzQ3OTcyNCwxMTY1NDIxMDU3LDg2NT
+M2NDEyNSwxNzczNjMyNDA5LDE0OTEzMjY5NjIsLTQ3MTkzNzMx
+Niw3Mzk3NTE2NjksLTE3NzIyMzc3NzIsMTA2NTA4MDAxMSw1OD
+QwOTc1MjcsOTM1OTE0NjA0LDE4MzI5ODczNjgsMTE0NjI2ODIw
+NSwtMTIzMzQxOTg0LDE2NTU5MDkwNDcsMzQ1NzE3NTY2XX0=
 -->
