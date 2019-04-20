@@ -2,12 +2,12 @@
 
 ## Kategorisierung von Destinationen *(Aufgabe 1)*
 
-### Attraktivi
-- Vegetation
-- Fauna
-- Relief
-- Klima
+### Attraktivitätsmerkmale
+- **naturräumliches Potential:** Vegetation, Fauna, Relief, Klima
+- **kulturräumliches Potential:** Sehenswürdigkeiten, Tradition, Sprache, Küche
+- **kulturräumliches Potential:**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyOTc4NTczMCwtMTIwMDg2MDM0OV19
+eyJoaXN0b3J5IjpbLTE2NzY0NzgyOTIsLTEyMDA4NjAzNDldfQ
+==
 -->
