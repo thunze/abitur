@@ -63,21 +63,23 @@
 - **4. Phase – *Konsolidierung:***
 	- Die Destination **etabliert** sich auf dem (inter-)nationalen Tourismusmarkt; die Zuwachsrate verkleinert sich.
 - **5. Phase – *Stagnation:***
-	- Es gibt keinen Zuwachs mehr. Die Region ist bekannt, aber nicht mehr "in".
+	- Es gibt **keinen Zuwachs** mehr. Die Region ist bekannt, aber nicht mehr "in".
 - **6. Phase – *Erneuerung / [...] / Verfall:***
 
 ### Modell der raumzeitlichen Entfaltung (Vorlaufer)
 ![07](https://i.imgur.com/1REkSme.jpg)
 
-
+- ein neuer **Wachstumspol** entsteht
+- regionale *Disparitäten* werden abgebaut
+- Zulieferungskette spielt
 
 **> Atlas S. 273**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc2MjEwNjA4LC0yOTM0Nzk3MjQsMTE2NT
-QyMTA1Nyw4NjUzNjQxMjUsMTc3MzYzMjQwOSwxNDkxMzI2OTYy
-LC00NzE5MzczMTYsNzM5NzUxNjY5LC0xNzcyMjM3NzcyLDEwNj
-UwODAwMTEsNTg0MDk3NTI3LDkzNTkxNDYwNCwxODMyOTg3MzY4
-LDExNDYyNjgyMDUsLTEyMzM0MTk4NCwxNjU1OTA5MDQ3LDM0NT
-cxNzU2Nl19
+eyJoaXN0b3J5IjpbMTgzMjUwNjczNywtMjkzNDc5NzI0LDExNj
+U0MjEwNTcsODY1MzY0MTI1LDE3NzM2MzI0MDksMTQ5MTMyNjk2
+MiwtNDcxOTM3MzE2LDczOTc1MTY2OSwtMTc3MjIzNzc3MiwxMD
+Y1MDgwMDExLDU4NDA5NzUyNyw5MzU5MTQ2MDQsMTgzMjk4NzM2
+OCwxMTQ2MjY4MjA1LC0xMjMzNDE5ODQsMTY1NTkwOTA0NywzND
+U3MTc1NjZdfQ==
 -->
