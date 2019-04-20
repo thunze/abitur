@@ -58,9 +58,10 @@
 ### Risiken
 - kostspieliger Aufbau der Branche in **Fremdwährung**
 - **Monostruktur** (vor allem andere Sektoren unterrepräsentiert)
-- ggf. *Devisenabfluss*
+- ggf. *Devisenabfluss* **> ausländische Investoren **
+- vor allem **ökologische** Langzeitfolgen möglich
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM1ODU1MjAwLC03ODg1OTI0MTgsLTE1OT
-YyMjI3NjcsMjE4ODU2Nzg3LDE5NTM5OTAxMjQsLTE4MDE4MjY2
-NSwtNDc4NTE2Mjc2LC0xMjAwODYwMzQ5XX0=
+eyJoaXN0b3J5IjpbLTIwNDMwMDg3MDIsLTc4ODU5MjQxOCwtMT
+U5NjIyMjc2NywyMTg4NTY3ODcsMTk1Mzk5MDEyNCwtMTgwMTgy
+NjY1LC00Nzg1MTYyNzYsLTEyMDA4NjAzNDldfQ==
 -->
