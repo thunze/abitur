@@ -2,7 +2,8 @@
 
 ## Kategorisierung von Destinationen
 
+#
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDA4NjAzNDldfQ==
+eyJoaXN0b3J5IjpbMTgzMTQwMTk0OCwtMTIwMDg2MDM0OV19
 -->
