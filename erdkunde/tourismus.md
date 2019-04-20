@@ -58,10 +58,10 @@
 ### Risiken
 - kostspieliger Aufbau der Branche in **Fremdwährung**
 - **Monostruktur** (vor allem andere Sektoren unterrepräsentiert)
-- ggf. *Devisenabfluss* **> ausländische Investoren **
+- ggf. *Devisenabfluss* **> ausländische Investoren & Reiseveranstalter**
 - vor allem **ökologische** Langzeitfolgen möglich
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDMwMDg3MDIsLTc4ODU5MjQxOCwtMT
-U5NjIyMjc2NywyMTg4NTY3ODcsMTk1Mzk5MDEyNCwtMTgwMTgy
-NjY1LC00Nzg1MTYyNzYsLTEyMDA4NjAzNDldfQ==
+eyJoaXN0b3J5IjpbMTAxNzczNTg4NywtNzg4NTkyNDE4LC0xNT
+k2MjIyNzY3LDIxODg1Njc4NywxOTUzOTkwMTI0LC0xODAxODI2
+NjUsLTQ3ODUxNjI3NiwtMTIwMDg2MDM0OV19
 -->
