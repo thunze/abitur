@@ -50,16 +50,17 @@
 - wirtschaftliches Wachstum im **tertiären Sektor**
 - zusätzliche *Deviseneinnahmen*
 - *Außenhandelsdefizit* wird verringert
-- verbesserte Infrastruktur
+- **verbesserte Infrastruktur**
 - Attraktivitätssteigerung durch **niedrige Preise**
 - Attraktivitätssteigerung durch **Exotik, Klima, Unberührtheit etc.**
-- 
+- schafft **Arbeitsplätze** und Einkommen
 
 ### Risiken
+- kostspieliger Aufbau der Branche in **Fremdwährung**
 - **Monostruktur** (vor allem andere Sektoren unterrepräsentiert)
 - ggf. *Devisenabfluss*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NzI2MDk0OCwtNzg4NTkyNDE4LC0xNT
-k2MjIyNzY3LDIxODg1Njc4NywxOTUzOTkwMTI0LC0xODAxODI2
-NjUsLTQ3ODUxNjI3NiwtMTIwMDg2MDM0OV19
+eyJoaXN0b3J5IjpbODM1ODU1MjAwLC03ODg1OTI0MTgsLTE1OT
+YyMjI3NjcsMjE4ODU2Nzg3LDE5NTM5OTAxMjQsLTE4MDE4MjY2
+NSwtNDc4NTE2Mjc2LC0xMjAwODYwMzQ5XX0=
 -->
