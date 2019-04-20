@@ -32,7 +32,7 @@
 - Bezug zu Aufgabe 1 & 2
 - Argumente beider Seiten nennen > **strukturiert!**
 - Bewertungsgrundlage verwenden (z. B. Nachhaltigkeitsdreieck, sonstiges Leitbild)
-- Verbesserungsvorschläge
+- Verbesserungsvorschläge **> Diversifizierung**
 - Fazit / Perspektive
 
 ## Wirtschaftssektoren
@@ -53,7 +53,7 @@ Tertiär | Dienstleistungen
 - um 5 *Prozent* gestiegen vs. um 5 *Prozent**punkte*** gestiegen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NDYxNTQ2MiwyMDI1OTU0NDcwLC0xMz
+eyJoaXN0b3J5IjpbMTQ0NzU1ODgxNSwyMDI1OTU0NDcwLC0xMz
 Q5NzI3MTEyLDcyNzM5MTEwMSwtMTc5MzA4ODEyMywtODkyMzQz
 NjI0LC02OTY3OTYzOTMsLTE2OTEzMjExMzAsLTI4NTI5NDMxMS
 wtODI0MzA2MjQxXX0=
