@@ -55,12 +55,12 @@
 ![06](https://i.imgur.com/D6vDSkW.png)
 
 ### Modell der raumzeitlichen Entfaltung (Vorlaufer)
-
+![enter image description here](https://i.imgur.com/1REkSme.jpg)
 
 ### Modell der raumzeitlichen Entfaltung (?)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5OTY2OTMyMywxNzczNjMyNDA5LDE0OT
+eyJoaXN0b3J5IjpbMTg1NDUxMTU4NywxNzczNjMyNDA5LDE0OT
 EzMjY5NjIsLTQ3MTkzNzMxNiw3Mzk3NTE2NjksLTE3NzIyMzc3
 NzIsMTA2NTA4MDAxMSw1ODQwOTc1MjcsOTM1OTE0NjA0LDE4Mz
 I5ODczNjgsMTE0NjI2ODIwNSwtMTIzMzQxOTg0LDE2NTU5MDkw
