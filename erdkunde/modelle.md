@@ -54,15 +54,15 @@
 ### Destinationslebenszyklusmodell (Butler)
 ![06](https://i.imgur.com/D6vDSkW.png)
 
+1. Phase: *Erkundung*
+
 ### Modell der raumzeitlichen Entfaltung (Vorlaufer)
 ![07](https://i.imgur.com/1REkSme.jpg)
 
-### Modell der raumzeitlichen Entfaltung (?)
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY1MzY0MTI1LDE3NzM2MzI0MDksMTQ5MT
-MyNjk2MiwtNDcxOTM3MzE2LDczOTc1MTY2OSwtMTc3MjIzNzc3
-MiwxMDY1MDgwMDExLDU4NDA5NzUyNyw5MzU5MTQ2MDQsMTgzMj
-k4NzM2OCwxMTQ2MjY4MjA1LC0xMjMzNDE5ODQsMTY1NTkwOTA0
-NywzNDU3MTc1NjZdfQ==
+eyJoaXN0b3J5IjpbLTcxMzk5MjkyOSw4NjUzNjQxMjUsMTc3Mz
+YzMjQwOSwxNDkxMzI2OTYyLC00NzE5MzczMTYsNzM5NzUxNjY5
+LC0xNzcyMjM3NzcyLDEwNjUwODAwMTEsNTg0MDk3NTI3LDkzNT
+kxNDYwNCwxODMyOTg3MzY4LDExNDYyNjgyMDUsLTEyMzM0MTk4
+NCwxNjU1OTA5MDQ3LDM0NTcxNzU2Nl19
 -->
