@@ -51,12 +51,15 @@
 - zusätzliche *Deviseneinnahmen*
 - *Außenhandelsdefizit* wird verringert
 - verbesserte Infrastruktur
+- Attraktivitätssteigerung durch **niedrige Preise**
+- Attraktivitätssteigerung durch **Exotik, Klima, Unberührtheit etc.**
+- 
 
 ### Risiken
 - **Monostruktur** (vor allem andere Sektoren unterrepräsentiert)
 - ggf. *Devisenabfluss*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4ODU5MjQxOCwtMTU5NjIyMjc2NywyMT
-g4NTY3ODcsMTk1Mzk5MDEyNCwtMTgwMTgyNjY1LC00Nzg1MTYy
-NzYsLTEyMDA4NjAzNDldfQ==
+eyJoaXN0b3J5IjpbMTE0NzI2MDk0OCwtNzg4NTkyNDE4LC0xNT
+k2MjIyNzY3LDIxODg1Njc4NywxOTUzOTkwMTI0LC0xODAxODI2
+NjUsLTQ3ODUxNjI3NiwtMTIwMDg2MDM0OV19
 -->
