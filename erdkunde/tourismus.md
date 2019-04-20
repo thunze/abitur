@@ -6,9 +6,12 @@
 - **naturräumliches Potential:** Vegetation, Fauna, Relief, Klima
 - **kulturräumliches Potential:** Sehenswürdigkeiten, Tradition, Sprache, Küche
 - **touristische Ausstattungsmerkmale:**
-	- Infrastruktur (Erreichbarkeit, Restaurants, Bars, Nachtclubs)
+	- Verkehrsanbindung / Erreichbarkeit
+	- Restaurants, Bars, Nachtclubs
+	- Übernachtung / Parken
+	- 
 	- Freizeiteinrichtungen (sportlich)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNDU3NjgwMywtMTIwMDg2MDM0OV19
+eyJoaXN0b3J5IjpbNjM5OTA5NzE3LC0xMjAwODYwMzQ5XX0=
 -->
