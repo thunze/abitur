@@ -57,12 +57,14 @@
 
 ### Risiken
 - kostspieliger Aufbau der Branche in **Fremdwährung**
-- **Monostruktur** (vor allem andere Sektoren unterrepräsentiert)
+- Kauf von *Produktionsmitteln* und *Konsumgütern* im Ausland
 - ggf. *Devisenabfluss*
 	**> ausländische Investoren & Reiseveranstalter**
+- **Monostruktur** (vor allem andere Sektoren unterrepräsentiert)
 - vor allem **ökologische** Langzeitfolgen möglich
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NTMzMDc1LC03ODg1OTI0MTgsLTE1OT
-YyMjI3NjcsMjE4ODU2Nzg3LDE5NTM5OTAxMjQsLTE4MDE4MjY2
-NSwtNDc4NTE2Mjc2LC0xMjAwODYwMzQ5XX0=
+eyJoaXN0b3J5IjpbMTA5NjA1NjU3NiwtNzg4NTkyNDE4LC0xNT
+k2MjIyNzY3LDIxODg1Njc4NywxOTUzOTkwMTI0LC0xODAxODI2
+NjUsLTQ3ODUxNjI3NiwtMTIwMDg2MDM0OV19
 -->
