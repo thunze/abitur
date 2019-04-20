@@ -32,8 +32,13 @@
 - Stärkung des **Individualtourismus**
 - kein hoher Landschaftsverbrauch
 - Vermeidung von Zersiedelung
-- **angepasste** Infrastrukturmaßnahmen
+- **nachhaltige** Infrastrukturmaßnahmen
+- Rücksichtnahme auf **Sitten** und **Gebräuche**
+- ressourcenschonendes **Anreiseverhalten** (ÖPNV)
+- **längerer Aufenthalt**
+- **Schonung** von Natur und Umwelt
+- Einheimische haben Ein
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjgyNDgzNDksMTk1Mzk5MDEyNCwtMT
-gwMTgyNjY1LC00Nzg1MTYyNzYsLTEyMDA4NjAzNDldfQ==
+eyJoaXN0b3J5IjpbMTk0MTU1NzEzNywxOTUzOTkwMTI0LC0xOD
+AxODI2NjUsLTQ3ODUxNjI3NiwtMTIwMDg2MDM0OV19
 -->
