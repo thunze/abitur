@@ -1,6 +1,6 @@
 # Landwirtschaft in den Tropen & Subtropen
 
-## Naturraum *(Aufgabe 1-3)*
+## Naturraum *(Aufgabe ?)*
 
 ### Eigenschaften tropischer Böden
 - hohe *Verwitterungstiefe* (mineralisches Gestein liegt tief)
@@ -14,8 +14,11 @@
 - schwer zu bearbeitende, lehmige Böden
 - Gefahr der *Bodenerosion* bei Starkregen
 - geringe *Kationenaustauschkapazität*: viele Düngergaben nötig, dieser wird schnell ausgewaschen
-- Produktivität der Felder geht 
+- Produktivität der Felder geht nach dem Roden schnell zurück: großer zusätzlicher Aufwand
+
+## Nutzungsformen / Wirtschaftssysteme
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NzA3MzcxNSwzMTI2NjA1NjUsLTIwNT
+eyJoaXN0b3J5IjpbMjE0MDc2NjQ2OCwzMTI2NjA1NjUsLTIwNT
 k0OTc1MTksMTM4MzIyMDg2N119
 -->
