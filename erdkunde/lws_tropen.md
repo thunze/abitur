@@ -4,9 +4,10 @@
 
 ### Eigenschaften tropischer Böden
 - hohe *Verwitterungstiefe* (mineralisches Gestein liegt tief)
-- dünne *Humusschicht* (schwache Benutzn)
-- geringe *Kationenaustauschkapazität* ()
+- dünne *Humusschicht* (schwache Düngerfunktion von organischen Bestandteilen)
+- geringe *Kationenaustauschkapazität* (geringe Speicherbarkeit von Nährstoffen)
+- Mykorrhiza
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MjQ1NzQ3MSwzMTI2NjA1NjUsLTIwNT
+eyJoaXN0b3J5IjpbMTA3OTkzNjI1MCwzMTI2NjA1NjUsLTIwNT
 k0OTc1MTksMTM4MzIyMDg2N119
 -->
