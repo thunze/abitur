@@ -4,8 +4,9 @@
 
 ### Eigenschaften tropischer Böden
 - hohe *Verwitterungstiefe* (mineralisches Gestein liegt tief)
-- dünn
+- dünne *Humusschicht* (geringe )
+- geringe *Kationenaustauschkapazität* ()
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk0MDcwNjE4LDMxMjY2MDU2NSwtMjA1OT
-Q5NzUxOSwxMzgzMjIwODY3XX0=
+eyJoaXN0b3J5IjpbLTgzMzk3MTMxMCwzMTI2NjA1NjUsLTIwNT
+k0OTc1MTksMTM4MzIyMDg2N119
 -->
