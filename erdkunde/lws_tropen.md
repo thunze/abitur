@@ -1,7 +1,10 @@
 # Landwirtschaft in den Tropen & Subtropen
 
-## Naturr
+## Naturraum *(Aufgabe 1-3)*
+
+### Eigenschaften tropischer Böden
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjczNTY3ODUsLTIwNTk0OTc1MTksMT
-M4MzIyMDg2N119
+eyJoaXN0b3J5IjpbMzEyNjYwNTY1LC0yMDU5NDk3NTE5LDEzOD
+MyMjA4NjddfQ==
 -->
