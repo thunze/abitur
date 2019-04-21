@@ -18,7 +18,15 @@
 
 ## Nutzungsformen / Wirtschaftssysteme
 
+### Milpa-Solar-System
+
+### Kleinbäuerliche Landwirtschaft
+
+### Plantagenwirtschaft
+
+## Landgrabbing
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MDc2NjQ2OCwzMTI2NjA1NjUsLTIwNT
+eyJoaXN0b3J5IjpbLTk1Mzc5NTU1MCwzMTI2NjA1NjUsLTIwNT
 k0OTc1MTksMTM4MzIyMDg2N119
 -->
