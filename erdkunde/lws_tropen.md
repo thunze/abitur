@@ -20,6 +20,7 @@
 
 ### Milpa-Solar-System
 
+
 ### Kleinbäuerliche Landwirtschaft
 
 ### Plantagenwirtschaft
@@ -27,6 +28,6 @@
 ## Landgrabbing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1Mzc5NTU1MCwzMTI2NjA1NjUsLTIwNT
-k0OTc1MTksMTM4MzIyMDg2N119
+eyJoaXN0b3J5IjpbLTU4NjQ1MDg2NCwtOTUzNzk1NTUwLDMxMj
+Y2MDU2NSwtMjA1OTQ5NzUxOSwxMzgzMjIwODY3XX0=
 -->
