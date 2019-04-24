@@ -37,7 +37,7 @@ Vorteile | Nachteile
 <li>hohe Erträge / geringe Missernte</li> | <li>kaum für den *Weltmarkt* geeignet</li>
 <li>nachhaltig</li> | <li>geringeres Einkommen</li>
 <li>Schutz vor Sonneneinstrahlung</li> | <li>Rodung nötig</li>
-<li>Schutz vor hohem Niederschlag</li> | <li>arbeitsintensic</li>
+<li>Schutz vor hohem Niederschlag</li> | <li>*arbeitsintensiv*</li>
 <li>an den Naturraum angepasst</li> |
 <li>für Großfamilien geeignet</li> |
 <li>kaum Samenkauf nötig</li> |
@@ -55,9 +55,9 @@ Vorteile | Nachteile
 Vorteile | Nachteile
 --- | ---
 <li>*Fruchtwechsel* (auch Ernährungssicherheit)</li>| <li>meist **keine** Weiterverarbeitung</li>
-<li></li> | <li>ggf. durch *Hybridsaatgut* Abhängigkeit von Konzernen</li>
-| <li>ggf. wirtschaftliche Monostruktur</li>
-| <li></li>
+<li>hohe Produktqualität</li> | <li>Abhängigkeit von Zwischenhändlern</li>
+<br> | <li>ggf. wirtschaftliche Monostruktur</li>
+| <li>ggf. Abhängigkeit von Konzernen durch *Hybridsaatgut*</li>
 
 ### Plantagenwirtschaft
 
@@ -80,9 +80,9 @@ Vorteile | Nachteile
 - jemand sollte auf *Nachhaltigkeit* achten und Arbeitsplätze und Perspektiven für die Bevölkerung schaffen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM0MDIxNjk4LDE1OTU2NDYyMTcsNDAwMj
-kzNjQzLC0xMDY0MDY0ODAyLDM3NTg5MzI0NywtMTk5MTg5OTc0
-Nyw4NzkyNDk2NjUsLTE0MDU4Nzc4MjMsMTQ2MjY1OTI2NSwtOT
-UzNzk1NTUwLDMxMjY2MDU2NSwtMjA1OTQ5NzUxOSwxMzgzMjIw
-ODY3XX0=
+eyJoaXN0b3J5IjpbMTI5MzUwNTkyNCwxNTk1NjQ2MjE3LDQwMD
+I5MzY0MywtMTA2NDA2NDgwMiwzNzU4OTMyNDcsLTE5OTE4OTk3
+NDcsODc5MjQ5NjY1LC0xNDA1ODc3ODIzLDE0NjI2NTkyNjUsLT
+k1Mzc5NTU1MCwzMTI2NjA1NjUsLTIwNTk0OTc1MTksMTM4MzIy
+MDg2N119
 -->
