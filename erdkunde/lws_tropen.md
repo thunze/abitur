@@ -18,8 +18,9 @@
 
 Vorteile | Nachteile
 --- | ---
-<li>ganzjährig hohe Niederschläge (außer Subtropen)</li> |
-<li>gleichmäßig hohe Temperaturen</li>
+<li>ganzjährig hohe Niederschläge (außer Subtropen)</li> | <li>regelmäßiger Starkregen begünstigt Bodenerosion</li>
+<li>gleichmäßig hohe Temperaturen</li> | <li>hohe Verdunstung durch Sonneneinstrahlung und Temperatur</li>
+<li>ganzjährige Wachstumsperiode</li> | <li>dünne </li>
 
 - ***TODO: Umstrukturierung (in Tabelle?)***
 
@@ -87,9 +88,9 @@ Vorteile | Nachteile
 - jemand sollte auf *Nachhaltigkeit* achten und Arbeitsplätze und Perspektiven für die Bevölkerung schaffen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA3NTE4Mzg5LDE1OTU2NDYyMTcsNDAwMj
-kzNjQzLC0xMDY0MDY0ODAyLDM3NTg5MzI0NywtMTk5MTg5OTc0
-Nyw4NzkyNDk2NjUsLTE0MDU4Nzc4MjMsMTQ2MjY1OTI2NSwtOT
-UzNzk1NTUwLDMxMjY2MDU2NSwtMjA1OTQ5NzUxOSwxMzgzMjIw
-ODY3XX0=
+eyJoaXN0b3J5IjpbMjA3NDU4ODk0MiwxNTk1NjQ2MjE3LDQwMD
+I5MzY0MywtMTA2NDA2NDgwMiwzNzU4OTMyNDcsLTE5OTE4OTk3
+NDcsODc5MjQ5NjY1LC0xNDA1ODc3ODIzLDE0NjI2NTkyNjUsLT
+k1Mzc5NTU1MCwzMTI2NjA1NjUsLTIwNTk0OTc1MTksMTM4MzIy
+MDg2N119
 -->
