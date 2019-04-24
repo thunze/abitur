@@ -55,8 +55,8 @@ Vorteile | Nachteile
 Vorteile | Nachteile
 --- | ---
 <li>*Fruchtwechsel* (auch Ernährungssicherheit)</li>| <li>meist **keine** Weiterverarbeitung</li>
-<li>hohe Produktqualität</li> | <li>Abhängigkeit von Zwischenhändlern</li>
-<br> | <li>ggf. wirtschaftliche Monostruktur</li>
+<li>hohe Produktqualität</li> | <li>Abhängigkeit von *Zwischenhändlern*</li>
+<li>bietet auch für ungebildete Menschen **Arbeit**</li> | <li>ggf. wirtschaftliche *Monostruktur*</li>
 | <li>ggf. Abhängigkeit von Konzernen durch *Hybridsaatgut*</li>
 
 ### Plantagenwirtschaft
@@ -80,7 +80,7 @@ Vorteile | Nachteile
 - jemand sollte auf *Nachhaltigkeit* achten und Arbeitsplätze und Perspektiven für die Bevölkerung schaffen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MzUwNTkyNCwxNTk1NjQ2MjE3LDQwMD
+eyJoaXN0b3J5IjpbMTk2NjU3OTY4OSwxNTk1NjQ2MjE3LDQwMD
 I5MzY0MywtMTA2NDA2NDgwMiwzNzU4OTMyNDcsLTE5OTE4OTk3
 NDcsODc5MjQ5NjY1LC0xNDA1ODc3ODIzLDE0NjI2NTkyNjUsLT
 k1Mzc5NTU1MCwzMTI2NjA1NjUsLTIwNTk0OTc1MTksMTM4MzIy
