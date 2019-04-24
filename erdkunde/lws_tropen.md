@@ -39,7 +39,7 @@
 	- arbeitsintensiv **> besonders für Entwicklungsländer gut**
 - **Nachteile:**
 	- große Fläche nötig
-	- 
+	- weniger für 
 
 ### Kleinbäuerliche Landwirtschaft
 
@@ -48,6 +48,6 @@
 ## Landgrabbing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTYwMjU1MjAsLTk1Mzc5NTU1MCwzMT
-I2NjA1NjUsLTIwNTk0OTc1MTksMTM4MzIyMDg2N119
+eyJoaXN0b3J5IjpbLTYyNzAwNDAwOSwtOTUzNzk1NTUwLDMxMj
+Y2MDU2NSwtMjA1OTQ5NzUxOSwxMzgzMjIwODY3XX0=
 -->
