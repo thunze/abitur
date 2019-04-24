@@ -68,6 +68,7 @@ Vorteile | Nachteile
 | <li>ggf. Abhängigkeit von Konzernen durch *Hybridsaatgut*</li>
 
 ### Plantagenwirtschaft
+- ***TODO: Präsentation ab Folie 27***
 
 ### Wanderfeldbau
 - **Subsistenzwirtschaft** **> *Food-Crops***
@@ -88,9 +89,9 @@ Vorteile | Nachteile
 - jemand sollte auf *Nachhaltigkeit* achten und Arbeitsplätze und Perspektiven für die Bevölkerung schaffen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyODE1OTMyOCwxNTk1NjQ2MjE3LDQwMD
-I5MzY0MywtMTA2NDA2NDgwMiwzNzU4OTMyNDcsLTE5OTE4OTk3
-NDcsODc5MjQ5NjY1LC0xNDA1ODc3ODIzLDE0NjI2NTkyNjUsLT
-k1Mzc5NTU1MCwzMTI2NjA1NjUsLTIwNTk0OTc1MTksMTM4MzIy
-MDg2N119
+eyJoaXN0b3J5IjpbMTA4NDU0MjQzOSwxMTI4MTU5MzI4LDE1OT
+U2NDYyMTcsNDAwMjkzNjQzLC0xMDY0MDY0ODAyLDM3NTg5MzI0
+NywtMTk5MTg5OTc0Nyw4NzkyNDk2NjUsLTE0MDU4Nzc4MjMsMT
+Q2MjY1OTI2NSwtOTUzNzk1NTUwLDMxMjY2MDU2NSwtMjA1OTQ5
+NzUxOSwxMzgzMjIwODY3XX0=
 -->
