@@ -4,7 +4,7 @@
 
 ### Eigenschaften tropischer Böden
 - hohe *Verwitterungstiefe* (mineralisches Gestein liegt tief)
-- dünne *Humusschicht* (schwache Düngerfunktion von organischen Bestandteilen)
+- dünne *Humusschicht* (schwache Düngerfunktion von organischen Bestandteilen), schnell wegspülbar
 - geringe *Kationenaustauschkapazität* (geringe Speicherbarkeit von Nährstoffen)
 - Abhängigkeit von *Mykorrhiza* (Filterung von Nährstoffen durch Pilze, bevor diese ausgewaschen werden)
 	**> allgemein: schwierig an Nährstoffe zu kommen**
@@ -15,6 +15,10 @@
 - Gefahr der *Bodenerosion* bei Starkregen
 - geringe *Kationenaustauschkapazität*: viele Düngergaben nötig, dieser wird schnell ausgewaschen
 - Produktivität der Felder geht nach dem Roden schnell zurück: großer zusätzlicher Aufwand
+
+V
+
+- ***TODO: Umstrukturierung (in Tabelle?)***
 
 ## Nutzungsformen / Wirtschaftssysteme *(Aufgabe 2 & 3)*
 
@@ -80,7 +84,7 @@ Vorteile | Nachteile
 - jemand sollte auf *Nachhaltigkeit* achten und Arbeitsplätze und Perspektiven für die Bevölkerung schaffen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NjU3OTY4OSwxNTk1NjQ2MjE3LDQwMD
+eyJoaXN0b3J5IjpbLTY4NzYyNTkzNiwxNTk1NjQ2MjE3LDQwMD
 I5MzY0MywtMTA2NDA2NDgwMiwzNzU4OTMyNDcsLTE5OTE4OTk3
 NDcsODc5MjQ5NjY1LC0xNDA1ODc3ODIzLDE0NjI2NTkyNjUsLT
 k1Mzc5NTU1MCwzMTI2NjA1NjUsLTIwNTk0OTc1MTksMTM4MzIy
