@@ -24,8 +24,11 @@
 - **Milpa:**
 	- Mais dient Bohne als Rankhilfe
 	- Bohne fixiert Stickstoff und reichert Boden an
-	- 
+	- Kürbis als *Erosionsschutz* **> Polykultur**
 - **Solar:**
+	- verschiedene Pflanzen
+	- nicht genießbare Teile werden als **Tierfutter** und als **Dünger** verwendet
+- 
 
 ### Kleinbäuerliche Landwirtschaft
 
@@ -34,6 +37,6 @@
 ## Landgrabbing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDc3ODMxOTksLTk1Mzc5NTU1MCwzMT
+eyJoaXN0b3J5IjpbLTE3OTQ4Nzg2NzAsLTk1Mzc5NTU1MCwzMT
 I2NjA1NjUsLTIwNTk0OTc1MTksMTM4MzIyMDg2N119
 -->
