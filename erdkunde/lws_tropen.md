@@ -54,8 +54,8 @@ Vorteile | Nachteile
 
 Vorteile | Nachteile
 --- | ---
-| <li>meist **keine** Weiterverarbeitung</li>
-| <li>ggf. durch *Hybridsaatgut* Abhängigkeit von Konzernen</li>
+<li>Fruchtwechsel</li>| <li>meist **keine** Weiterverarbeitung</li>
+<li></li> | <li>ggf. durch *Hybridsaatgut* Abhängigkeit von Konzernen</li>
 
 ### Plantagenwirtschaft
 
@@ -78,9 +78,9 @@ Vorteile | Nachteile
 - jemand sollte auf *Nachhaltigkeit* achten und Arbeitsplätze und Perspektiven für die Bevölkerung schaffen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzEwODI5MDQsMTU5NTY0NjIxNyw0MD
-AyOTM2NDMsLTEwNjQwNjQ4MDIsMzc1ODkzMjQ3LC0xOTkxODk5
-NzQ3LDg3OTI0OTY2NSwtMTQwNTg3NzgyMywxNDYyNjU5MjY1LC
-05NTM3OTU1NTAsMzEyNjYwNTY1LC0yMDU5NDk3NTE5LDEzODMy
-MjA4NjddfQ==
+eyJoaXN0b3J5IjpbMTkwNjkyMzU5NywxNTk1NjQ2MjE3LDQwMD
+I5MzY0MywtMTA2NDA2NDgwMiwzNzU4OTMyNDcsLTE5OTE4OTk3
+NDcsODc5MjQ5NjY1LC0xNDA1ODc3ODIzLDE0NjI2NTkyNjUsLT
+k1Mzc5NTU1MCwzMTI2NjA1NjUsLTIwNTk0OTc1MTksMTM4MzIy
+MDg2N119
 -->
