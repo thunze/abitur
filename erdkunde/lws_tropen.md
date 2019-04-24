@@ -28,7 +28,7 @@
 	- Kürbis als *Erosionsschutz* **> Polykultur**
 - **Solar:**
 	- verschiedene Pflanzen
-	- nicht genießbare Teile werden als **Tierfutter** und als **Dünger** verwendet
+	- nicht genießbare Teile werden als **Tierfutter** und **Dünger** verwendet
 
 Vorteile | Nachteile
 --- | ---
@@ -51,9 +51,8 @@ Vorteile | Nachteile
 ### Wanderfeldbau
 - **Subsistenzwirtschaft**
 - abwechselnde Nutzung von Ackerfläche durch **Verlegung** von Siedlungen etc.
-- Nährstoffe durch A
-
-**> keine langfristige Nutzung möglich**
+- *Brandrodung* **> nicht ökologisch sinnvoll**
+- Nährstoffe durch Asche der *Brandrodung* sind nach 2–3 Jahren aufgebraucht, deshalb keine langfristige Nutzung möglich
 
 ## Landgrabbing *(Aufgabe 2 & 3)*
 
@@ -65,6 +64,6 @@ Vorteile | Nachteile
 - jemand sollte auf *Nachhaltigkeit* achten und Arbeitsplätze und Perspektiven für die Bevölkerung schaffen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA5MDgwNjQwLC05NTM3OTU1NTAsMzEyNj
-YwNTY1LC0yMDU5NDk3NTE5LDEzODMyMjA4NjddfQ==
+eyJoaXN0b3J5IjpbLTkxMDgyMjQ4OSwtOTUzNzk1NTUwLDMxMj
+Y2MDU2NSwtMjA1OTQ5NzUxOSwxMzgzMjIwODY3XX0=
 -->
