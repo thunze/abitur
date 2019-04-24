@@ -49,7 +49,8 @@ Vorteile | Nachteile
 - ***Food-Crops*** und ***Cash-Crops*** werden angebaut
 - Konkurrenz zur Nahrungsmittelproduktion für den Eigenbedarf
 - Feld wird von einer Familie bewirtschaftet
-- Aufbau ähnelt einer kleinen Plantage (jedoch kein Einsatz von Agrochemikalien)
+- Aufbau ähnelt einer kleinen Plantage (jedoch **kein** Einsatz von *Agrochemikalien*)
+- Gesellschaften / Exporteure als Händler zwischen Familie und *Weltmarkt*
 - 
 
 ### Plantagenwirtschaft
@@ -73,8 +74,8 @@ Vorteile | Nachteile
 - jemand sollte auf *Nachhaltigkeit* achten und Arbeitsplätze und Perspektiven für die Bevölkerung schaffen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAwMjkzNjQzLC0xMDY0MDY0ODAyLDM3NT
-g5MzI0NywtMTk5MTg5OTc0Nyw4NzkyNDk2NjUsLTE0MDU4Nzc4
-MjMsMTQ2MjY1OTI2NSwtOTUzNzk1NTUwLDMxMjY2MDU2NSwtMj
-A1OTQ5NzUxOSwxMzgzMjIwODY3XX0=
+eyJoaXN0b3J5IjpbMTM1NTI3OTczMSw0MDAyOTM2NDMsLTEwNj
+QwNjQ4MDIsMzc1ODkzMjQ3LC0xOTkxODk5NzQ3LDg3OTI0OTY2
+NSwtMTQwNTg3NzgyMywxNDYyNjU5MjY1LC05NTM3OTU1NTAsMz
+EyNjYwNTY1LC0yMDU5NDk3NTE5LDEzODMyMjA4NjddfQ==
 -->
