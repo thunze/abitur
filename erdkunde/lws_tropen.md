@@ -46,7 +46,8 @@ Vorteile | Nachteile
 **> besonders für Entwicklungsländer geeignet (wenig Kapital nötig)**
 
 ### Kleinbäuerliche Landwirtschaft
-
+- **Food-Crops** und ***Cash-Crops***
+- Feld wird von einer 
 
 ### Plantagenwirtschaft
 
@@ -69,8 +70,8 @@ Vorteile | Nachteile
 - jemand sollte auf *Nachhaltigkeit* achten und Arbeitsplätze und Perspektiven für die Bevölkerung schaffen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc1ODkzMjQ3LC0xOTkxODk5NzQ3LDg3OT
-I0OTY2NSwtMTQwNTg3NzgyMywxNDYyNjU5MjY1LC05NTM3OTU1
-NTAsMzEyNjYwNTY1LC0yMDU5NDk3NTE5LDEzODMyMjA4NjddfQ
-==
+eyJoaXN0b3J5IjpbLTEzMDI3NjAwMjIsMzc1ODkzMjQ3LC0xOT
+kxODk5NzQ3LDg3OTI0OTY2NSwtMTQwNTg3NzgyMywxNDYyNjU5
+MjY1LC05NTM3OTU1NTAsMzEyNjYwNTY1LC0yMDU5NDk3NTE5LD
+EzODMyMjA4NjddfQ==
 -->
