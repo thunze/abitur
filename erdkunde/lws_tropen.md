@@ -50,8 +50,11 @@ Vorteile | Nachteile
 - Konkurrenz zur Nahrungsmittelproduktion für den Eigenbedarf
 - Feld wird von einer Familie bewirtschaftet
 - Aufbau ähnelt einer kleinen Plantage (jedoch **kein** Einsatz von *Agrochemikalien*)
-- Gesellschaften / Exporteure als Händler zwischen Familie und *Weltmarkt*
-- 
+- Gesellschaften / *Exporteure* als Händler **zwischen** Familie und *Weltmarkt* (Preise davon abhängig)
+
+Vorteile | Nachteile
+--- | ---
+| - meist **keine* Weiterverarbeitung |
 
 ### Plantagenwirtschaft
 
@@ -74,7 +77,7 @@ Vorteile | Nachteile
 - jemand sollte auf *Nachhaltigkeit* achten und Arbeitsplätze und Perspektiven für die Bevölkerung schaffen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NTI3OTczMSw0MDAyOTM2NDMsLTEwNj
+eyJoaXN0b3J5IjpbMTUyODE5NDE4NSw0MDAyOTM2NDMsLTEwNj
 QwNjQ4MDIsMzc1ODkzMjQ3LC0xOTkxODk5NzQ3LDg3OTI0OTY2
 NSwtMTQwNTg3NzgyMywxNDYyNjU5MjY1LC05NTM3OTU1NTAsMz
 EyNjYwNTY1LC0yMDU5NDk3NTE5LDEzODMyMjA4NjddfQ==
