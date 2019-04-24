@@ -1,6 +1,6 @@
 # Landwirtschaft in den Tropen & Subtropen
 
-## Naturraum *(Aufgabe ?)*
+## Naturraum *(Aufgabe )*
 
 ### Eigenschaften tropischer Böden
 - hohe *Verwitterungstiefe* (mineralisches Gestein liegt tief)
@@ -19,7 +19,9 @@
 ## Nutzungsformen / Wirtschaftssysteme
 
 ### Milpa-Solar-System
-
+- **Subsistenzwirtschaft**, nur ausgewählte Produkte werden verkauft
+- große Ähnlichkeit zum *Stockwerkbau* im Regenwald (kleine Version)
+- 
 
 ### Kleinbäuerliche Landwirtschaft
 
@@ -28,6 +30,6 @@
 ## Landgrabbing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NjQ1MDg2NCwtOTUzNzk1NTUwLDMxMj
-Y2MDU2NSwtMjA1OTQ5NzUxOSwxMzgzMjIwODY3XX0=
+eyJoaXN0b3J5IjpbLTE0NTYyODkwMjAsLTk1Mzc5NTU1MCwzMT
+I2NjA1NjUsLTIwNTk0OTc1MTksMTM4MzIyMDg2N119
 -->
