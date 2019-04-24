@@ -32,15 +32,16 @@
 
 Vorteile | Nachteile
 --- | ---
-ausgereift, traditionell | große Fläche nötig
-hohe Erträge / geringe Missernte
-nachhaltig
-Schutz vor Sonneneinstrahlung und hohem Niederschlag
-an den Naturraum angepasst
-für Großfamilien geeignet
-kaum Samenkauf nötig
-arbeitsintensiv **> besonders für Entwicklungsländer gut**
-	- kaum für den Weltmarkt geeignet
+<li>ausgereift, traditionell | große Fläche nötig
+<li>hohe Erträge / geringe Missernte | kaum für den Weltmarkt geeignet<li>
+nachhaltig |
+Schutz vor Sonneneinstrahlung |
+Schutz vor hohem Niederschlag |
+an den Naturraum angepasst |
+für Großfamilien geeignet |
+kaum Samenkauf nötig |
+arbeitsintensiv |
+**> besonders für Entwicklungsländer gut**
 
 ### Kleinbäuerliche Landwirtschaft
 - 
@@ -50,6 +51,6 @@ arbeitsintensiv **> besonders für Entwicklungsländer gut**
 ## Landgrabbing (Aufgabe 2 & 3)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc4NDUxMjc5LC05NTM3OTU1NTAsMzEyNj
+eyJoaXN0b3J5IjpbNTEzNDE2ODY2LC05NTM3OTU1NTAsMzEyNj
 YwNTY1LC0yMDU5NDk3NTE5LDEzODMyMjA4NjddfQ==
 -->
