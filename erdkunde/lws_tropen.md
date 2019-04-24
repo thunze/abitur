@@ -35,8 +35,8 @@ Vorteile | Nachteile
 --- | ---
 <li>ausgereift, traditionell</li> | <li>große Fläche nötig</li>
 <li>hohe Erträge / geringe Missernte</li> | <li>kaum für den *Weltmarkt* geeignet</li>
-<li>nachhaltig</li> |
-<li>Schutz vor Sonneneinstrahlung</li> |
+<li>nachhaltig</li> | <li>geringeres Einkommen</li>
+<li>Schutz vor Sonneneinstrahlung</li> | <li>Rodung nötig</li>
 <li>Schutz vor hohem Niederschlag</li> |
 <li>an den Naturraum angepasst</li> |
 <li>für Großfamilien geeignet</li> |
@@ -78,8 +78,9 @@ Vorteile | Nachteile
 - jemand sollte auf *Nachhaltigkeit* achten und Arbeitsplätze und Perspektiven für die Bevölkerung schaffen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NTY0NjIxNyw0MDAyOTM2NDMsLTEwNj
-QwNjQ4MDIsMzc1ODkzMjQ3LC0xOTkxODk5NzQ3LDg3OTI0OTY2
-NSwtMTQwNTg3NzgyMywxNDYyNjU5MjY1LC05NTM3OTU1NTAsMz
-EyNjYwNTY1LC0yMDU5NDk3NTE5LDEzODMyMjA4NjddfQ==
+eyJoaXN0b3J5IjpbLTE1MzEwODI5MDQsMTU5NTY0NjIxNyw0MD
+AyOTM2NDMsLTEwNjQwNjQ4MDIsMzc1ODkzMjQ3LC0xOTkxODk5
+NzQ3LDg3OTI0OTY2NSwtMTQwNTg3NzgyMywxNDYyNjU5MjY1LC
+05NTM3OTU1NTAsMzEyNjYwNTY1LC0yMDU5NDk3NTE5LDEzODMy
+MjA4NjddfQ==
 -->
