@@ -37,6 +37,9 @@
 	- für Großfamilien geeignet
 	- kaum Samenkauf nötig
 	- arbeitsintensiv **> besonders für Entwicklungsländer gut**
+- **Nachteile:**
+	- große Fläche nötig
+	- 
 
 ### Kleinbäuerliche Landwirtschaft
 
@@ -45,6 +48,6 @@
 ## Landgrabbing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4OTAwOTQ5MCwtOTUzNzk1NTUwLDMxMj
-Y2MDU2NSwtMjA1OTQ5NzUxOSwxMzgzMjIwODY3XX0=
+eyJoaXN0b3J5IjpbLTE5OTYwMjU1MjAsLTk1Mzc5NTU1MCwzMT
+I2NjA1NjUsLTIwNTk0OTc1MTksMTM4MzIyMDg2N119
 -->
