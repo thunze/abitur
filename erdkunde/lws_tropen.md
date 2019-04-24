@@ -51,8 +51,9 @@ Vorteile | Nachteile
 ## Landgrabbing *(Aufgabe 2 & 3)*
 
 - es gibt keine / eine **schlechte Regelung** von Landbesitz in einem Staat (meist Entwicklungsland)
-- Einwohner nutzen
+- Einwohner nutzen dieses Land ohne wirkliche Genehmigung
+- Staat verpachtet das Land an Unternehmen, Bauern 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc3MTU1NDE3LC05NTM3OTU1NTAsMzEyNj
-YwNTY1LC0yMDU5NDk3NTE5LDEzODMyMjA4NjddfQ==
+eyJoaXN0b3J5IjpbMTAxMzAwMzk0OSwtOTUzNzk1NTUwLDMxMj
+Y2MDU2NSwtMjA1OTQ5NzUxOSwxMzgzMjIwODY3XX0=
 -->
