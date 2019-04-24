@@ -39,7 +39,7 @@
 
 Sektor | Bereiche
 --- | ---
-Primär | Landwirtschaft, Forstwirtschaft Fischfang
+Primär | Landwirtschaft, Forstwirtschaft, Fischfang
 Sekundär | Industrie / Produktion, Baugewerbe
 Tertiär | Dienstleistungen
 
@@ -53,8 +53,8 @@ Tertiär | Dienstleistungen
 - um 5 *Prozent* gestiegen vs. um 5 *Prozent**punkte*** gestiegen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NzU1ODgxNSwyMDI1OTU0NDcwLC0xMz
-Q5NzI3MTEyLDcyNzM5MTEwMSwtMTc5MzA4ODEyMywtODkyMzQz
-NjI0LC02OTY3OTYzOTMsLTE2OTEzMjExMzAsLTI4NTI5NDMxMS
-wtODI0MzA2MjQxXX0=
+eyJoaXN0b3J5IjpbMTMyOTAxMDYzMywxNDQ3NTU4ODE1LDIwMj
+U5NTQ0NzAsLTEzNDk3MjcxMTIsNzI3MzkxMTAxLC0xNzkzMDg4
+MTIzLC04OTIzNDM2MjQsLTY5Njc5NjM5MywtMTY5MTMyMTEzMC
+wtMjg1Mjk0MzExLC04MjQzMDYyNDFdfQ==
 -->
