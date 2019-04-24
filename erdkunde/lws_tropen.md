@@ -48,6 +48,9 @@ Vorteile | Nachteile
 
 ### Plantagenwirtschaft
 
+### Wanderfeldbau
+- 
+
 ## Landgrabbing *(Aufgabe 2 & 3)*
 
 - es gibt eine **schlechte Regelung** von Landbesitz in einem Staat (meist *Entwicklungsland*)
@@ -58,6 +61,6 @@ Vorteile | Nachteile
 - jemand sollte auf *Nachhaltigkeit* achten und Arbeitsplätze und Perspektiven für die Bevölkerung schaffen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NDc5ODgwNCwtOTUzNzk1NTUwLDMxMj
-Y2MDU2NSwtMjA1OTQ5NzUxOSwxMzgzMjIwODY3XX0=
+eyJoaXN0b3J5IjpbLTE5OTMwMjI3MDAsLTk1Mzc5NTU1MCwzMT
+I2NjA1NjUsLTIwNTk0OTc1MTksMTM4MzIyMDg2N119
 -->
