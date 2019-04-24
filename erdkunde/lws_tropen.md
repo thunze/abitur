@@ -33,18 +33,19 @@
 Vorteile | Nachteile
 --- | ---
 <li>ausgereift, traditionell</li> | <li>große Fläche nötig</li>
-<li>hohe Erträge / geringe Missernte</li> | <li>kaum für den Weltmarkt geeignet</li>
+<li>hohe Erträge / geringe Missernte</li> | <li>kaum für den *Weltmarkt* geeignet</li>
 <li>nachhaltig</li> |
 <li>Schutz vor Sonneneinstrahlung</li> |
 <li>Schutz vor hohem Niederschlag</li> |
 <li>an den Naturraum angepasst</li> |
 <li>für Großfamilien geeignet</li> |
 <li>kaum Samenkauf nötig</li> |
-<li>arbeitsintensiv</li> |
+<li>*arbeitsintensiv*</li> |
 
 **> besonders für Entwicklungsländer geeignet (wenig Kapital nötig)**
 
 ### Kleinbäuerliche Landwirtschaft
+
 
 ### Plantagenwirtschaft
 
@@ -66,6 +67,7 @@ Vorteile | Nachteile
 - jemand sollte auf *Nachhaltigkeit* achten und Arbeitsplätze und Perspektiven für die Bevölkerung schaffen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MjY1OTI2NSwtOTUzNzk1NTUwLDMxMj
-Y2MDU2NSwtMjA1OTQ5NzUxOSwxMzgzMjIwODY3XX0=
+eyJoaXN0b3J5IjpbLTE0MDU4Nzc4MjMsMTQ2MjY1OTI2NSwtOT
+UzNzk1NTUwLDMxMjY2MDU2NSwtMjA1OTQ5NzUxOSwxMzgzMjIw
+ODY3XX0=
 -->
