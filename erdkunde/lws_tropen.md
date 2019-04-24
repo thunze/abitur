@@ -29,17 +29,17 @@
 - **Solar:**
 	- verschiedene Pflanzen
 	- nicht genießbare Teile werden als **Tierfutter** und als **Dünger** verwendet
-- **Vorteile:**
-	- ausgereift, traditionell
-	- hohe Erträge / geringe Missernte
-	- nachhaltig
-	- Schutz vor Sonneneinstrahlung und hohem Niederschlag
-	- an den Naturraum angepasst
-	- für Großfamilien geeignet
-	- kaum Samenkauf nötig
-	- arbeitsintensiv **> besonders für Entwicklungsländer gut**
-- **Nachteile:**
-	- große Fläche nötig
+
+Vorteile | Nachteile
+--- | ---
+ausgereift, traditionell | große Fläche nötig
+hohe Erträge / geringe Missernte
+nachhaltig
+Schutz vor Sonneneinstrahlung und hohem Niederschlag
+an den Naturraum angepasst
+für Großfamilien geeignet
+kaum Samenkauf nötig
+arbeitsintensiv **> besonders für Entwicklungsländer gut**
 	- kaum für den Weltmarkt geeignet
 
 ### Kleinbäuerliche Landwirtschaft
@@ -47,9 +47,9 @@
 
 ### Plantagenwirtschaft
 
-## Landgrabbing
+## Landgrabbing (Aufgabe 2 & 3)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NzQ2OTAyNywtOTUzNzk1NTUwLDMxMj
-Y2MDU2NSwtMjA1OTQ5NzUxOSwxMzgzMjIwODY3XX0=
+eyJoaXN0b3J5IjpbMjc4NDUxMjc5LC05NTM3OTU1NTAsMzEyNj
+YwNTY1LC0yMDU5NDk3NTE5LDEzODMyMjA4NjddfQ==
 -->
