@@ -16,7 +16,7 @@
 - geringe *Kationenaustauschkapazität*: viele Düngergaben nötig, dieser wird schnell ausgewaschen
 - Produktivität der Felder geht nach dem Roden schnell zurück: großer zusätzlicher Aufwand
 
-## Nutzungsformen / Wirtschaftssysteme (Au)
+## Nutzungsformen / Wirtschaftssysteme *(Aufgabe 2 & 3)*
 
 ### Milpa-Solar-System
 - **Subsistenzwirtschaft**, nur ausgewählte Produkte werden verkauft
@@ -45,13 +45,14 @@ Vorteile | Nachteile
 **> besonders für Entwicklungsländer geeignet (wenig Kapital nötig)**
 
 ### Kleinbäuerliche Landwirtschaft
-- 
 
 ### Plantagenwirtschaft
 
-## Landgrabbing (Aufgabe 2 & 3)
+## Landgrabbing *(Aufgabe 2 & 3)*
 
+- es gibt keine / eine **schlechte Regelung** von Landbesitz in einem Staat (meist Entwicklungsland)
+- Einwohner nutzen
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNTUzODkxOCwtOTUzNzk1NTUwLDMxMj
-Y2MDU2NSwtMjA1OTQ5NzUxOSwxMzgzMjIwODY3XX0=
+eyJoaXN0b3J5IjpbNTc3MTU1NDE3LC05NTM3OTU1NTAsMzEyNj
+YwNTY1LC0yMDU5NDk3NTE5LDEzODMyMjA4NjddfQ==
 -->
