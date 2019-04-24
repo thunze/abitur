@@ -49,7 +49,11 @@ Vorteile | Nachteile
 ### Plantagenwirtschaft
 
 ### Wanderfeldbau
-- 
+- **Subsistenzwirtschaft**
+- abwechselnde Nutzung von Ackerfläche durch **Verlegung** von Siedlungen etc.
+- Nährstoffe durch A
+
+**> keine langfristige Nutzung möglich**
 
 ## Landgrabbing *(Aufgabe 2 & 3)*
 
@@ -61,6 +65,6 @@ Vorteile | Nachteile
 - jemand sollte auf *Nachhaltigkeit* achten und Arbeitsplätze und Perspektiven für die Bevölkerung schaffen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTMwMjI3MDAsLTk1Mzc5NTU1MCwzMT
-I2NjA1NjUsLTIwNTk0OTc1MTksMTM4MzIyMDg2N119
+eyJoaXN0b3J5IjpbNjA5MDgwNjQwLC05NTM3OTU1NTAsMzEyNj
+YwNTY1LC0yMDU5NDk3NTE5LDEzODMyMjA4NjddfQ==
 -->
