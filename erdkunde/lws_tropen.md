@@ -53,9 +53,9 @@ Vorteile | Nachteile
 - es gibt keine / eine **schlechte Regelung** von Landbesitz in einem Staat (meist Entwicklungsland)
 - Einwohner nutzen dieses Land ohne wirkliche Genehmigung
 - Staat verpachtet das Land an **Unternehmen**, Bauern wird das Land **weggenommen**
-- Unternehmen nutzen das Land zur *Wasserversorgung* anderer Staaten oder zur *Landwirtschaft*
-- ggf. werden Bauern ausgebeutet, falls sie bei dem entsprechenden Unternehmen 
+- Unternehmen nutzen das Land zur ***Wasserversorgung*** anderer Staaten oder zur *Landwirtschaft* (vorrangig ***Plantagenwirtschaft***, siehe oben)
+- meist werden *Cash-Crops* angebaut, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk1NjA1MjM5LC05NTM3OTU1NTAsMzEyNj
+eyJoaXN0b3J5IjpbMzg0MDYxMTI1LC05NTM3OTU1NTAsMzEyNj
 YwNTY1LC0yMDU5NDk3NTE5LDEzODMyMjA4NjddfQ==
 -->
