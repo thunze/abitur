@@ -50,13 +50,14 @@ Vorteile | Nachteile
 
 ## Landgrabbing *(Aufgabe 2 & 3)*
 
-- es gibt keine / eine **schlechte Regelung** von Landbesitz in einem Staat (meist Entwicklungsland)
+- es gibt eine **schlechte Regelung** von Landbesitz in einem Staat (meist *Entwicklungsland*)
 - Einwohner nutzen dieses Land ohne wirkliche Genehmigung
 - Staat verpachtet das Land an **Unternehmen**, Bauern wird das Land **weggenommen**
 - Unternehmen nutzen das Land zur *Wasserversorgung* anderer Staaten oder zur *Landwirtschaft* (vorrangig ***Plantagenwirtschaft***, siehe oben)
-- meist werden *Cash-Crops* angebaut, *Food-Crops* wären für die Unterstützung der Einheimischen sinnvoller
+- meist werden *Cash-Crops* für den **Export** angebaut, *Food-Crops* wären für die Unterstützung der Einheimischen deutlich sinnvoller
 - jemand sollte auf *Nachhaltigkeit* achten und Arbeitsplätze und Perspektiven für die Bevölkerung schaffen
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUyNjk0Nzc2LC05NTM3OTU1NTAsMzEyNj
-YwNTY1LC0yMDU5NDk3NTE5LDEzODMyMjA4NjddfQ==
+eyJoaXN0b3J5IjpbMTI3NDc5ODgwNCwtOTUzNzk1NTUwLDMxMj
+Y2MDU2NSwtMjA1OTQ5NzUxOSwxMzgzMjIwODY3XX0=
 -->
