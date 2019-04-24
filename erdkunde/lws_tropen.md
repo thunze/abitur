@@ -29,7 +29,7 @@
 	- verschiedene Pflanzen
 	- nicht genießbare Teile werden als **Tierfutter** und als **Dünger** verwendet
 - **Vorteile:**
-	- ausgereift, traditionell | 
+	- ausgereift, traditionell
 	- hohe Erträge / geringe Missernte
 	- nachhaltig
 	- Schutz vor Sonneneinstrahlung und hohem Niederschlag
@@ -39,7 +39,7 @@
 	- arbeitsintensiv **> besonders für Entwicklungsländer gut**
 - **Nachteile:**
 	- große Fläche nötig
-	- weniger für 
+	- kaum für den Weltmarkt geeignet
 
 ### Kleinbäuerliche Landwirtschaft
 
@@ -48,6 +48,6 @@
 ## Landgrabbing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNzAwNDAwOSwtOTUzNzk1NTUwLDMxMj
+eyJoaXN0b3J5IjpbMTgyMzY5NDE5NCwtOTUzNzk1NTUwLDMxMj
 Y2MDU2NSwtMjA1OTQ5NzUxOSwxMzgzMjIwODY3XX0=
 -->
