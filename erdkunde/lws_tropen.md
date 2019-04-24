@@ -54,7 +54,8 @@ Vorteile | Nachteile
 
 Vorteile | Nachteile
 --- | ---
-| - meist **keine* Weiterverarbeitung |
+| <li>meist **keine** Weiterverarbeitung</li>
+| <li>ggf. durch Hybrid</li>
 
 ### Plantagenwirtschaft
 
@@ -77,8 +78,8 @@ Vorteile | Nachteile
 - jemand sollte auf *Nachhaltigkeit* achten und Arbeitsplätze und Perspektiven für die Bevölkerung schaffen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyODE5NDE4NSw0MDAyOTM2NDMsLTEwNj
-QwNjQ4MDIsMzc1ODkzMjQ3LC0xOTkxODk5NzQ3LDg3OTI0OTY2
-NSwtMTQwNTg3NzgyMywxNDYyNjU5MjY1LC05NTM3OTU1NTAsMz
-EyNjYwNTY1LC0yMDU5NDk3NTE5LDEzODMyMjA4NjddfQ==
+eyJoaXN0b3J5IjpbODI0MjUzODM0LDQwMDI5MzY0MywtMTA2ND
+A2NDgwMiwzNzU4OTMyNDcsLTE5OTE4OTk3NDcsODc5MjQ5NjY1
+LC0xNDA1ODc3ODIzLDE0NjI2NTkyNjUsLTk1Mzc5NTU1MCwzMT
+I2NjA1NjUsLTIwNTk0OTc1MTksMTM4MzIyMDg2N119
 -->
