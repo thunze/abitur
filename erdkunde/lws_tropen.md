@@ -16,7 +16,7 @@
 - geringe *Kationenaustauschkapazität*: viele Düngergaben nötig, dieser wird schnell ausgewaschen
 - Produktivität der Felder geht nach dem Roden schnell zurück: großer zusätzlicher Aufwand
 
-## Nutzungsformen / Wirtschaftssysteme
+## Nutzungsformen / Wirtschaftssysteme (Au)
 
 ### Milpa-Solar-System
 - **Subsistenzwirtschaft**, nur ausgewählte Produkte werden verkauft
@@ -32,16 +32,17 @@
 
 Vorteile | Nachteile
 --- | ---
-<li>ausgereift, traditionell | große Fläche nötig
-<li>hohe Erträge / geringe Missernte | kaum für den Weltmarkt geeignet<li>
-nachhaltig |
-Schutz vor Sonneneinstrahlung |
-Schutz vor hohem Niederschlag |
-an den Naturraum angepasst |
-für Großfamilien geeignet |
-kaum Samenkauf nötig |
-arbeitsintensiv |
-**> besonders für Entwicklungsländer gut**
+<li>ausgereift, traditionell</li> | <li>große Fläche nötig</li>
+<li>hohe Erträge / geringe Missernte</li> | <li>kaum für den Weltmarkt geeignet</li>
+<li>nachhaltig</li> |
+<li>Schutz vor Sonneneinstrahlung</li> |
+<li>Schutz vor hohem Niederschlag</li> |
+<li>an den Naturraum angepasst</li> |
+<li>für Großfamilien geeignet</li> |
+<li>kaum Samenkauf nötig</li> |
+<li>arbeitsintensiv</li> |
+
+**> besonders für Entwicklungsländer geeignet (wenig Kapital nötig)**
 
 ### Kleinbäuerliche Landwirtschaft
 - 
@@ -51,6 +52,6 @@ arbeitsintensiv |
 ## Landgrabbing (Aufgabe 2 & 3)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEzNDE2ODY2LC05NTM3OTU1NTAsMzEyNj
-YwNTY1LC0yMDU5NDk3NTE5LDEzODMyMjA4NjddfQ==
+eyJoaXN0b3J5IjpbMTEzNTUzODkxOCwtOTUzNzk1NTUwLDMxMj
+Y2MDU2NSwtMjA1OTQ5NzUxOSwxMzgzMjIwODY3XX0=
 -->
