@@ -23,7 +23,7 @@
 - große Ähnlichkeit zum *Stockwerkbau* im Regenwald (kleine Version)
 - Kombination mit **Viehzucht**
 - **Milpa:**
-	- Mais dient Bohne als Rankhilfe
+	- Mais (größte Pflanze) dient Bohne als Rankhilfe
 	- Bohne fixiert Stickstoff und reichert Boden an
 	- Kürbis als *Erosionsschutz* **> Polykultur**
 - **Solar:**
@@ -67,7 +67,7 @@ Vorteile | Nachteile
 - jemand sollte auf *Nachhaltigkeit* achten und Arbeitsplätze und Perspektiven für die Bevölkerung schaffen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDU4Nzc4MjMsMTQ2MjY1OTI2NSwtOT
-UzNzk1NTUwLDMxMjY2MDU2NSwtMjA1OTQ5NzUxOSwxMzgzMjIw
-ODY3XX0=
+eyJoaXN0b3J5IjpbODc5MjQ5NjY1LC0xNDA1ODc3ODIzLDE0Nj
+I2NTkyNjUsLTk1Mzc5NTU1MCwzMTI2NjA1NjUsLTIwNTk0OTc1
+MTksMTM4MzIyMDg2N119
 -->
