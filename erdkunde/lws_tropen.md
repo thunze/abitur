@@ -49,10 +49,12 @@ Vorteile | Nachteile
 ### Plantagenwirtschaft
 
 ### Wanderfeldbau
-- **Subsistenzwirtschaft**
+- **Subsistenzwirtschaft** **> *Food-Crops***
 - abwechselnde Nutzung von Ackerfläche durch **Verlegung** von Siedlungen etc.
 - *Brandrodung* **> nicht ökologisch sinnvoll**
-- Nährstoffe durch Asche der *Brandrodung* sind nach 2–3 Jahren aufgebraucht, deshalb keine langfristige Nutzung möglich
+- Nährstoffe durch Asche der *Brandrodung* sind nach 2–3 Jahren aufgebraucht, deshalb **keine langfristige** Nutzung möglich
+- *Brachezeit:* ca. 15–20 Jahre
+- Familie bräuchte 5–6 Felder um sich zu ernähren
 
 ## Landgrabbing *(Aufgabe 2 & 3)*
 
@@ -64,6 +66,6 @@ Vorteile | Nachteile
 - jemand sollte auf *Nachhaltigkeit* achten und Arbeitsplätze und Perspektiven für die Bevölkerung schaffen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMDgyMjQ4OSwtOTUzNzk1NTUwLDMxMj
+eyJoaXN0b3J5IjpbMTQ2MjY1OTI2NSwtOTUzNzk1NTUwLDMxMj
 Y2MDU2NSwtMjA1OTQ5NzUxOSwxMzgzMjIwODY3XX0=
 -->
