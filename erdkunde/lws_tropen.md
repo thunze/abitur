@@ -1,6 +1,6 @@
 # Landwirtschaft in den Tropen & Subtropen
 
-## Naturraum *(Aufgabe )*
+## Naturräumliche Voraussetzungen *(Aufgabe 1)*
 
 ### Eigenschaften tropischer Böden
 - hohe *Verwitterungstiefe* (mineralisches Gestein liegt tief)
@@ -21,7 +21,11 @@
 ### Milpa-Solar-System
 - **Subsistenzwirtschaft**, nur ausgewählte Produkte werden verkauft
 - große Ähnlichkeit zum *Stockwerkbau* im Regenwald (kleine Version)
-- 
+- **Milpa:**
+	- Mais dient Bohne als Rankhilfe
+	- Bohne fixiert Stickstoff und reichert Boden an
+	- 
+- **Solar:**
 
 ### Kleinbäuerliche Landwirtschaft
 
@@ -30,6 +34,6 @@
 ## Landgrabbing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTYyODkwMjAsLTk1Mzc5NTU1MCwzMT
+eyJoaXN0b3J5IjpbLTE4NDc3ODMxOTksLTk1Mzc5NTU1MCwzMT
 I2NjA1NjUsLTIwNTk0OTc1MTksMTM4MzIyMDg2N119
 -->
