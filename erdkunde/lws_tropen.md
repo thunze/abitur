@@ -28,7 +28,15 @@
 - **Solar:**
 	- verschiedene Pflanzen
 	- nicht genießbare Teile werden als **Tierfutter** und als **Dünger** verwendet
-- 
+
+Vorteile | Nachteile
+--- | ---
+ausgereift, traditionell
+hohe Erträge
+nachhaltig
+Schutz vor Sonneneinstrahlung und hohem Niederschlag
+an den Naturraum angepasst
+bietet Arbeitsplätze
 
 ### Kleinbäuerliche Landwirtschaft
 
@@ -37,6 +45,6 @@
 ## Landgrabbing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTQ4Nzg2NzAsLTk1Mzc5NTU1MCwzMT
+eyJoaXN0b3J5IjpbLTE5OTg4MDQ4MTEsLTk1Mzc5NTU1MCwzMT
 I2NjA1NjUsLTIwNTk0OTc1MTksMTM4MzIyMDg2N119
 -->
