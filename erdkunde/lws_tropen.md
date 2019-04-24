@@ -21,6 +21,7 @@
 ### Milpa-Solar-System
 - **Subsistenzwirtschaft**, nur ausgewählte Produkte werden verkauft
 - große Ähnlichkeit zum *Stockwerkbau* im Regenwald (kleine Version)
+- Kombination mit **Viehzucht**
 - **Milpa:**
 	- Mais dient Bohne als Rankhilfe
 	- Bohne fixiert Stickstoff und reichert Boden an
@@ -42,12 +43,13 @@
 	- kaum für den Weltmarkt geeignet
 
 ### Kleinbäuerliche Landwirtschaft
+- 
 
 ### Plantagenwirtschaft
 
 ## Landgrabbing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMzY5NDE5NCwtOTUzNzk1NTUwLDMxMj
+eyJoaXN0b3J5IjpbMTA5NzQ2OTAyNywtOTUzNzk1NTUwLDMxMj
 Y2MDU2NSwtMjA1OTQ5NzUxOSwxMzgzMjIwODY3XX0=
 -->
