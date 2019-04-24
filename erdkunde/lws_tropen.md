@@ -31,12 +31,13 @@
 
 Vorteile | Nachteile
 --- | ---
-ausgereift, traditionell
-hohe Erträge
+ausgereift, traditionell | arbeitsinten
+hohe Erträge / geringe Missernte
 nachhaltig
 Schutz vor Sonneneinstrahlung und hohem Niederschlag
 an den Naturraum angepasst
-bietet Arbeitsplätze
+für Großfamilien
+kaum Samenkauf nötig
 
 ### Kleinbäuerliche Landwirtschaft
 
@@ -45,6 +46,6 @@ bietet Arbeitsplätze
 ## Landgrabbing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTg4MDQ4MTEsLTk1Mzc5NTU1MCwzMT
-I2NjA1NjUsLTIwNTk0OTc1MTksMTM4MzIyMDg2N119
+eyJoaXN0b3J5IjpbLTY1MTQzNTA4OCwtOTUzNzk1NTUwLDMxMj
+Y2MDU2NSwtMjA1OTQ5NzUxOSwxMzgzMjIwODY3XX0=
 -->
