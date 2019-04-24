@@ -19,7 +19,7 @@
 ## Nutzungsformen / Wirtschaftssysteme *(Aufgabe 2 & 3)*
 
 ### Milpa-Solar-System
-- **Subsistenzwirtschaft**, nur ausgewählte Produkte werden verkauft
+- **Subsistenzwirtschaft**, nur ausgewählte Produkte werden verkauft **> *Food-Crops***
 - große Ähnlichkeit zum *Stockwerkbau* im Regenwald (kleine Version)
 - Kombination mit **Viehzucht**
 - **Milpa:**
@@ -54,8 +54,8 @@ Vorteile | Nachteile
 - Einwohner nutzen dieses Land ohne wirkliche Genehmigung
 - Staat verpachtet das Land an **Unternehmen**, Bauern wird das Land **weggenommen**
 - Unternehmen nutzen das Land zur ***Wasserversorgung*** anderer Staaten oder zur *Landwirtschaft* (vorrangig ***Plantagenwirtschaft***, siehe oben)
-- meist werden *Cash-Crops* angebaut, 
+- meist werden *Cash-Crops* angebaut, *Food-Crops* wären für die Unterstützung der Einheimischen sinnvoller                                a
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg0MDYxMTI1LC05NTM3OTU1NTAsMzEyNj
-YwNTY1LC0yMDU5NDk3NTE5LDEzODMyMjA4NjddfQ==
+eyJoaXN0b3J5IjpbMTA2MDg1NDI4NSwtOTUzNzk1NTUwLDMxMj
+Y2MDU2NSwtMjA1OTQ5NzUxOSwxMzgzMjIwODY3XX0=
 -->
