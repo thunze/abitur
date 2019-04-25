@@ -67,9 +67,9 @@ Vorteile | Nachteile
 <li>bietet auch für ungebildete Menschen **Arbeit**</li> | <li>ggf. wirtschaftliche *Monostruktur*, ggf. auch *Mono**kultur***</li>
 <li>Anbindung an den *Weltmarkt* durch *Cash-Crops*</li> | <li>oft nur Konzentration auf *Cash-Crops* / "Konkurrenz"</li>
 <li>Maschinisierung möglich *(ökon.)*</li> | <li>Zwischenhändler schöpfen Kapital ab</li>
-<li>Boden **unbeschädigt** durch Handarbeit</li> | <li>**Wassermangel** (in den Subtropen)</li>
+<li>Boden **unbeschädigt** durch Handarbeit</li> | <li>**Wassermangel**, da hohe Verdunstung (insb. Subtropen)</li>
 <li>*arbeitsintensiv*</li> | <li>ggf. Abhängigkeit von Konzernen durch *Hybridsaatgut*</li>
-| | <li>häufig **Kinderarbeit**</li>
+<li>Subventionierung möglich</li> | | <li>häufig **Kinderarbeit**</li>
 | | <li>Abhängigkeit von Zwischenhändlern (Weltmarktanbindung)</li>
 | | <li>ggf. *Brachezeiten* nicht beachtet (zu intensiver Anbau)</li>
 | | <li>Saatgut und Agrochemikalien müssen gekauft werden</li>
@@ -97,10 +97,10 @@ Vorteile | Nachteile
 - jemand sollte auf *Nachhaltigkeit* achten und Arbeitsplätze und Perspektiven für die Bevölkerung schaffen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYyMDAxNDcyLC0xMjQ0MTEwODQ0LDE3NT
-Q5NTg2ODQsMTA4NDU0MjQzOSwxMTI4MTU5MzI4LDE1OTU2NDYy
-MTcsNDAwMjkzNjQzLC0xMDY0MDY0ODAyLDM3NTg5MzI0NywtMT
-k5MTg5OTc0Nyw4NzkyNDk2NjUsLTE0MDU4Nzc4MjMsMTQ2MjY1
-OTI2NSwtOTUzNzk1NTUwLDMxMjY2MDU2NSwtMjA1OTQ5NzUxOS
-wxMzgzMjIwODY3XX0=
+eyJoaXN0b3J5IjpbMjAyOTM0NDc1Miw2NjIwMDE0NzIsLTEyND
+QxMTA4NDQsMTc1NDk1ODY4NCwxMDg0NTQyNDM5LDExMjgxNTkz
+MjgsMTU5NTY0NjIxNyw0MDAyOTM2NDMsLTEwNjQwNjQ4MDIsMz
+c1ODkzMjQ3LC0xOTkxODk5NzQ3LDg3OTI0OTY2NSwtMTQwNTg3
+NzgyMywxNDYyNjU5MjY1LC05NTM3OTU1NTAsMzEyNjYwNTY1LC
+0yMDU5NDk3NTE5LDEzODMyMjA4NjddfQ==
 -->
