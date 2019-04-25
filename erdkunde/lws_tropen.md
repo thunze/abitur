@@ -78,7 +78,8 @@ Vorteile | Nachteile
 ### Plantagenwirtschaft
 - auf ***Cash-Crops*** konzentriert
 - Konkurrenz zur Nahrungsmittelproduktion für den Eigenbedarf
-- *arbeitsintensiv* mit einheimischen Arbeitern, *kapitalintensiv* durch *Mechanisierung*
+- *arbeitsintensiver* Anbau von einheimischen Arbeitern
+- *kapitalintensiv* durch *Mechanisierung*
 
 Vorteile | Nachteile
 --- | ---
@@ -111,7 +112,7 @@ Vorteile | Nachteile
 - jemand sollte auf *Nachhaltigkeit* achten und Arbeitsplätze und Perspektiven für die Bevölkerung schaffen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI4ODI0NTU0LC00NjUwNzQ4OTYsNjYyMD
+eyJoaXN0b3J5IjpbMzM4Nzc0NDY0LC00NjUwNzQ4OTYsNjYyMD
 AxNDcyLC0xMjQ0MTEwODQ0LDE3NTQ5NTg2ODQsMTA4NDU0MjQz
 OSwxMTI4MTU5MzI4LDE1OTU2NDYyMTcsNDAwMjkzNjQzLC0xMD
 Y0MDY0ODAyLDM3NTg5MzI0NywtMTk5MTg5OTc0Nyw4NzkyNDk2
