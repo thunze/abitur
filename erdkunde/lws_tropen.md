@@ -88,7 +88,7 @@ Vorteile | Nachteile
 <li>Anbau auf den Markt zugeschnitten</li> | <li>Belastung durch **mechanisierte Verteilung** von Agrochemikalien</li>
 <li>Konzerne stellen **Arbeitsgeräte** und **Organisation** (von Verarbeitung, Transport, Vertrieb etc.) zur Verfügung</li> | <li>Abhängigkeit von **Agrarunternehmen**</li>
 <li>**hoher Ertrag** pro Fläche</li> | <li>großer Teil der Gewinne fließt ins Ausland</li>
-| | <li>***Monokultur***</li>
+<li>Teile der **Weiterverarbeitung** im Produktionsland</li> | <li>***Monokultur***</li>
 | | <li>*Land Grabbing* als Faktor für Einheimische </li>
 
 ### Wanderfeldbau
@@ -110,7 +110,7 @@ Vorteile | Nachteile
 - jemand sollte auf *Nachhaltigkeit* achten und Arbeitsplätze und Perspektiven für die Bevölkerung schaffen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM3ODkwNTgxLC00NjUwNzQ4OTYsNjYyMD
+eyJoaXN0b3J5IjpbNTM3NDc3ODE5LC00NjUwNzQ4OTYsNjYyMD
 AxNDcyLC0xMjQ0MTEwODQ0LDE3NTQ5NTg2ODQsMTA4NDU0MjQz
 OSwxMTI4MTU5MzI4LDE1OTU2NDYyMTcsNDAwMjkzNjQzLC0xMD
 Y0MDY0ODAyLDM3NTg5MzI0NywtMTk5MTg5OTc0Nyw4NzkyNDk2
