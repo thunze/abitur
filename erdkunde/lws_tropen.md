@@ -9,7 +9,7 @@
 - *Maschinisierung:* Umstellung auf *kapitalintensivere* Bewirtschaftung durch Maschinen
 - *Agrochemikalien:* Düngemittel; Pestizide, Fungizide etc.
 
-## Bewirtschaftung tropischer Böden *(Aufgabe 1-)*
+## Bewirtschaftung tropischer Böden *(Aufgabe 1-3)*
 
 Gunstfaktoren | Ungunstfaktoren
 --- | ---
@@ -97,10 +97,10 @@ Vorteile | Nachteile
 - jemand sollte auf *Nachhaltigkeit* achten und Arbeitsplätze und Perspektiven für die Bevölkerung schaffen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDY2MTU4MzMsLTEyNDQxMTA4NDQsMT
-c1NDk1ODY4NCwxMDg0NTQyNDM5LDExMjgxNTkzMjgsMTU5NTY0
-NjIxNyw0MDAyOTM2NDMsLTEwNjQwNjQ4MDIsMzc1ODkzMjQ3LC
-0xOTkxODk5NzQ3LDg3OTI0OTY2NSwtMTQwNTg3NzgyMywxNDYy
-NjU5MjY1LC05NTM3OTU1NTAsMzEyNjYwNTY1LC0yMDU5NDk3NT
-E5LDEzODMyMjA4NjddfQ==
+eyJoaXN0b3J5IjpbNjYyMDAxNDcyLC0xMjQ0MTEwODQ0LDE3NT
+Q5NTg2ODQsMTA4NDU0MjQzOSwxMTI4MTU5MzI4LDE1OTU2NDYy
+MTcsNDAwMjkzNjQzLC0xMDY0MDY0ODAyLDM3NTg5MzI0NywtMT
+k5MTg5OTc0Nyw4NzkyNDk2NjUsLTE0MDU4Nzc4MjMsMTQ2MjY1
+OTI2NSwtOTUzNzk1NTUwLDMxMjY2MDU2NSwtMjA1OTQ5NzUxOS
+wxMzgzMjIwODY3XX0=
 -->
