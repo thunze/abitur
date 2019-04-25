@@ -76,13 +76,14 @@ Vorteile | Nachteile
 | | <li>*arbeitsintensiv*</li>
 
 ### Plantagenwirtschaft
-- im Normalfall auf ***Cash-Crops*** konzentriert
+- auf ***Cash-Crops*** konzentriert
 - Konkurrenz zur Nahrungsmittelproduktion für den Eigenbedarf
 - *arbeitsintensiv* mit einheimischen Arbeitern, *kapitalintensiv* durch *Mechanisierung*
 
 Vorteile | Nachteile
 --- | ---
-- 
+<li>großflächiger Anbau</li> | <li>meist schlecht bezahlte Arbeiter</li>
+<li>effizient durch Mechanisierung</li> | <li></li>
 
 - ***TODO: Präsentation ab Folie 27***
 
@@ -105,10 +106,10 @@ Vorteile | Nachteile
 - jemand sollte auf *Nachhaltigkeit* achten und Arbeitsplätze und Perspektiven für die Bevölkerung schaffen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NDE5MDg3MywtNDY1MDc0ODk2LDY2Mj
-AwMTQ3MiwtMTI0NDExMDg0NCwxNzU0OTU4Njg0LDEwODQ1NDI0
-MzksMTEyODE1OTMyOCwxNTk1NjQ2MjE3LDQwMDI5MzY0MywtMT
-A2NDA2NDgwMiwzNzU4OTMyNDcsLTE5OTE4OTk3NDcsODc5MjQ5
-NjY1LC0xNDA1ODc3ODIzLDE0NjI2NTkyNjUsLTk1Mzc5NTU1MC
-wzMTI2NjA1NjUsLTIwNTk0OTc1MTksMTM4MzIyMDg2N119
+eyJoaXN0b3J5IjpbMjUxMzA5NTcxLC00NjUwNzQ4OTYsNjYyMD
+AxNDcyLC0xMjQ0MTEwODQ0LDE3NTQ5NTg2ODQsMTA4NDU0MjQz
+OSwxMTI4MTU5MzI4LDE1OTU2NDYyMTcsNDAwMjkzNjQzLC0xMD
+Y0MDY0ODAyLDM3NTg5MzI0NywtMTk5MTg5OTc0Nyw4NzkyNDk2
+NjUsLTE0MDU4Nzc4MjMsMTQ2MjY1OTI2NSwtOTUzNzk1NTUwLD
+MxMjY2MDU2NSwtMjA1OTQ5NzUxOSwxMzgzMjIwODY3XX0=
 -->
