@@ -83,8 +83,10 @@ Vorteile | Nachteile
 Vorteile | Nachteile
 --- | ---
 <li>großflächiger Anbau</li> | <li>meist schlecht bezahlte Arbeiter</li>
-<li>effizient durch Mechanisierung</li> | <li>Belastung von Natur und Boden durch Pestizide</li>
-| <li>Belastung durch Verteilung von Agrochemikalien durch Flugzeuge</li>
+<li>effizient durch Mechanisierung</li> | <li>Belastung von Natur und Boden durch Agrochemikalien</li>
+<li>Anbau auf den Markt zugeschnitten</li> | <li>Belastung durch mechanisierte Verteilung von Agrochemikalien</li>
+<li>Konzerne stellen **Arbeitsgeräte** und </li>
+
 
 - ***TODO: Präsentation ab Folie 27***
 
@@ -107,7 +109,7 @@ Vorteile | Nachteile
 - jemand sollte auf *Nachhaltigkeit* achten und Arbeitsplätze und Perspektiven für die Bevölkerung schaffen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNzYxMjE4MCwtNDY1MDc0ODk2LDY2Mj
+eyJoaXN0b3J5IjpbMTk1MDcxNjQxMiwtNDY1MDc0ODk2LDY2Mj
 AwMTQ3MiwtMTI0NDExMDg0NCwxNzU0OTU4Njg0LDEwODQ1NDI0
 MzksMTEyODE1OTMyOCwxNTk1NjQ2MjE3LDQwMDI5MzY0MywtMT
 A2NDA2NDgwMiwzNzU4OTMyNDcsLTE5OTE4OTk3NDcsODc5MjQ5
