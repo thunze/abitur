@@ -2,27 +2,24 @@
 
 ## Naturräumliche Voraussetzungen *(Aufgabe 1)*
 
-### Eigenschaften tropischer Böden
+### Eigenschaften tropischer Böden / Fachbegriffe
 - hohe *Verwitterungstiefe* (mineralisches Gestein liegt tief)
 - dünne *Humusschicht* (schwache Düngerfunktion von organischen Bestandteilen)
 - geringe *Kationenaustauschkapazität* (geringe Speicherbarkeit von Nährstoffen)
 - Abhängigkeit von *Mykorrhiza* (Filterung von Nährstoffen durch Pilze, bevor diese ausgewaschen werden)
 	**> allgemein: schwierig an Nährstoffe zu kommen**
 
-### Probleme bei der Bewirtschaftung tropischer Böden
-- 
-- geringe *Kationenaustauschkapazität*: viele Düngergaben nötig, dieser wird schnell ausgewaschen
-- Produktivität der Felder geht nach dem Roden schnell zurück: großer zusätzlicher Aufwand
+### Bewirtschaftung tropischer Böden
 
 Vorteile | Nachteile
 --- | ---
 <li>ganzjährig hohe Niederschläge (außer Subtropen)</li> | <li>regelmäßiger Starkregen begünstigt Bodenerosion</li>
 <li>gleichmäßig hohe Temperaturen</li> | <li>hohe Verdunstung durch Sonneneinstrahlung und Temperatur</li>
 <li>ganzjährige Wachstumsperiode</li> | <li>dünne, schnell wegspülbare Humusauflage</li>
-<br> | <li>ohne *Mykorrhiza* **keine** Nährstoffe</li>
-<br> | <li>schwer zu bearbeitende, lehmige Böden</li>
-<br> | <li>viele Düngergaben nötig, dieser wird schnell ausgewaschen</li>
-<br> | <li>Produktivität der Felder geht nach dem Roden schnell zurück</li>
+| | <li>ohne *Mykorrhiza* **keine** Nährstoffe</li>
+| | <li>schwer zu bearbeitende, lehmige Böden</li>
+| | <li>viele Düngergaben nötig, dieser wird schnell ausgewaschen</li>
+| | <li>Produktivität der Felder geht nach dem Roden schnell zurück</li>
 
 - ***TODO: Umstrukturierung***
 
@@ -67,7 +64,7 @@ Vorteile | Nachteile
 <li>*Fruchtwechsel* (auch Ernährungssicherheit)</li>| <li>meist **keine** Weiterverarbeitung</li>
 <li>hohe Produktqualität</li> | <li>Abhängigkeit von *Zwischenhändlern*</li>
 <li>bietet auch für ungebildete Menschen **Arbeit**</li> | <li>ggf. wirtschaftliche *Monostruktur*</li>
-| <li>ggf. Abhängigkeit von Konzernen durch *Hybridsaatgut*</li>
+| | <li>ggf. Abhängigkeit von Konzernen durch *Hybridsaatgut*</li>
 
 ### Plantagenwirtschaft
 - ***TODO: Präsentation ab Folie 27***
@@ -91,9 +88,9 @@ Vorteile | Nachteile
 - jemand sollte auf *Nachhaltigkeit* achten und Arbeitsplätze und Perspektiven für die Bevölkerung schaffen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NTQyODY0NywxMDg0NTQyNDM5LDExMj
-gxNTkzMjgsMTU5NTY0NjIxNyw0MDAyOTM2NDMsLTEwNjQwNjQ4
-MDIsMzc1ODkzMjQ3LC0xOTkxODk5NzQ3LDg3OTI0OTY2NSwtMT
-QwNTg3NzgyMywxNDYyNjU5MjY1LC05NTM3OTU1NTAsMzEyNjYw
-NTY1LC0yMDU5NDk3NTE5LDEzODMyMjA4NjddfQ==
+eyJoaXN0b3J5IjpbNjkyODQyMTU5LDEwODQ1NDI0MzksMTEyOD
+E1OTMyOCwxNTk1NjQ2MjE3LDQwMDI5MzY0MywtMTA2NDA2NDgw
+MiwzNzU4OTMyNDcsLTE5OTE4OTk3NDcsODc5MjQ5NjY1LC0xND
+A1ODc3ODIzLDE0NjI2NTkyNjUsLTk1Mzc5NTU1MCwzMTI2NjA1
+NjUsLTIwNTk0OTc1MTksMTM4MzIyMDg2N119
 -->
