@@ -8,6 +8,7 @@
 - *Mykorrhiza:* Filterung von Nährstoffen durch Pilze, bevor diese ausgewaschen werden
 - ***Intensivierung:*** Steigerung der Produktivität / allgemein: des Umsatzes
 - *Maschinisierung:* Umstellung auf *kapitalintensivere* Bewirtschaftung durch Maschinen
+- *Agrochemikalien:* 
 
 ### Bewirtschaftung tropischer Böden
 
@@ -71,7 +72,8 @@ Vorteile | Nachteile
 <li>*arbeitsintensiv*</li> | <li>ggf. Abhängigkeit von Konzernen durch *Hybridsaatgut*</li>
 | | <li>häufig **Kinderarbeit**</li>
 | | <li>Abhängigkeit von Zwischenhändlern (Weltmarktanbindung)</li>
-| | <li>ggf. Brachezeiten nicht beachtet (zu ) </li>
+| | <li>ggf. *Brachezeiten* nicht beachtet (zu intensiver Anbau)</li>
+| | <li>Saatgut und Agrochemikalien müssen gekauft werden</li>
 | | <li>*arbeitsintensiv*</li>
 
 ### Plantagenwirtschaft
@@ -96,7 +98,7 @@ Vorteile | Nachteile
 - jemand sollte auf *Nachhaltigkeit* achten und Arbeitsplätze und Perspektiven für die Bevölkerung schaffen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjIxOTAwMzQsMTc1NDk1ODY4NCwxMD
+eyJoaXN0b3J5IjpbLTEzOTU0NjQ4NjQsMTc1NDk1ODY4NCwxMD
 g0NTQyNDM5LDExMjgxNTkzMjgsMTU5NTY0NjIxNyw0MDAyOTM2
 NDMsLTEwNjQwNjQ4MDIsMzc1ODkzMjQ3LC0xOTkxODk5NzQ3LD
 g3OTI0OTY2NSwtMTQwNTg3NzgyMywxNDYyNjU5MjY1LC05NTM3
