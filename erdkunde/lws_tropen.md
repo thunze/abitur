@@ -66,11 +66,12 @@ Vorteile | Nachteile
 <li>hohe Produktqualität</li> | <li>Abhängigkeit von *Zwischenhändlern*</li>
 <li>bietet auch für ungebildete Menschen **Arbeit**</li> | <li>ggf. wirtschaftliche *Monostruktur*, ggf. auch *Mono**kultur***</li>
 <li>Anbindung an den *Weltmarkt* durch *Cash-Crops*</li> | <li>oft nur Konzentration auf *Cash-Crops* / "Konkurrenz"</li>
-<li>Maschinisierung möglich *(ökon.)*</li> | <li>Zwischenhändler schöpfen Kapital ab (Abhä)</li>
+<li>Maschinisierung möglich *(ökon.)*</li> | <li>Zwischenhändler schöpfen Kapital ab</li>
 <li>Boden **unbeschädigt** durch Handarbeit</li> | <li>**Wassermangel** (in den Subtropen)</li>
 <li>*arbeitsintensiv*</li> | <li>ggf. Abhängigkeit von Konzernen durch *Hybridsaatgut*</li>
 | | <li>häufig **Kinderarbeit**</li>
-| | <li></li>
+| | <li>Abhängigkeit von Zwischenhändlern (Weltmarktanbindung)</li>
+| | <li>ggf. Brachezeiten nicht beachtet (zu ) </li>
 | | <li>*arbeitsintensiv*</li>
 
 ### Plantagenwirtschaft
@@ -95,7 +96,7 @@ Vorteile | Nachteile
 - jemand sollte auf *Nachhaltigkeit* achten und Arbeitsplätze und Perspektiven für die Bevölkerung schaffen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDU0NzQ3MDcsMTc1NDk1ODY4NCwxMD
+eyJoaXN0b3J5IjpbLTIwMjIxOTAwMzQsMTc1NDk1ODY4NCwxMD
 g0NTQyNDM5LDExMjgxNTkzMjgsMTU5NTY0NjIxNyw0MDAyOTM2
 NDMsLTEwNjQwNjQ4MDIsMzc1ODkzMjQ3LC0xOTkxODk5NzQ3LD
 g3OTI0OTY2NSwtMTQwNTg3NzgyMywxNDYyNjU5MjY1LC05NTM3
