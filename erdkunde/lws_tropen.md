@@ -14,8 +14,8 @@
 Gunstfaktoren | Ungunstfaktoren
 --- | ---
 | <li>ganzjährig hohe Niederschläge (außer Subtropen)</li> | <li>regelmäßiger Starkregen begünstigt Bodenerosion</li>
-<li>**gleichmäßig** hohe Temperaturen</li> | <li>hohe **Verdunstung** durch Sonneneinstrahlung und Temperatur</li>
-<li>ganzjährige Wachstumsperiode</li> | <li>dünne, schnell wegspülbare Humusauflage</li>
+| <li>**gleichmäßig** hohe Temperaturen</li> | <li>hohe **Verdunstung** durch Sonneneinstrahlung und Temperatur</li>
+| <li>ganzjährige Wachstumsperiode</li> | <li>dünne, schnell wegspülbare Humusauflage</li>
 | | <li>ohne *Mykorrhiza* **keine** Nährstoffe</li>
 | | <li>schwer zu bearbeitende, lehmige Böden</li>
 | | <li>viele Düngergaben nötig, dieser wird schnell ausgewaschen</li>
@@ -110,11 +110,11 @@ Vorteile | Nachteile
 - jemand sollte auf *Nachhaltigkeit* achten und Arbeitsplätze und Perspektiven für die Bevölkerung schaffen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTE2MTQzNTMsLTE5MTM2NDIxNTcsLT
-Q2NTA3NDg5Niw2NjIwMDE0NzIsLTEyNDQxMTA4NDQsMTc1NDk1
-ODY4NCwxMDg0NTQyNDM5LDExMjgxNTkzMjgsMTU5NTY0NjIxNy
-w0MDAyOTM2NDMsLTEwNjQwNjQ4MDIsMzc1ODkzMjQ3LC0xOTkx
-ODk5NzQ3LDg3OTI0OTY2NSwtMTQwNTg3NzgyMywxNDYyNjU5Mj
-Y1LC05NTM3OTU1NTAsMzEyNjYwNTY1LC0yMDU5NDk3NTE5LDEz
-ODMyMjA4NjddfQ==
+eyJoaXN0b3J5IjpbLTQzNTE3NTc1MywtMTkxMzY0MjE1NywtND
+Y1MDc0ODk2LDY2MjAwMTQ3MiwtMTI0NDExMDg0NCwxNzU0OTU4
+Njg0LDEwODQ1NDI0MzksMTEyODE1OTMyOCwxNTk1NjQ2MjE3LD
+QwMDI5MzY0MywtMTA2NDA2NDgwMiwzNzU4OTMyNDcsLTE5OTE4
+OTk3NDcsODc5MjQ5NjY1LC0xNDA1ODc3ODIzLDE0NjI2NTkyNj
+UsLTk1Mzc5NTU1MCwzMTI2NjA1NjUsLTIwNTk0OTc1MTksMTM4
+MzIyMDg2N119
 -->
