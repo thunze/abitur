@@ -2,12 +2,10 @@
 
 ## Naturräumliche Voraussetzungen *(Aufgabe 1)*
 
-### Eigenschaften tropischer Böden / Fachbegriffe
-- hohe *Verwitterungstiefe* (mineralisches Gestein liegt tief)
+### Fachbegriffe
 - *Humusschicht:* organische, meist abgestorbene Bestandteile im Boden, dient als Dünger
 - *Kationenaustauschkapazität:* Speicherbarkeit von Nährstoffen
-- Abhängigkeit von *Mykorrhiza* (Filterung von Nährstoffen durch Pilze, bevor diese ausgewaschen werden)
-	**> allgemein: schwierig an Nährstoffe zu kommen**
+- *Mykorrhiza:* Filterung von Nährstoffen durch Pilze, bevor diese ausgewaschen werden
 
 ### Bewirtschaftung tropischer Böden
 
@@ -22,7 +20,7 @@ Vorteile | Nachteile
 | | <li>Produktivität der Felder geht nach dem Roden schnell zurück</li>
 | | <li>geringe *Kationenaustauschkapazität*</li>
 
-- ***TODO: Umstrukturierung***
+**> allgemein: schwierig an Nährstoffe zu kommen**
 
 ## Nutzungsformen / Wirtschaftssysteme *(Aufgabe 2 & 3)*
 
@@ -89,7 +87,7 @@ Vorteile | Nachteile
 - jemand sollte auf *Nachhaltigkeit* achten und Arbeitsplätze und Perspektiven für die Bevölkerung schaffen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NTcyMjkxNCwxMDg0NTQyNDM5LDExMj
+eyJoaXN0b3J5IjpbMTYwODUyNDk1NCwxMDg0NTQyNDM5LDExMj
 gxNTkzMjgsMTU5NTY0NjIxNyw0MDAyOTM2NDMsLTEwNjQwNjQ4
 MDIsMzc1ODkzMjQ3LC0xOTkxODk5NzQ3LDg3OTI0OTY2NSwtMT
 QwNTg3NzgyMywxNDYyNjU5MjY1LC05NTM3OTU1NTAsMzEyNjYw
