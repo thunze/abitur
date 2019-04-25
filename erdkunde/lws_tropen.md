@@ -85,7 +85,7 @@ Vorteile | Nachteile
 --- | ---
 <li>großflächiger Anbau</li> | <li>meist schlecht bezahlte Arbeiter</li>
 <li>effizient durch *Mechanisierung*</li> | <li>Belastung von Natur und Boden durch Agrochemikalien</li>
-<li>Anbau auf den Markt zugeschnitten</li> | <li>Belastung durch **mechanisierte Verteilung** von Agrochemikalien</li>
+<li>Anbau auf den Markt zugeschnitten</li> | <li>Belastung durch **mechanisierte Verteilung** von Agrochemikalien (auch des *Grundwassers*)</li>
 <li>Konzerne stellen **Arbeitsgeräte** und **Organisation** (von Verarbeitung, Transport, Vertrieb etc.) zur Verfügung</li> | <li>Abhängigkeit von **Agrarunternehmen**</li>
 <li>**hoher Ertrag** pro Fläche</li> | <li>großer Teil der Gewinne fließt ins Ausland</li>
 <li>Teile der **Weiterverarbeitung** im Produktionsland</li> | <li>***Monokultur***</li>
@@ -110,10 +110,11 @@ Vorteile | Nachteile
 - jemand sollte auf *Nachhaltigkeit* achten und Arbeitsplätze und Perspektiven für die Bevölkerung schaffen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM3NDc3ODE5LC00NjUwNzQ4OTYsNjYyMD
-AxNDcyLC0xMjQ0MTEwODQ0LDE3NTQ5NTg2ODQsMTA4NDU0MjQz
-OSwxMTI4MTU5MzI4LDE1OTU2NDYyMTcsNDAwMjkzNjQzLC0xMD
-Y0MDY0ODAyLDM3NTg5MzI0NywtMTk5MTg5OTc0Nyw4NzkyNDk2
-NjUsLTE0MDU4Nzc4MjMsMTQ2MjY1OTI2NSwtOTUzNzk1NTUwLD
-MxMjY2MDU2NSwtMjA1OTQ5NzUxOSwxMzgzMjIwODY3XX0=
+eyJoaXN0b3J5IjpbLTE5MTM2NDIxNTcsLTQ2NTA3NDg5Niw2Nj
+IwMDE0NzIsLTEyNDQxMTA4NDQsMTc1NDk1ODY4NCwxMDg0NTQy
+NDM5LDExMjgxNTkzMjgsMTU5NTY0NjIxNyw0MDAyOTM2NDMsLT
+EwNjQwNjQ4MDIsMzc1ODkzMjQ3LC0xOTkxODk5NzQ3LDg3OTI0
+OTY2NSwtMTQwNTg3NzgyMywxNDYyNjU5MjY1LC05NTM3OTU1NT
+AsMzEyNjYwNTY1LC0yMDU5NDk3NTE5LDEzODMyMjA4NjddfQ==
+
 -->
