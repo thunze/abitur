@@ -7,6 +7,7 @@
 - *Kationenaustauschkapazität:* Speicherbarkeit von Nährstoffen
 - *Mykorrhiza:* Filterung von Nährstoffen durch Pilze, bevor diese ausgewaschen werden
 - ***Intensivierung:*** Steigerung der Produktivität / allgemein: des Umsatzes
+- *Maschinisierung:* Umstellung auf *kapitalintensivere* Bewirtschaftung durch Maschinen
 
 ### Bewirtschaftung tropischer Böden
 
@@ -66,7 +67,8 @@ Vorteile | Nachteile
 <li>bietet auch für ungebildete Menschen **Arbeit**</li> | <li>ggf. wirtschaftliche *Monostruktur*</li>
 <li>Anbindung an den *Weltmarkt* durch *Cash-Crops*</li> | <li>oft nur Konzentration auf *Cash-Crops*</li>
  | <li>Zwischenhändler schöpfen Kapital ab</li>
- <li>Boden  | <li>**Wassermangel** (in den Subtropen)</li>
+ | <li>häufig Kinderarbeit</li>
+ <li>Boden unbeschädigt durch Handarbeit</li> | <li>**Wassermangel** (in den Subtropen)</li>
 <li>*arbeitsintensiv*</li> | <li>ggf. Abhängigkeit von Konzernen durch *Hybridsaatgut*</li>
 | | <li>*arbeitsintensiv*</li>
 
@@ -92,10 +94,10 @@ Vorteile | Nachteile
 - jemand sollte auf *Nachhaltigkeit* achten und Arbeitsplätze und Perspektiven für die Bevölkerung schaffen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjU4OTY2NzgsMTc1NDk1ODY4NCwxMD
-g0NTQyNDM5LDExMjgxNTkzMjgsMTU5NTY0NjIxNyw0MDAyOTM2
-NDMsLTEwNjQwNjQ4MDIsMzc1ODkzMjQ3LC0xOTkxODk5NzQ3LD
-g3OTI0OTY2NSwtMTQwNTg3NzgyMywxNDYyNjU5MjY1LC05NTM3
-OTU1NTAsMzEyNjYwNTY1LC0yMDU5NDk3NTE5LDEzODMyMjA4Nj
-ddfQ==
+eyJoaXN0b3J5IjpbLTQ5NDMxMjkxNCwxNzU0OTU4Njg0LDEwOD
+Q1NDI0MzksMTEyODE1OTMyOCwxNTk1NjQ2MjE3LDQwMDI5MzY0
+MywtMTA2NDA2NDgwMiwzNzU4OTMyNDcsLTE5OTE4OTk3NDcsOD
+c5MjQ5NjY1LC0xNDA1ODc3ODIzLDE0NjI2NTkyNjUsLTk1Mzc5
+NTU1MCwzMTI2NjA1NjUsLTIwNTk0OTc1MTksMTM4MzIyMDg2N1
+19
 -->
