@@ -76,6 +76,12 @@ Vorteile | Nachteile
 | | <li>*arbeitsintensiv*</li>
 
 ### Plantagenwirtschaft
+- im Normalfall auf ***Cash-Crops*** konzentriert
+- Konkurrenz zur Nahrungsmittelproduktion für den Eigenbedarf
+
+Vorteile | Nachteile
+--- | --
+
 - ***TODO: Präsentation ab Folie 27***
 
 ### Wanderfeldbau
@@ -97,10 +103,11 @@ Vorteile | Nachteile
 - jemand sollte auf *Nachhaltigkeit* achten und Arbeitsplätze und Perspektiven für die Bevölkerung schaffen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NTA3NDg5Niw2NjIwMDE0NzIsLTEyND
-QxMTA4NDQsMTc1NDk1ODY4NCwxMDg0NTQyNDM5LDExMjgxNTkz
-MjgsMTU5NTY0NjIxNyw0MDAyOTM2NDMsLTEwNjQwNjQ4MDIsMz
-c1ODkzMjQ3LC0xOTkxODk5NzQ3LDg3OTI0OTY2NSwtMTQwNTg3
-NzgyMywxNDYyNjU5MjY1LC05NTM3OTU1NTAsMzEyNjYwNTY1LC
-0yMDU5NDk3NTE5LDEzODMyMjA4NjddfQ==
+eyJoaXN0b3J5IjpbLTE4NjY4NTA2OTcsLTQ2NTA3NDg5Niw2Nj
+IwMDE0NzIsLTEyNDQxMTA4NDQsMTc1NDk1ODY4NCwxMDg0NTQy
+NDM5LDExMjgxNTkzMjgsMTU5NTY0NjIxNyw0MDAyOTM2NDMsLT
+EwNjQwNjQ4MDIsMzc1ODkzMjQ3LC0xOTkxODk5NzQ3LDg3OTI0
+OTY2NSwtMTQwNTg3NzgyMywxNDYyNjU5MjY1LC05NTM3OTU1NT
+AsMzEyNjYwNTY1LC0yMDU5NDk3NTE5LDEzODMyMjA4NjddfQ==
+
 -->
