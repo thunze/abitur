@@ -14,7 +14,7 @@
 Gunstfaktoren | Ungunstfaktoren
 --- | ---
 <li>ganzjährig hohe Niederschläge (außer Subtropen)</li> | <li>regelmäßiger Starkregen begünstigt Bodenerosion</li>
-<li>gleichmäßig hohe Temperaturen</li> | <li>hohe Verdunstung durch Sonneneinstrahlung und Temperatur</li>
+<li>**gleichmäßig** hohe Temperaturen</li> | <li>hohe **Verdunstung** durch Sonneneinstrahlung und Temperatur</li>
 <li>ganzjährige Wachstumsperiode</li> | <li>dünne, schnell wegspülbare Humusauflage</li>
 | | <li>ohne *Mykorrhiza* **keine** Nährstoffe</li>
 | | <li>schwer zu bearbeitende, lehmige Böden</li>
@@ -97,7 +97,7 @@ Vorteile | Nachteile
 - jemand sollte auf *Nachhaltigkeit* achten und Arbeitsplätze und Perspektiven für die Bevölkerung schaffen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyOTM0NDc1Miw2NjIwMDE0NzIsLTEyND
+eyJoaXN0b3J5IjpbLTQ2NTA3NDg5Niw2NjIwMDE0NzIsLTEyND
 QxMTA4NDQsMTc1NDk1ODY4NCwxMDg0NTQyNDM5LDExMjgxNTkz
 MjgsMTU5NTY0NjIxNyw0MDAyOTM2NDMsLTEwNjQwNjQ4MDIsMz
 c1ODkzMjQ3LC0xOTkxODk5NzQ3LDg3OTI0OTY2NSwtMTQwNTg3
