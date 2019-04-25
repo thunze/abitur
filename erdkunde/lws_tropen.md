@@ -1,8 +1,7 @@
 # Landwirtschaft in den Tropen & Subtropen
 
-## Naturräumliche Voraussetzungen *(Aufgabe 1)*
+## Fachbegriffe
 
-### Fachbegriffe
 - *Humusschicht:* organische, meist abgestorbene Bestandteile im Boden, dient als Dünger
 - *Kationenaustauschkapazität:* Speicherbarkeit von Nährstoffen
 - *Mykorrhiza:* Filterung von Nährstoffen durch Pilze, bevor diese ausgewaschen werden
@@ -10,9 +9,9 @@
 - *Maschinisierung:* Umstellung auf *kapitalintensivere* Bewirtschaftung durch Maschinen
 - *Agrochemikalien:* Düngemittel; Pestizide, Fungizide etc.
 
-### Bewirtschaftung tropischer Böden
+## Bewirtschaftung tropischer Böden *(Aufgabe 1-)*
 
-Vorteile | Nachteile
+Gunstfaktoren | Ungunstfaktoren
 --- | ---
 <li>ganzjährig hohe Niederschläge (außer Subtropen)</li> | <li>regelmäßiger Starkregen begünstigt Bodenerosion</li>
 <li>gleichmäßig hohe Temperaturen</li> | <li>hohe Verdunstung durch Sonneneinstrahlung und Temperatur</li>
@@ -98,10 +97,10 @@ Vorteile | Nachteile
 - jemand sollte auf *Nachhaltigkeit* achten und Arbeitsplätze und Perspektiven für die Bevölkerung schaffen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDQxMTA4NDQsMTc1NDk1ODY4NCwxMD
-g0NTQyNDM5LDExMjgxNTkzMjgsMTU5NTY0NjIxNyw0MDAyOTM2
-NDMsLTEwNjQwNjQ4MDIsMzc1ODkzMjQ3LC0xOTkxODk5NzQ3LD
-g3OTI0OTY2NSwtMTQwNTg3NzgyMywxNDYyNjU5MjY1LC05NTM3
-OTU1NTAsMzEyNjYwNTY1LC0yMDU5NDk3NTE5LDEzODMyMjA4Nj
-ddfQ==
+eyJoaXN0b3J5IjpbLTEzMDY2MTU4MzMsLTEyNDQxMTA4NDQsMT
+c1NDk1ODY4NCwxMDg0NTQyNDM5LDExMjgxNTkzMjgsMTU5NTY0
+NjIxNyw0MDAyOTM2NDMsLTEwNjQwNjQ4MDIsMzc1ODkzMjQ3LC
+0xOTkxODk5NzQ3LDg3OTI0OTY2NSwtMTQwNTg3NzgyMywxNDYy
+NjU5MjY1LC05NTM3OTU1NTAsMzEyNjYwNTY1LC0yMDU5NDk3NT
+E5LDEzODMyMjA4NjddfQ==
 -->
