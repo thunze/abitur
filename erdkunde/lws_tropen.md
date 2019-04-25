@@ -6,7 +6,7 @@
 - *Kationenaustauschkapazität:* Speicherbarkeit von Nährstoffen
 - *Mykorrhiza:* Filterung von Nährstoffen durch Pilze, bevor diese ausgewaschen werden
 - ***Intensivierung:*** Steigerung der Produktivität / allgemein: des Umsatzes
-- *Maschinisierung:* Umstellung auf *kapitalintensivere* Bewirtschaftung durch Maschinen
+- *Mechanisierung:* Umstellung auf *kapitalintensivere* Bewirtschaftung unterstützt durch Maschinen
 - *Agrochemikalien:* Düngemittel; Pestizide, Fungizide etc.
 
 ## Bewirtschaftung tropischer Böden *(Aufgabe 1-3)*
@@ -78,9 +78,11 @@ Vorteile | Nachteile
 ### Plantagenwirtschaft
 - im Normalfall auf ***Cash-Crops*** konzentriert
 - Konkurrenz zur Nahrungsmittelproduktion für den Eigenbedarf
+- *arbeitsintensiv* mit einheimischen Arbeitern, *kapitalintensiv* durch *Mechanisierung*
 
 Vorteile | Nachteile
---- | --
+--- | ---
+- 
 
 - ***TODO: Präsentation ab Folie 27***
 
@@ -103,11 +105,10 @@ Vorteile | Nachteile
 - jemand sollte auf *Nachhaltigkeit* achten und Arbeitsplätze und Perspektiven für die Bevölkerung schaffen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjY4NTA2OTcsLTQ2NTA3NDg5Niw2Nj
-IwMDE0NzIsLTEyNDQxMTA4NDQsMTc1NDk1ODY4NCwxMDg0NTQy
-NDM5LDExMjgxNTkzMjgsMTU5NTY0NjIxNyw0MDAyOTM2NDMsLT
-EwNjQwNjQ4MDIsMzc1ODkzMjQ3LC0xOTkxODk5NzQ3LDg3OTI0
-OTY2NSwtMTQwNTg3NzgyMywxNDYyNjU5MjY1LC05NTM3OTU1NT
-AsMzEyNjYwNTY1LC0yMDU5NDk3NTE5LDEzODMyMjA4NjddfQ==
-
+eyJoaXN0b3J5IjpbLTQ0NDE5MDg3MywtNDY1MDc0ODk2LDY2Mj
+AwMTQ3MiwtMTI0NDExMDg0NCwxNzU0OTU4Njg0LDEwODQ1NDI0
+MzksMTEyODE1OTMyOCwxNTk1NjQ2MjE3LDQwMDI5MzY0MywtMT
+A2NDA2NDgwMiwzNzU4OTMyNDcsLTE5OTE4OTk3NDcsODc5MjQ5
+NjY1LC0xNDA1ODc3ODIzLDE0NjI2NTkyNjUsLTk1Mzc5NTU1MC
+wzMTI2NjA1NjUsLTIwNTk0OTc1MTksMTM4MzIyMDg2N119
 -->
