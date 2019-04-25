@@ -83,7 +83,7 @@ Vorteile | Nachteile
 Vorteile | Nachteile
 --- | ---
 <li>großflächiger Anbau</li> | <li>meist schlecht bezahlte Arbeiter</li>
-<li>effizient durch Mechanisierung</li> | <li></li>
+<li>effizient durch Mechanisierung</li> | <li>ökologisch</li>
 
 - ***TODO: Präsentation ab Folie 27***
 
@@ -106,10 +106,11 @@ Vorteile | Nachteile
 - jemand sollte auf *Nachhaltigkeit* achten und Arbeitsplätze und Perspektiven für die Bevölkerung schaffen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUxMzA5NTcxLC00NjUwNzQ4OTYsNjYyMD
-AxNDcyLC0xMjQ0MTEwODQ0LDE3NTQ5NTg2ODQsMTA4NDU0MjQz
-OSwxMTI4MTU5MzI4LDE1OTU2NDYyMTcsNDAwMjkzNjQzLC0xMD
-Y0MDY0ODAyLDM3NTg5MzI0NywtMTk5MTg5OTc0Nyw4NzkyNDk2
-NjUsLTE0MDU4Nzc4MjMsMTQ2MjY1OTI2NSwtOTUzNzk1NTUwLD
-MxMjY2MDU2NSwtMjA1OTQ5NzUxOSwxMzgzMjIwODY3XX0=
+eyJoaXN0b3J5IjpbLTEyMTAwOTgxODAsLTQ2NTA3NDg5Niw2Nj
+IwMDE0NzIsLTEyNDQxMTA4NDQsMTc1NDk1ODY4NCwxMDg0NTQy
+NDM5LDExMjgxNTkzMjgsMTU5NTY0NjIxNyw0MDAyOTM2NDMsLT
+EwNjQwNjQ4MDIsMzc1ODkzMjQ3LC0xOTkxODk5NzQ3LDg3OTI0
+OTY2NSwtMTQwNTg3NzgyMywxNDYyNjU5MjY1LC05NTM3OTU1NT
+AsMzEyNjYwNTY1LC0yMDU5NDk3NTE5LDEzODMyMjA4NjddfQ==
+
 -->
