@@ -91,8 +91,6 @@ Vorteile | Nachteile
 | | <li>***Monokultur***</li>
 | | <li>*Land Grabbing* als Faktor für Einheimische </li>
 
-- ***TODO: Präsentation ab Folie 27***
-
 ### Wanderfeldbau
 - **Subsistenzwirtschaft** **> *Food-Crops***
 - abwechselnde Nutzung von Ackerfläche durch **Verlegung** von Siedlungen etc.
@@ -112,7 +110,7 @@ Vorteile | Nachteile
 - jemand sollte auf *Nachhaltigkeit* achten und Arbeitsplätze und Perspektiven für die Bevölkerung schaffen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM4Nzc0NDY0LC00NjUwNzQ4OTYsNjYyMD
+eyJoaXN0b3J5IjpbNTM3ODkwNTgxLC00NjUwNzQ4OTYsNjYyMD
 AxNDcyLC0xMjQ0MTEwODQ0LDE3NTQ5NTg2ODQsMTA4NDU0MjQz
 OSwxMTI4MTU5MzI4LDE1OTU2NDYyMTcsNDAwMjkzNjQzLC0xMD
 Y0MDY0ODAyLDM3NTg5MzI0NywtMTk5MTg5OTc0Nyw4NzkyNDk2
