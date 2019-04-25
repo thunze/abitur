@@ -20,7 +20,7 @@ Vorteile | Nachteile
 | | <li>Produktivität der Felder geht nach dem Roden schnell zurück</li>
 | | <li>geringe *Kationenaustauschkapazität*</li>
 
-**> allgemein: schwierig an Nährstoffe zu kommen**
+**> allgemein schwierig, an Nährstoffe zu kommen**
 
 ## Nutzungsformen / Wirtschaftssysteme *(Aufgabe 2 & 3)*
 
@@ -63,7 +63,8 @@ Vorteile | Nachteile
 <li>*Fruchtwechsel* (auch Ernährungssicherheit)</li>| <li>meist **keine** Weiterverarbeitung</li>
 <li>hohe Produktqualität</li> | <li>Abhängigkeit von *Zwischenhändlern*</li>
 <li>bietet auch für ungebildete Menschen **Arbeit**</li> | <li>ggf. wirtschaftliche *Monostruktur*</li>
-| | <li>ggf. Abhängigkeit von Konzernen durch *Hybridsaatgut*</li>
+<li>*arbeitsintensiv*</li> | <li>ggf. Abhängigkeit von Konzernen durch *Hybridsaatgut*</li>
+| | <li>*arbeitsintensiv*</li>
 
 ### Plantagenwirtschaft
 - ***TODO: Präsentation ab Folie 27***
@@ -87,7 +88,7 @@ Vorteile | Nachteile
 - jemand sollte auf *Nachhaltigkeit* achten und Arbeitsplätze und Perspektiven für die Bevölkerung schaffen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwODUyNDk1NCwxMDg0NTQyNDM5LDExMj
+eyJoaXN0b3J5IjpbLTY1NDI2NzAyNiwxMDg0NTQyNDM5LDExMj
 gxNTkzMjgsMTU5NTY0NjIxNyw0MDAyOTM2NDMsLTEwNjQwNjQ4
 MDIsMzc1ODkzMjQ3LC0xOTkxODk5NzQ3LDg3OTI0OTY2NSwtMT
 QwNTg3NzgyMywxNDYyNjU5MjY1LC05NTM3OTU1NTAsMzEyNjYw
