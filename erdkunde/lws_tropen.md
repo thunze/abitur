@@ -41,15 +41,15 @@ Gunstfaktoren | Ungunstfaktoren
 
 Vorteile | Nachteile
 --- | ---
-<li>ausgereift, traditionell</li> | <li>große Fläche nötig</li>
-<li>hohe Erträge / geringe Missernte</li> | <li>kaum für den *Weltmarkt* geeignet</li>
-<li>nachhaltig</li> | <li>geringeres Einkommen</li>
-<li>Schutz vor Sonneneinstrahlung</li> | <li>Rodung nötig</li>
-<li>Schutz vor hohem Niederschlag</li> | <li>*arbeitsintensiv*</li>
-<li>an den Naturraum angepasst</li> |
-<li>für Großfamilien geeignet</li> |
-<li>kaum Samenkauf nötig</li> |
-<li>*arbeitsintensiv*</li> |
+| <li>ausgereift, traditionell</li> | <li>große Fläche nötig</li>
+| <li>hohe Erträge / geringe Missernte</li> | <li>kaum für den *Weltmarkt* geeignet</li>
+| <li>nachhaltig</li> | <li>geringeres Einkommen</li>
+| <li>Schutz vor Sonneneinstrahlung</li> | <li>Rodung nötig</li>
+| <li>Schutz vor hohem Niederschlag</li> | <li>*arbeitsintensiv*</li>
+| <li>an den Naturraum angepasst</li> |
+| <li>für Großfamilien geeignet</li> |
+| <li>kaum Samenkauf nötig</li> |
+| <li>*arbeitsintensiv*</li> |
 
 **> besonders für Entwicklungsländer geeignet (wenig Kapital nötig)**
 
@@ -62,14 +62,14 @@ Vorteile | Nachteile
 
 Vorteile | Nachteile
 --- | ---
-<li>*Fruchtwechsel* (ggf. Ernährungssicherheit)</li>| <li>meist **keine** Weiterverarbeitung</li>
-<li>hohe Produktqualität</li> | <li>Abhängigkeit von *Zwischenhändlern*</li>
-<li>bietet auch für ungebildete Menschen **Arbeit**</li> | <li>ggf. wirtschaftliche *Monostruktur*, ggf. auch *Mono**kultur***</li>
-<li>Anbindung an den *Weltmarkt* durch *Cash-Crops*</li> | <li>oft nur Konzentration auf *Cash-Crops* / "Konkurrenz"</li>
-<li>Maschinisierung möglich *(ökon.)*</li> | <li>Zwischenhändler schöpfen Kapital ab</li>
-<li>Boden **unbeschädigt** durch Handarbeit</li> | <li>**Wassermangel**, da hohe Verdunstung (insb. Subtropen)</li>
-<li>*arbeitsintensiv*</li> | <li>ggf. Abhängigkeit von Konzernen durch *Hybridsaatgut*</li>
-<li>Subventionierung möglich</li> | <li>häufig **Kinderarbeit**</li>
+| <li>*Fruchtwechsel* (ggf. Ernährungssicherheit)</li>| <li>meist **keine** Weiterverarbeitung</li>
+| <li>hohe Produktqualität</li> | <li>Abhängigkeit von *Zwischenhändlern*</li>
+| <li>bietet auch für ungebildete Menschen **Arbeit**</li> | <li>ggf. wirtschaftliche *Monostruktur*, ggf. auch *Mono**kultur***</li>
+| <li>Anbindung an den *Weltmarkt* durch *Cash-Crops*</li> | <li>oft nur Konzentration auf *Cash-Crops* / "Konkurrenz"</li>
+| <li>Maschinisierung möglich *(ökon.)*</li> | <li>Zwischenhändler schöpfen Kapital ab</li>
+| <li>Boden **unbeschädigt** durch Handarbeit</li> | <li>**Wassermangel**, da hohe Verdunstung (insb. Subtropen)</li>
+| <li>*arbeitsintensiv*</li> | <li>ggf. Abhängigkeit von Konzernen durch *Hybridsaatgut*</li>
+| <li>Subventionierung möglich</li> | <li>häufig **Kinderarbeit**</li>
 | | <li>Abhängigkeit von Zwischenhändlern (Weltmarktanbindung)</li>
 | | <li>ggf. *Brachezeiten* nicht beachtet (zu intensiver Anbau)</li>
 | | <li>Saatgut und Agrochemikalien müssen gekauft werden</li>
@@ -83,12 +83,12 @@ Vorteile | Nachteile
 
 Vorteile | Nachteile
 --- | ---
-<li>großflächiger Anbau</li> | <li>meist schlecht bezahlte Arbeiter</li>
-<li>effizient durch *Mechanisierung*</li> | <li>Belastung von Natur und Boden durch Agrochemikalien</li>
-<li>Anbau auf den Markt zugeschnitten</li> | <li>Belastung durch **mechanisierte Verteilung** von Agrochemikalien (auch des *Grundwassers*)</li>
-<li>Konzerne stellen **Arbeitsgeräte** und **Organisation** (von Verarbeitung, Transport, Vertrieb etc.) zur Verfügung</li> | <li>Abhängigkeit von **Agrarunternehmen**</li>
-<li>**hoher Ertrag** pro Fläche</li> | <li>großer Teil der Gewinne fließt ins Ausland</li>
-<li>Teile der **Weiterverarbeitung** im Produktionsland</li> | <li>***Monokultur***</li>
+| <li>großflächiger Anbau</li> | <li>meist schlecht bezahlte Arbeiter</li>
+| <li>effizient durch *Mechanisierung*</li> | <li>Belastung von Natur und Boden durch Agrochemikalien</li>
+| <li>Anbau auf den Markt zugeschnitten</li> | <li>Belastung durch **mechanisierte Verteilung** von Agrochemikalien (auch des *Grundwassers*)</li>
+| <li>Konzerne stellen **Arbeitsgeräte** und **Organisation** (von Verarbeitung, Transport, Vertrieb etc.) zur Verfügung</li> | <li>Abhängigkeit von **Agrarunternehmen**</li>
+| <li>**hoher Ertrag** pro Fläche</li> | <li>großer Teil der Gewinne fließt ins Ausland</li>
+| <li>Teile der **Weiterverarbeitung** im Produktionsland</li> | <li>***Monokultur***</li>
 | | <li>*Land Grabbing* als Faktor für Einheimische </li>
 
 ### Wanderfeldbau
@@ -110,11 +110,11 @@ Vorteile | Nachteile
 - jemand sollte auf *Nachhaltigkeit* achten und Arbeitsplätze und Perspektiven für die Bevölkerung schaffen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNTE3NTc1MywtMTkxMzY0MjE1NywtND
-Y1MDc0ODk2LDY2MjAwMTQ3MiwtMTI0NDExMDg0NCwxNzU0OTU4
-Njg0LDEwODQ1NDI0MzksMTEyODE1OTMyOCwxNTk1NjQ2MjE3LD
-QwMDI5MzY0MywtMTA2NDA2NDgwMiwzNzU4OTMyNDcsLTE5OTE4
-OTk3NDcsODc5MjQ5NjY1LC0xNDA1ODc3ODIzLDE0NjI2NTkyNj
-UsLTk1Mzc5NTU1MCwzMTI2NjA1NjUsLTIwNTk0OTc1MTksMTM4
-MzIyMDg2N119
+eyJoaXN0b3J5IjpbODU1OTcwMjk5LC0xOTEzNjQyMTU3LC00Nj
+UwNzQ4OTYsNjYyMDAxNDcyLC0xMjQ0MTEwODQ0LDE3NTQ5NTg2
+ODQsMTA4NDU0MjQzOSwxMTI4MTU5MzI4LDE1OTU2NDYyMTcsND
+AwMjkzNjQzLC0xMDY0MDY0ODAyLDM3NTg5MzI0NywtMTk5MTg5
+OTc0Nyw4NzkyNDk2NjUsLTE0MDU4Nzc4MjMsMTQ2MjY1OTI2NS
+wtOTUzNzk1NTUwLDMxMjY2MDU2NSwtMjA1OTQ5NzUxOSwxMzgz
+MjIwODY3XX0=
 -->
