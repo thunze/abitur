@@ -63,7 +63,8 @@ Vorteile | Nachteile
 <li>*Fruchtwechsel* (ggf. Ernährungssicherheit)</li>| <li>meist **keine** Weiterverarbeitung</li>
 <li>hohe Produktqualität</li> | <li>Abhängigkeit von *Zwischenhändlern*</li>
 <li>bietet auch für ungebildete Menschen **Arbeit**</li> | <li>ggf. wirtschaftliche *Monostruktur*</li>
-<li>Anbindung an den Weltmarkt durch *Cash-Crops*</li> | <li>oft nur Konzentration auf *Cash-Crops*</li>
+<li>Anbindung an den *Weltmarkt* durch *Cash-Crops*</li> | <li>oft nur Konzentration auf *Cash-Crops*</li>
+| <li>Zwischenhändler schöpfen Kapital ab</li>
 <li>*arbeitsintensiv*</li> | <li>ggf. Abhängigkeit von Konzernen durch *Hybridsaatgut*</li>
 | | <li>*arbeitsintensiv*</li>
 
@@ -89,10 +90,10 @@ Vorteile | Nachteile
 - jemand sollte auf *Nachhaltigkeit* achten und Arbeitsplätze und Perspektiven für die Bevölkerung schaffen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODczNjMyNzU4LDE3NTQ5NTg2ODQsMTA4ND
-U0MjQzOSwxMTI4MTU5MzI4LDE1OTU2NDYyMTcsNDAwMjkzNjQz
-LC0xMDY0MDY0ODAyLDM3NTg5MzI0NywtMTk5MTg5OTc0Nyw4Nz
-kyNDk2NjUsLTE0MDU4Nzc4MjMsMTQ2MjY1OTI2NSwtOTUzNzk1
-NTUwLDMxMjY2MDU2NSwtMjA1OTQ5NzUxOSwxMzgzMjIwODY3XX
-0=
+eyJoaXN0b3J5IjpbLTQzMjgzNTEwMywxNzU0OTU4Njg0LDEwOD
+Q1NDI0MzksMTEyODE1OTMyOCwxNTk1NjQ2MjE3LDQwMDI5MzY0
+MywtMTA2NDA2NDgwMiwzNzU4OTMyNDcsLTE5OTE4OTk3NDcsOD
+c5MjQ5NjY1LC0xNDA1ODc3ODIzLDE0NjI2NTkyNjUsLTk1Mzc5
+NTU1MCwzMTI2NjA1NjUsLTIwNTk0OTc1MTksMTM4MzIyMDg2N1
+19
 -->
