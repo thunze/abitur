@@ -6,10 +6,11 @@
 - **Temperatur:** Nord-Süd-Gefälle (), warme Sommermonate, im Norden Frost im Winder
 - **Niederschlag:** West-Ost-Gefälle (340–700 mm)
 - **Relief:** West-Ost-Gefälle
-- **Wasservorkommen:** Stauseen, Niederschlagsvariabilität
+- **Vegetation:** Präriegräser
 - **Boden:** zentral günstig, außen weniger
-- Vege
+- **Wasservorkommen:** Stauseen, *Niederschlagsvariabilität*
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMDIwOTE3OCwxNzgyMjQwNTU3XX0=
+eyJoaXN0b3J5IjpbLTEzOTkzNzk5OTQsMTc4MjI0MDU1N119
 -->
