@@ -33,10 +33,10 @@
 - ***Agrobusiness:*** Unternehmen – kein Farmer – betreibt Feedlot
 
 ### Clusterbildung
-- **vertikale Integration:**
-- **horizontale Integration:**
+- ***vertikale Integration:***
+- ***horizontale Integration:***
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUxNTgzMzgyLC0xODU0NDI4OTY1LDEwOD
-kwNzc0MTcsMTc4MjI0MDU1N119
+eyJoaXN0b3J5IjpbMTk0NTM4MjExMCw3NTE1ODMzODIsLTE4NT
+Q0Mjg5NjUsMTA4OTA3NzQxNywxNzgyMjQwNTU3XX0=
 -->
