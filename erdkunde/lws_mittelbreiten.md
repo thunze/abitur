@@ -1,5 +1,5 @@
-# Landwirtschaft in der  gemäß& den Subtropen
+# Landwirtschaft in den gemäßigten Breiten & Subtropen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjU1Mjg5OTBdfQ==
+eyJoaXN0b3J5IjpbMTc4MjI0MDU1N119
 -->
