@@ -16,7 +16,8 @@
 - **später:** ursprüngliche Farmer in Konflikt mit neuerem **Weizenanbau**
 - **nach 1900:** ***Intensivierung*** durch Flächenvergrößerung, ertragreichere Sorten, Bewässerung, Dünger, Schädlingsbekämpfung **> aber auch *Monokultur***
 - **heute:** durch Absenkung des Grundwasserspiegels gemischte Nutzung
-	- Sommerweizen im Norden, Winterweizen im Süden (zu di)
+	- Sommerweizen im Norden, Winterweizen im Süden (über diesen Zeitraum werden die Sorten angebaut)
+	- Mais, Hirse, Soja, da wassersparend
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkzNjc2MTM0LDE3ODIyNDA1NTddfQ==
+eyJoaXN0b3J5IjpbLTE3MjYwODE5NTMsMTc4MjI0MDU1N119
 -->
