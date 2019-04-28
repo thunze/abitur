@@ -14,7 +14,9 @@
 - **früher:** grasbedecktes Flachland, *extensive Viehwirtschaft* der **indigenen Völker** mit Büffeln
 - **um 1830:** *Frontier*, europäisches Vieh
 - **später:** ursprüngliche Farmer in Konflikt mit neuerem **Weizenanbau**
-- **nach 1900:** ***Intensivierung*** durch Flächenvergrößerung, ertragreichere Sorten, Bewässerung, Dünger, Schädlingsbekämpfung **> auch Monoku** 
+- **nach 1900:** ***Intensivierung*** durch Flächenvergrößerung, ertragreichere Sorten, Bewässerung, Dünger, Schädlingsbekämpfung **> aber auch *Monokultur***
+- **heute:** durch Absenkung des Grundwasserspiegels gemischte Nutzung
+	- Sommerweizen im Norden, Winterweizen im Süden (zu di)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2ODczMzc3NCwxNzgyMjQwNTU3XX0=
+eyJoaXN0b3J5IjpbODkzNjc2MTM0LDE3ODIyNDA1NTddfQ==
 -->
