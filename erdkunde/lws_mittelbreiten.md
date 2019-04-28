@@ -30,8 +30,11 @@
 - *Futtermittel* werden **angebaut**, aber auch **angeliefert**
 - 3–4 Monate **Mast**, Verkauf nach Schlachtung
 - **infrastrukturelle Anbindung** zur Anlieferung und zum Abtransport der Tiere zu **konzerneigenem** Schlachthof
-- ***Agrobusiness:*** Unternehmen betreibt Feedlot
+- ***Agrobusiness:*** Unternehmen – kein Farmer – betreibt Feedlot
+
+### Clusterbildung
+- **vertikale Integration:**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NjQyNzM1OCwtMTg1NDQyODk2NSwxMD
-g5MDc3NDE3LDE3ODIyNDA1NTddfQ==
+eyJoaXN0b3J5IjpbLTE4MDE1MTg5NTgsLTE4NTQ0Mjg5NjUsMT
+A4OTA3NzQxNywxNzgyMjQwNTU3XX0=
 -->
