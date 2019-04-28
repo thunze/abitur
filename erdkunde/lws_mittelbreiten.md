@@ -22,7 +22,10 @@
 	- Windkraft, Tourismus verteilt
 	**> räumliche Verteilung selbsterklärend**
 
+## Intensivtierhaltung
+
+### Merkmale und Funktionsweise eines Feedlots
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY0OTYzMjIzLDEwODkwNzc0MTcsMTc4Mj
-I0MDU1N119
+eyJoaXN0b3J5IjpbLTU5MTgxMDU4MiwxMDg5MDc3NDE3LDE3OD
+IyNDA1NTddfQ==
 -->
