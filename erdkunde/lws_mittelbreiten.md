@@ -21,6 +21,9 @@
 	- ***Feedlots* / Mastbetriebe** eher südlich
 	- Windkraft, Tourismus verteilt
 	**> räumliche Verteilung selbsterklärend**
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4OTA3NzQxNywxNzgyMjQwNTU3XX0=
+eyJoaXN0b3J5IjpbMTExMzExNTkwOSwxMDg5MDc3NDE3LDE3OD
+IyNDA1NTddfQ==
 -->
