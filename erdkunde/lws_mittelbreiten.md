@@ -25,7 +25,9 @@
 ## Intensivtierhaltung
 
 ### Merkmale und Funktionsweise eines Feedlots
+- *Ballung* in den Great Plains
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MTgxMDU4MiwxMDg5MDc3NDE3LDE3OD
-IyNDA1NTddfQ==
+eyJoaXN0b3J5IjpbLTE4NTQ0Mjg5NjUsMTA4OTA3NzQxNywxNz
+gyMjQwNTU3XX0=
 -->
