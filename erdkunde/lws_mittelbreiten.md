@@ -4,8 +4,9 @@
 
 ### Naturraum
 - **Temperatur:** Nord-Süd-Gefälle, warme Sommermonate, im Norden Frost im Winder
-- **Niederschlag:** West-Ost-
+- **Niederschlag:** Ost-West-Gefälle ()
+- **Relief:** West-Ost-Gefälle
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MTU1NDM0MywxNzgyMjQwNTU3XX0=
+eyJoaXN0b3J5IjpbLTczMzgwNjU1LDE3ODIyNDA1NTddfQ==
 -->
