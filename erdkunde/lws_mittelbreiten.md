@@ -34,7 +34,9 @@
 
 ### Clusterbildung
 - **vertikale Integration:**
+- **horizontale Integration:**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDE1MTg5NTgsLTE4NTQ0Mjg5NjUsMT
-A4OTA3NzQxNywxNzgyMjQwNTU3XX0=
+eyJoaXN0b3J5IjpbNzUxNTgzMzgyLC0xODU0NDI4OTY1LDEwOD
+kwNzc0MTcsMTc4MjI0MDU1N119
 -->
