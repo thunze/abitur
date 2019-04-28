@@ -26,13 +26,12 @@
 
 ### Merkmale und Funktionsweise eines Feedlots
 - *Ballung* in den Great Plains
+- Ankauf **großer Mengen** an Rindern (Hunderttausende)
+- *Futtermittel* werden **angebaut**, aber auch **angeliefert**
+- 3–4 Monate **Mast**, Verkauf nach Schlachtung
 - **infrastrukturelle Anbindung** zur Anlieferung und zum Abtransport der Tiere zu **konzerneigenem** Schlachthof
 - ***Agrobusiness:*** Unternehmen betreibt Feedlot
-- Ankauf **großer Mengen** an Rindern (Hunderttausende)
-- 3–4 Monate **Mast**, Verkauf nach 
-- *Futtermittel* werden **angebaut**, aber auch **angeliefert**
-- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MDEyNTI3NSwtMTg1NDQyODk2NSwxMD
+eyJoaXN0b3J5IjpbLTU4NjQyNzM1OCwtMTg1NDQyODk2NSwxMD
 g5MDc3NDE3LDE3ODIyNDA1NTddfQ==
 -->
