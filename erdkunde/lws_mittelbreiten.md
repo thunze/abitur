@@ -28,8 +28,11 @@
 - *Ballung* in den Great Plains
 - **infrastrukturelle Anbindung** zur Anlieferung und zum Transport der Tiere
 - ***Agrobusiness:*** Unternehmen betreibt Feedlot
-- Ankauf großer Mengen an Rindern (100)
+- Ankauf **großer Mengen** an Rindern (Hunderttausende)
+- 3–4 Monate **Mast**, anschließender Verkauf
+- Futtermittel werden **angebaut**, aber auch **angeliefert**
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTU5OTY4ODEsLTE4NTQ0Mjg5NjUsMT
-A4OTA3NzQxNywxNzgyMjQwNTU3XX0=
+eyJoaXN0b3J5IjpbNjEwMzAxNDc1LC0xODU0NDI4OTY1LDEwOD
+kwNzc0MTcsMTc4MjI0MDU1N119
 -->
