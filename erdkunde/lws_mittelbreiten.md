@@ -26,8 +26,8 @@
 
 ### Merkmale und Funktionsweise eines Feedlots
 - *Ballung* in den Great Plains
-- 
+- infras
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTQ0Mjg5NjUsMTA4OTA3NzQxNywxNz
-gyMjQwNTU3XX0=
+eyJoaXN0b3J5IjpbLTM2NTI3MjcyLC0xODU0NDI4OTY1LDEwOD
+kwNzc0MTcsMTc4MjI0MDU1N119
 -->
