@@ -14,7 +14,7 @@
 - **früher:** grasbedecktes Flachland, *extensive Viehwirtschaft* der **indigenen Völker** mit Büffeln
 - **um 1830:** *Frontier*, europäisches Vieh
 - **später:** ursprüngliche Farmer in Konflikt mit neuerem **Weizenanbau**
-- **nach 1900:** Flächenvergrößerung, ertragreichere Sorten, Bewässerung, Dünger, Schädlingsbekämpfung **> ***Intensivierung****
+- **nach 1900:** ***Intensivierung*** durch Flächenvergrößerung, ertragreichere Sorten, Bewässerung, Dünger, Schädlingsbekämpfung **> auch Monoku** 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMwMDU3NTUwLDE3ODIyNDA1NTddfQ==
+eyJoaXN0b3J5IjpbMTA2ODczMzc3NCwxNzgyMjQwNTU3XX0=
 -->
