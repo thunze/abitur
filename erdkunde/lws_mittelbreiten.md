@@ -11,7 +11,8 @@
 - **Wasservorkommen:** Stauseen, *Niederschlagsvariabilität*
 
 ### Entwicklung bis heute
-- 
+- **früher:** grasbedecktes Flachland, *Viehwirtschaft* der **indigenen Völker** mit Büffeln
+- *Frontier* um 1830
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk5NTIwMTAsMTc4MjI0MDU1N119
+eyJoaXN0b3J5IjpbLTExNzc5MTkxMDMsMTc4MjI0MDU1N119
 -->
