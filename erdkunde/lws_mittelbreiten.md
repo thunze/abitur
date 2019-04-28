@@ -26,8 +26,10 @@
 
 ### Merkmale und Funktionsweise eines Feedlots
 - *Ballung* in den Great Plains
-- infras
+- **infrastrukturelle Anbindung** zur Anlieferung und zum Transport der Tiere
+- ***Agrobusiness:*** Unternehmen betreibt Feedlot
+- Ankauf großer Mengen an Rindern (100)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NTI3MjcyLC0xODU0NDI4OTY1LDEwOD
-kwNzc0MTcsMTc4MjI0MDU1N119
+eyJoaXN0b3J5IjpbLTEwNTU5OTY4ODEsLTE4NTQ0Mjg5NjUsMT
+A4OTA3NzQxNywxNzgyMjQwNTU3XX0=
 -->
