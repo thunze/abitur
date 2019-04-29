@@ -8,7 +8,7 @@
 - Meeresanbindung, Flüsse
 - Klimazone **> Atlas S. 254-255, alternativ S. 244-247**
 - evtl. Vegetation **> Atlas S. 260-261**
-- evtl. Bodenfruchtbarkeit **> S. 256-257**
+- evtl. Bodenfruchtbarkeit **> Atlas S. 256-257**
 - **Aufgabenbezogenes** (z. B. bei Landwirtschaft: Klima *ausführlich*)
 
 ### Beschreibung *(Aufgabe 1)*
@@ -53,8 +53,8 @@ Tertiär | Dienstleistungen
 - um 5 *Prozent* gestiegen vs. um 5 *Prozent**punkte*** gestiegen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyOTAxMDYzMywxNDQ3NTU4ODE1LDIwMj
-U5NTQ0NzAsLTEzNDk3MjcxMTIsNzI3MzkxMTAxLC0xNzkzMDg4
-MTIzLC04OTIzNDM2MjQsLTY5Njc5NjM5MywtMTY5MTMyMTEzMC
-wtMjg1Mjk0MzExLC04MjQzMDYyNDFdfQ==
+eyJoaXN0b3J5IjpbMTMwNDc0MzU4MiwxMzI5MDEwNjMzLDE0ND
+c1NTg4MTUsMjAyNTk1NDQ3MCwtMTM0OTcyNzExMiw3MjczOTEx
+MDEsLTE3OTMwODgxMjMsLTg5MjM0MzYyNCwtNjk2Nzk2MzkzLC
+0xNjkxMzIxMTMwLC0yODUyOTQzMTEsLTgyNDMwNjI0MV19
 -->
