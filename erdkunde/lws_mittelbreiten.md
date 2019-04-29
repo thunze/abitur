@@ -6,6 +6,7 @@
 - *Veredelungswirtschaft:* Wertsteigerung von Produkten, in der Landwirtschaft Umwandlung von Bodenerzeugnissen zu Futtermitteln
 - ***vertikale Integration:*** enge Zusammenarbeit (bis Zusammenschluss) von Betrieben **aufeinander folgender** Produktionsschritte
 - ***horizontale Integration:*** enge Zusammenarbeit (bis Zusammenschluss) von Betrieben **gleicher** Produktionsschritte zum Zweck der Kostenersparnis
+**> *Clusterbildung***
 
 ### Naturraum
 - **Temperatur:** Nord-Süd-Gefälle (7–18 °C), warme Sommermonate, im Norden Frost im Winder
@@ -47,7 +48,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY4Nzg1ODcsLTcwNDM0NjIwMiwxOTQ1Mz
-gyMTEwLDc1MTU4MzM4MiwtMTg1NDQyODk2NSwxMDg5MDc3NDE3
-LDE3ODIyNDA1NTddfQ==
+eyJoaXN0b3J5IjpbMTQwNDA0MjA3NCwtNzA0MzQ2MjAyLDE5ND
+UzODIxMTAsNzUxNTgzMzgyLC0xODU0NDI4OTY1LDEwODkwNzc0
+MTcsMTc4MjI0MDU1N119
 -->
