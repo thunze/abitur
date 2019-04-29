@@ -2,8 +2,13 @@
 
 ## Bewirtschaftung der Great Plains *(Aufgabe 1 & 2)*
 
+### Fachbegriffe
+- ***vertikale Integration:***
+- ***horizontale Integration:***
+
+
 ### Naturraum
-- **Temperatur:** Nord-Süd-Gefälle (), warme Sommermonate, im Norden Frost im Winder
+- **Temperatur:** Nord-Süd-Gefälle (7–18 °C), warme Sommermonate, im Norden Frost im Winder
 - **Niederschlag:** West-Ost-Gefälle (340–700 mm)
 - **Relief:** West-Ost-Gefälle
 - **Vegetation:** Präriegräser
@@ -33,10 +38,9 @@
 - ***Agrobusiness:*** Unternehmen – kein Farmer – betreibt Feedlot
 
 ### Clusterbildung
-- ***vertikale Integration:***
-- ***horizontale Integration:***
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NTM4MjExMCw3NTE1ODMzODIsLTE4NT
-Q0Mjg5NjUsMTA4OTA3NzQxNywxNzgyMjQwNTU3XX0=
+eyJoaXN0b3J5IjpbMTg2MTYxMDY5LDE5NDUzODIxMTAsNzUxNT
+gzMzgyLC0xODU0NDI4OTY1LDEwODkwNzc0MTcsMTc4MjI0MDU1
+N119
 -->
