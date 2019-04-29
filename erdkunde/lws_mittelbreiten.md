@@ -4,6 +4,7 @@
 
 ### Fachbegriffe
 - *Veredelungswirtschaft:* Wertsteigerung von Produkten, in der Landwirtschaft Umwandlung von Bodenerzeugnissen zu Futtermitteln
+- ***Biodiversität:*** biologische Vielfalt
 - ***vertikale Integration:*** enge Zusammenarbeit (bis Zusammenschluss) von Betrieben **aufeinander folgender** Produktionsschritte
 - ***horizontale Integration:*** enge Zusammenarbeit (bis Zusammenschluss) von Betrieben **gleicher** Produktionsschritte zum Zweck der Kostenersparnis
 **> *Clusterbildung***
@@ -57,8 +58,12 @@
 - **keine artgerechte Haltung** von Tieren (Platzmangel, Tötung von Tieren, kein Licht, Trennung von Müttern und Kälbern etc.)
 - **Verdrängung** kleinbäuerlicher Betriebe
 - *Monokultur* des Futtermittelanbaus verringert ***Biodiversität***
+
+## Alternativen zum Agrobusiness *(Aufgabe 2 & 3)*
+
+## Ernährungssic
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNTQ1OTczMCwtMTE2OTA0NTY3OCwtNz
-A0MzQ2MjAyLDE5NDUzODIxMTAsNzUxNTgzMzgyLC0xODU0NDI4
-OTY1LDEwODkwNzc0MTcsMTc4MjI0MDU1N119
+eyJoaXN0b3J5IjpbLTEyMjU2MzM2ODgsLTExNjkwNDU2NzgsLT
+cwNDM0NjIwMiwxOTQ1MzgyMTEwLDc1MTU4MzM4MiwtMTg1NDQy
+ODk2NSwxMDg5MDc3NDE3LDE3ODIyNDA1NTddfQ==
 -->
