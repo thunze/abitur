@@ -39,6 +39,7 @@
 - ***Agrobusiness:*** Unternehmen – kein Farmer – betreibt Feedlot
 
 ### Gründe der Popularität von Hühnerfleisch
+- geringe Mästdauer (ca. 1 Monat)
 - geringster Futtereinsatz – **günstig**, gut für Entwicklungsländer
 - veränderte **Konsumgewohnheiten** – fettarme Produkte
 - keine potentielle Einschränkung durch Religion oder Kultur
@@ -48,7 +49,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNDA0MjA3NCwtNzA0MzQ2MjAyLDE5ND
-UzODIxMTAsNzUxNTgzMzgyLC0xODU0NDI4OTY1LDEwODkwNzc0
-MTcsMTc4MjI0MDU1N119
+eyJoaXN0b3J5IjpbLTExNjkwNDU2NzgsLTcwNDM0NjIwMiwxOT
+Q1MzgyMTEwLDc1MTU4MzM4MiwtMTg1NDQyODk2NSwxMDg5MDc3
+NDE3LDE3ODIyNDA1NTddfQ==
 -->
