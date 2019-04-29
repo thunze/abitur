@@ -68,9 +68,14 @@
 - landwirtschaftliche Produktionsweise (s. o.)
 - Verteilung der **Lebensmittel** weltweit *(Regulierung & Deregulierung, **Subventionen**)*
 - Verschwendung und Vernichtung von Lebensmitteln
-- Verteilung der Produktionsmitel und des Wissens um dere
+- Verteilung der **Produktionsmitel** und des **Wissens** um deren Anwendung
+- Umwandlung der Flächen für Lebensmittel für **Treibstoff**
+- Konsumgewohnheiten
+- ***Bevölkerungswachstum***
+- *Land Grabbing*
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc5MzkxNjUxLC0xMTY5MDQ1Njc4LC03MD
+eyJoaXN0b3J5IjpbNjkyODQ5NTg0LC0xMTY5MDQ1Njc4LC03MD
 QzNDYyMDIsMTk0NTM4MjExMCw3NTE1ODMzODIsLTE4NTQ0Mjg5
 NjUsMTA4OTA3NzQxNywxNzgyMjQwNTU3XX0=
 -->
