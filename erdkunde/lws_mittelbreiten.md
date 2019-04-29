@@ -49,11 +49,11 @@
 - hoher Düngereinsatz
 - Abtransport der Gülle und des Abwassers
 - Wasserbedarf
-- Geruchsbelästigung, Gesundheitsbelastung
+- Geruchsbelästigung, Gesundheitsbelastung, Grundwa
 - notwendiger **Medikamenteneinsatz** verursacht Bildung von multiresistenten Keimen
-- 
+- Flächennutzungskonflikte
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg5MTQ5NDkyLC0xMTY5MDQ1Njc4LC03MD
+eyJoaXN0b3J5IjpbLTk3OTk0NTUzLC0xMTY5MDQ1Njc4LC03MD
 QzNDYyMDIsMTk0NTM4MjExMCw3NTE1ODMzODIsLTE4NTQ0Mjg5
 NjUsMTA4OTA3NzQxNywxNzgyMjQwNTU3XX0=
 -->
