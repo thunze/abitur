@@ -46,10 +46,10 @@
 - Expansion von Supermärkten und Fast-Food-Ketten
 
 ### Folgen
-
-
+- hoher Düngereinsatz
+- Abtransport der Güll
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjkwNDU2NzgsLTcwNDM0NjIwMiwxOT
-Q1MzgyMTEwLDc1MTU4MzM4MiwtMTg1NDQyODk2NSwxMDg5MDc3
-NDE3LDE3ODIyNDA1NTddfQ==
+eyJoaXN0b3J5IjpbMTg5NTc3MTk4OCwtMTE2OTA0NTY3OCwtNz
+A0MzQ2MjAyLDE5NDUzODIxMTAsNzUxNTgzMzgyLC0xODU0NDI4
+OTY1LDEwODkwNzc0MTcsMTc4MjI0MDU1N119
 -->
