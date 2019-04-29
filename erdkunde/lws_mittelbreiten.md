@@ -37,10 +37,10 @@
 - **infrastrukturelle Anbindung** zur Anlieferung und zum Abtransport der Tiere zu **konzerneigenem** Schlachthof
 - ***Agrobusiness:*** Unternehmen – kein Farmer – betreibt Feedlot
 
-### Clusterbildung
+### Vorteile / Popularität von Hühnerfleisch
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDM2MDcxMTksMTk0NTM4MjExMCw3NT
+eyJoaXN0b3J5IjpbLTIwNDAyMzEyODEsMTk0NTM4MjExMCw3NT
 E1ODMzODIsLTE4NTQ0Mjg5NjUsMTA4OTA3NzQxNywxNzgyMjQw
 NTU3XX0=
 -->
