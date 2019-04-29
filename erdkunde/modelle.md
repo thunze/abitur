@@ -79,17 +79,17 @@
 ## Landwirtschaft
 
 ### Einführung von nachhaltigen Bewirtschaftungssystemen
-
+![08]()
 
 - Verbindung von **traditionellen** und modernen **wissenschaftlichen** Erkenntnissen
 - bilden einen Zwischenschritt zu nachhaltigen Systemen (Endziel)
 - Zwischenschritte benötigen staatliche Unterstützung
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg3MTc3NzA2LC0yMDE4MjUzOTMwLC0yOT
-M0Nzk3MjQsMTE2NTQyMTA1Nyw4NjUzNjQxMjUsMTc3MzYzMjQw
-OSwxNDkxMzI2OTYyLC00NzE5MzczMTYsNzM5NzUxNjY5LC0xNz
-cyMjM3NzcyLDEwNjUwODAwMTEsNTg0MDk3NTI3LDkzNTkxNDYw
-NCwxODMyOTg3MzY4LDExNDYyNjgyMDUsLTEyMzM0MTk4NCwxNj
-U1OTA5MDQ3LDM0NTcxNzU2Nl19
+eyJoaXN0b3J5IjpbLTY0MDczODU2OCwtMjAxODI1MzkzMCwtMj
+kzNDc5NzI0LDExNjU0MjEwNTcsODY1MzY0MTI1LDE3NzM2MzI0
+MDksMTQ5MTMyNjk2MiwtNDcxOTM3MzE2LDczOTc1MTY2OSwtMT
+c3MjIzNzc3MiwxMDY1MDgwMDExLDU4NDA5NzUyNyw5MzU5MTQ2
+MDQsMTgzMjk4NzM2OCwxMTQ2MjY4MjA1LC0xMjMzNDE5ODQsMT
+Y1NTkwOTA0NywzNDU3MTc1NjZdfQ==
 -->
