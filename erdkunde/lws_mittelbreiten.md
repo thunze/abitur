@@ -67,9 +67,13 @@
 ### Ökologische / Nachhaltige Landwirtschaft
 
 #### Problemlösungen
-x | 
+- Futtermittel 
 
 #### Nachteile
+- größerer Personalaufwand
+- geringere Erträge
+- oft von Subventionen abhängig
+- höhere Preise bei vergleichbarem Gewinn
 
 **> kein "Allheilmittel", andere Faktoren wichtig (siehe unten)**
 
@@ -84,7 +88,7 @@ x |
 - *Land Grabbing*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTc3NTc1NjUsLTExNjkwNDU2NzgsLT
+eyJoaXN0b3J5IjpbLTEwMDQxMDY2NTQsLTExNjkwNDU2NzgsLT
 cwNDM0NjIwMiwxOTQ1MzgyMTEwLDc1MTU4MzM4MiwtMTg1NDQy
 ODk2NSwxMDg5MDc3NDE3LDE3ODIyNDA1NTddfQ==
 -->
