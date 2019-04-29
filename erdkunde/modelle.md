@@ -76,11 +76,20 @@
 
 **> Atlas S. 273**
 
+## Landwirtschaft
+
+### Einführung von nachhaltigen Bewirtschaftungssystemen
+
+
+- Verbindung von **traditionellen** und modernen **wissenschaftlichen** Erkenntnissen
+- bilden einen Zwischenschritt zu nachhaltigen Systemen (Endziel)
+- Zwischenschritte benötigen staatliche Unterstützung
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTgyNTM5MzAsLTI5MzQ3OTcyNCwxMT
-Y1NDIxMDU3LDg2NTM2NDEyNSwxNzczNjMyNDA5LDE0OTEzMjY5
-NjIsLTQ3MTkzNzMxNiw3Mzk3NTE2NjksLTE3NzIyMzc3NzIsMT
-A2NTA4MDAxMSw1ODQwOTc1MjcsOTM1OTE0NjA0LDE4MzI5ODcz
-NjgsMTE0NjI2ODIwNSwtMTIzMzQxOTg0LDE2NTU5MDkwNDcsMz
-Q1NzE3NTY2XX0=
+eyJoaXN0b3J5IjpbOTg3MTc3NzA2LC0yMDE4MjUzOTMwLC0yOT
+M0Nzk3MjQsMTE2NTQyMTA1Nyw4NjUzNjQxMjUsMTc3MzYzMjQw
+OSwxNDkxMzI2OTYyLC00NzE5MzczMTYsNzM5NzUxNjY5LC0xNz
+cyMjM3NzcyLDEwNjUwODAwMTEsNTg0MDk3NTI3LDkzNTkxNDYw
+NCwxODMyOTg3MzY4LDExNDYyNjgyMDUsLTEyMzM0MTk4NCwxNj
+U1OTA5MDQ3LDM0NTcxNzU2Nl19
 -->
