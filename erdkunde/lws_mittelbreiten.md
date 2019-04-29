@@ -64,10 +64,8 @@
 
 ## Alternativen zum Agrobusiness *(Aufgabe 2 & 3)*
 
-### Agrarökologische Systeme
-- Verbindung von **traditionellen** und modernen **wissenschaftlichen** Erkenntnissen
-- bilden einen Zwischenschritt zu nachhaltigen Systemen (Endziel, siehe **Modell**)
-- Zwischenschritte 
+
+
 
 ### Relevante Faktoren der Ernährungssicherung
 - landwirtschaftliche Produktionsweise (s. o.)
@@ -80,7 +78,7 @@
 - *Land Grabbing*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNDM1MzgyNCwtMTE2OTA0NTY3OCwtNz
+eyJoaXN0b3J5IjpbLTc5MDQwMzEzMSwtMTE2OTA0NTY3OCwtNz
 A0MzQ2MjAyLDE5NDUzODIxMTAsNzUxNTgzMzgyLC0xODU0NDI4
 OTY1LDEwODkwNzc0MTcsMTc4MjI0MDU1N119
 -->
