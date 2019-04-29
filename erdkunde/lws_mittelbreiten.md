@@ -3,9 +3,9 @@
 ## Bewirtschaftung der Great Plains *(Aufgabe 1 & 2)*
 
 ### Fachbegriffe
-- ***vertikale Integration:***
-- ***horizontale Integration:***
-
+- *Veredelungswirtschaft:* Wertsteigerung von Produkten, in der Landwirtschaft Umwandlung 
+- ***vertikale Integration:*** enge Zusammenarbeit (bis Zusammenschluss) von Betrieben **aufeinander folgender** Produktionsschritte
+- ***horizontale Integration:*** enge Zusammenarbeit (bis Zusammenschluss) von Betrieben gleicher Produktionsschritte zum Zweck der Kostenersparnis
 
 ### Naturraum
 - **Temperatur:** Nord-Süd-Gefälle (7–18 °C), warme Sommermonate, im Norden Frost im Winder
@@ -40,7 +40,7 @@
 ### Clusterbildung
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MTYxMDY5LDE5NDUzODIxMTAsNzUxNT
-gzMzgyLC0xODU0NDI4OTY1LDEwODkwNzc0MTcsMTc4MjI0MDU1
-N119
+eyJoaXN0b3J5IjpbLTEwNjc5MjgwNTQsMTk0NTM4MjExMCw3NT
+E1ODMzODIsLTE4NTQ0Mjg5NjUsMTA4OTA3NzQxNywxNzgyMjQw
+NTU3XX0=
 -->
