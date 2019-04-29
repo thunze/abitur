@@ -38,9 +38,12 @@
 - ***Agrobusiness:*** Unternehmen – kein Farmer – betreibt Feedlot
 
 ### Vorteile / Popularität von Hühnerfleisch
-- geringster F
+- geringster Futtereinsatz – **günstig**, gut für Entwicklungsländer
+- veränderte **Konsumgewohnheiten** – fettarme Produkte
+- keine potentielle Einschränkung durch Religion oder Kultur
+- Expan
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyOTI5NTYyNywxOTQ1MzgyMTEwLDc1MT
+eyJoaXN0b3J5IjpbMTkxNjk2NjYyNCwxOTQ1MzgyMTEwLDc1MT
 U4MzM4MiwtMTg1NDQyODk2NSwxMDg5MDc3NDE3LDE3ODIyNDA1
 NTddfQ==
 -->
