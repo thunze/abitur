@@ -61,9 +61,10 @@
 
 ## Alternativen zum Agrobusiness *(Aufgabe 2 & 3)*
 
-## Ernährungssic
+### Relevante Faktoren der Ernährungssicherung
+- außer landwirtschaftliche Produktionsweise
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjU2MzM2ODgsLTExNjkwNDU2NzgsLT
-cwNDM0NjIwMiwxOTQ1MzgyMTEwLDc1MTU4MzM4MiwtMTg1NDQy
-ODk2NSwxMDg5MDc3NDE3LDE3ODIyNDA1NTddfQ==
+eyJoaXN0b3J5IjpbMjI5MTk1MjYyLC0xMTY5MDQ1Njc4LC03MD
+QzNDYyMDIsMTk0NTM4MjExMCw3NTE1ODMzODIsLTE4NTQ0Mjg5
+NjUsMTA4OTA3NzQxNywxNzgyMjQwNTU3XX0=
 -->
