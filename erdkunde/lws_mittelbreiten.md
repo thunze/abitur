@@ -73,6 +73,7 @@
 - Einsparung von Pestiziden
 - **Qualität** der Produkte trägt zum Gewinn bei
 - regionale, an den Naturraum **angepasste** Produkte
+- Futtermittel werden auf dem Hof angebaut – geringer *logistischer* Aufwand
 - natürliches Futter
 - weniger oder grüne Düngung
 
@@ -95,7 +96,7 @@
 - *Land Grabbing*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTQ1MzYwNjQsLTEwMDQxMDY2NTQsLT
+eyJoaXN0b3J5IjpbLTE4OTA0MDI0NzksLTEwMDQxMDY2NTQsLT
 ExNjkwNDU2NzgsLTcwNDM0NjIwMiwxOTQ1MzgyMTEwLDc1MTU4
 MzM4MiwtMTg1NDQyODk2NSwxMDg5MDc3NDE3LDE3ODIyNDA1NT
 ddfQ==
