@@ -3,6 +3,7 @@
 ## Bewirtschaftung der Great Plains *(Aufgabe 1 & 2)*
 
 ### Fachbegriffe
+- *Regulierung & Deregulierung*
 - *Veredelungswirtschaft:* Wertsteigerung von Produkten, in der Landwirtschaft Umwandlung von Bodenerzeugnissen zu Futtermitteln
 - ***Biodiversität:*** biologische Vielfalt
 - ***vertikale Integration:*** enge Zusammenarbeit (bis Zusammenschluss) von Betrieben **aufeinander folgender** Produktionsschritte
@@ -67,7 +68,7 @@
 - landwirtschaftliche Produktionsweise (Agrobusiness)
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODg2Njk3NDMsLTExNjkwNDU2NzgsLT
-cwNDM0NjIwMiwxOTQ1MzgyMTEwLDc1MTU4MzM4MiwtMTg1NDQy
-ODk2NSwxMDg5MDc3NDE3LDE3ODIyNDA1NTddfQ==
+eyJoaXN0b3J5IjpbLTE1ODAzNDMxOSwtMTE2OTA0NTY3OCwtNz
+A0MzQ2MjAyLDE5NDUzODIxMTAsNzUxNTgzMzgyLC0xODU0NDI4
+OTY1LDEwODkwNzc0MTcsMTc4MjI0MDU1N119
 -->
