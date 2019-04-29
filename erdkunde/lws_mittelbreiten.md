@@ -27,7 +27,7 @@
 	- Windkraft, Tourismus verteilt
 	**> räumliche Verteilung selbsterklärend**
 
-## Intensivtierhaltung *(Aufgabe 1 & 2)*
+## Intensive Landwirtschaft & Tierhaltung *(Aufgabe 1 & 2)*
 
 ### Merkmale und Funktionsweise eines Feedlots
 - *Ballung* in den Great Plains
@@ -43,9 +43,11 @@
 - keine potentielle Einschränkung durch Religion oder Kultur
 - Expansion von Supermärkten und Fast-Food-Ketten
 
+### Folgen
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNDM0NjIwMiwxOTQ1MzgyMTEwLDc1MT
-U4MzM4MiwtMTg1NDQyODk2NSwxMDg5MDc3NDE3LDE3ODIyNDA1
-NTddfQ==
+eyJoaXN0b3J5IjpbNjY4Nzg1ODcsLTcwNDM0NjIwMiwxOTQ1Mz
+gyMTEwLDc1MTU4MzM4MiwtMTg1NDQyODk2NSwxMDg5MDc3NDE3
+LDE3ODIyNDA1NTddfQ==
 -->
