@@ -64,8 +64,7 @@
 
 ## Alternativen zum Agrobusiness *(Aufgabe 2 & 3)*
 
-
-
+### Ökologische / Nachhaltige 
 
 ### Relevante Faktoren der Ernährungssicherung
 - landwirtschaftliche Produktionsweise (s. o.)
@@ -78,7 +77,7 @@
 - *Land Grabbing*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MDQwMzEzMSwtMTE2OTA0NTY3OCwtNz
-A0MzQ2MjAyLDE5NDUzODIxMTAsNzUxNTgzMzgyLC0xODU0NDI4
-OTY1LDEwODkwNzc0MTcsMTc4MjI0MDU1N119
+eyJoaXN0b3J5IjpbLTE2MTA5NDM5NjUsLTExNjkwNDU2NzgsLT
+cwNDM0NjIwMiwxOTQ1MzgyMTEwLDc1MTU4MzM4MiwtMTg1NDQy
+ODk2NSwxMDg5MDc3NDE3LDE3ODIyNDA1NTddfQ==
 -->
