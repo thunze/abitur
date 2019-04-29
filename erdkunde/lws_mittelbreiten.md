@@ -65,6 +65,7 @@
 ## Alternativen zum Agrobusiness *(Aufgabe 2 & 3)*
 
 ### Agrarökologische Systeme
+- Verbindung von **traditionellen** und modernen 
 
 ### Relevante Faktoren der Ernährungssicherung
 - landwirtschaftliche Produktionsweise (s. o.)
@@ -77,7 +78,7 @@
 - *Land Grabbing*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTkzNzczOSwtMTE2OTA0NTY3OCwtNz
-A0MzQ2MjAyLDE5NDUzODIxMTAsNzUxNTgzMzgyLC0xODU0NDI4
-OTY1LDEwODkwNzc0MTcsMTc4MjI0MDU1N119
+eyJoaXN0b3J5IjpbNTg0OTc2ODgwLC0xMTY5MDQ1Njc4LC03MD
+QzNDYyMDIsMTk0NTM4MjExMCw3NTE1ODMzODIsLTE4NTQ0Mjg5
+NjUsMTA4OTA3NzQxNywxNzgyMjQwNTU3XX0=
 -->
