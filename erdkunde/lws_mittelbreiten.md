@@ -54,9 +54,11 @@
 - Flächennutzungskonflikte
 - Einfluss auf den *Klimawandel*
 - geringere Qualität des Fleisches
-- keine artgerechte Haltung von Tieren (Platzmangel, Tötung)
+- **keine artgerechte Haltung** von Tieren (Platzmangel, Tötung von Tieren, kein Licht, Trennung von Müttern und Kälbern etc.)
+- **Verdrängung** kleinbäuerlicher Betriebe
+- *Monokultur* des Futtermittelanbaus verringert ***Biodiversität***
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxODYyMTg1OSwtMTE2OTA0NTY3OCwtNz
+eyJoaXN0b3J5IjpbLTQzNTQ1OTczMCwtMTE2OTA0NTY3OCwtNz
 A0MzQ2MjAyLDE5NDUzODIxMTAsNzUxNTgzMzgyLC0xODU0NDI4
 OTY1LDEwODkwNzc0MTcsMTc4MjI0MDU1N119
 -->
