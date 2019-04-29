@@ -47,9 +47,13 @@
 
 ### Folgen
 - hoher Düngereinsatz
-- Abtransport der Güll
+- Abtransport der Gülle und des Abwassers
+- Wasserbedarf
+- Geruchsbelästigung, Gesundheitsbelastung
+- notwendiger **Medikamenteneinsatz** verursacht Bildung von multiresistenten Keimen
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NTc3MTk4OCwtMTE2OTA0NTY3OCwtNz
-A0MzQ2MjAyLDE5NDUzODIxMTAsNzUxNTgzMzgyLC0xODU0NDI4
-OTY1LDEwODkwNzc0MTcsMTc4MjI0MDU1N119
+eyJoaXN0b3J5IjpbODg5MTQ5NDkyLC0xMTY5MDQ1Njc4LC03MD
+QzNDYyMDIsMTk0NTM4MjExMCw3NTE1ODMzODIsLTE4NTQ0Mjg5
+NjUsMTA4OTA3NzQxNywxNzgyMjQwNTU3XX0=
 -->
