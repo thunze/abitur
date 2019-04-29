@@ -21,8 +21,8 @@
 ### Entwicklung bis heute
 - **früher:** grasbedecktes Flachland, *extensive Viehwirtschaft* der **indigenen Völker** mit Büffeln
 - **um 1830:** *Frontier*, europäisches Vieh
-- **später:** ursprüngliche Farmer in Konflikt mit neuerem **Weizenanbau**
-- **nach 1900:** ***Intensivierung*** durch Flächenvergrößerung, ertragreichere Sorten, Bewässerung, Dünger, Schädlingsbekämpfung **> aber auch *Monokultur***
+- **1980:** Viehzucht lohnt sich nicht mehr, deswegen **Weizenanbau**
+- **nach 1980:** ***Intensivierung*** durch Flächenvergrößerung, ertragreichere Sorten, Bewässerung, Dünger, Schädlingsbekämpfung **> aber auch *Monokultur***
 - **heute:** durch Absenkung des Grundwasserspiegels gemischte Nutzung
 	- Sommerweizen im Norden, Winterweizen im Süden (über diesen **Zeitraum** werden die Sorten angebaut)
 	- **Mais, Hirse, Soja**, da wassersparend und als Tierfutter nutzbar
@@ -96,8 +96,8 @@
 - *Land Grabbing*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTA0MDI0NzksLTEwMDQxMDY2NTQsLT
-ExNjkwNDU2NzgsLTcwNDM0NjIwMiwxOTQ1MzgyMTEwLDc1MTU4
-MzM4MiwtMTg1NDQyODk2NSwxMDg5MDc3NDE3LDE3ODIyNDA1NT
-ddfQ==
+eyJoaXN0b3J5IjpbLTk3MjYwNDU3NCwtMTg5MDQwMjQ3OSwtMT
+AwNDEwNjY1NCwtMTE2OTA0NTY3OCwtNzA0MzQ2MjAyLDE5NDUz
+ODIxMTAsNzUxNTgzMzgyLC0xODU0NDI4OTY1LDEwODkwNzc0MT
+csMTc4MjI0MDU1N119
 -->
