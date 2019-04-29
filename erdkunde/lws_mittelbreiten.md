@@ -65,10 +65,10 @@
 ### Agrarökologische Systeme
 
 ### Relevante Faktoren der Ernährungssicherung
-- landwirtschaftliche Produktionsweise (Agrobusiness)
-- 
+- landwirtschaftliche Produktionsweise (s. o.)
+- Verteilung der Lebensmittel weltweit (*Regulierung & Deregulierung*, *Subventionen*)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODAzNDMxOSwtMTE2OTA0NTY3OCwtNz
+eyJoaXN0b3J5IjpbMTAzOTA2MjI1MSwtMTE2OTA0NTY3OCwtNz
 A0MzQ2MjAyLDE5NDUzODIxMTAsNzUxNTgzMzgyLC0xODU0NDI4
 OTY1LDEwODkwNzc0MTcsMTc4MjI0MDU1N119
 -->
