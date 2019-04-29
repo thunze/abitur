@@ -27,7 +27,7 @@
 	- Windkraft, Tourismus verteilt
 	**> räumliche Verteilung selbsterklärend**
 
-## Intensivtierhaltung
+## Intensivtierhaltung *(Aufgabe 1 & 2)*
 
 ### Merkmale und Funktionsweise eines Feedlots
 - *Ballung* in den Great Plains
@@ -38,9 +38,9 @@
 - ***Agrobusiness:*** Unternehmen – kein Farmer – betreibt Feedlot
 
 ### Vorteile / Popularität von Hühnerfleisch
-
+- geringster F
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDAyMzEyODEsMTk0NTM4MjExMCw3NT
-E1ODMzODIsLTE4NTQ0Mjg5NjUsMTA4OTA3NzQxNywxNzgyMjQw
-NTU3XX0=
+eyJoaXN0b3J5IjpbLTUyOTI5NTYyNywxOTQ1MzgyMTEwLDc1MT
+U4MzM4MiwtMTg1NDQyODk2NSwxMDg5MDc3NDE3LDE3ODIyNDA1
+NTddfQ==
 -->
