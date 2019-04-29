@@ -67,7 +67,10 @@
 ### Ökologische / Nachhaltige Landwirtschaft
 
 #### Problemlösungen
-- Futtermittel 
+- Futtermittel werden auf dem Hof angebaut – geringer *logistischer* Aufwand
+- *Polykulturen*
+- *Regulierungen* für **artgerechte Tierhaltung**
+- 
 
 #### Nachteile
 - größerer Personalaufwand
@@ -88,7 +91,8 @@
 - *Land Grabbing*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDQxMDY2NTQsLTExNjkwNDU2NzgsLT
-cwNDM0NjIwMiwxOTQ1MzgyMTEwLDc1MTU4MzM4MiwtMTg1NDQy
-ODk2NSwxMDg5MDc3NDE3LDE3ODIyNDA1NTddfQ==
+eyJoaXN0b3J5IjpbLTg1MzQ1MzAwMywtMTAwNDEwNjY1NCwtMT
+E2OTA0NTY3OCwtNzA0MzQ2MjAyLDE5NDUzODIxMTAsNzUxNTgz
+MzgyLC0xODU0NDI4OTY1LDEwODkwNzc0MTcsMTc4MjI0MDU1N1
+19
 -->
