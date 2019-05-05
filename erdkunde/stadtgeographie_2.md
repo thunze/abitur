@@ -1,9 +1,13 @@
 # Stadtgeographie: Teil 2 – Die Stadt in anderen Kulturkreisen
 
-## Verstädterung
+## Verstädterung & Urbanisierung
 
-- **Zahl** der Städte bzw. Fläche der Städte nimmt zu – Einfluss auf 
-- Verstädterungsrate weltweit bei ca. 2%
+### Verstädterung
+- **Zahl** der Städte bzw. **Fläche** der Städte nimmt zu
+- Einfluss auf den ländlichen Raum
+- ***Verstädterungsrate:*** Zuwachs der städtischen Bevölkerung
+- ***Verstädterung***
+- *Verstädterungsrate* weltweit bei **ca. 2%**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDY0OTgwNjJdfQ==
+eyJoaXN0b3J5IjpbLTE4NjU2ODAwMjhdfQ==
 -->
