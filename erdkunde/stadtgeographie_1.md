@@ -193,8 +193,10 @@
 - Folgen:
 	- Interesse der Öffentlichkeit / Medien
 	- höhere Mietpreise
+
 **> Verdrängung der einkommensschwachen Bevölkerung**
-`niedrige Kaufpreise, "Flair" des Viertels, architektonische Qualität, Möglichkeit zur Selbstdarstellung nahe der Innenstadt`
+
+**`Pull-Faktoren:`**`niedrige Kaufpreise, "Flair" des Viertels, architektonische Qualität, Möglichkeit zur Selbstdarstellung nahe der Innenstadt`
 
 ### 3. – Zweite Expansionsphase
 - besserverdienende, risikoscheue Menschen ziehen in das Gebiet
@@ -207,7 +209,7 @@
 - kapitalkräftige Investoren wandeln Mietwohnungen in Eigentumswohnungen um
 - Folgen: hohe Preise, Teilgruppen (überwiegend Pioniere und Alteingesessene) ziehen fort
 
-**(Pull-Faktoren?)**
+**> Pull-Faktoren als `Code` markiert**
 
 ## Merkmale einer City
 
@@ -238,8 +240,8 @@
 | <li>Suche nach Wohnraum nahe der Natur</li> | |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAxNDI4MjgwLDcxNjU0NTU2MCwxNzI0OD
-Y5NTkwLDEwNzU5ODMzNTAsMjAyMTY3MjEzMSwtMTE4Njc2MjE1
-NSwyNzg2MjQ4NjgsMjc4NjI0ODY4LDE3MTEyMzU5MzEsNjQzNz
-c3MzYxXX0=
+eyJoaXN0b3J5IjpbLTk5NTgyMjI1NCw3MTY1NDU1NjAsMTcyND
+g2OTU5MCwxMDc1OTgzMzUwLDIwMjE2NzIxMzEsLTExODY3NjIx
+NTUsMjc4NjI0ODY4LDI3ODYyNDg2OCwxNzExMjM1OTMxLDY0Mz
+c3NzM2MV19
 -->
