@@ -161,16 +161,16 @@
 ## Gentrifizierung: Allgemeines
 
 ### Merkmale
-- bauliche Aufwertung: Sanierung / Neubau, Wohnumfeld, Infrastruktur
-- soziale Aufwertung: Yuppies, Dinks, Studenten, statushöhere Bevölkerung ziehen zu
-- funktionale Aufwertung: neue Geschäfte / Dienstleistungen (z. B. Cafés), qualitativ hochwertige Arbeit
-- symbolische Aufwertung: positive Kommunikation, Medien, hohe Akzeptanz
+- **bauliche Aufwertung:** Sanierung / Neubau, Wohnumfeld, Infrastruktur
+- **soziale Aufwertung:** Yuppies, Dinks, Studenten, statushöhere Bevölkerung ziehen zu
+- **funktionale Aufwertung:** neue Geschäfte / Dienstleistungen (z. B. Cafés), qualitativ hochwertige Arbeit
+- **symbolische Aufwertung:** positive Kommunikation, Medien, hohe Akzeptanz
 
 ### Fachbegriffe
-- Gentrifier:
-  - Yuppies: young urban professionals (Medienprofis, Journalisten etc. - hohes Einkommen)
-  - Dinks: double income, no kids (Paare ohne Kinder - sehr hohes Einkommen)
-- Pioniere: Künstler, Studenten etc.
+- ***Gentrifier:***
+  - *Yuppies:* *young urban professionals* (Medienprofis, Journalisten etc. – hohes Einkommen)
+  - *Dinks:* *double income, no kids* (Paare ohne Kinder – sehr hohes Einkommen)
+- ***Pioniere:*** Künstler, Studenten etc.
 
 ### Anmerkungen
 - Prozess findet innerhalb von Stadtteilen zeitlich versetzt statt
@@ -239,7 +239,7 @@
 | <li>Suche nach Wohnraum nahe der Natur</li> | |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NTk4MzM1MCwyMDIxNjcyMTMxLC0xMT
-g2NzYyMTU1LDI3ODYyNDg2OCwyNzg2MjQ4NjgsMTcxMTIzNTkz
-MSw2NDM3NzczNjFdfQ==
+eyJoaXN0b3J5IjpbMTcyNDg2OTU5MCwxMDc1OTgzMzUwLDIwMj
+E2NzIxMzEsLTExODY3NjIxNTUsMjc4NjI0ODY4LDI3ODYyNDg2
+OCwxNzExMjM1OTMxLDY0Mzc3NzM2MV19
 -->
