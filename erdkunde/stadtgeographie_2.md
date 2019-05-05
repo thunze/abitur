@@ -52,12 +52,19 @@
 - sehr gute ***Standortfaktoren***
 - kommt häufig in ***Schwellen-*** und *Entwicklungsländern* vor
 
-### Chancen & Risiken
+### Chancen & Risiken eines Primatstadtcharakters
 
+| Chancen | Risiken |
+| --- | --- |
+| <li></li> | <li></li> |
+| <li></li> | <li></li> |
+| <li></li> | <li></li> |
+| <li></li> | <li></li> |
 
 ## Merkmale ökologischer Stadtentwicklung
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQyMzk2NDg4LDE1ODYzMTI1NTQsLTE5ND
-EwNjIxMzcsLTgyMjAxOTU5MCwtNjgyODA2MjQ3XX0=
+eyJoaXN0b3J5IjpbLTIxNDQ2NjI3MCw2NDIzOTY0ODgsMTU4Nj
+MxMjU1NCwtMTk0MTA2MjEzNywtODIyMDE5NTkwLC02ODI4MDYy
+NDddfQ==
 -->
