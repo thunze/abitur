@@ -173,53 +173,45 @@
 - funktionale Aufwertung: neue Geschäfte / Dienstleistungen (z.B. Cafés), qualitativ hochwertige Arbeit
 - symbolische Aufwertung: positive Kommunikation, Medien, hohe Akzeptanz
 
-Fachbegriffe
-
+### Fachbegriffe
 - Gentrifier:
-  - Yuppies: young urban professionals
-(Medienprofis, Journalisten etc. - hohes Einkommen)
-  - Dinks: double income, no kids
-(Paare ohne Kinder - sehr hohes Einkommen)
+  - Yuppies: young urban professionals (Medienprofis, Journalisten etc. - hohes Einkommen)
+  - Dinks: double income, no kids (Paare ohne Kinder - sehr hohes Einkommen)
 - Pioniere: Künstler, Studenten etc.
 
 ### Anmerkungen
-
 - Prozess findet innerhalb von Stadtteilen zeitlich versetzt statt
-  - vorerst nur einzelne Baublöcke oder Straßen betroffen
+	- vorerst nur einzelne Baublöcke oder Straßen betroffen
 - Vorleistungen der Stadt möglich (z.B. Bänke, Verkehrsberuhigung etc.)
 - meist gründerzeitliche Architektur kann Individualität der Bewohner ausdrücken
-- Folgen:
-  - Polarisierung, Heterogenisierung (Differenzierung / Aufteilung in mehrere "Lager")
+- Folgen: Polarisierung, Heterogenisierung (Differenzierung / Aufteilung in mehrere "Lager")
 
 ## Gentrifizierung: Phasen der Gentrifizierung
 
 ### 1. - Experimentierphase
-
 - einzelne Pioniere ziehen in das Gebiet
 - Risikobereitschaft muss vorhanden sein
-  - Gebiete sind "abgewirschaftet"
-> niedrige Miet- und Grundstückspreise
-  - Sanierung muss in Eigenregie durchgeführt werden
+	- Gebiete sind "abgewirschaftet"
+	**> niedrige Miet- und Grundstückspreise**
+	- Sanierung muss in Eigenregie durchgeführt werden
 
 ### 2. - Erste Expansionsphase
-
 - einzelne Pioniere Pioniere und Gentrifier ziehen in das Gebiet
-  - niedrige Kaufpreise, "Flair" des Viertels, architektonische Qualität, Möglichkeit zur Selbstdarstellung nahe der Innenstadt
+	- niedrige Kaufpreise, "Flair" des Viertels, architektonische Qualität, Möglichkeit zur Selbstdarstellung nahe der Innenstadt
 - Folgen:
-  - Interesse der Öffentlichkeit / Medien
-  - höhere Mietpreise
-> Verdrängung der einkommensschwachen Bevölkerung
+	- Interesse der Öffentlichkeit / Medien
+	- höhere Mietpreise
+	**> Verdrängung der einkommensschwachen Bevölkerung**
 
 ### 3. - Zweite Expansionsphase
 
 - besserverdienende, risikoscheue Menschen ziehen in das Gebiet
 - Sanierung wird zunehmend von Unternehmen durchgeführt
-  - Aufmerksamkeit der Öffentlichkeit und der Stadtverwaltung
+	- Aufmerksamkeit der Öffentlichkeit und der Stadtverwaltung
 - Einzelhandel verändert sich
 - der Prozess wird dynamisch
 
 ### 4. - Stagnationsphase
-
 - besserverdienende Investoren wandeln Mietwohnungen in Eigentumswohnungen um
 - Folgen:
   - hohe Preise
@@ -262,6 +254,6 @@ Suburbanisierung
 - Abwerbeversuche der Umlandgemeinden bei gleichzeitigem Nutzen der städtischen Infrastruktur
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3OTk4MzE0NiwxNzExMjM1OTMxLDY0Mz
+eyJoaXN0b3J5IjpbLTg5MjkwMDc3MiwxNzExMjM1OTMxLDY0Mz
 c3NzM2MV19
 -->
