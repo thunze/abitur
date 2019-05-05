@@ -122,7 +122,7 @@
 	- hauptsächlich Waren für den mittelfristigen Bedarf
 - hohe Bodenpreise
 - *prestigeträchtige* Lage
-- viele **Arbeitsplätze im *tertiären Sektor***
+- viele Arbeitsplätze im ***tertiären Sektor***
 - **geringe Wohnfunktion**
 - ***Citykrater:*** hohe Beschäftigtenrate, aber geringe Bevölkerungsrate
 
@@ -240,8 +240,8 @@
 | <li>Suche nach Wohnraum nahe der Natur</li> | |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MjE2ODEwNiw3MTY1NDU1NjAsMTcyND
-g2OTU5MCwxMDc1OTgzMzUwLDIwMjE2NzIxMzEsLTExODY3NjIx
-NTUsMjc4NjI0ODY4LDI3ODYyNDg2OCwxNzExMjM1OTMxLDY0Mz
-c3NzM2MV19
+eyJoaXN0b3J5IjpbLTExOTUxNDQ4NTQsNzE2NTQ1NTYwLDE3Mj
+Q4Njk1OTAsMTA3NTk4MzM1MCwyMDIxNjcyMTMxLC0xMTg2NzYy
+MTU1LDI3ODYyNDg2OCwyNzg2MjQ4NjgsMTcxMTIzNTkzMSw2ND
+M3NzczNjFdfQ==
 -->
