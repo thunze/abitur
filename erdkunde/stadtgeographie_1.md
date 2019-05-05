@@ -237,13 +237,14 @@
 | <li>hoher Lebensstandard</li> | <li>hohe ***Verstädterung*** und ***Zersiedelung*** (unstrukturiertes Wachstum)</li> |
 | <li>hohe **Mobilität**</li> | <li>**geringes Steueraufkommen** in der City</li> |
 | <li>Ausbau der Infrastruktur</li> | <li>Abwerbeversuche der Umlandgemeinden bei gleichzeitigem Nutzen der städtischen Infrastruktur</li> |
-| <li>Suche nach Wohnraum **nahe der Natur**</li> | <li>soziale "*"Selektierung"*" / **Abwertung** der Innenstadt</li> |
+| <li>Suche nach Wohnraum **nahe der Natur**</li> | <li>soziale *"Selektierung"* / **Abwertung** der Innenstadt</li> |
 | <li>*Subventionen* und Steuererleichterungen für Eigenbauvorhaben</li> | |
 
 ***> Atlas S. 74***
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIwOTM2NTIxLDE0NzE5NzEzNDUsNzE2NT
-Q1NTYwLDE3MjQ4Njk1OTAsMTA3NTk4MzM1MCwyMDIxNjcyMTMx
-LC0xMTg2NzYyMTU1LDI3ODYyNDg2OCwyNzg2MjQ4NjgsMTcxMT
-IzNTkzMSw2NDM3NzczNjFdfQ==
+eyJoaXN0b3J5IjpbMTM1NDk4MzMzOSwxNDcxOTcxMzQ1LDcxNj
+U0NTU2MCwxNzI0ODY5NTkwLDEwNzU5ODMzNTAsMjAyMTY3MjEz
+MSwtMTE4Njc2MjE1NSwyNzg2MjQ4NjgsMjc4NjI0ODY4LDE3MT
+EyMzU5MzEsNjQzNzc3MzYxXX0=
 -->
