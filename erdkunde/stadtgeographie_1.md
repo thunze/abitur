@@ -71,15 +71,13 @@
 
 ### Gartenstadtmodell (nach 1900)
 - kleinere, autarke Städte
-	- Funktionsmischung
-	- ausreichende Versorgungs- und Arbeitsfunktion
-- **im ~6,5-km-Radius an größere Stadt angebunden**
-- Grüngürtel
-	- Verkehrsnetz und Grünflächen
-- Vorkommen eher in den USA
+	- ***Funktionsmischung***
+	- ausreichende *Versorgungs-* und *Arbeitsfunktion*
+- im ~6,5-km-Radius an größere Stadt angebunden
+- Grüngürtel (Verkehrsnetz und Grünflächen) dazwischen
 
 ### Charta von Athen (1941)
-- Trennung der Funktionen Arbeiten, Wohnen, Freizeit, Verkehr
+- **Trennung der Funktionen** Arbeiten, Wohnen, Freizeit, Verkehr
 
 ### Gegliederte, aufgelockerte Stadt (1945-1950)
 - Schaffung von 2 Mio. Sozialwohnungen (Nachkriegszeit)
@@ -256,7 +254,7 @@
 | <li>Suche nach Wohnraum nahe der Natur</li> | |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMTY3MjEzMSwtMTE4Njc2MjE1NSwyNz
-g2MjQ4NjgsMjc4NjI0ODY4LDE3MTEyMzU5MzEsNjQzNzc3MzYx
-XX0=
+eyJoaXN0b3J5IjpbMTg2NTY2NTg4NywyMDIxNjcyMTMxLC0xMT
+g2NzYyMTU1LDI3ODYyNDg2OCwyNzg2MjQ4NjgsMTcxMTIzNTkz
+MSw2NDM3NzczNjFdfQ==
 -->
