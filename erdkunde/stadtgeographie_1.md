@@ -112,9 +112,8 @@
 ## Funktionale und sozialräumliche Gliederung - Stadtmodelle *(Aufgabe 1 & 2)*
 
 ### Ringmodell (1925)
-- Ausdehnung der Stadt in konzentrischen, homogenen Ringen um den CBD (central business district)
-- von innen nach außen:
-	- Industriegewerbe - Wohnviertel niederer Status - Wohnviertel Mittelstand - Wohnviertel höherer Status - Pendlerbereich
+- Ausdehnung der Stadt in **konzentrischen, homogenen Ringen** um den ***CBD** (central business district)*
+- **von innen nach außen:** Industriegewerbe – Wohnviertel niederer Status – Wohnviertel Mittelstand – Wohnviertel höherer Status – Pendlerbereich
 
 ### Sektorenmodell (1939)
 - Orientierung an den Hauptverkehrsachsen, der Industrie und dem Wohnstandortverhalten der statushöheren Bevölkerung
@@ -245,7 +244,7 @@
 | <li>Suche nach Wohnraum nahe der Natur</li> | |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAwMTAwNiwyMDIxNjcyMTMxLC0xMTg2Nz
-YyMTU1LDI3ODYyNDg2OCwyNzg2MjQ4NjgsMTcxMTIzNTkzMSw2
-NDM3NzczNjFdfQ==
+eyJoaXN0b3J5IjpbNTU5NjUxNTQ5LDIwMjE2NzIxMzEsLTExOD
+Y3NjIxNTUsMjc4NjI0ODY4LDI3ODYyNDg2OCwxNzExMjM1OTMx
+LDY0Mzc3NzM2MV19
 -->
