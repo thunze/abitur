@@ -112,8 +112,7 @@
 
 - Ausdehnung der Stadt in konzentrischen, homogenen Ringen um den CBD (central business district)
 - von innen nach außen:
-- Industriegewerbe - Wohnviertel niederer Status -
-Wohnviertel Mittelstand - Wohnviertel höherer Status - Pendlerbereich
+	- Industriegewerbe - Wohnviertel niederer Status - Wohnviertel Mittelstand - Wohnviertel höherer Status - Pendlerbereich
 
 ### Sektorenmodell (1939)
 
@@ -133,25 +132,23 @@ Wohnviertel Mittelstand - Wohnviertel höherer Status - Pendlerbereich
 - Modelle stammen aus den USA und sind dementsprechend nicht auf europäische Städte zugeschnitten, bwohl sich oft viele Merkmale auch in europäischen Städten wiedererkennen lassen
 - historische Besonderheiten in Deutschland (Zerstörungen durch Weltkriege etc.)
 - aktuelle soziale Überprägung
-  - langes, unkontrolliertes Wachstum deutscher Städte (angefangen im Mittelalter)
-- USA: schnelles, geplantes Wachstum
+- langes, unkontrolliertes Wachstum deutscher Städte (angefangen im Mittelalter)
+	- USA: schnelles, geplantes Wachstum
 - Massenmobilisierung nach 1945
 - Tertiärisierung
 
 ## Segregation
 
 ### Definition
-
 - Bildung von Gruppen mit einheitlichen Merkmalen in Stadtvierteln
 - soziale Segregation:
-  - soziale Lage, Beruf, Bildungsstand, Einkommen
+	- soziale Lage, Beruf, Bildungsstand, Einkommen
 - ethnische Segregation:
-  - Staatsangehörigkeit, Herkunft, Sprache, Religion
+	- Staatsangehörigkeit, Herkunft, Sprache, Religion
 - Viertel meist mit schlechter Bausubstanz, dichter Bebauung und Stigmatisierung
 - soziale und ethnische Segregation fallen häufig zusammen
 
 ### Mögliche Folgen
-
 - Resignation, "Teufelskreis"
 - Alkoholismus
 - Kriminalität, z.B. Gewalt, Konflikte, Steuerhinterziehung (Wohnviertel höherer Status)
@@ -161,26 +158,20 @@ Wohnviertel Mittelstand - Wohnviertel höherer Status - Pendlerbereich
 - erschwerte Integration
 - gegenseitige Verstärkung der Folgen
 
-### Mögliche Lösungen
-
+### Mögliche Auswege
 - Bildung für statusniedrige Gesellschaft
-  - Schulpflichtverstöße ahnden
+	- Schulpflichtverstöße ahnden
 - Einrichtung von Sozialzentren
 - "Rekommunalisierung" von Versorgungseinrichtungen
-  - Kommunen haben Kontrolle über Preise und Qualität der Versorgung anstelle von Privatunternehmen
+	- Kommunen haben Kontrolle über Preise und Qualität der Versorgung anstelle von Privatunternehmen
 
 ## Gentrifizierung: Allgemeines
 
 ### Merkmale
-
-- bauliche Aufwertung
-  - Sanierung / Neubau, Wohnumfeld, Infrastruktur
-- soziale Aufwertung
-  - Yuppies, Dinks, Studenten, statushöhere Bevölkerung ziehen zu
-- funktionale Aufwertung
-  - neue Geschäfte / Dienstleistungen (z.B. Cafés), qualitativ hochwertige Arbeit
-- symbolische Aufwertung
-  - positive Kommunikation, Medien, hohe Akzeptanz
+- bauliche Aufwertung: Sanierung / Neubau, Wohnumfeld, Infrastruktur
+- soziale Aufwertung: Yuppies, Dinks, Studenten, statushöhere Bevölkerung ziehen zu
+- funktionale Aufwertung: neue Geschäfte / Dienstleistungen (z.B. Cafés), qualitativ hochwertige Arbeit
+- symbolische Aufwertung: positive Kommunikation, Medien, hohe Akzeptanz
 
 Fachbegriffe
 
@@ -271,6 +262,6 @@ Suburbanisierung
 - Abwerbeversuche der Umlandgemeinden bei gleichzeitigem Nutzen der städtischen Infrastruktur
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk1MDgyNDMsMTcxMTIzNTkzMSw2NDM3Nz
-czNjFdfQ==
+eyJoaXN0b3J5IjpbMTA3OTk4MzE0NiwxNzExMjM1OTMxLDY0Mz
+c3NzM2MV19
 -->
