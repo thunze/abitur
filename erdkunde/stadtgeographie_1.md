@@ -131,7 +131,7 @@
 - historische Besonderheiten in Deutschland (Zerstörungen durch Weltkriege etc.), **langes, unkontrolliertes Wachstum** *(Zersiedelung)* deutscher Städte
 	- **USA:** schnelles, geplantes Wachstum
 - *Massenmobilisierung* nach 1945
-- Tertiärisierung
+- ***Tertiärisierung***
 
 ## Segregation
 
@@ -242,7 +242,7 @@
 | <li>Suche nach Wohnraum nahe der Natur</li> | |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NTIzNTQ4MywyMDIxNjcyMTMxLC0xMT
+eyJoaXN0b3J5IjpbLTYyMzc1NjAwMywyMDIxNjcyMTMxLC0xMT
 g2NzYyMTU1LDI3ODYyNDg2OCwyNzg2MjQ4NjgsMTcxMTIzNTkz
 MSw2NDM3NzczNjFdfQ==
 -->
