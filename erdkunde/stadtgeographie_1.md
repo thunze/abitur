@@ -248,14 +248,18 @@
 
 | Ursachen | Folgen |
 | --- | --- |
-| <li>gut erreichbare, suburbane Knotenpunkte – niedrige Preise als Pull-Faktor für Unternehmen</li> | </li></li>
-<li>Industrie benötigt Fläche für Fertigung</li>
-- hoher Lebensstandard
-- hohe Mobilität
-- Ausbau der Infrastruktur
-- Suche nach Wohnraum nahe der Natur
+| <li>gut erreichbare, suburbane Knotenpunkte – niedrige Preise als Pull-Faktor für Unternehmen</li> | <li>hohes Verkehrsaufkommen</li> |
+| <li>Industrie benötigt Fläche für Fertigung</li> | <li></li> |
+| <li>hoher Lebensstandard</li> | <li></li> |
+| <li>hohe Mobilität</li> | <li></li> |
+| <li>Ausbau der Infrastruktur</li> | <li></li> |
+| <li></li> | <li></li> |
+
+- 
+- 
+- 
  |
-- hohes Verkehrsaufkommen
+
 - hohe Flächenerschließung
 - hohe Verstädterung und Zersiedelung
   - unstrukturiertes Wachstum
@@ -263,7 +267,7 @@
 - Abwerbeversuche der Umlandgemeinden bei gleichzeitigem Nutzen der städtischen Infrastruktur
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzgzMDIxNTEsLTExODY3NjIxNTUsMj
-c4NjI0ODY4LDI3ODYyNDg2OCwxNzExMjM1OTMxLDY0Mzc3NzM2
-MV19
+eyJoaXN0b3J5IjpbNDk0OTU2MDgxLC0xMTg2NzYyMTU1LDI3OD
+YyNDg2OCwyNzg2MjQ4NjgsMTcxMTIzNTkzMSw2NDM3NzczNjFd
+fQ==
 -->
