@@ -12,7 +12,7 @@
 
 - **weltweite Statistik:**
 	- *Verstädterungsrate* weltweit bei **ca. 2%**
-	- erste *Megacitys* (> 10 Mio. Einwohner) ab 1950 (New York)
+	- erste ***Megacitys*** (> 10 Mio. Einwohner) ab 1950 (New York)
 	- *Industrieländer:* geringe *Verstädterungsrate*, da bereits hoher *Verstädterungsgrad* vorhanden
 	- *Entwicklungsländer:* hohe *Verstädterungsrate*, dementsprechend wachsender *Verstädterungsgrad*
 
@@ -30,5 +30,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMzA5MDA3M119
+eyJoaXN0b3J5IjpbLTY4MjgwNjI0N119
 -->
