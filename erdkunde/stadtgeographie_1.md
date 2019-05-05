@@ -184,7 +184,7 @@
 ### 1. – Experimentierphase
 - einzelne ***Pioniere*** ziehen in das Gebiet, untere soziale Schichten wohnen bereits dort
 - **Risikobereitschaft** muss vorhanden sein, denn
-	- Gebiete sind *abgewirschaftet*
+	- Gebiete sind *abgewirschaftet*,
 	- Sanierung muss in Eigenregie durchgeführt werden
 
 **`Pull-Faktoren:`**`niedrige Miet- und Grundstückspreise`
@@ -197,15 +197,18 @@
 **`Pull-Faktoren:`**`niedrige Kaufpreise, "Flair" des Viertels, architektonische Qualität, Möglichkeit zur Selbstdarstellung nahe der Innenstadt`
 
 ### 3. – Zweite Expansionsphase
-- besserverdienende, risikoscheue Menschen ziehen in das Gebiet
-- Sanierung wird zunehmend von Unternehmen durchgeführt
-	- Aufmerksamkeit der Öffentlichkeit und der Stadtverwaltung
+- besserverdienende, risikoscheue Menschen ziehen in das Gebiet (vor allem ***Gentrifier***)
+- Sanierung wird zunehmend von **Unternehmen** durchgeführt
+	- **Aufmerksamkeit** der Öffentlichkeit und der Stadtverwaltung
 - Einzelhandel verändert sich
 - der Prozess wird dynamisch
 
+**`Pull-Faktoren:`**`geringeres Risiko`
+
 ### 4. – Stagnationsphase
 - kapitalkräftige Investoren wandeln Mietwohnungen in Eigentumswohnungen um
-- Folgen: hohe Preise, Teilgruppen (überwiegend Pioniere und Alteingesessene) ziehen fort
+- **Folgen:** hohe Preise, Teilgruppen (überwiegend Pioniere und Alteingesessene) ziehen fort
+
 
 **> *Pull-Faktoren* als `Code` markiert**
 
@@ -238,8 +241,8 @@
 | <li>Suche nach Wohnraum nahe der Natur</li> | |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwOTc2Mzc0MSw3MTY1NDU1NjAsMTcyND
-g2OTU5MCwxMDc1OTgzMzUwLDIwMjE2NzIxMzEsLTExODY3NjIx
-NTUsMjc4NjI0ODY4LDI3ODYyNDg2OCwxNzExMjM1OTMxLDY0Mz
-c3NzM2MV19
+eyJoaXN0b3J5IjpbMTE2NzU5MjYxLDcxNjU0NTU2MCwxNzI0OD
+Y5NTkwLDEwNzU5ODMzNTAsMjAyMTY3MjEzMSwtMTE4Njc2MjE1
+NSwyNzg2MjQ4NjgsMjc4NjI0ODY4LDE3MTEyMzU5MzEsNjQzNz
+c3MzYxXX0=
 -->
