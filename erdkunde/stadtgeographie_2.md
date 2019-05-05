@@ -64,8 +64,11 @@
 
 ## Merkmale ökologischer Stadtentwicklung
 
+- **effiziente Bauweise:** Plusenergiehäuser, Passivhaus, Niedrigenergiehaus
+- neue Art der Flächennutzung alter *Brachen* (Militär, Industrie etc.)
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjE2MjM1NzMsNjQyMzk2NDg4LDE1OD
-YzMTI1NTQsLTE5NDEwNjIxMzcsLTgyMjAxOTU5MCwtNjgyODA2
-MjQ3XX0=
+eyJoaXN0b3J5IjpbLTExMDg4OTkwNywtMjAyMTYyMzU3Myw2ND
+IzOTY0ODgsMTU4NjMxMjU1NCwtMTk0MTA2MjEzNywtODIyMDE5
+NTkwLC02ODI4MDYyNDddfQ==
 -->
