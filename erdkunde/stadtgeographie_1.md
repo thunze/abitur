@@ -80,20 +80,20 @@
 - ***Funktionstrennung:*** Arbeiten, Wohnen, Freizeit, Verkehr
 
 ### Gegliederte, aufgelockerte Stadt (1945-1950)
-- Schaffung von 2 Mio. Sozialwohnungen (Nachkriegszeit)
+- Schaffung von 2 Mio. **Sozialwohnungen** (Nachkriegszeit)
 - alter Stadtkern wird an Verkehr angepasst
 - "Neubau oder Wiederaufbau?"
 	- Wiederaufbau ≙ Sünde
 
 ### Autogerechte Stadt (1960er)
-- Ausrichtung auf den Personenindividualverkehr
+- Ausrichtung auf den ***Personenindividualverkehr***
 	- auch in Siedlungen, an Grünflächen etc.
 
 ### Urbanität durch Dichte (1960er)
 - Großwohnsiedlungen in günstiger Bauweise
-- Straßen durchlaufen teilweise Erholungsgebiete (Autogerechte Stadt)
+- Straßen durchlaufen teilweise Erholungsgebiete *(Autogerechte Stadt)*
 - Freizeit- und Versorgungseinrichtungen am Stadtrand
-- Folge: Stadtflucht / Suburbanisierung
+- **Folge:** Stadtflucht / *Suburbanisierung*
 
 ### Behutsamer Stadtumbau (1970er)
 - Reaktion auf Stadtflucht / Suburbanisierung ("Urbanität durch Dichte")
@@ -253,7 +253,7 @@
 | <li>Suche nach Wohnraum nahe der Natur</li> | |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTk4NDg3NzUsMjAyMTY3MjEzMSwtMT
-E4Njc2MjE1NSwyNzg2MjQ4NjgsMjc4NjI0ODY4LDE3MTEyMzU5
-MzEsNjQzNzc3MzYxXX0=
+eyJoaXN0b3J5IjpbMTE4NzIxMjU1MSwyMDIxNjcyMTMxLC0xMT
+g2NzYyMTU1LDI3ODYyNDg2OCwyNzg2MjQ4NjgsMTcxMTIzNTkz
+MSw2NDM3NzczNjFdfQ==
 -->
