@@ -181,7 +181,7 @@
 
 ## Phasen der Gentrifizierung
 
-### 1. - Experimentierphase
+### 1. – Experimentierphase
 - einzelne Pioniere ziehen in das Gebiet
 - Risikobereitschaft muss vorhanden sein
 	- Gebiete sind "abgewirschaftet"
@@ -239,7 +239,8 @@
 | <li>Suche nach Wohnraum nahe der Natur</li> | |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE2NTQ1NTYwLDE3MjQ4Njk1OTAsMTA3NT
-k4MzM1MCwyMDIxNjcyMTMxLC0xMTg2NzYyMTU1LDI3ODYyNDg2
-OCwyNzg2MjQ4NjgsMTcxMTIzNTkzMSw2NDM3NzczNjFdfQ==
+eyJoaXN0b3J5IjpbMTM4ODUyNjg0Niw3MTY1NDU1NjAsMTcyND
+g2OTU5MCwxMDc1OTgzMzUwLDIwMjE2NzIxMzEsLTExODY3NjIx
+NTUsMjc4NjI0ODY4LDI3ODYyNDg2OCwxNzExMjM1OTMxLDY0Mz
+c3NzM2MV19
 -->
