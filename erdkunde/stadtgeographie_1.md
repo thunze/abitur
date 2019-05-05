@@ -32,6 +32,8 @@
 	- wirtschaftliche Vorteile, da gelieferte Waren in der Stadt angeboten werden mussten
 - kreisförmige, ungeplante Stadterweiterung
 	- erweiterte Stadtmauern bzw. Stadttore
+- Wehrtürme
+- Kirchen und Klöster
 - dichte Bebauung
 - schmale, verwinkelte Gassen
 - sozialräumliche Gliederung (Judenviertel, Viertel für reiche Kaufleute / Patrizier)
@@ -40,11 +42,12 @@
 ### Barock
 - Schloss mit Schlossgarten als Mittelpunkt der Stadt
 - strahlenförmige Straßenführung vom Mittelpunkt aus
+- vor und hinter den Stadttoren dichte Bebauung
 
 ### Industrialisierung / Gründerzeit
 - weitere Ausdehnung / ähnlich wie im Mittelalter
 - weitere Verdichtung der Wohnfläche
-- erhöhte Sicherheit durch Befestigungs- und Wehranlagen
+- weitere Befestigungs- und Wehranlagen
 - Nähe zur Eisenbahn
 - Hausnummern (Orientierung)
 - Auslagerung der Industrie in den Osten (Westwind)
@@ -56,7 +59,7 @@
 - innerstädtische Grünanlagen und Parks
 - ausgeprägte Eisenbahnanbindung / Bahnhöfe
 
-### Um 1926
+### Nach dem Ersten Weltkrieg
 - ausgeprägte sozialräumliche Gliederung
 - Wohngebiete orientieren sich an der Arbeitsfunktion
 	- B. Arbeiterviertel an Bahnhöfen etc.
@@ -258,6 +261,6 @@
 - Abwerbeversuche der Umlandgemeinden bei gleichzeitigem Nutzen der städtischen Infrastruktur
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxODc4NzIxOCwyNzg2MjQ4NjgsMjc4Nj
-I0ODY4LDE3MTEyMzU5MzEsNjQzNzc3MzYxXX0=
+eyJoaXN0b3J5IjpbLTE1NzI4NTU2NTYsMjc4NjI0ODY4LDI3OD
+YyNDg2OCwxNzExMjM1OTMxLDY0Mzc3NzM2MV19
 -->
