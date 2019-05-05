@@ -41,7 +41,7 @@
 
 ### Barock
 - Schloss mit Schlossgarten als Mittelpunkt der Stadt
-- strahlenförmige Straßenführung vom Mittelpunkt aus
+- strahlenförmige Straßenführung vom Mittelpunkt aus ("Stern")
 - vor und hinter den Stadttoren dichte Bebauung
 
 ### Industrialisierung / Gründerzeit
@@ -109,7 +109,7 @@
 - ***Funktionsmischung:*** führt zu Verringerung des Personenindividualverkehrs
 - ***dezentrale Konzentration:*** wenige, aber vernünftig angebundene Zentren außerhalb des Stadtzentrums
 
-## Funktionale und sozialräumliche Gliederung - Stadtmodelle
+## Funktionale und sozialräumliche Gliederung - Stadtmodelle *(Aufgabe 1 & 2)*
 
 ### Ringmodell (1925)
 - Ausdehnung der Stadt in konzentrischen, homogenen Ringen um den CBD (central business district)
@@ -117,12 +117,10 @@
 	- Industriegewerbe - Wohnviertel niederer Status - Wohnviertel Mittelstand - Wohnviertel höherer Status - Pendlerbereich
 
 ### Sektorenmodell (1939)
-
 - Orientierung an den Hauptverkehrsachsen, der Industrie und dem Wohnstandortverhalten der statushöheren Bevölkerung
 - Wohnviertel niederer Status um den CBD gelegen, Rest außen verteilt
 
 ### Mehrkernmodell (1945)
-
 - Orientierung an der Anordnung der Arbeitsplätze
 - Arbeiterviertel in der Nähe der Industrie
 - Wohnviertel Mittelstand, Wohnviertel höherer Status in der Nähe der Dienstleistungszentren
@@ -130,7 +128,6 @@
 - Entstehung von Nebenzentren und funktionalen Clustern
 
 ### Anwendbarkeit der Stadtmodelle auf Deutschland / Europa
-
 - Modelle stammen aus den USA und sind dementsprechend nicht auf europäische Städte zugeschnitten, bwohl sich oft viele Merkmale auch in europäischen Städten wiedererkennen lassen
 - historische Besonderheiten in Deutschland (Zerstörungen durch Weltkriege etc.)
 - aktuelle soziale Überprägung
@@ -248,7 +245,7 @@
 | <li>Suche nach Wohnraum nahe der Natur</li> | |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEzNjc0NzE0LDIwMjE2NzIxMzEsLTExOD
-Y3NjIxNTUsMjc4NjI0ODY4LDI3ODYyNDg2OCwxNzExMjM1OTMx
-LDY0Mzc3NzM2MV19
+eyJoaXN0b3J5IjpbNTAwMTAwNiwyMDIxNjcyMTMxLC0xMTg2Nz
+YyMTU1LDI3ODYyNDg2OCwyNzg2MjQ4NjgsMTcxMTIzNTkzMSw2
+NDM3NzczNjFdfQ==
 -->
