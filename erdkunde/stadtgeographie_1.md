@@ -4,9 +4,10 @@
 
 ### Fachbegriffe
 
-### Stadtbegriff
-- anhand der funktionalen Gliederung:
-![]()
+### Stadtbegriff anhand funktionaler Gliederung
+
+![FG](https://i.imgur.com/ijwVGbQ.png)
+
 - rote Verbindungen: Verkehr
 - grüne Ellipse: Leben in der Umwelt
 
@@ -278,6 +279,6 @@ Suburbanisierung
 - Abwerbeversuche der Umlandgemeinden bei gleichzeitigem Nutzen der städtischen Infrastruktur
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ3MTc5MzIxLDE3MTEyMzU5MzEsNjQzNz
-c3MzYxXX0=
+eyJoaXN0b3J5IjpbLTE0MjE2MzU5MzcsMTcxMTIzNTkzMSw2ND
+M3NzczNjFdfQ==
 -->
