@@ -189,12 +189,12 @@
 	- Sanierung muss in Eigenregie durchgeführt werden
 
 ### 2. – Erste Expansionsphase
-- weitere ***Pioniere*** und *Gentrifier* ziehen in das Gebiet
-	- niedrige Kaufpreise, "Flair" des Viertels, architektonische Qualität, Möglichkeit zur Selbstdarstellung nahe der Innenstadt
+- weitere ***Pioniere*** und ***Gentrifier*** ziehen in das Gebiet
 - Folgen:
 	- Interesse der Öffentlichkeit / Medien
 	- höhere Mietpreise
-	**> Verdrängung der einkommensschwachen Bevölkerung**
+**> Verdrängung der einkommensschwachen Bevölkerung**
+`niedrige Kaufpreise, "Flair" des Viertels, architektonische Qualität, Möglichkeit zur Selbstdarstellung nahe der Innenstadt`
 
 ### 3. – Zweite Expansionsphase
 - besserverdienende, risikoscheue Menschen ziehen in das Gebiet
@@ -238,8 +238,8 @@
 | <li>Suche nach Wohnraum nahe der Natur</li> | |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNzcyMDQ4Nyw3MTY1NDU1NjAsMTcyND
-g2OTU5MCwxMDc1OTgzMzUwLDIwMjE2NzIxMzEsLTExODY3NjIx
-NTUsMjc4NjI0ODY4LDI3ODYyNDg2OCwxNzExMjM1OTMxLDY0Mz
-c3NzM2MV19
+eyJoaXN0b3J5IjpbNTAxNDI4MjgwLDcxNjU0NTU2MCwxNzI0OD
+Y5NTkwLDEwNzU5ODMzNTAsMjAyMTY3MjEzMSwtMTE4Njc2MjE1
+NSwyNzg2MjQ4NjgsMjc4NjI0ODY4LDE3MTEyMzU5MzEsNjQzNz
+c3MzYxXX0=
 -->
