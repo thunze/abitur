@@ -94,8 +94,9 @@
 - massives Städtewachstum in der Gründerzeit
 - Errichtung von **Industriearealen** und **Arbeitervierteln** aufgrund des Westwindes im Osten
 - starke ***Suburbanisierung*** im 20. Jahrhundert mit der Anlage einer differenzierten *Verkehrsinfrastruktur*
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMzUxNTE1OSwxNTYxMDIwNCwtNjQwNz
+eyJoaXN0b3J5IjpbLTYwMDEwNTA4MywxNTYxMDIwNCwtNjQwNz
 M4NTY4LC0yMDE4MjUzOTMwLC0yOTM0Nzk3MjQsMTE2NTQyMTA1
 Nyw4NjUzNjQxMjUsMTc3MzYzMjQwOSwxNDkxMzI2OTYyLC00Nz
 E5MzczMTYsNzM5NzUxNjY5LC0xNzcyMjM3NzcyLDEwNjUwODAw
