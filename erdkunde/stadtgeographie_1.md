@@ -11,8 +11,8 @@
 - grüne Ellipse: Leben in der Umwelt
 
 ### Gliederungskriterien
-![]()
-- gegenseitige Abhängigkeit
+- physignomisch, historisch-genetisch, funktional, sozialräumlich
+	- gegenseitige Abhängigkeit
 
 ## Historisch-genetische Gliederung - Teil 1 *(Aufgabe 1)*
 
@@ -24,13 +24,13 @@
 - zentraler Platz
 - außerhalb der Stadtmauern: Friedhöfe, Landwirtschaft
 - Funktion je nach Status / örtlichen Gegebenheiten
-  - Fluss: wirtschaftliche Funktion (z.B. Köln)
+	- Fluss: wirtschaftliche Funktion (z.B. Köln)
 
 ### Mittelalter
 - falls an einem Fluss gelegen: ggf. Stapelrecht
-  - wirtschaftliche Vorteile, da gelieferte Waren in der Stadt angeboten werden mussten
+	- wirtschaftliche Vorteile, da gelieferte Waren in der Stadt angeboten werden mussten
 - kreisförmige, ungeplante Stadterweiterung
-  - erweiterte Stadtmauern bzw. Stadttore
+	- erweiterte Stadtmauern bzw. Stadttore
 - dichte Bebauung
 - schmale, verwinkelte Gassen
 - sozialräumliche Gliederung (Judenviertel, Viertel für reiche Kaufleute / Patrizier)
@@ -278,5 +278,6 @@ Suburbanisierung
 - Abwerbeversuche der Umlandgemeinden bei gleichzeitigem Nutzen der städtischen Infrastruktur
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMTIzNTkzMSw2NDM3NzczNjFdfQ==
+eyJoaXN0b3J5IjpbOTQ3MTc5MzIxLDE3MTEyMzU5MzEsNjQzNz
+c3MzYxXX0=
 -->
