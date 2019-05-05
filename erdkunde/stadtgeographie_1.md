@@ -1,5 +1,6 @@
 # Stadtgeographie: Teil 1 – Die europäische Stadt
 
+
 ## Allgemeines
 
 ### Fachbegriffe
@@ -252,6 +253,6 @@
 - Abwerbeversuche der Umlandgemeinden bei gleichzeitigem Nutzen der städtischen Infrastruktur
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc4NjI0ODY4LDE3MTEyMzU5MzEsNjQzNz
-c3MzYxXX0=
+eyJoaXN0b3J5IjpbLTYyODQzODU3NCwyNzg2MjQ4NjgsMTcxMT
+IzNTkzMSw2NDM3NzczNjFdfQ==
 -->
