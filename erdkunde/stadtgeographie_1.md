@@ -246,7 +246,7 @@
 
 ## Suburbanisierung
 
-| **Ursachen** | **Folgen** |
+| Ursachen | Folgen |
 | --- | --- |
 - gut erreichbare, suburbane Knotenpunkte
   - niedrige Preise als Pull-Faktor für Unternehmen
@@ -264,6 +264,7 @@
 - Abwerbeversuche der Umlandgemeinden bei gleichzeitigem Nutzen der städtischen Infrastruktur
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODY3NjIxNTUsMjc4NjI0ODY4LDI3OD
-YyNDg2OCwxNzExMjM1OTMxLDY0Mzc3NzM2MV19
+eyJoaXN0b3J5IjpbLTgyMTE2OTE5NSwtMTE4Njc2MjE1NSwyNz
+g2MjQ4NjgsMjc4NjI0ODY4LDE3MTEyMzU5MzEsNjQzNzc3MzYx
+XX0=
 -->
