@@ -46,6 +46,7 @@
 
 ### Industrialisierung / Gründerzeit
 - weitere Ausdehnung / ähnlich wie im Mittelalter
+	**> *Eingemeindungen*** 
 - weitere Verdichtung der Wohnfläche
 - weitere Befestigungs- und Wehranlagen
 - Nähe zur Eisenbahn
@@ -62,7 +63,7 @@
 ### Nach dem Ersten Weltkrieg
 - ausgeprägte sozialräumliche Gliederung
 - Wohngebiete orientieren sich an der Arbeitsfunktion
-	- B. Arbeiterviertel an Bahnhöfen etc.
+	- Arbeiterviertel an Bahnhöfen etc.
 
 ***> Atlas S. 74***
 
@@ -221,7 +222,7 @@
 - der Prozess wird dynamisch
 
 ### 4. - Stagnationsphase
-- besserverdienende Investoren wandeln Mietwohnungen in Eigentumswohnungen um
+- kapitalkräftige Investoren wandeln Mietwohnungen in Eigentumswohnungen um
 - Folgen: hohe Preise, Teilgruppen (überwiegend Pioniere und Alteingesessene) ziehen fort
 
 **(Pull-Faktoren?)**
@@ -261,6 +262,6 @@
 - Abwerbeversuche der Umlandgemeinden bei gleichzeitigem Nutzen der städtischen Infrastruktur
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzI4NTU2NTYsMjc4NjI0ODY4LDI3OD
-YyNDg2OCwxNzExMjM1OTMxLDY0Mzc3NzM2MV19
+eyJoaXN0b3J5IjpbLTk0MzY5NDk5NywyNzg2MjQ4NjgsMjc4Nj
+I0ODY4LDE3MTEyMzU5MzEsNjQzNzc3MzYxXX0=
 -->
