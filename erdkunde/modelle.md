@@ -87,20 +87,21 @@
 
 ## Stadtgeopraphie
 
-### Modell der deutschen Stadt
-
+### Strukturen einer deutschen Großstadt
 - Ausdehnung der mittelalterlichen Stadt im Zuge der Weiterentwicklung der Wehrtechnik
 - Anlage von **Bahnanlagen** während der Industrialisierung
 - massives Städtewachstum in der Gründerzeit
 - Errichtung von **Industriearealen** und **Arbeitervierteln** aufgrund des Westwindes im Osten
 - starke ***Suburbanisierung*** im 20. Jahrhundert mit der Anlage einer differenzierten *Verkehrsinfrastruktur*
 
+**> Atlas S. 78**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMDEwNTA4MywxNTYxMDIwNCwtNjQwNz
-M4NTY4LC0yMDE4MjUzOTMwLC0yOTM0Nzk3MjQsMTE2NTQyMTA1
-Nyw4NjUzNjQxMjUsMTc3MzYzMjQwOSwxNDkxMzI2OTYyLC00Nz
-E5MzczMTYsNzM5NzUxNjY5LC0xNzcyMjM3NzcyLDEwNjUwODAw
-MTEsNTg0MDk3NTI3LDkzNTkxNDYwNCwxODMyOTg3MzY4LDExND
-YyNjgyMDUsLTEyMzM0MTk4NCwxNjU1OTA5MDQ3LDM0NTcxNzU2
-Nl19
+eyJoaXN0b3J5IjpbMTQ5Nzk3NzU5MSwtNjAwMTA1MDgzLDE1Nj
+EwMjA0LC02NDA3Mzg1NjgsLTIwMTgyNTM5MzAsLTI5MzQ3OTcy
+NCwxMTY1NDIxMDU3LDg2NTM2NDEyNSwxNzczNjMyNDA5LDE0OT
+EzMjY5NjIsLTQ3MTkzNzMxNiw3Mzk3NTE2NjksLTE3NzIyMzc3
+NzIsMTA2NTA4MDAxMSw1ODQwOTc1MjcsOTM1OTE0NjA0LDE4Mz
+I5ODczNjgsMTE0NjI2ODIwNSwtMTIzMzQxOTg0LDE2NTU5MDkw
+NDddfQ==
 -->
