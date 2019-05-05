@@ -67,7 +67,7 @@
 
 ***> Atlas S. 74***
 
-## Historisch-genetische Gliederung - Teil 2: Leitbilder
+## Historisch-genetische Gliederung - Teil 2: Leitbilder *(Aufgabe 1 & 2)*
 
 ### Gartenstadtmodell (nach 1900)
 - kleinere, autarke Städte
@@ -77,7 +77,7 @@
 - Grüngürtel (Verkehrsnetz und Grünflächen) dazwischen
 
 ### Charta von Athen (1941)
-- **Trennung der Funktionen** Arbeiten, Wohnen, Freizeit, Verkehr
+- ***Funktionstrennung:*** Arbeiten, Wohnen, Freizeit, Verkehr
 
 ### Gegliederte, aufgelockerte Stadt (1945-1950)
 - Schaffung von 2 Mio. Sozialwohnungen (Nachkriegszeit)
@@ -101,7 +101,6 @@
 	- vor allem in der Innenstadt: Verbesserung der Lebensqualität
 
 ### Ökologische Stadterneuerung (1980er)
-
 - Begrünung und andere Wohnumfeldverbesserungen
 - Verkehrsberuhigung
 
@@ -254,7 +253,7 @@
 | <li>Suche nach Wohnraum nahe der Natur</li> | |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NTY2NTg4NywyMDIxNjcyMTMxLC0xMT
-g2NzYyMTU1LDI3ODYyNDg2OCwyNzg2MjQ4NjgsMTcxMTIzNTkz
-MSw2NDM3NzczNjFdfQ==
+eyJoaXN0b3J5IjpbLTE3OTk4NDg3NzUsMjAyMTY3MjEzMSwtMT
+E4Njc2MjE1NSwyNzg2MjQ4NjgsMjc4NjI0ODY4LDE3MTEyMzU5
+MzEsNjQzNzc3MzYxXX0=
 -->
