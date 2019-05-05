@@ -248,9 +248,8 @@
 
 | Ursachen | Folgen |
 | --- | --- |
-- gut erreichbare, suburbane Knotenpunkte
-  - niedrige Preise als Pull-Faktor für Unternehmen
-- Industrie benötigt Fläche für Fertigung
+| <li>gut erreichbare, suburbane Knotenpunkte – niedrige Preise als Pull-Faktor für Unternehmen</li> | </li></li>
+<li>Industrie benötigt Fläche für Fertigung</li>
 - hoher Lebensstandard
 - hohe Mobilität
 - Ausbau der Infrastruktur
@@ -264,7 +263,7 @@
 - Abwerbeversuche der Umlandgemeinden bei gleichzeitigem Nutzen der städtischen Infrastruktur
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMTE2OTE5NSwtMTE4Njc2MjE1NSwyNz
-g2MjQ4NjgsMjc4NjI0ODY4LDE3MTEyMzU5MzEsNjQzNzc3MzYx
-XX0=
+eyJoaXN0b3J5IjpbLTEzMzgzMDIxNTEsLTExODY3NjIxNTUsMj
+c4NjI0ODY4LDI3ODYyNDg2OCwxNzExMjM1OTMxLDY0Mzc3NzM2
+MV19
 -->
