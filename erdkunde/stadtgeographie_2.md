@@ -2,7 +2,8 @@
 
 ## Verstädterung
 
-- Verstädterung weltweit bei ca. 2 %
+- **Zahl** der Städte bzw. Fläche der Städte nimmt zu – Einfluss auf 
+- Verstädterungsrate weltweit bei ca. 2%
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Njk4MjgyNjBdfQ==
+eyJoaXN0b3J5IjpbLTEwNDY0OTgwNjJdfQ==
 -->
