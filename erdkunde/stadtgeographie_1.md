@@ -1,4 +1,3 @@
-```
 # Stadtgeographie: Teil 1 – Die europäische Stadt
 
 ## Stadtbegriff
@@ -90,7 +89,7 @@
 - kleinere, autarke Städte
   - ––Funktionsmischung
   - ––ausreichende Versorgungs- und Arbeitsfunktion
-- **​** im ~6,5-km-Radius an größere Stadt angebunden
+- **im ~6,5-km-Radius an größere Stadt angebunden**
 - Grüngürtel
   - ––Verkehrsnetz und Grünflächen
 - Vorkommen eher in den USA
@@ -155,7 +154,7 @@ Wohnviertel Mittelstand - Wohnviertel höherer Status - Pendlerbereich
 ### Mehrkernmodell (1945)
 
 - Orientierung an der Anordnung der Arbeitsplätze
-- **​** Arbeiterviertel in der Nähe der Industrie
+- Arbeiterviertel in der Nähe der Industrie
 - Wohnviertel Mittelstand, Wohnviertel höherer Status in der Nähe der Dienstleistungszentren
 - Stadtentwicklung bestimmt durch funktionale Trennung und soziale Segregation
 - Entstehung von Nebenzentren und funktionalen Clustern
@@ -232,8 +231,6 @@ Fachbegriffe
 - Folgen:
   - ––Polarisierung, Heterogenisierung (Differenzierung / Aufteilung in mehrere &quot;Lager&quot;)
 
-
-
 ## Gentrifizierung: Phasen der Gentrifizierung
 
 ### 1. - Experimentierphase
@@ -270,9 +267,7 @@ Fachbegriffe
 
 (Pull-Faktoren jeweils unterstrichen)
 
- 
-
-Merkmale einer City
+## Merkmale einer City
 
 - hohe bauliche Dichte
 - zentrale Lage (CBD)
@@ -291,7 +286,6 @@ Suburbanisierung
 
 | **Ursachen** | **Folgen** |
 | --- | --- |
-|
 - gut erreichbare, suburbane Knotenpunkte
   - ––niedrige Preise als Pull-Faktor für Unternehmen
 - Industrie benötigt Fläche für Fertigung
@@ -306,10 +300,3 @@ Suburbanisierung
   - ––unstrukturiertes Wachstum
 - geringes Steueraufkommen in der City
 - Abwerbeversuche der Umlandgemeinden bei gleichzeitigem Nutzen der städtischen Infrastruktur
- |
-| |
-
-## Präsentation verfügbar unter: th.mk/stadt
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI3MTA1MDk4XX0=
--->
