@@ -37,6 +37,9 @@
 - sozialräumliche Gliederung (Judenviertel, Viertel für reiche Kaufleute / Patrizier)
 - funktionale Gliederung
 
+### Barock
+- Schloss mit Schlossgarten als 
+
 ### Industrialisierung / Gründerzeit
 - weitere Ausdehnung / ähnlich wie im Mittelalter
 - weitere Verdichtung der Wohnfläche
@@ -56,6 +59,8 @@
 - ausgeprägte sozialräumliche Gliederung
 - Wohngebiete orientieren sich an der Arbeitsfunktion
 	- B. Arbeiterviertel an Bahnhöfen etc.
+
+***> Atlas S. 74***
 
 ## Historisch-genetische Gliederung - Teil 2: Leitbilder
 
@@ -252,6 +257,6 @@
 - Abwerbeversuche der Umlandgemeinden bei gleichzeitigem Nutzen der städtischen Infrastruktur
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc4NjI0ODY4LDI3ODYyNDg2OCwxNzExMj
-M1OTMxLDY0Mzc3NzM2MV19
+eyJoaXN0b3J5IjpbMTIxMTA3NjY0NiwyNzg2MjQ4NjgsMjc4Nj
+I0ODY4LDE3MTEyMzU5MzEsNjQzNzc3MzYxXX0=
 -->
