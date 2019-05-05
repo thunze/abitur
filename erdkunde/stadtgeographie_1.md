@@ -173,11 +173,11 @@
 - ***Pioniere:*** Künstler, Studenten etc.
 
 ### Anmerkungen
-- Prozess findet innerhalb von Stadtteilen zeitlich versetzt statt
-	- vorerst nur einzelne Baublöcke oder Straßen betroffen
-- Vorleistungen der Stadt möglich (z.B. Bänke, Verkehrsberuhigung etc.)
-- meist gründerzeitliche Architektur kann Individualität der Bewohner ausdrücken
-- Folgen: Polarisierung, Heterogenisierung (Differenzierung / Aufteilung in mehrere "Lager")
+- Prozess findet innerhalb von Stadtteilen **zeitlich versetzt** statt
+	- vorerst nur **einzelne Baublöcke oder Straßen** betroffen
+- Vorleistungen der Stadt möglich (z. B. Bänke, Verkehrsberuhigung etc.)
+- meist *gründerzeitliche* Architektur kann **Individualität** der Bewohner ausdrücken
+- **Folgen:** *Polarisierung*, *Heterogenisierung* (Differenzierung / Aufteilung in mehrere "Lager")
 
 ## Phasen der Gentrifizierung
 
@@ -239,7 +239,7 @@
 | <li>Suche nach Wohnraum nahe der Natur</li> | |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNDg2OTU5MCwxMDc1OTgzMzUwLDIwMj
-E2NzIxMzEsLTExODY3NjIxNTUsMjc4NjI0ODY4LDI3ODYyNDg2
-OCwxNzExMjM1OTMxLDY0Mzc3NzM2MV19
+eyJoaXN0b3J5IjpbNzE2NTQ1NTYwLDE3MjQ4Njk1OTAsMTA3NT
+k4MzM1MCwyMDIxNjcyMTMxLC0xMTg2NzYyMTU1LDI3ODYyNDg2
+OCwyNzg2MjQ4NjgsMTcxMTIzNTkzMSw2NDM3NzczNjFdfQ==
 -->
