@@ -96,27 +96,22 @@
 - **Folge:** Stadtflucht / *Suburbanisierung*
 
 ### Behutsamer Stadtumbau (1970er)
-- Reaktion auf Stadtflucht / Suburbanisierung ("Urbanität durch Dichte")
-- Sanierung von Altbauten und historischer Bausubstanz
-	- vor allem in der Innenstadt: Verbesserung der Lebensqualität
+- Reaktion auf Stadtflucht / *Suburbanisierung* *(Urbanität durch Dichte)*
+- **Sanierung** von Altbauten und historischer Bausubstanz
+	- vor allem in der Innenstadt: Verbesserung der **Lebensqualität**
 
 ### Ökologische Stadterneuerung (1980er)
-- Begrünung und andere Wohnumfeldverbesserungen
-- Verkehrsberuhigung
+- **Begrünung** und andere Wohnumfeldverbesserungen
+- **Verkehrsberuhigung**
 
 ### Nachhaltige Stadtentwicklung (1990er)
-
-- Dichte im Städtebau
-	- Nachverdichtung / Lückenfüllung ohne Qualitätsverlust
-- Funktionsmischung
-	- führt zu Verringerung des Personenindividualverkehrs
-- dezentrale Konzentration
-	- wenige, aber vernünftig angebundene Zentren außerhalb des Stadtzentrums
+- ***Dichte im Städtebau:*** Nachverdichtung / Lückenfüllung ohne Qualitätsverlust
+- ***Funktionsmischung:*** führt zu Verringerung des Personenindividualverkehrs
+- ***dezentrale Konzentration:*** wenige, aber vernünftig angebundene Zentren außerhalb des Stadtzentrums
 
 ## Funktionale und sozialräumliche Gliederung - Stadtmodelle
 
 ### Ringmodell (1925)
-
 - Ausdehnung der Stadt in konzentrischen, homogenen Ringen um den CBD (central business district)
 - von innen nach außen:
 	- Industriegewerbe - Wohnviertel niederer Status - Wohnviertel Mittelstand - Wohnviertel höherer Status - Pendlerbereich
@@ -253,7 +248,7 @@
 | <li>Suche nach Wohnraum nahe der Natur</li> | |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NzIxMjU1MSwyMDIxNjcyMTMxLC0xMT
-g2NzYyMTU1LDI3ODYyNDg2OCwyNzg2MjQ4NjgsMTcxMTIzNTkz
-MSw2NDM3NzczNjFdfQ==
+eyJoaXN0b3J5IjpbOTEzNjc0NzE0LDIwMjE2NzIxMzEsLTExOD
+Y3NjIxNTUsMjc4NjI0ODY4LDI3ODYyNDg2OCwxNzExMjM1OTMx
+LDY0Mzc3NzM2MV19
 -->
