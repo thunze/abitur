@@ -153,10 +153,9 @@
 - gegenseitige Verstärkung der Folgen
 
 ### Mögliche Auswege
-- Bildung für statusniedrige Gesellschaft
-	- Schulpflichtverstöße ahnden
-- Einrichtung von Sozialzentren
-- "Rekommunalisierung" von Versorgungseinrichtungen
+- **Bildung** für statusniedere Gesellschaft: ggf. Schulpflichtverstöße ahnden
+- Einrichtung von **Sozialzentren**
+- ***Rekommunalisierung*** von Versorgungseinrichtungen (gegen *Privatisierung*)
 	- Kommunen haben Kontrolle über Preise und Qualität der Versorgung anstelle von Privatunternehmen
 
 ## Gentrifizierung: Allgemeines
@@ -240,7 +239,7 @@
 | <li>Suche nach Wohnraum nahe der Natur</li> | |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODI2OTQxMCwyMDIxNjcyMTMxLC0xMT
+eyJoaXN0b3J5IjpbLTM5NzU3NTUxMSwyMDIxNjcyMTMxLC0xMT
 g2NzYyMTU1LDI3ODYyNDg2OCwyNzg2MjQ4NjgsMTcxMTIzNTkz
 MSw2NDM3NzczNjFdfQ==
 -->
