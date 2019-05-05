@@ -197,7 +197,7 @@
 **`Pull-Faktoren:`**`niedrige Kaufpreise, "Flair" des Viertels, architektonische Qualität, Möglichkeit zur Selbstdarstellung nahe der Innenstadt`
 
 ### 3. – Zweite Expansionsphase
-- besserverdienende, risikoscheue Menschen ziehen in das Gebiet (vor allem ***Gentrifier***)
+- **besserverdienende, risikoscheue** Menschen ziehen in das Gebiet (in diesem Kontext ***Gentrifier***)
 - Sanierung wird zunehmend von **Unternehmen** durchgeführt
 	- **Aufmerksamkeit** der Öffentlichkeit und der Stadtverwaltung
 - Einzelhandel verändert sich
@@ -206,9 +206,9 @@
 **`Pull-Faktoren:`**`geringeres Risiko`
 
 ### 4. – Stagnationsphase
-- kapitalkräftige Investoren wandeln Mietwohnungen in Eigentumswohnungen um
-- **Folgen:** hohe Preise, Teilgruppen (überwiegend Pioniere und Alteingesessene) ziehen fort
-
+- kapitalkräftige Investoren wandeln Mietwohnungen in **Eigentumswohnungen** um
+- **Folgen:** hohe Preise, Teilgruppen (überwiegend *Pioniere* und Alteingesessene) müssen fortziehen
+**`Pull-Faktoren:`**`Risiko kaum vorhanden, Möglichkeit zum Kauf`
 
 **> *Pull-Faktoren* als `Code` markiert**
 
@@ -241,8 +241,8 @@
 | <li>Suche nach Wohnraum nahe der Natur</li> | |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NzU5MjYxLDcxNjU0NTU2MCwxNzI0OD
-Y5NTkwLDEwNzU5ODMzNTAsMjAyMTY3MjEzMSwtMTE4Njc2MjE1
-NSwyNzg2MjQ4NjgsMjc4NjI0ODY4LDE3MTEyMzU5MzEsNjQzNz
-c3MzYxXX0=
+eyJoaXN0b3J5IjpbLTE5MzY0MjEyODQsNzE2NTQ1NTYwLDE3Mj
+Q4Njk1OTAsMTA3NTk4MzM1MCwyMDIxNjcyMTMxLC0xMTg2NzYy
+MTU1LDI3ODYyNDg2OCwyNzg2MjQ4NjgsMTcxMTIzNTkzMSw2ND
+M3NzczNjFdfQ==
 -->
