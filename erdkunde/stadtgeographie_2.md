@@ -10,14 +10,17 @@
 - **weltweite Statistik:**
 	- *Verstädterungsrate* weltweit bei **ca. 2%**
 	- erste *Megacitys* (> 10 Mio. Einwohner) ab 1950 (New York)
-	- *Industrieländer:* geringe Verstä
+	- *Industrieländer:* geringe *Verstädterungsrate*, da bereits hoher *Verstädterungsgrad* vorhanden
+	- *Entwicklungsländer:* hohe *Verstädterungsrate*, dementsprechend wachsender *Verstädterungsgrad*
 
-**> demografischer und physiognomischer Aspekt**
+**> *demografischer* und *physiognomischer* Aspekt**
 
 ### Urbanisierung
 - Ausbreitung **städtischer Lebensformen** (Haushaltsformen, **Konsummuster**, Wertvorstellungen etc.)
 
-**> soziologischer Aspekt**
+**> *soziologischer* Aspekt**
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY2MjE2ODQ5XX0=
+eyJoaXN0b3J5IjpbLTY4MDU0OTcyNl19
 -->
