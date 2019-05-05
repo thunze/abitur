@@ -35,12 +35,17 @@
 - "Gewinner" und "Verlierer" siedeln sich an **gleichen** Orten an (*Gated Communities* und *Marginalviertel*)
 	- *Gated Communities* auch in informellen Stadtbereichen
 - ***Polarisierung*** der Stadt führt zu Konflikten
-	- ggf. eingeschränkte Regierbarkeit, wirtschaftlicheDesintegration
+	- ggf. eingeschränkte Regierbarkeit, wirtschaftliche und soziale ***Desintegration***, Antieg der *Vulnerabilität*
 
 **> siehe Modell der globalen und lokalen Fragmentierung (Scholz)**
 
+## Primatstadt
+
+
+
 ## Merkmale ökologischer Stadtentwicklung
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA0MTk0MDgxLC0xOTQxMDYyMTM3LC04Mj
-IwMTk1OTAsLTY4MjgwNjI0N119
+eyJoaXN0b3J5IjpbMTU4NjMxMjU1NCwtMTk0MTA2MjEzNywtOD
+IyMDE5NTkwLC02ODI4MDYyNDddfQ==
 -->
