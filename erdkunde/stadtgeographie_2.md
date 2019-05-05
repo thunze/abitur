@@ -7,8 +7,10 @@
 - Einfluss auf den ländlichen Raum
 - ***Verstädterungsgrad:*** Anteil der städtischen Bevölkerung an der Gesamtbevölkerung
 - ***Verstädterungsrate:*** Zuwachs der städtischen Bevölkerung
-- *Verstädterungsrate* weltweit bei **ca. 2%**
-- erste *Megacitys* (> 10 Mio. Einwohner) ab 1950
+- **weltweite Statistik:**
+	- *Verstädterungsrate* weltweit bei **ca. 2%**
+	- erste *Megacitys* (> 10 Mio. Einwohner) ab 1950 (New York)
+	- *Industrieländer:* geringe Verstä
 
 **> demografischer und physiognomischer Aspekt**
 
@@ -17,5 +19,5 @@
 
 **> soziologischer Aspekt**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNjQzNzkwXX0=
+eyJoaXN0b3J5IjpbMzY2MjE2ODQ5XX0=
 -->
