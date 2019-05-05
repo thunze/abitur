@@ -237,12 +237,13 @@
 | <li>hoher Lebensstandard</li> | <li>hohe Verstädterung und Zersiedelung (unstrukturiertes Wachstum)</li> |
 | <li>hohe Mobilität</li> | <li>geringes Steueraufkommen in der City</li> |
 | <li>Ausbau der Infrastruktur</li> | <li>Abwerbeversuche der Umlandgemeinden bei gleichzeitigem Nutzen der städtischen Infrastruktur</li> |
-| <li>Suche nach Wohnraum nahe der Natur</li> | |
+| <li>Suche nach Wohnraum nahe der Natur</li> | <li>soziale *Selektierung* / Abwertung der Innenstadt</li> |
+| <li>*Subventionen* und Steuererleichterungen für Eigenbau</li> | |
 
 ***> Atlas S. 74***
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQwODYxMjk5LDcxNjU0NTU2MCwxNzI0OD
-Y5NTkwLDEwNzU5ODMzNTAsMjAyMTY3MjEzMSwtMTE4Njc2MjE1
-NSwyNzg2MjQ4NjgsMjc4NjI0ODY4LDE3MTEyMzU5MzEsNjQzNz
-c3MzYxXX0=
+eyJoaXN0b3J5IjpbLTE5MTI5MDQ3NjAsNzE2NTQ1NTYwLDE3Mj
+Q4Njk1OTAsMTA3NTk4MzM1MCwyMDIxNjcyMTMxLC0xMTg2NzYy
+MTU1LDI3ODYyNDg2OCwyNzg2MjQ4NjgsMTcxMTIzNTkzMSw2ND
+M3NzczNjFdfQ==
 -->
