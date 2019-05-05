@@ -80,9 +80,10 @@
 
  - **größere Schiffe:** größerer Tiefgang, höheres Ladevolumen
  - **höherer Flächenbedarf** (vor allem Lagerfläche)
- - geschlossene 
+ - geschlossene Transportkette – Veränderung der Arbeitsstruktur *(Technisierung)*
+ - Anstieg der **Wirtschaftsleistung** / Ausweitung der Hafen
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTA2NjM5NzcsMjQ0MjQ4NTAsNTE2NT
-gyMTUyLC0yMDIxNjIzNTczLDY0MjM5NjQ4OCwxNTg2MzEyNTU0
-LC0xOTQxMDYyMTM3LC04MjIwMTk1OTAsLTY4MjgwNjI0N119
+eyJoaXN0b3J5IjpbLTg5MjQ1Mjk4MCwyNDQyNDg1MCw1MTY1OD
+IxNTIsLTIwMjE2MjM1NzMsNjQyMzk2NDg4LDE1ODYzMTI1NTQs
+LTE5NDEwNjIxMzcsLTgyMjAxOTU5MCwtNjgyODA2MjQ3XX0=
 -->
