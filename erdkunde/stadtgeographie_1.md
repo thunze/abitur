@@ -123,16 +123,14 @@
 - Orientierung an der **Anordnung der Arbeitsplätze**
 - **Arbeiterviertel** in der Nähe der **Industrie**
 - Wohnviertel **Mittelstand**, Wohnviertel **höherer Status** in der Nähe der ***Dienstleistungszentren***
-- Stadtentwicklung bestimmt durch *funktionale Trennung* und *soziale **Segregation***
-- Entstehung von Nebenzentren und funktionalen Clustern
+- Stadtentwicklung bestimmt durch *funktionale Trennung* und ***soziale Segregation***
+- Entstehung von Nebenzentren und funktionalen ***Clustern***
 
 ### Anwendbarkeit der Stadtmodelle auf Deutschland / Europa
-- Modelle stammen aus den USA und sind dementsprechend nicht auf europäische Städte zugeschnitten, bwohl sich oft viele Merkmale auch in europäischen Städten wiedererkennen lassen
-- historische Besonderheiten in Deutschland (Zerstörungen durch Weltkriege etc.)
-- aktuelle soziale Überprägung
-- langes, unkontrolliertes Wachstum deutscher Städte (angefangen im Mittelalter)
-	- USA: schnelles, geplantes Wachstum
-- Massenmobilisierung nach 1945
+- Modelle stammen aus den USA
+- historische Besonderheiten in Deutschland (Zerstörungen durch Weltkriege etc.), **langes, unkontrolliertes Wachstum** *(Zersiedelung)* deutscher Städte
+	- **USA:** schnelles, geplantes Wachstum
+- *Massenmobilisierung* nach 1945
 - Tertiärisierung
 
 ## Segregation
@@ -244,7 +242,7 @@
 | <li>Suche nach Wohnraum nahe der Natur</li> | |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNTc3MzUyOSwyMDIxNjcyMTMxLC0xMT
+eyJoaXN0b3J5IjpbLTk4NTIzNTQ4MywyMDIxNjcyMTMxLC0xMT
 g2NzYyMTU1LDI3ODYyNDg2OCwyNzg2MjQ4NjgsMTcxMTIzNTkz
 MSw2NDM3NzczNjFdfQ==
 -->
