@@ -2,8 +2,6 @@
 
 ## Allgemeines
 
-### Fachbegriffe
-
 ### Stadtbegriff anhand funktionaler Gliederung
 
 ![FG](https://i.imgur.com/ijwVGbQ.png)
@@ -243,8 +241,8 @@
 ***> Atlas S. 74***
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NDk4MzMzOSwxNDcxOTcxMzQ1LDcxNj
-U0NTU2MCwxNzI0ODY5NTkwLDEwNzU5ODMzNTAsMjAyMTY3MjEz
-MSwtMTE4Njc2MjE1NSwyNzg2MjQ4NjgsMjc4NjI0ODY4LDE3MT
-EyMzU5MzEsNjQzNzc3MzYxXX0=
+eyJoaXN0b3J5IjpbLTE1NjM4NjQyNjYsMTQ3MTk3MTM0NSw3MT
+Y1NDU1NjAsMTcyNDg2OTU5MCwxMDc1OTgzMzUwLDIwMjE2NzIx
+MzEsLTExODY3NjIxNTUsMjc4NjI0ODY4LDI3ODYyNDg2OCwxNz
+ExMjM1OTMxLDY0Mzc3NzM2MV19
 -->
