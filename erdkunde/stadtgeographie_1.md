@@ -1,18 +1,20 @@
 # Stadtgeographie: Teil 1 – Die europäische Stadt
 
-## Stadtbegriff
+## Allgemeines
 
+### Fachbegriffe
+
+### Stadtbegriff
 - anhand der funktionalen Gliederung:
 ![]()
 - rote Verbindungen: Verkehr
 - grüne Ellipse: Leben in der Umwelt
 
-## Gliederungskriterien
-
+### Gliederungskriterien
 ![]()
 - gegenseitige Abhängigkeit
 
-## Historisch-genetische Gliederung - Teil 1
+## Historisch-genetische Gliederung - Teil 1 *(Aufgabe 1)*
 
 ### Antike / Römerzeit
 - Forum
@@ -25,7 +27,6 @@
   - Fluss: wirtschaftliche Funktion (z.B. Köln)
 
 ### Mittelalter
-
 - falls an einem Fluss gelegen: ggf. Stapelrecht
   - wirtschaftliche Vorteile, da gelieferte Waren in der Stadt angeboten werden mussten
 - kreisförmige, ungeplante Stadterweiterung
@@ -36,7 +37,6 @@
 - funktionale Gliederung
 
 ### Industrialisierung / Gründerzeit
-
 - weitere Ausdehnung / ähnlich wie im Mittelalter
 - weitere Verdichtung der Wohnfläche
 - erhöhte Sicherheit durch Befestigungs- und Wehranlagen
@@ -278,5 +278,5 @@ Suburbanisierung
 - Abwerbeversuche der Umlandgemeinden bei gleichzeitigem Nutzen der städtischen Infrastruktur
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNDIwNzYxOSw2NDM3NzczNjFdfQ==
+eyJoaXN0b3J5IjpbMTcxMTIzNTkzMSw2NDM3NzczNjFdfQ==
 -->
