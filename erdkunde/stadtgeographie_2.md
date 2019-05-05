@@ -41,11 +41,12 @@
 
 ## Primatstadt
 
-
+### Demographische Primatstadt
+- demographische Vormachtstellung der Stadt im Bezug auf das ganze Land
 
 ## Merkmale ökologischer Stadtentwicklung
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NjMxMjU1NCwtMTk0MTA2MjEzNywtOD
-IyMDE5NTkwLC02ODI4MDYyNDddfQ==
+eyJoaXN0b3J5IjpbMjAxNzg5NTc0OSwxNTg2MzEyNTU0LC0xOT
+QxMDYyMTM3LC04MjIwMTk1OTAsLTY4MjgwNjI0N119
 -->
