@@ -18,9 +18,9 @@
 
 | Verstädterung in *Industrieländern* | Verstädterung in *Entwicklungsländern* |
 | --- | --- |
-| <li>1900 als Folge des *Strukturwandels* in der Landwirtschaft</li> | <li>hohe </li> |
-| <li>**früher:** hohe Sterberaten (Stadtleben) bei hohen Geburtenraten (Phänomen)</li> | <li></li> |
-| <li>relativ ausgewogene Verteilung wachsender Städte</li> | <li></li> |
+| <li>1900 als Folge des *Strukturwandels* in der Landwirtschaft</li> | <li>**Diskrepanz** ziwschen Wirtschaftswachstum und Bevölkerungswachstum</li> |
+| <li>hohe Sterberaten (Stadtleben) bei hohen Geburtenraten (Phänomen)</li> | <li>Konzentration auf **wenige** große Städte</li> |
+| <li>relativ **ausgewogene Verteilung** wachsender Städte</li> | <li></li> |
 | | <li></li> |
 
 ### Urbanisierung
@@ -30,5 +30,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NDkyOTI1MCwtNjgyODA2MjQ3XX0=
+eyJoaXN0b3J5IjpbLTExMjI4MzU0MywtNjgyODA2MjQ3XX0=
 -->
