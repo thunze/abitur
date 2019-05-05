@@ -30,8 +30,12 @@
 
 ## Merkmale der fragmentierten Stadt
 
+
+
+**> siehe Modell der globalen und lokalen Fragmentierung (Scholz)**
+
 ## Merkmale ökologischer Stadtentwicklung
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDEwNjIxMzcsLTgyMjAxOTU5MCwtNj
-gyODA2MjQ3XX0=
+eyJoaXN0b3J5IjpbMTcyOTA3NDUwOCwtMTk0MTA2MjEzNywtOD
+IyMDE5NTkwLC02ODI4MDYyNDddfQ==
 -->
