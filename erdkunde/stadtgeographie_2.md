@@ -56,7 +56,7 @@
 
 | Chancen | Risiken |
 | --- | --- |
-| <li></li> | <li></li> |
+| <li>***Agglomerations*vorteile** durch Ballung von Industrie, Dienstleistungen, Verwaltung und Kultur</li> | <li></li> |
 | <li></li> | <li></li> |
 | <li></li> | <li></li> |
 | <li></li> | <li></li> |
@@ -64,7 +64,7 @@
 ## Merkmale ökologischer Stadtentwicklung
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDQ2NjI3MCw2NDIzOTY0ODgsMTU4Nj
+eyJoaXN0b3J5IjpbMTM0ODA3MzQ4Myw2NDIzOTY0ODgsMTU4Nj
 MxMjU1NCwtMTk0MTA2MjEzNywtODIyMDE5NTkwLC02ODI4MDYy
 NDddfQ==
 -->
