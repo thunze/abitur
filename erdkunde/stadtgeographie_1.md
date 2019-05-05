@@ -46,7 +46,6 @@
 - Auslagerung der Industrie in den Osten (Westwind)
 
 ### Bis zum Ersten Weltkrieg
-
 - Ringstraßen, Diagonalstraßen, Sternplätze
 - Wehranlagen nutzlos (neuartige Waffentechniken)
 - Villen und Mietshäuser + Hinterhofbebauung
@@ -54,51 +53,44 @@
 - ausgeprägte Eisenbahnanbindung / Bahnhöfe
 
 ### Um 1926
-
 - ausgeprägte sozialräumliche Gliederung
 - Wohngebiete orientieren sich an der Arbeitsfunktion
-  - B. Arbeiterviertel an Bahnhöfen etc.
+	- B. Arbeiterviertel an Bahnhöfen etc.
 
 ## Historisch-genetische Gliederung - Teil 2: Leitbilder
 
 ### Gartenstadtmodell (nach 1900)
-
 - kleinere, autarke Städte
-  - Funktionsmischung
-  - ausreichende Versorgungs- und Arbeitsfunktion
+	- Funktionsmischung
+	- ausreichende Versorgungs- und Arbeitsfunktion
 - **im ~6,5-km-Radius an größere Stadt angebunden**
 - Grüngürtel
-  - Verkehrsnetz und Grünflächen
+	- Verkehrsnetz und Grünflächen
 - Vorkommen eher in den USA
 
 ### Charta von Athen (1941)
-
 - Trennung der Funktionen Arbeiten, Wohnen, Freizeit, Verkehr
 
 ### Gegliederte, aufgelockerte Stadt (1945-1950)
-
 - Schaffung von 2 Mio. Sozialwohnungen (Nachkriegszeit)
 - alter Stadtkern wird an Verkehr angepasst
 - "Neubau oder Wiederaufbau?"
-  - Wiederaufbau ≙ Sünde
+	- Wiederaufbau ≙ Sünde
 
 ### Autogerechte Stadt (1960er)
-
 - Ausrichtung auf den Personenindividualverkehr
-  - auch in Siedlungen, an Grünflächen etc.
+	- auch in Siedlungen, an Grünflächen etc.
 
 ### Urbanität durch Dichte (1960er)
-
 - Großwohnsiedlungen in günstiger Bauweise
 - Straßen durchlaufen teilweise Erholungsgebiete (Autogerechte Stadt)
 - Freizeit- und Versorgungseinrichtungen am Stadtrand
 - Folge: Stadtflucht / Suburbanisierung
 
 ### Behutsamer Stadtumbau (1970er)
-
 - Reaktion auf Stadtflucht / Suburbanisierung ("Urbanität durch Dichte")
 - Sanierung von Altbauten und historischer Bausubstanz
-  - vor allem in der Innenstadt: Verbesserung der Lebensqualität
+	- vor allem in der Innenstadt: Verbesserung der Lebensqualität
 
 ### Ökologische Stadterneuerung (1980er)
 
@@ -108,11 +100,11 @@
 ### Nachhaltige Stadtentwicklung (1990er)
 
 - Dichte im Städtebau
-  - Nachverdichtung / Lückenfüllung ohne Qualitätsverlust
+	- Nachverdichtung / Lückenfüllung ohne Qualitätsverlust
 - Funktionsmischung
-  - führt zu Verringerung des Personenindividualverkehrs
+	- führt zu Verringerung des Personenindividualverkehrs
 - dezentrale Konzentration
-  - wenige, aber vernünftig angebundene Zentren außerhalb des Stadtzentrums
+	- wenige, aber vernünftig angebundene Zentren außerhalb des Stadtzentrums
 
 ## Funktionale und sozialräumliche Gliederung - Stadtmodelle
 
@@ -120,7 +112,7 @@
 
 - Ausdehnung der Stadt in konzentrischen, homogenen Ringen um den CBD (central business district)
 - von innen nach außen:
-  - Industriegewerbe - Wohnviertel niederer Status -
+- Industriegewerbe - Wohnviertel niederer Status -
 Wohnviertel Mittelstand - Wohnviertel höherer Status - Pendlerbereich
 
 ### Sektorenmodell (1939)
@@ -279,6 +271,6 @@ Suburbanisierung
 - Abwerbeversuche der Umlandgemeinden bei gleichzeitigem Nutzen der städtischen Infrastruktur
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjE2MzU5MzcsMTcxMTIzNTkzMSw2ND
-M3NzczNjFdfQ==
+eyJoaXN0b3J5IjpbNzk1MDgyNDMsMTcxMTIzNTkzMSw2NDM3Nz
+czNjFdfQ==
 -->
