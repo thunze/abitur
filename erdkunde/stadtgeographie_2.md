@@ -66,12 +66,16 @@
 
 - **effiziente Bauweise:** Plusenergiehäuser, Passivhaus, Niedrigenergiehaus
 - neue Art der Flächennutzung alter *Brachen* (Militär, Industrie etc.)
-- reduzierte Autozahl, **Carsharing**
-- teure **Parkplätze**, nur am Rande der Siedlung
+- Straße als **Lebensraum** / Verkehrsberuhigung:
+	- reduzierte Autozahl, **Carsharing**
+	- teure **Parkplätze**, nur am Rande der Siedlung
+	- kurze Wege, ÖPNV zur Innenstadt
 - *regenerative Energien*
 - Erhalt von **Grünflächen** und Bäumen
+- sparsame Wasserverwendung
+- **Nahversorgung** (kurzfristiger Bedarf)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ0MjE3MzY4LC0yMDIxNjIzNTczLDY0Mj
+eyJoaXN0b3J5IjpbMjU1OTc5MDA4LC0yMDIxNjIzNTczLDY0Mj
 M5NjQ4OCwxNTg2MzEyNTU0LC0xOTQxMDYyMTM3LC04MjIwMTk1
 OTAsLTY4MjgwNjI0N119
 -->
