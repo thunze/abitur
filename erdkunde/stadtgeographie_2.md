@@ -78,9 +78,11 @@
 
 ## Strukturwandel in Hafengebieten / Containerisierung
 
- - größere Schiffe 
+ - **größere Schiffe:** größerer Tiefgang, höheres Ladevolumen
+ - **höherer Flächenbedarf** (vor allem Lagerfläche)
+ - geschlossene 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ0MjQ4NTAsNTE2NTgyMTUyLC0yMDIxNj
-IzNTczLDY0MjM5NjQ4OCwxNTg2MzEyNTU0LC0xOTQxMDYyMTM3
-LC04MjIwMTk1OTAsLTY4MjgwNjI0N119
+eyJoaXN0b3J5IjpbLTE4MTA2NjM5NzcsMjQ0MjQ4NTAsNTE2NT
+gyMTUyLC0yMDIxNjIzNTczLDY0MjM5NjQ4OCwxNTg2MzEyNTU0
+LC0xOTQxMDYyMTM3LC04MjIwMTk1OTAsLTY4MjgwNjI0N119
 -->
