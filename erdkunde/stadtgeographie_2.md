@@ -43,12 +43,12 @@
 
 ### Demographische Primatstadt
 - demographische **Vormachtstellung** der Stadt im Bezug auf das
-	- **gesamte Land** – *demografische Primacy* () und / oder auf die
-	- zweitgrößte Stadt –
+	- **gesamte Land** – *demografische Primacy* (Bevölkerung der größten Stadt / Gesamtbevölkerung des Landes) und / oder auf die
+	- **zweitgrößte Stadt** – *Index of Primacy / Primacy Index* ()
 
 ## Merkmale ökologischer Stadtentwicklung
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwOTA4NTU0NywxNTg2MzEyNTU0LC0xOT
+eyJoaXN0b3J5IjpbMTc4NTIzMzExNSwxNTg2MzEyNTU0LC0xOT
 QxMDYyMTM3LC04MjIwMTk1OTAsLTY4MjgwNjI0N119
 -->
