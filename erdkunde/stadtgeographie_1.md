@@ -116,14 +116,14 @@
 - **von innen nach außen:** Industriegewerbe – Wohnviertel niederer Status – Wohnviertel Mittelstand – Wohnviertel höherer Status – Pendlerbereich
 
 ### Sektorenmodell (1939)
-- Orientierung an den Hauptverkehrsachsen, der Industrie und dem Wohnstandortverhalten der statushöheren Bevölkerung
+- Orientierung an den **Hauptverkehrsachsen**, der Industrie und dem Wohnstandortverhalten der statushöheren Bevölkerung
 - Wohnviertel niederer Status um den CBD gelegen, Rest außen verteilt
 
 ### Mehrkernmodell (1945)
-- Orientierung an der Anordnung der Arbeitsplätze
-- Arbeiterviertel in der Nähe der Industrie
-- Wohnviertel Mittelstand, Wohnviertel höherer Status in der Nähe der Dienstleistungszentren
-- Stadtentwicklung bestimmt durch funktionale Trennung und soziale Segregation
+- Orientierung an der **Anordnung der Arbeitsplätze**
+- **Arbeiterviertel** in der Nähe der **Industrie**
+- Wohnviertel **Mittelstand**, Wohnviertel **höherer Status** in der Nähe der ***Dienstleistungszentren***
+- Stadtentwicklung bestimmt durch *funktionale Trennung* und *soziale **Segregation***
 - Entstehung von Nebenzentren und funktionalen Clustern
 
 ### Anwendbarkeit der Stadtmodelle auf Deutschland / Europa
@@ -244,7 +244,7 @@
 | <li>Suche nach Wohnraum nahe der Natur</li> | |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU5NjUxNTQ5LDIwMjE2NzIxMzEsLTExOD
-Y3NjIxNTUsMjc4NjI0ODY4LDI3ODYyNDg2OCwxNzExMjM1OTMx
-LDY0Mzc3NzM2MV19
+eyJoaXN0b3J5IjpbLTcxNTc3MzUyOSwyMDIxNjcyMTMxLC0xMT
+g2NzYyMTU1LDI3ODYyNDg2OCwyNzg2MjQ4NjgsMTcxMTIzNTkz
+MSw2NDM3NzczNjFdfQ==
 -->
