@@ -28,7 +28,10 @@
 
 **> *soziologischer* Aspekt**
 
+## Merkmale der fragmentierten Stadt
 
+## Merkmale ökologischer Stadtentwicklung
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMjAxOTU5MCwtNjgyODA2MjQ3XX0=
+eyJoaXN0b3J5IjpbLTE5NDEwNjIxMzcsLTgyMjAxOTU5MCwtNj
+gyODA2MjQ3XX0=
 -->
