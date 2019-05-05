@@ -136,20 +136,18 @@
 ## Segregation
 
 ### Definition
-- Bildung von Gruppen mit einheitlichen Merkmalen in Stadtvierteln
-- soziale Segregation:
-	- soziale Lage, Beruf, Bildungsstand, Einkommen
-- ethnische Segregation:
-	- Staatsangehörigkeit, Herkunft, Sprache, Religion
-- Viertel meist mit schlechter Bausubstanz, dichter Bebauung und Stigmatisierung
+- Bildung von Gruppen mit **einheitlichen Merkmalen** in Stadtvierteln
+- ***soziale Segregation:*** soziale Lage, Beruf, Bildungsstand, Einkommen
+- ***ethnische Segregation:*** Staatsangehörigkeit, Herkunft, Sprache, Religion
+- Viertel meist mit schlechter Bausubstanz, dichter Bebauung und *Stigmatisierung*
 - soziale und ethnische Segregation fallen häufig zusammen
 
 ### Mögliche Folgen
 - Resignation, "Teufelskreis"
 - Alkoholismus
-- Kriminalität, z.B. Gewalt, Konflikte, Steuerhinterziehung (Wohnviertel höherer Status)
+- **Kriminalität:** zum Beispiel Gewalt, Konflikte, Steuerhinterziehung (Wohnviertel höherer Status)
 - politische Radikalisierung
-- Bildung von Parallelgesellschaften
+- Bildung von **Parallelgesellschaften**
 - schlechte Bildungschancen
 - erschwerte Integration
 - gegenseitige Verstärkung der Folgen
@@ -242,7 +240,7 @@
 | <li>Suche nach Wohnraum nahe der Natur</li> | |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMzc1NjAwMywyMDIxNjcyMTMxLC0xMT
+eyJoaXN0b3J5IjpbLTEzODI2OTQxMCwyMDIxNjcyMTMxLC0xMT
 g2NzYyMTU1LDI3ODYyNDg2OCwyNzg2MjQ4NjgsMTcxMTIzNTkz
 MSw2NDM3NzczNjFdfQ==
 -->
