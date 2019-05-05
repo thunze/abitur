@@ -109,6 +109,23 @@
 - ***Funktionsmischung:*** führt zu Verringerung des Personenindividualverkehrs
 - ***dezentrale Konzentration:*** wenige, aber vernünftig angebundene Zentren außerhalb des Stadtzentrums
 
+## Merkmale einer City *(Aufgabe 1)*
+
+- hohe bauliche Dichte
+- zentrale Lage (CBD)
+- umsatzstarke Unternehmen **> *Filialisierung***
+- Lagerente (unterschiedliche Mietpreise)
+- öffentliche Einrichtungen
+- Kultureinrichtungen **> *Tourismus***
+- gute Erreichbarkeit (ÖPNV / Parkhäuser)
+- hoher Umsatz pro Fläche
+	- hauptsächlich Waren für den mittelfristigen Bedarf
+- hohe Bodenpreise
+- *prestigeträchtige* Lage
+- viele **Arbeitsplätze im *tertiären Sektor***
+- **geringe Wohnfunktion**
+- ***Citykrater:*** hohe Beschäftigtenrate, aber geringe Bevölkerungsrate
+
 ## Funktionale und sozialräumliche Gliederung - Stadtmodelle *(Aufgabe 1 & 2)*
 
 ### Ringmodell (1925)
@@ -223,7 +240,7 @@
 | <li>Suche nach Wohnraum nahe der Natur</li> | |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4Nzk2NDQ1OSw3MTY1NDU1NjAsMTcyND
+eyJoaXN0b3J5IjpbMTA2MjE2ODEwNiw3MTY1NDU1NjAsMTcyND
 g2OTU5MCwxMDc1OTgzMzUwLDIwMjE2NzIxMzEsLTExODY3NjIx
 NTUsMjc4NjI0ODY4LDI3ODYyNDg2OCwxNzExMjM1OTMxLDY0Mz
 c3NzM2MV19
