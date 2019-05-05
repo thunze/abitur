@@ -75,9 +75,12 @@
 - sparsame Wasserverwendung
 - **Nahversorgung** (kurzfristiger Bedarf)
 - allgemeine Attraktivität **> *Tourismus***
-- 
+
+## Strukturwandel in Hafengebieten / Containerisierung
+
+ - größere Schiffe 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NzgzNzU3MSw1MTY1ODIxNTIsLTIwMj
-E2MjM1NzMsNjQyMzk2NDg4LDE1ODYzMTI1NTQsLTE5NDEwNjIx
-MzcsLTgyMjAxOTU5MCwtNjgyODA2MjQ3XX0=
+eyJoaXN0b3J5IjpbMjQ0MjQ4NTAsNTE2NTgyMTUyLC0yMDIxNj
+IzNTczLDY0MjM5NjQ4OCwxNTg2MzEyNTU0LC0xOTQxMDYyMTM3
+LC04MjIwMTk1OTAsLTY4MjgwNjI0N119
 -->
