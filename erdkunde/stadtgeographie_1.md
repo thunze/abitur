@@ -145,7 +145,7 @@
 ### Mögliche Folgen
 - Resignation, "Teufelskreis"
 - Alkoholismus
-- **Kriminalität:** zum Beispiel Gewalt, Konflikte, Steuerhinterziehung (Wohnviertel höherer Status)
+- **Kriminalität:** z. B. Gewalt, Konflikte, Steuerhinterziehung (Wohnviertel höherer Status)
 - politische Radikalisierung
 - Bildung von **Parallelgesellschaften**
 - schlechte Bildungschancen
@@ -163,7 +163,7 @@
 ### Merkmale
 - bauliche Aufwertung: Sanierung / Neubau, Wohnumfeld, Infrastruktur
 - soziale Aufwertung: Yuppies, Dinks, Studenten, statushöhere Bevölkerung ziehen zu
-- funktionale Aufwertung: neue Geschäfte / Dienstleistungen (z.B. Cafés), qualitativ hochwertige Arbeit
+- funktionale Aufwertung: neue Geschäfte / Dienstleistungen (z. B. Cafés), qualitativ hochwertige Arbeit
 - symbolische Aufwertung: positive Kommunikation, Medien, hohe Akzeptanz
 
 ### Fachbegriffe
@@ -179,7 +179,7 @@
 - meist gründerzeitliche Architektur kann Individualität der Bewohner ausdrücken
 - Folgen: Polarisierung, Heterogenisierung (Differenzierung / Aufteilung in mehrere "Lager")
 
-## Gentrifizierung: Phasen der Gentrifizierung
+## Phasen der Gentrifizierung
 
 ### 1. - Experimentierphase
 - einzelne Pioniere ziehen in das Gebiet
@@ -239,7 +239,7 @@
 | <li>Suche nach Wohnraum nahe der Natur</li> | |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NzU3NTUxMSwyMDIxNjcyMTMxLC0xMT
+eyJoaXN0b3J5IjpbMTA3NTk4MzM1MCwyMDIxNjcyMTMxLC0xMT
 g2NzYyMTU1LDI3ODYyNDg2OCwyNzg2MjQ4NjgsMTcxMTIzNTkz
 MSw2NDM3NzczNjFdfQ==
 -->
