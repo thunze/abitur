@@ -233,14 +233,16 @@
 - zentrale Lage (CBD)
 - umsatzstarke Unternehmen / Filialisierung
 - Lagerente (unterschiedliche Mietpreise)
-- öffentliche Einrichtungen / Kultureinrichtungen
+- öffentliche Einrichtungen
+- Kultureinrichtungen **> *Tourismus***
 - gute Erreichbarkeit (ÖPNV / Parkhäuser)
 - hoher Umsatz pro Fläche
 	- hauptsächlich Waren für mittelfristigen Bedarf
 - hohe Bodenpreise
+- prestigeträchtige Lage
 - viele Arbeitsplätze in tertiären Sektor
 - geringe Wohnfunktion
-- Citykrater: hohe Beschäftigtenrate, aber geringe Bevölkerungsrate
+- ***Citykrater:*** hohe Beschäftigtenrate, aber geringe Bevölkerungsrate
 
 ## Suburbanisierung
 
@@ -262,6 +264,6 @@
 - Abwerbeversuche der Umlandgemeinden bei gleichzeitigem Nutzen der städtischen Infrastruktur
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MzY5NDk5NywyNzg2MjQ4NjgsMjc4Nj
-I0ODY4LDE3MTEyMzU5MzEsNjQzNzc3MzYxXX0=
+eyJoaXN0b3J5IjpbLTExODY3NjIxNTUsMjc4NjI0ODY4LDI3OD
+YyNDg2OCwxNzExMjM1OTMxLDY0Mzc3NzM2MV19
 -->
