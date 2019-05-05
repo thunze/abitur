@@ -208,28 +208,10 @@
 ### 4. – Stagnationsphase
 - kapitalkräftige Investoren wandeln Mietwohnungen in **Eigentumswohnungen** um
 - **Folgen:** hohe Preise, Teilgruppen (überwiegend *Pioniere* und Alteingesessene) müssen fortziehen
-**`Pull-Faktoren:`**`Risiko kaum vorhanden, Möglichkeit zum Kauf`
 
-**> *Pull-Faktoren* als `Code` markiert**
+**`Pull-Faktoren:`**`Risiko kaum vorhanden, Möglichkeit zum Kauf von Eigentumswohnungen`
 
-## Merkmale einer City
-
-- hohe bauliche Dichte
-- zentrale Lage (CBD)
-- umsatzstarke Unternehmen / Filialisierung
-- Lagerente (unterschiedliche Mietpreise)
-- öffentliche Einrichtungen
-- Kultureinrichtungen **> *Tourismus***
-- gute Erreichbarkeit (ÖPNV / Parkhäuser)
-- hoher Umsatz pro Fläche
-	- hauptsächlich Waren für mittelfristigen Bedarf
-- hohe Bodenpreise
-- prestigeträchtige Lage
-- viele Arbeitsplätze in tertiären Sektor
-- geringe Wohnfunktion
-- ***Citykrater:*** hohe Beschäftigtenrate, aber geringe Bevölkerungsrate
-
-## Suburbanisierung
+## Suburbanisierung *(Aufgabe 2 & 3)*
 
 | Ursachen | Folgen |
 | --- | --- |
@@ -241,8 +223,8 @@
 | <li>Suche nach Wohnraum nahe der Natur</li> | |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzY0MjEyODQsNzE2NTQ1NTYwLDE3Mj
-Q4Njk1OTAsMTA3NTk4MzM1MCwyMDIxNjcyMTMxLC0xMTg2NzYy
-MTU1LDI3ODYyNDg2OCwyNzg2MjQ4NjgsMTcxMTIzNTkzMSw2ND
-M3NzczNjFdfQ==
+eyJoaXN0b3J5IjpbMTc4Nzk2NDQ1OSw3MTY1NDU1NjAsMTcyND
+g2OTU5MCwxMDc1OTgzMzUwLDIwMjE2NzIxMzEsLTExODY3NjIx
+NTUsMjc4NjI0ODY4LDI3ODYyNDg2OCwxNzExMjM1OTMxLDY0Mz
+c3NzM2MV19
 -->
