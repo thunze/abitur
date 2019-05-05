@@ -59,12 +59,13 @@
 | <li>***Agglomerations*vorteile** durch Ballung von Industrie, Dienstleistungen, Verwaltung und Kultur</li> | <li>politische, wirtschaftliche, kulturelle und soziale Disparitäten auf Raumebene</li> |
 | <li>Konzentration der **Umweltverschmutzung**</li> | <li>Bedeutungsverlust der **Peripherie**</li> |
 | <li>Bedeutung in der **Weltwirtschaft** – ***Global City***</li> | <li>hohe *Vulnerabilität* der Stadt und dementsprechend **auch des Landes**</li> |
-| <li></li> | <li></li> |
+| | <li>***Tragfähigkeit*** des Raums wird deutlich überschritten</li> |
+| | <li> Vorherrschaft von ***Global Playern*** |
 
 ## Merkmale ökologischer Stadtentwicklung
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQyMzkxNTA1LDY0MjM5NjQ4OCwxNTg2Mz
-EyNTU0LC0xOTQxMDYyMTM3LC04MjIwMTk1OTAsLTY4MjgwNjI0
-N119
+eyJoaXN0b3J5IjpbLTIwMjE2MjM1NzMsNjQyMzk2NDg4LDE1OD
+YzMTI1NTQsLTE5NDEwNjIxMzcsLTgyMjAxOTU5MCwtNjgyODA2
+MjQ3XX0=
 -->
