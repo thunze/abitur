@@ -213,28 +213,26 @@
 
 ### 4. - Stagnationsphase
 - besserverdienende Investoren wandeln Mietwohnungen in Eigentumswohnungen um
-- Folgen:
-  - hohe Preise
-  - Teilgruppen (überwiegend Pioniere) ziehen fort
+- Folgen: hohe Preise, Teilgruppen (überwiegend Pioniere und Alteingesessene) ziehen fort
 
-(Pull-Faktoren jeweils unterstrichen)
+**(Pull-Faktoren?)**
 
 ## Merkmale einer City
 
 - hohe bauliche Dichte
 - zentrale Lage (CBD)
 - umsatzstarke Unternehmen / Filialisierung
-  - Lagerente (unterschiedliche Mietpreise)
+- Lagerente (unterschiedliche Mietpreise)
 - öffentliche Einrichtungen / Kultureinrichtungen
 - gute Erreichbarkeit (ÖPNV / Parkhäuser)
 - hoher Umsatz pro Fläche
-  - hauptsächlich Waren für mittelfristigen Bedarf
+	- hauptsächlich Waren für mittelfristigen Bedarf
 - hohe Bodenpreise
 - viele Arbeitsplätze in tertiären Sektor
 - geringe Wohnfunktion
 - Citykrater: hohe Beschäftigtenrate, aber geringe Bevölkerungsrate
 
-Suburbanisierung
+## Suburbanisierung
 
 | **Ursachen** | **Folgen** |
 | --- | --- |
@@ -254,6 +252,6 @@ Suburbanisierung
 - Abwerbeversuche der Umlandgemeinden bei gleichzeitigem Nutzen der städtischen Infrastruktur
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MjkwMDc3MiwxNzExMjM1OTMxLDY0Mz
-c3NzM2MV19
+eyJoaXN0b3J5IjpbMjc4NjI0ODY4LDE3MTEyMzU5MzEsNjQzNz
+c3MzYxXX0=
 -->
