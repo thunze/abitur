@@ -30,12 +30,14 @@
 
 ## Merkmale der fragmentierten Stadt
 
-
+- Prozesse der ***Globalisierung*** führen zu Verstädterung
+- *Tertiärisierung* und sekundärer Sektor als Hauptantriebskräfte
+- "Gewinner" und "Verlierer" siedeln sich an gleichen Orten an (*Gated Communities* und *Marginalviertel*)
 
 **> siehe Modell der globalen und lokalen Fragmentierung (Scholz)**
 
 ## Merkmale ökologischer Stadtentwicklung
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyOTA3NDUwOCwtMTk0MTA2MjEzNywtOD
-IyMDE5NTkwLC02ODI4MDYyNDddfQ==
+eyJoaXN0b3J5IjpbLTE4MjcyNTUzODUsLTE5NDEwNjIxMzcsLT
+gyMjAxOTU5MCwtNjgyODA2MjQ3XX0=
 -->
