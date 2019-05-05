@@ -75,8 +75,9 @@
 - sparsame Wasserverwendung
 - **Nahversorgung** (kurzfristiger Bedarf)
 - allgemeine Attraktivität **> *Tourismus***
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE2NTgyMTUyLC0yMDIxNjIzNTczLDY0Mj
-M5NjQ4OCwxNTg2MzEyNTU0LC0xOTQxMDYyMTM3LC04MjIwMTk1
-OTAsLTY4MjgwNjI0N119
+eyJoaXN0b3J5IjpbMTg2NzgzNzU3MSw1MTY1ODIxNTIsLTIwMj
+E2MjM1NzMsNjQyMzk2NDg4LDE1ODYzMTI1NTQsLTE5NDEwNjIx
+MzcsLTgyMjAxOTU5MCwtNjgyODA2MjQ3XX0=
 -->
