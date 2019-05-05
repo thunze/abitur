@@ -182,29 +182,28 @@
 ## Phasen der Gentrifizierung
 
 ### 1. – Experimentierphase
-- einzelne Pioniere ziehen in das Gebiet
-- Risikobereitschaft muss vorhanden sein
-	- Gebiete sind "abgewirschaftet"
+- einzelne ***Pioniere*** ziehen in das Gebiet, untere soziale Schichten wohnen bereits dort
+- **Risikobereitschaft** muss vorhanden sein
+	- Gebiete sind *abgewirschaftet*
 	**> niedrige Miet- und Grundstückspreise**
 	- Sanierung muss in Eigenregie durchgeführt werden
 
-### 2. - Erste Expansionsphase
-- einzelne Pioniere Pioniere und Gentrifier ziehen in das Gebiet
+### 2. – Erste Expansionsphase
+- weitere ***Pioniere*** und *Gentrifier* ziehen in das Gebiet
 	- niedrige Kaufpreise, "Flair" des Viertels, architektonische Qualität, Möglichkeit zur Selbstdarstellung nahe der Innenstadt
 - Folgen:
 	- Interesse der Öffentlichkeit / Medien
 	- höhere Mietpreise
 	**> Verdrängung der einkommensschwachen Bevölkerung**
 
-### 3. - Zweite Expansionsphase
-
+### 3. – Zweite Expansionsphase
 - besserverdienende, risikoscheue Menschen ziehen in das Gebiet
 - Sanierung wird zunehmend von Unternehmen durchgeführt
 	- Aufmerksamkeit der Öffentlichkeit und der Stadtverwaltung
 - Einzelhandel verändert sich
 - der Prozess wird dynamisch
 
-### 4. - Stagnationsphase
+### 4. – Stagnationsphase
 - kapitalkräftige Investoren wandeln Mietwohnungen in Eigentumswohnungen um
 - Folgen: hohe Preise, Teilgruppen (überwiegend Pioniere und Alteingesessene) ziehen fort
 
@@ -239,7 +238,7 @@
 | <li>Suche nach Wohnraum nahe der Natur</li> | |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4ODUyNjg0Niw3MTY1NDU1NjAsMTcyND
+eyJoaXN0b3J5IjpbLTMyNzcyMDQ4Nyw3MTY1NDU1NjAsMTcyND
 g2OTU5MCwxMDc1OTgzMzUwLDIwMjE2NzIxMzEsLTExODY3NjIx
 NTUsMjc4NjI0ODY4LDI3ODYyNDg2OCwxNzExMjM1OTMxLDY0Mz
 c3NzM2MV19
