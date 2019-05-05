@@ -47,13 +47,16 @@
 	- **zweitgrößte Stadt** – *Index of Primacy / Primacy Index* (Bevölkerung der größten Stadt / Bevölkerung der zweigrößten Stadt **> 2**)
 
 ### Funktionale Primatstadt
-- quantitative und qualitative Vormacht
+- quantitative und qualitative **Vormachtstellung** in allen **lebenswichtigen Bereichen** (Wirtschaft, Kultur, Politik, Infrastruktur)
+- hohe Arbeitsplatzdichte vor allem im *tertiären Sektor*
+- sehr gute ***Standortfaktoren***
+- 
 
 ### Chancen & Risiken
 
 ## Merkmale ökologischer Stadtentwicklung
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgxMzMwNzUxLDE1ODYzMTI1NTQsLTE5ND
+eyJoaXN0b3J5IjpbODM4OTY2NjU1LDE1ODYzMTI1NTQsLTE5ND
 EwNjIxMzcsLTgyMjAxOTU5MCwtNjgyODA2MjQ3XX0=
 -->
