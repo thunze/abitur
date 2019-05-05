@@ -238,11 +238,11 @@
 | <li>Suche nach Wohnraum **nahe der Natur**</li> | <li>soziale *"Selektierung"* / **Abwertung** der Innenstadt</li> |
 | <li>*Subventionen* und Steuererleichterungen für Eigenbauvorhaben</li> | |
 
-**> Atlas S. 74**
+**> Atlas S. 47**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mzk4MDk5MzQsMTQ3MTk3MTM0NSw3MT
-Y1NDU1NjAsMTcyNDg2OTU5MCwxMDc1OTgzMzUwLDIwMjE2NzIx
-MzEsLTExODY3NjIxNTUsMjc4NjI0ODY4LDI3ODYyNDg2OCwxNz
-ExMjM1OTMxLDY0Mzc3NzM2MV19
+eyJoaXN0b3J5IjpbLTMzNjYyNTI2OCwtMTgzOTgwOTkzNCwxND
+cxOTcxMzQ1LDcxNjU0NTU2MCwxNzI0ODY5NTkwLDEwNzU5ODMz
+NTAsMjAyMTY3MjEzMSwtMTE4Njc2MjE1NSwyNzg2MjQ4NjgsMj
+c4NjI0ODY4LDE3MTEyMzU5MzEsNjQzNzc3MzYxXX0=
 -->
