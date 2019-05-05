@@ -88,8 +88,14 @@
 ## Stadtgeopraphie
 
 ### Modell der deutschen Stadt
+
+- Ausdehnung der mittelalterlichen Stadt im Zuge der Weiterentwicklung der Wehrtechnik
+- Anlage von **Bahnanlagen** während der Industrialisierung
+- massives Städtewachstum in der Gründerzeit
+- Errichtung von **Industriearealen** und **Arbeitervierteln** aufgrund des Westwindes im Osten
+- starke ***Suburbanisierung*** im 20. Jahrhundert mit der Anlage einer differenzierten *Verkehrsinfrastruktur*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMTg4MTk3MCwxNTYxMDIwNCwtNjQwNz
+eyJoaXN0b3J5IjpbMTEyMzUxNTE1OSwxNTYxMDIwNCwtNjQwNz
 M4NTY4LC0yMDE4MjUzOTMwLC0yOTM0Nzk3MjQsMTE2NTQyMTA1
 Nyw4NjUzNjQxMjUsMTc3MzYzMjQwOSwxNDkxMzI2OTYyLC00Nz
 E5MzczMTYsNzM5NzUxNjY5LC0xNzcyMjM3NzcyLDEwNjUwODAw
