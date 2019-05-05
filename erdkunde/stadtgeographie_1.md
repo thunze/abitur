@@ -63,7 +63,7 @@
 - Wohngebiete orientieren sich an der Arbeitsfunktion
 	- Arbeiterviertel an Bahnhöfen etc.
 
-***> Atlas S. 74***
+**> Atlas S. 74**
 
 ## Historisch-genetische Gliederung - Teil 2: Leitbilder *(Aufgabe 1 & 2)*
 
@@ -238,10 +238,10 @@
 | <li>Suche nach Wohnraum **nahe der Natur**</li> | <li>soziale *"Selektierung"* / **Abwertung** der Innenstadt</li> |
 | <li>*Subventionen* und Steuererleichterungen für Eigenbauvorhaben</li> | |
 
-***> Atlas S. 74***
+**> Atlas S. 74**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjM4NjQyNjYsMTQ3MTk3MTM0NSw3MT
+eyJoaXN0b3J5IjpbLTE4Mzk4MDk5MzQsMTQ3MTk3MTM0NSw3MT
 Y1NDU1NjAsMTcyNDg2OTU5MCwxMDc1OTgzMzUwLDIwMjE2NzIx
 MzEsLTExODY3NjIxNTUsMjc4NjI0ODY4LDI3ODYyNDg2OCwxNz
 ExMjM1OTMxLDY0Mzc3NzM2MV19
