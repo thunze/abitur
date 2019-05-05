@@ -2,43 +2,19 @@
 
 ## Stadtbegriff
 
-- Allgemeine Anforderungen:
-  - hohe Einwohnerzahl
-  - große Fläche
-  - Einwohnerdichte
-  - Arbeitslosenquote
-  - Gliederung
-  - Disparitäten
-  - historischer Stadtkern
-  - Multikulturalität
-  - schlechtere Luftqualität / Lärm / Geruch
-  - Wachstum
-  - Restaurierung
-- Öffentliches:
-  - öffentliche Ämter
-  - politische Institutionen
-  - Gesundheitsversorgung
-  - Friedhöfe
-- Infrastruktur:
-  - Flughäfen
-  - gut ausgebaut (ÖPNV, Straßen, Netzbetrieb)
-  - Parkhäuser
-  - Überlastung
 - anhand der funktionalen Gliederung:
-
------------------------------
+![]()
 - rote Verbindungen: Verkehr
 - grüne Ellipse: Leben in der Umwelt
 
 ## Gliederungskriterien
 
-- physignomisch, historisch-genetisch, funktional, sozialräumlich
-  - gegenseitige Abhängigkeit
+![]()
+- gegenseitige Abhängigkeit
 
 ## Historisch-genetische Gliederung - Teil 1
 
 ### Antike / Römerzeit
-
 - Forum
 - Gliederung in Nord-Süd- und West-Ost-Achse
 - geplant, Rasterform der Insulae (Wohngebiete)
@@ -46,7 +22,7 @@
 - zentraler Platz
 - außerhalb der Stadtmauern: Friedhöfe, Landwirtschaft
 - Funktion je nach Status / örtlichen Gegebenheiten
-  - B. Fluss: wirtschaftliche Funktion (z.B. Köln)
+  - Fluss: wirtschaftliche Funktion (z.B. Köln)
 
 ### Mittelalter
 
@@ -302,5 +278,5 @@ Suburbanisierung
 - Abwerbeversuche der Umlandgemeinden bei gleichzeitigem Nutzen der städtischen Infrastruktur
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQzNzc3MzYxXX0=
+eyJoaXN0b3J5IjpbMTEzNDIwNzYxOSw2NDM3NzczNjFdfQ==
 -->
