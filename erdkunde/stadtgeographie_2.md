@@ -8,11 +8,14 @@
 - ***Verstädterungsgrad:*** Anteil der städtischen Bevölkerung an der Gesamtbevölkerung
 - ***Verstädterungsrate:*** Zuwachs der städtischen Bevölkerung
 - *Verstädterungsrate* weltweit bei **ca. 2%**
+- erste *Megacitys* (> 10 Mio. Einwohner) ab 1950
 
 **> demografischer und physiognomischer Aspekt**
 
 ### Urbanisierung
-- Ausbreitung **städtischer Lebensformen** (Haushaltsformen, **Konsummuster**, Wertvorstellungen et)
+- Ausbreitung **städtischer Lebensformen** (Haushaltsformen, **Konsummuster**, Wertvorstellungen etc.)
+
+**> soziologischer Aspekt**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NDIzMzIyN119
+eyJoaXN0b3J5IjpbLTgzNjQzNzkwXX0=
 -->
