@@ -85,11 +85,15 @@
 - bilden einen Zwischenschritt zu nachhaltigen Systemen (Endziel)
 - Zwischenschritte benötigen staatliche Unterstützung
 
+## Stadtgeopraphie
+
+### Modell der deutschen Stadt
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MTAyMDQsLTY0MDczODU2OCwtMjAxOD
-I1MzkzMCwtMjkzNDc5NzI0LDExNjU0MjEwNTcsODY1MzY0MTI1
-LDE3NzM2MzI0MDksMTQ5MTMyNjk2MiwtNDcxOTM3MzE2LDczOT
-c1MTY2OSwtMTc3MjIzNzc3MiwxMDY1MDgwMDExLDU4NDA5NzUy
-Nyw5MzU5MTQ2MDQsMTgzMjk4NzM2OCwxMTQ2MjY4MjA1LC0xMj
-MzNDE5ODQsMTY1NTkwOTA0NywzNDU3MTc1NjZdfQ==
+eyJoaXN0b3J5IjpbMTAzMTg4MTk3MCwxNTYxMDIwNCwtNjQwNz
+M4NTY4LC0yMDE4MjUzOTMwLC0yOTM0Nzk3MjQsMTE2NTQyMTA1
+Nyw4NjUzNjQxMjUsMTc3MzYzMjQwOSwxNDkxMzI2OTYyLC00Nz
+E5MzczMTYsNzM5NzUxNjY5LC0xNzcyMjM3NzcyLDEwNjUwODAw
+MTEsNTg0MDk3NTI3LDkzNTkxNDYwNCwxODMyOTg3MzY4LDExND
+YyNjgyMDUsLTEyMzM0MTk4NCwxNjU1OTA5MDQ3LDM0NTcxNzU2
+Nl19
 -->
