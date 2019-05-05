@@ -82,9 +82,11 @@
  - **höherer Flächenbedarf** (vor allem Lagerfläche)
  - geschlossene Transportkette – Veränderung der Arbeitsstruktur *(Technisierung)*
  - Anstieg der **Wirtschaftsleistung**, Ausweitung der Hafengebiete
+- **Industriegebiet** entwickelt sich um den Hafen herum weiter
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MjcyMDY4MCwyNDQyNDg1MCw1MTY1OD
-IxNTIsLTIwMjE2MjM1NzMsNjQyMzk2NDg4LDE1ODYzMTI1NTQs
-LTE5NDEwNjIxMzcsLTgyMjAxOTU5MCwtNjgyODA2MjQ3XX0=
+eyJoaXN0b3J5IjpbLTMwMDc1ODQxNSwxNjUyNzIwNjgwLDI0ND
+I0ODUwLDUxNjU4MjE1MiwtMjAyMTYyMzU3Myw2NDIzOTY0ODgs
+MTU4NjMxMjU1NCwtMTk0MTA2MjEzNywtODIyMDE5NTkwLC02OD
+I4MDYyNDddfQ==
 -->
