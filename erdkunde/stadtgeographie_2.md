@@ -74,8 +74,9 @@
 - Erhalt von **Grünflächen** und Bäumen
 - sparsame Wasserverwendung
 - **Nahversorgung** (kurzfristiger Bedarf)
+- allgemeine Attraktivität **> *Tourismus***
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU1OTc5MDA4LC0yMDIxNjIzNTczLDY0Mj
+eyJoaXN0b3J5IjpbNTE2NTgyMTUyLC0yMDIxNjIzNTczLDY0Mj
 M5NjQ4OCwxNTg2MzEyNTU0LC0xOTQxMDYyMTM3LC04MjIwMTk1
 OTAsLTY4MjgwNjI0N119
 -->
