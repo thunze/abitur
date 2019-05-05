@@ -38,7 +38,8 @@
 - funktionale Gliederung
 
 ### Barock
-- Schloss mit Schlossgarten als 
+- Schloss mit Schlossgarten als Mittelpunkt der Stadt
+- strahlenförmige Straßenführung vom Mittelpunkt aus
 
 ### Industrialisierung / Gründerzeit
 - weitere Ausdehnung / ähnlich wie im Mittelalter
@@ -257,6 +258,6 @@
 - Abwerbeversuche der Umlandgemeinden bei gleichzeitigem Nutzen der städtischen Infrastruktur
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMTA3NjY0NiwyNzg2MjQ4NjgsMjc4Nj
+eyJoaXN0b3J5IjpbLTkxODc4NzIxOCwyNzg2MjQ4NjgsMjc4Nj
 I0ODY4LDE3MTEyMzU5MzEsNjQzNzc3MzYxXX0=
 -->
