@@ -133,7 +133,7 @@
 - *Massenmobilisierung* nach 1945
 - ***Tertiärisierung***
 
-## Segregation ()
+## Segregation *(Aufgabe 2)*
 
 ### Definition
 - Bildung von Gruppen mit **einheitlichen Merkmalen** in Stadtvierteln
@@ -158,7 +158,7 @@
 - ***Rekommunalisierung*** von Versorgungseinrichtungen (gegen *Privatisierung*)
 	- Kommunen haben Kontrolle über Preise und Qualität der Versorgung anstelle von Privatunternehmen
 
-## Gentrifizierung: Allgemeines
+## Gentrifizierung: Allgemeines *(Aufgabe 2 & 3)*
 
 ### Merkmale
 - **bauliche Aufwertung:** Sanierung / Neubau, Wohnumfeld, Infrastruktur
@@ -179,11 +179,11 @@
 - meist *gründerzeitliche* Architektur kann **Individualität** der Bewohner ausdrücken
 - **Folgen:** *Polarisierung*, *Heterogenisierung* (Differenzierung / Aufteilung in mehrere "Lager")
 
-## Phasen der Gentrifizierung
+## Phasen der Gentrifizierung *(Aufgabe 2 & 3)*
 
 ### 1. – Experimentierphase
 - einzelne ***Pioniere*** ziehen in das Gebiet, untere soziale Schichten wohnen bereits dort
-- **Risikobereitschaft** muss vorhanden sein
+- **Risikobereitschaft** muss vorhanden sein, denn
 	- Gebiete sind *abgewirschaftet*
 	- Sanierung muss in Eigenregie durchgeführt werden
 
@@ -191,11 +191,8 @@
 
 ### 2. – Erste Expansionsphase
 - weitere ***Pioniere*** und ***Gentrifier*** ziehen in das Gebiet
-- Folgen:
-	- Interesse der Öffentlichkeit / Medien
-	- höhere Mietpreise
-
-**> Verdrängung der einkommensschwachen Bevölkerung**
+- **Folgen:** Interesse der Öffentlichkeit / Medien, **höhere Mietpreise**
+	**> Verdrängung der einkommensschwachen Bevölkerung**
 
 **`Pull-Faktoren:`**`niedrige Kaufpreise, "Flair" des Viertels, architektonische Qualität, Möglichkeit zur Selbstdarstellung nahe der Innenstadt`
 
@@ -241,8 +238,8 @@
 | <li>Suche nach Wohnraum nahe der Natur</li> | |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNDAzMjczLDcxNjU0NTU2MCwxNzI0OD
-Y5NTkwLDEwNzU5ODMzNTAsMjAyMTY3MjEzMSwtMTE4Njc2MjE1
-NSwyNzg2MjQ4NjgsMjc4NjI0ODY4LDE3MTEyMzU5MzEsNjQzNz
-c3MzYxXX0=
+eyJoaXN0b3J5IjpbMTcwOTc2Mzc0MSw3MTY1NDU1NjAsMTcyND
+g2OTU5MCwxMDc1OTgzMzUwLDIwMjE2NzIxMzEsLTExODY3NjIx
+NTUsMjc4NjI0ODY4LDI3ODYyNDg2OCwxNzExMjM1OTMxLDY0Mz
+c3NzM2MV19
 -->
