@@ -133,7 +133,7 @@
 - *Massenmobilisierung* nach 1945
 - ***Tertiärisierung***
 
-## Segregation
+## Segregation ()
 
 ### Definition
 - Bildung von Gruppen mit **einheitlichen Merkmalen** in Stadtvierteln
@@ -185,8 +185,9 @@
 - einzelne ***Pioniere*** ziehen in das Gebiet, untere soziale Schichten wohnen bereits dort
 - **Risikobereitschaft** muss vorhanden sein
 	- Gebiete sind *abgewirschaftet*
-	**> niedrige Miet- und Grundstückspreise**
 	- Sanierung muss in Eigenregie durchgeführt werden
+
+**`Pull-Faktoren:`**`niedrige Miet- und Grundstückspreise`
 
 ### 2. – Erste Expansionsphase
 - weitere ***Pioniere*** und ***Gentrifier*** ziehen in das Gebiet
@@ -209,7 +210,7 @@
 - kapitalkräftige Investoren wandeln Mietwohnungen in Eigentumswohnungen um
 - Folgen: hohe Preise, Teilgruppen (überwiegend Pioniere und Alteingesessene) ziehen fort
 
-**> Pull-Faktoren als `Code` markiert**
+**> *Pull-Faktoren* als `Code` markiert**
 
 ## Merkmale einer City
 
@@ -240,8 +241,8 @@
 | <li>Suche nach Wohnraum nahe der Natur</li> | |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NTgyMjI1NCw3MTY1NDU1NjAsMTcyND
-g2OTU5MCwxMDc1OTgzMzUwLDIwMjE2NzIxMzEsLTExODY3NjIx
-NTUsMjc4NjI0ODY4LDI3ODYyNDg2OCwxNzExMjM1OTMxLDY0Mz
-c3NzM2MV19
+eyJoaXN0b3J5IjpbMTYwNDAzMjczLDcxNjU0NTU2MCwxNzI0OD
+Y5NTkwLDEwNzU5ODMzNTAsMjAyMTY3MjEzMSwtMTE4Njc2MjE1
+NSwyNzg2MjQ4NjgsMjc4NjI0ODY4LDE3MTEyMzU5MzEsNjQzNz
+c3MzYxXX0=
 -->
