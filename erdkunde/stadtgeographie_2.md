@@ -1,5 +1,10 @@
 # Stadtgeographie: Teil 2 – Die Stadt in anderen Kulturkreisen
 
+## Metropolisierung
+
+- **allgemein:** Einwohnerzahl, Wirtschaftskraft und politische Bedeutung der Stadt überragt die der anderen Städte
+- 
+
 ## Verstädterung & Urbanisierung
 
 ### Verstädterung
@@ -98,9 +103,9 @@
 - **Industriegebiet** entwickelt sich um den Hafen herum weiter
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ2Njc0ODIwLC0yMDE2MTEzMjQ1LDEyOD
-AzMzE4MjksNzU5NDUzMTUzLC0zMDk2Mjc0NTEsLTMwMDc1ODQx
-NSwxNjUyNzIwNjgwLDI0NDI0ODUwLDUxNjU4MjE1MiwtMjAyMT
-YyMzU3Myw2NDIzOTY0ODgsMTU4NjMxMjU1NCwtMTk0MTA2MjEz
-NywtODIyMDE5NTkwLC02ODI4MDYyNDddfQ==
+eyJoaXN0b3J5IjpbLTMzMTM0MDg0Miw0NDY2NzQ4MjAsLTIwMT
+YxMTMyNDUsMTI4MDMzMTgyOSw3NTk0NTMxNTMsLTMwOTYyNzQ1
+MSwtMzAwNzU4NDE1LDE2NTI3MjA2ODAsMjQ0MjQ4NTAsNTE2NT
+gyMTUyLC0yMDIxNjIzNTczLDY0MjM5NjQ4OCwxNTg2MzEyNTU0
+LC0xOTQxMDYyMTM3LC04MjIwMTk1OTAsLTY4MjgwNjI0N119
 -->
