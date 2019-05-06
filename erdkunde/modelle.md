@@ -102,7 +102,7 @@
 ### Modell der angloamerikanischen Stadt
 ![10](https://i.imgur.com/RTVv33P.jpg)
 
-
+- meistens strukturiert und **geplant**, keine 
 
 **> Atlas S. 222**
 
@@ -116,11 +116,12 @@
 ### Modell der islamisch-orientalischen Stadt
 ![12](https://i.imgur.com/XvT7XYy.jpg)
 
-- 
+- zuerst *Souk* wirtschaftliches Zentrum der Stadt (traditionell)
+- danach ***Verwestlichung***: *CBD* neues wirtschaftliches Zentrum
 
 **> Atlas S. 180**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNjg2MjIxOCwtMjAzOTY2OTAwNiwtMT
+eyJoaXN0b3J5IjpbMTI1Njk5MTQxMCwtMjAzOTY2OTAwNiwtMT
 AwMDYxMDM3NiwtMTcyMzg4NTUxNSwxNjAyNDQyNjg0LDE0OTc5
 Nzc1OTEsLTYwMDEwNTA4MywxNTYxMDIwNCwtNjQwNzM4NTY4LC
 0yMDE4MjUzOTMwLC0yOTM0Nzk3MjQsMTE2NTQyMTA1Nyw4NjUz
