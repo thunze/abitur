@@ -99,13 +99,17 @@
 ### Modell der Gentrification
 ![09](https://i.imgur.com/AxFLzoo.jpg)
 
-### Modell der 
+### Modell der angloamerikanischen Stadt
+
+### Modell der lateinamerikanischen Stadt
+
+### Modell der islamisch-orientalischen Stadt
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MzMwMTM0NiwtMTcyMzg4NTUxNSwxNj
-AyNDQyNjg0LDE0OTc5Nzc1OTEsLTYwMDEwNTA4MywxNTYxMDIw
-NCwtNjQwNzM4NTY4LC0yMDE4MjUzOTMwLC0yOTM0Nzk3MjQsMT
-E2NTQyMTA1Nyw4NjUzNjQxMjUsMTc3MzYzMjQwOSwxNDkxMzI2
-OTYyLC00NzE5MzczMTYsNzM5NzUxNjY5LC0xNzcyMjM3NzcyLD
-EwNjUwODAwMTEsNTg0MDk3NTI3LDkzNTkxNDYwNCwxODMyOTg3
-MzY4XX0=
+eyJoaXN0b3J5IjpbLTEwMDA2MTAzNzYsLTE3MjM4ODU1MTUsMT
+YwMjQ0MjY4NCwxNDk3OTc3NTkxLC02MDAxMDUwODMsMTU2MTAy
+MDQsLTY0MDczODU2OCwtMjAxODI1MzkzMCwtMjkzNDc5NzI0LD
+ExNjU0MjEwNTcsODY1MzY0MTI1LDE3NzM2MzI0MDksMTQ5MTMy
+Njk2MiwtNDcxOTM3MzE2LDczOTc1MTY2OSwtMTc3MjIzNzc3Mi
+wxMDY1MDgwMDExLDU4NDA5NzUyNyw5MzU5MTQ2MDQsMTgzMjk4
+NzM2OF19
 -->
