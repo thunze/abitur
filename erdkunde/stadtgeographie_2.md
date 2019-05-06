@@ -31,7 +31,9 @@
 
 ## Marginalisierung
 
-### Prozess in
+### Prozess in Megacitys
+- Menschen vom Land suchen Perspektive in einer großen Stadt und sucht dort nach **innerstädtischen** *Slums* / heruntergekommenen Gebäuden in der Innenstadt, aber nur ein Bruchteil findet tatsächlich eine Unterkunft
+- deshalb ba
 
 ## Merkmale der fragmentierten Stadt
 
@@ -90,7 +92,7 @@
 - **Industriegebiet** entwickelt sich um den Hafen herum weiter
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjgwNDA1OTgsLTMwOTYyNzQ1MSwtMz
+eyJoaXN0b3J5IjpbLTEzNjU5MzQxNzksLTMwOTYyNzQ1MSwtMz
 AwNzU4NDE1LDE2NTI3MjA2ODAsMjQ0MjQ4NTAsNTE2NTgyMTUy
 LC0yMDIxNjIzNTczLDY0MjM5NjQ4OCwxNTg2MzEyNTU0LC0xOT
 QxMDYyMTM3LC04MjIwMTk1OTAsLTY4MjgwNjI0N119
