@@ -18,10 +18,10 @@
 - **Beispiel:** Einsenverhüttung siedelt sich eher bei dem *Materialort* der Kohle an, da Kohle verbrannt wird und somit als *Gewichtsverlustmaterial* gilt
 - **Achtung:** heutige *Standortfaktoren* eher weich und auf *Dienstleistungsunternehmen* zugeschnitten
 
-**> *Footloose Industry* nicht an bestimme Standortfaktoren gebunden**
+**> *Footloose Industry* kaum an bestimme Standortfaktoren gebunden**
 
 ## Cluster
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjMzMTUxNSwxNTk5NTAwMDEsLTE2OT
-Q2Njk0ODddfQ==
+eyJoaXN0b3J5IjpbNTcxNzk1MjAxLC0xODYzMzE1MTUsMTU5OT
+UwMDAxLC0xNjk0NjY5NDg3XX0=
 -->
