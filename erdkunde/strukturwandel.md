@@ -20,6 +20,8 @@
 
 **> *Footloose Industry* nicht an bestimme Standortfaktoren gebunden**
 
+## Cluster
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5OTUwMDAxLC0xNjk0NjY5NDg3XX0=
+eyJoaXN0b3J5IjpbLTE4NjMzMTUxNSwxNTk5NTAwMDEsLTE2OT
+Q2Njk0ODddfQ==
 -->
