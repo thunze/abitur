@@ -22,6 +22,7 @@
 | <li>hohe Sterberaten (Stadtleben) bei hohen Geburtenraten (Phänomen)</li> | <li>hohe Zuwanderung **und** hohe natürliche Wachstumsrate</li> |
 | <li>relativ **ausgewogene Verteilung** wachsender Städte</li> | <li>Konzentration auf **wenige**, aber dafür umso **größere** Städte</li> |
 | <li>dementsprechend **kein** hohes Bevölkerungswachstum</li> | <li>**Sterblichkeit** in der Stadt niedriger als auf dem Land</li> |
+| | <li>Menschen glauben an bessere **Perspektive** in der Stadt</li> |
 
 ### Urbanisierung
 - Ausbreitung **städtischer Lebensformen** (Haushaltsformen, **Konsummuster**, Wertvorstellungen etc.)
@@ -85,8 +86,8 @@
 - **Industriegebiet** entwickelt sich um den Hafen herum weiter
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg5NDIxODc1LC0zMDA3NTg0MTUsMTY1Mj
-cyMDY4MCwyNDQyNDg1MCw1MTY1ODIxNTIsLTIwMjE2MjM1NzMs
-NjQyMzk2NDg4LDE1ODYzMTI1NTQsLTE5NDEwNjIxMzcsLTgyMj
-AxOTU5MCwtNjgyODA2MjQ3XX0=
+eyJoaXN0b3J5IjpbLTMwOTYyNzQ1MSwtMzAwNzU4NDE1LDE2NT
+I3MjA2ODAsMjQ0MjQ4NTAsNTE2NTgyMTUyLC0yMDIxNjIzNTcz
+LDY0MjM5NjQ4OCwxNTg2MzEyNTU0LC0xOTQxMDYyMTM3LC04Mj
+IwMTk1OTAsLTY4MjgwNjI0N119
 -->
