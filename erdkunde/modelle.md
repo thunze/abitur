@@ -106,10 +106,11 @@
 - homogene Strukturen, konzentrische Anordnung
 - Einteilung der Fläche in Parzellen
 - *CBD* in der **Downtown** als Wirtschaftszentrum
+- Unterschicht nah am Zentrum und Industriegebiet
 - Nebenzentren *(Edge Cities)* außerhalb
-- *Kreis-* / *Sektoren-* / *Mehrkernmodell* meist anwendbar
-- *soziale* / *ethnische **Segregation***
 - Oberschicht außerhalb abgegrenzt *(Gated Communities)*
+	- *Kreis-* / *Sektoren-* / *Mehrkernmodell* meist anwendbar
+- *soziale* / *ethnische **Segregation***
 - meist *Gentrifizierung* um *CBD* herum, gleichzeitig *Suburbanisierung*
 
 **> Atlas S. 222**
@@ -128,12 +129,13 @@
 - danach ***Verwestlichung***: *CBD* neues wirtschaftliches Zentrum
 
 **> Atlas S. 180**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkzMDAxNTAxLC0yMDM5NjY5MDA2LC0xMD
-AwNjEwMzc2LC0xNzIzODg1NTE1LDE2MDI0NDI2ODQsMTQ5Nzk3
-NzU5MSwtNjAwMTA1MDgzLDE1NjEwMjA0LC02NDA3Mzg1NjgsLT
-IwMTgyNTM5MzAsLTI5MzQ3OTcyNCwxMTY1NDIxMDU3LDg2NTM2
-NDEyNSwxNzczNjMyNDA5LDE0OTEzMjY5NjIsLTQ3MTkzNzMxNi
-w3Mzk3NTE2NjksLTE3NzIyMzc3NzIsMTA2NTA4MDAxMSw1ODQw
-OTc1MjddfQ==
+eyJoaXN0b3J5IjpbLTQ1NTkwNjI1NCwtMjAzOTY2OTAwNiwtMT
+AwMDYxMDM3NiwtMTcyMzg4NTUxNSwxNjAyNDQyNjg0LDE0OTc5
+Nzc1OTEsLTYwMDEwNTA4MywxNTYxMDIwNCwtNjQwNzM4NTY4LC
+0yMDE4MjUzOTMwLC0yOTM0Nzk3MjQsMTE2NTQyMTA1Nyw4NjUz
+NjQxMjUsMTc3MzYzMjQwOSwxNDkxMzI2OTYyLC00NzE5MzczMT
+YsNzM5NzUxNjY5LC0xNzcyMjM3NzcyLDEwNjUwODAwMTEsNTg0
+MDk3NTI3XX0=
 -->
