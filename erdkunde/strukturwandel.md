@@ -1,6 +1,16 @@
 # Strukturwandel in altindustriellen Räumen
 
-## Verlauf eines 
+## Verlauf eines Strukturwandels
+
+## Standortfaktoren
+
+### Harte Standortfaktoren
+
+### Weiche Standortfaktoren
+
+### Standorttheorie (Weber)
+- eher auf al
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MTM4OTIxMiwtMTY5NDY2OTQ4N119
+eyJoaXN0b3J5IjpbLTEyODcyMTA2MzgsLTE2OTQ2Njk0ODddfQ
+==
 -->
