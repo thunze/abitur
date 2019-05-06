@@ -106,6 +106,7 @@
 - ***Dichte im Städtebau:*** Nachverdichtung / Lückenfüllung ohne Qualitätsverlust
 - ***Funktionsmischung:*** führt zu Verringerung des Personenindividualverkehrs
 - ***dezentrale Konzentration:*** wenige, aber vernünftig angebundene Zentren außerhalb des Stadtzentrums
+- Prinzipien der *okölogischen Stadterneuerung*
 
 ## Merkmale einer City *(Aufgabe 1)*
 
@@ -241,8 +242,9 @@
 **> Atlas S. 47**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNjYyNTI2OCwtMTgzOTgwOTkzNCwxND
-cxOTcxMzQ1LDcxNjU0NTU2MCwxNzI0ODY5NTkwLDEwNzU5ODMz
-NTAsMjAyMTY3MjEzMSwtMTE4Njc2MjE1NSwyNzg2MjQ4NjgsMj
-c4NjI0ODY4LDE3MTEyMzU5MzEsNjQzNzc3MzYxXX0=
+eyJoaXN0b3J5IjpbMTY1NDU2ODE4MCwtMzM2NjI1MjY4LC0xOD
+M5ODA5OTM0LDE0NzE5NzEzNDUsNzE2NTQ1NTYwLDE3MjQ4Njk1
+OTAsMTA3NTk4MzM1MCwyMDIxNjcyMTMxLC0xMTg2NzYyMTU1LD
+I3ODYyNDg2OCwyNzg2MjQ4NjgsMTcxMTIzNTkzMSw2NDM3Nzcz
+NjFdfQ==
 -->
