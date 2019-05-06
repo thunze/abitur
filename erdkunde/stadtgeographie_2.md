@@ -83,6 +83,7 @@
 	- kurze Wege, ÖPNV zur Innenstadt
 - *regenerative Energien*
 - Erhalt von **Grünflächen** und Bäumen
+	- ggf. neue Anpflanzung von Bäumen zur Reinigungswirkung
 - sparsame Wasserverwendung
 - **Nahversorgung** (kurzfristiger Bedarf)
 - allgemeine Attraktivität **> *Tourismus***
@@ -97,9 +98,9 @@
 - **Industriegebiet** entwickelt sich um den Hafen herum weiter
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTYxMTMyNDUsMTI4MDMzMTgyOSw3NT
-k0NTMxNTMsLTMwOTYyNzQ1MSwtMzAwNzU4NDE1LDE2NTI3MjA2
-ODAsMjQ0MjQ4NTAsNTE2NTgyMTUyLC0yMDIxNjIzNTczLDY0Mj
-M5NjQ4OCwxNTg2MzEyNTU0LC0xOTQxMDYyMTM3LC04MjIwMTk1
-OTAsLTY4MjgwNjI0N119
+eyJoaXN0b3J5IjpbNDQ2Njc0ODIwLC0yMDE2MTEzMjQ1LDEyOD
+AzMzE4MjksNzU5NDUzMTUzLC0zMDk2Mjc0NTEsLTMwMDc1ODQx
+NSwxNjUyNzIwNjgwLDI0NDI0ODUwLDUxNjU4MjE1MiwtMjAyMT
+YyMzU3Myw2NDIzOTY0ODgsMTU4NjMxMjU1NCwtMTk0MTA2MjEz
+NywtODIyMDE5NTkwLC02ODI4MDYyNDddfQ==
 -->
