@@ -47,6 +47,8 @@
 ## Beurteilung von Tourismus in Entwicklungsländern
 
 ### Chancen
+- Abbau von Disparitäten
+- **Anbindung an den Weltmarkt**
 - wirtschaftliches Wachstum im **tertiären Sektor**
 - zusätzliche *Deviseneinnahmen*
 - *Außenhandelsdefizit* wird verringert
@@ -64,7 +66,8 @@
 - vor allem **ökologische** Langzeitfolgen möglich
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODMxNjkwMzcsLTc4ODU5MjQxOCwtMT
-U5NjIyMjc2NywyMTg4NTY3ODcsMTk1Mzk5MDEyNCwtMTgwMTgy
-NjY1LC00Nzg1MTYyNzYsLTEyMDA4NjAzNDldfQ==
+eyJoaXN0b3J5IjpbMTg2MjUxODU0NSwtMTY4MzE2OTAzNywtNz
+g4NTkyNDE4LC0xNTk2MjIyNzY3LDIxODg1Njc4NywxOTUzOTkw
+MTI0LC0xODAxODI2NjUsLTQ3ODUxNjI3NiwtMTIwMDg2MDM0OV
+19
 -->
