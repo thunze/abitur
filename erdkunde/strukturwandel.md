@@ -15,8 +15,10 @@
 - Theorie zur Bestimmung des bestmöglichen *Produktionsortes* durch Ermittlung des ***Transportkostenminimalpunkts***
 - Unterscheidung zwischen ***Reingewichtsmaterial***, ***Gewichtsverlustmaterial*** und ***Ubiquität***
 - *Produktionsort* sollte sich nach Möglichkeit **immer** an der Lage der ***Gewichtsverlustmaterialien*** orientieren
-- **Beispiel:** Einsenverhüttung siedelt sich eher bei dem *Materialort* (Kohleförderung an, da Kohle verbrannt wird und somit als *Gewichtsverlustmaterial* gilt
+- **Beispiel:** Einsenverhüttung siedelt sich eher bei dem *Materialort* der Kohle an, da Kohle verbrannt wird und somit als *Gewichtsverlustmaterial* gilt
 - **Achtung:** heutige *Standortfaktoren* eher weich und auf *Dienstleistungsunternehmen* zugeschnitten
+
+**> *Footloose Industry* nicht an bestimme Standortfaktoren gebunden**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNzE2MTgwMywtMTY5NDY2OTQ4N119
+eyJoaXN0b3J5IjpbNTAzMDc3Njk5LC0xNjk0NjY5NDg3XX0=
 -->
