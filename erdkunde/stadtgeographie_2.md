@@ -85,13 +85,14 @@
 
 ## Global City
 
+- **nicht zwingend** hohe Einwohnerzahl
 - Knotenpunkt transnationaler Unternehmen
 - verschieden hohe Ausprägung der Bedeutung von **Wirtschaft, Infrastruktur, Politik** etc.
 - **Entstehung:**
 	- Zersplitterung der Produktionsprozesse / ***Outsourcing***
 	- Zentralisierung der Managementfunktionen
 	- ***Tertiärisierung***
-- **Gewinner:** etablierte *Metropole* in Europa, Nordamerika, Ostasien etc.
+- **Gewinner:** etablierte *Metropolen* in Europa, Nordamerika, Ostasien etc.
 - **Verlierer:** strukturell veraltete, ggf. eher auf Industrie ausgerichtete, ehemals wichtige Städte **> *Shrinking Cities***
 
 **> Atlas S. 270**
@@ -121,10 +122,10 @@
 - **Industriegebiet** entwickelt sich um den Hafen herum weiter
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NTc2ODE2LDE2NzIyOTkxNTksLTg0MD
-YyMTU2Miw0NDY2NzQ4MjAsLTIwMTYxMTMyNDUsMTI4MDMzMTgy
-OSw3NTk0NTMxNTMsLTMwOTYyNzQ1MSwtMzAwNzU4NDE1LDE2NT
-I3MjA2ODAsMjQ0MjQ4NTAsNTE2NTgyMTUyLC0yMDIxNjIzNTcz
-LDY0MjM5NjQ4OCwxNTg2MzEyNTU0LC0xOTQxMDYyMTM3LC04Mj
-IwMTk1OTAsLTY4MjgwNjI0N119
+eyJoaXN0b3J5IjpbLTkxMjY2MzQ2MSwxNjcyMjk5MTU5LC04ND
+A2MjE1NjIsNDQ2Njc0ODIwLC0yMDE2MTEzMjQ1LDEyODAzMzE4
+MjksNzU5NDUzMTUzLC0zMDk2Mjc0NTEsLTMwMDc1ODQxNSwxNj
+UyNzIwNjgwLDI0NDI0ODUwLDUxNjU4MjE1MiwtMjAyMTYyMzU3
+Myw2NDIzOTY0ODgsMTU4NjMxMjU1NCwtMTk0MTA2MjEzNywtOD
+IyMDE5NTkwLC02ODI4MDYyNDddfQ==
 -->
