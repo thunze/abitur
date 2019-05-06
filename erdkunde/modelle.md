@@ -104,7 +104,10 @@
 
 - meistens strukturiert und **geplant**, keine wirkliche "Geschichte" (keine Altstadt, kein zentraler Markt etc.)
 - Einteilung der Fläche in Parzellen
-- *CBD* in der **Downtown** als Wirtschaftszentru
+- *CBD* in der **Downtown** als Wirtschaftszentrum
+- Nebenzentren *(Edge Cities)* außerhalb
+- homogene Strukturen, konzentrische Anordnung
+- sekundärer 
 
 **> Atlas S. 222**
 
@@ -123,11 +126,11 @@
 
 **> Atlas S. 180**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTgwNTA3MjAsLTIwMzk2NjkwMDYsLT
-EwMDA2MTAzNzYsLTE3MjM4ODU1MTUsMTYwMjQ0MjY4NCwxNDk3
-OTc3NTkxLC02MDAxMDUwODMsMTU2MTAyMDQsLTY0MDczODU2OC
-wtMjAxODI1MzkzMCwtMjkzNDc5NzI0LDExNjU0MjEwNTcsODY1
-MzY0MTI1LDE3NzM2MzI0MDksMTQ5MTMyNjk2MiwtNDcxOTM3Mz
-E2LDczOTc1MTY2OSwtMTc3MjIzNzc3MiwxMDY1MDgwMDExLDU4
-NDA5NzUyN119
+eyJoaXN0b3J5IjpbMTkwODA0MjA3OSwtMjAzOTY2OTAwNiwtMT
+AwMDYxMDM3NiwtMTcyMzg4NTUxNSwxNjAyNDQyNjg0LDE0OTc5
+Nzc1OTEsLTYwMDEwNTA4MywxNTYxMDIwNCwtNjQwNzM4NTY4LC
+0yMDE4MjUzOTMwLC0yOTM0Nzk3MjQsMTE2NTQyMTA1Nyw4NjUz
+NjQxMjUsMTc3MzYzMjQwOSwxNDkxMzI2OTYyLC00NzE5MzczMT
+YsNzM5NzUxNjY5LC0xNzcyMjM3NzcyLDEwNjUwODAwMTEsNTg0
+MDk3NTI3XX0=
 -->
