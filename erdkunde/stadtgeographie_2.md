@@ -113,19 +113,11 @@
 - allgemeine Attraktivität **> *Tourismus***
 - **Nachteile:** *Homogenisierung*, *soziale Segregation*, hohe Mieten
 
-## Strukturwandel in Hafengebieten / Containerisierung
-
- - **größere Schiffe:** größerer Tiefgang, höheres Ladevolumen
- - **höherer Flächenbedarf** (vor allem Lagerfläche)
- - geschlossene Transportkette – Veränderung der Arbeitsstruktur *(Technisierung)*
- - Anstieg der **Wirtschaftsleistung**, Ausweitung der Hafengebiete
-- **Industriegebiet** entwickelt sich um den Hafen herum weiter
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMjY2MzQ2MSwxNjcyMjk5MTU5LC04ND
-A2MjE1NjIsNDQ2Njc0ODIwLC0yMDE2MTEzMjQ1LDEyODAzMzE4
-MjksNzU5NDUzMTUzLC0zMDk2Mjc0NTEsLTMwMDc1ODQxNSwxNj
-UyNzIwNjgwLDI0NDI0ODUwLDUxNjU4MjE1MiwtMjAyMTYyMzU3
-Myw2NDIzOTY0ODgsMTU4NjMxMjU1NCwtMTk0MTA2MjEzNywtOD
-IyMDE5NTkwLC02ODI4MDYyNDddfQ==
+eyJoaXN0b3J5IjpbLTIwMzExNjc0NTYsLTkxMjY2MzQ2MSwxNj
+cyMjk5MTU5LC04NDA2MjE1NjIsNDQ2Njc0ODIwLC0yMDE2MTEz
+MjQ1LDEyODAzMzE4MjksNzU5NDUzMTUzLC0zMDk2Mjc0NTEsLT
+MwMDc1ODQxNSwxNjUyNzIwNjgwLDI0NDI0ODUwLDUxNjU4MjE1
+MiwtMjAyMTYyMzU3Myw2NDIzOTY0ODgsMTU4NjMxMjU1NCwtMT
+k0MTA2MjEzNywtODIyMDE5NTkwLC02ODI4MDYyNDddfQ==
 -->
