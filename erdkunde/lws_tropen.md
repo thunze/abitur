@@ -95,6 +95,7 @@ Vorteile | Nachteile
 - **Subsistenzwirtschaft** **> *Food-Crops***
 - abwechselnde Nutzung von Ackerfläche durch **Verlegung** von Siedlungen etc.
 - *Brandrodung* **> nicht ökologisch sinnvoll**
+	- wenn nachhaltig aufgeforstet wird, aber tragbar
 - Nährstoffe durch Asche der *Brandrodung* sind nach 2–3 Jahren aufgebraucht, deshalb **keine langfristige** Nutzung möglich
 - *Brachezeit:* ca. 15–20 Jahre
 - Familie bräuchte 5–6 Felder um sich zu ernähren
@@ -104,17 +105,18 @@ Vorteile | Nachteile
 - es gibt eine **schlechte Regelung** von Landbesitz in einem Staat (meist *Entwicklungsland*)
 - Einwohner nutzen dieses Land ohne wirkliche Genehmigung
 - Staat verpachtet das Land an **Unternehmen**, Bauern wird das Land **weggenommen**
+	- verursacht oft Migration in urb
 - Unternehmen nutzen das Land zur *Wasserversorgung* ***(Watergrabbing)*** anderer Staaten oder zur *Landwirtschaft* (vorrangig ***Plantagenwirtschaft***, siehe oben)
 - meist werden *Cash-Crops* für den **Export** angebaut, *Food-Crops* wären für die Unterstützung der Einheimischen deutlich sinnvoller
 - verursacht häufig soziale und politische Spannungen
 - jemand sollte auf *Nachhaltigkeit* achten und Arbeitsplätze und Perspektiven für die Bevölkerung schaffen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU1OTcwMjk5LC0xOTEzNjQyMTU3LC00Nj
-UwNzQ4OTYsNjYyMDAxNDcyLC0xMjQ0MTEwODQ0LDE3NTQ5NTg2
-ODQsMTA4NDU0MjQzOSwxMTI4MTU5MzI4LDE1OTU2NDYyMTcsND
-AwMjkzNjQzLC0xMDY0MDY0ODAyLDM3NTg5MzI0NywtMTk5MTg5
-OTc0Nyw4NzkyNDk2NjUsLTE0MDU4Nzc4MjMsMTQ2MjY1OTI2NS
-wtOTUzNzk1NTUwLDMxMjY2MDU2NSwtMjA1OTQ5NzUxOSwxMzgz
-MjIwODY3XX0=
+eyJoaXN0b3J5IjpbLTc5NDkwOTkyMCw4NTU5NzAyOTksLTE5MT
+M2NDIxNTcsLTQ2NTA3NDg5Niw2NjIwMDE0NzIsLTEyNDQxMTA4
+NDQsMTc1NDk1ODY4NCwxMDg0NTQyNDM5LDExMjgxNTkzMjgsMT
+U5NTY0NjIxNyw0MDAyOTM2NDMsLTEwNjQwNjQ4MDIsMzc1ODkz
+MjQ3LC0xOTkxODk5NzQ3LDg3OTI0OTY2NSwtMTQwNTg3NzgyMy
+wxNDYyNjU5MjY1LC05NTM3OTU1NTAsMzEyNjYwNTY1LC0yMDU5
+NDk3NTE5XX0=
 -->
