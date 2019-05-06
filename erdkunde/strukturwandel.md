@@ -4,7 +4,7 @@
 
 ## Standortfaktoren
 
-### Harte Standortfaktoren
+### Harte / messbareStandortfaktoren
 
 ### Weiche Standortfaktoren
 
@@ -16,6 +16,7 @@
 - Unterscheidung zwischen ***Reingewichtsmaterial***, ***Gewichtsverlustmaterial*** und ***Ubiquität***
 - *Produktionsort* sollte sich nach Möglichkeit **immer** an der Lage der ***Gewichtsverlustmaterialien*** orientieren
 - **Beispiel:** Einsenverhüttung siedelt sich eher bei der Kohleförderung an, da Kohle verbrannt wird und somit als *Gewichtsverlustmaterial* gilt
+- **Achtung:** heutige *Standortfaktoren* eher weich und auf *Dienstleistungsunternehmen* zugeschnitten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMyOTE0MzQzLC0xNjk0NjY5NDg3XX0=
+eyJoaXN0b3J5IjpbMTk4NTM0NzYwNywtMTY5NDY2OTQ4N119
 -->
