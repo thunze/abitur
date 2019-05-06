@@ -6,13 +6,16 @@
 
 ### Harte Standortfaktoren (messbar)
 - infrastrukturelle Anbindung
-- Nähe zu **Freizeitangeboten**
 - niedrige Bodenpreise
 - gute Internetverbindung
+- Steuern, Abgaben, Subventionen
+- regionaler Absatzmarkt
+- Nähe zu Zulieferern
 
 ### Weiche Standortfaktoren (kaum messbar)
 - **kuturelle** Aspekte / Attraktivitäten
 - Nähe zu **Bildungseinrichtungen**, z. B. Universitäten
+- Nähe zu **Freizeitangeboten**
 
 **> werden heutzutage immer wichtiger, vor allem im Zuge der *Tertiärisierung***
 
@@ -28,7 +31,7 @@
 
 ## Cluster
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjM3MjUwMiwtMzUxMzM5NTU1LC0xMT
+eyJoaXN0b3J5IjpbMTk1MDExMzQzOCwtMzUxMzM5NTU1LC0xMT
 Y5NDIyNzE2LC0xNjkzMTUwNTk0LC0xODYzMzE1MTUsMTU5OTUw
 MDAxLC0xNjk0NjY5NDg3XX0=
 -->
