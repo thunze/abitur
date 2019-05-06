@@ -34,13 +34,13 @@
 ### Prozess in Megacitys
 - Menschen vom Land suchen Perspektive in einer großen Stadt und sucht dort nach heruntergekommenen Gebäuden in der Innenstadt (diese werden dann Teil des entstehenden ***Slums***), aber nur ein Bruchteil findet tatsächlich eine Unterkunft
 - deshalb bauen die anderen **außerhalb** der Stadt **illegal** und in Eigenregie Siedlungen (unter schlechten Lebensbedingungen)
-	- innerstädtische *Slums* + randstädtische Siedlungen ≙ ***Marginalsiedlungen*** (der Begriff *Slum* bezieht sich immer nur auf innerstädtische Marginalsiedlungen)
+	- der Begriff *Slum* bezieht sich immer nur auf **innerstädtische** *Marginalsiedlungen*
+	- innerstädtische *Slums* + randstädtische Siedlungen ≙ ***Marginalsiedlungen***
 - durch *Entwicklungsprojekte* etc. werden die Menschen dort vertrieben und deren Siedlungen zerstört; es wird **keine Alternative** geboten
 - **Folgen:** *Zersiedelung* / unstrukturiertes Wachstum, schlechte *Infrastruktur*, Kriminalität, Resignation, Einfluss auf den Entwicklungsstand des Landes, ***Segregation*** im Bezug auf die Entstehung von ***Gated Communities***
 - 
 
-## Merkmale der fragmentierten Stadt
-
+### Merkmale der fragmentierten Stadt
 - Prozesse der ***Globalisierung*** führen zu Verstädterung
 	- *Tertiärisierung* und sekundärer Sektor als Hauptantriebskräfte
 - "Gewinner" und "Verlierer" siedeln sich an **gleichen** Orten an (*Gated Communities* und *Marginalviertel*)
@@ -96,8 +96,8 @@
 - **Industriegebiet** entwickelt sich um den Hafen herum weiter
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIxNzI0NzkyLC0zMDk2Mjc0NTEsLTMwMD
-c1ODQxNSwxNjUyNzIwNjgwLDI0NDI0ODUwLDUxNjU4MjE1Miwt
-MjAyMTYyMzU3Myw2NDIzOTY0ODgsMTU4NjMxMjU1NCwtMTk0MT
-A2MjEzNywtODIyMDE5NTkwLC02ODI4MDYyNDddfQ==
+eyJoaXN0b3J5IjpbLTE4ODAzNjg1OTcsLTMwOTYyNzQ1MSwtMz
+AwNzU4NDE1LDE2NTI3MjA2ODAsMjQ0MjQ4NTAsNTE2NTgyMTUy
+LC0yMDIxNjIzNTczLDY0MjM5NjQ4OCwxNTg2MzEyNTU0LC0xOT
+QxMDYyMTM3LC04MjIwMTk1OTAsLTY4MjgwNjI0N119
 -->
