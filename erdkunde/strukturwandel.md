@@ -6,7 +6,7 @@
 
 ### Harte Standortfaktoren (messbar)
 - infrastrukturelle Anbindung
-- Nähe zu U
+- Nähe zu **Bildungseinrichtungen**, z.
 
 ### Weiche Standortfaktoren (kaum messbar)
 
@@ -24,6 +24,6 @@
 
 ## Cluster
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTMyOTY4MzMsLTE2OTMxNTA1OTQsLT
-E4NjMzMTUxNSwxNTk5NTAwMDEsLTE2OTQ2Njk0ODddfQ==
+eyJoaXN0b3J5IjpbMTQzODg1NTE3NSwtMTY5MzE1MDU5NCwtMT
+g2MzMxNTE1LDE1OTk1MDAwMSwtMTY5NDY2OTQ4N119
 -->
