@@ -37,7 +37,7 @@
 ![04](https://i.imgur.com/ExERIGY.png)
 
 - am ehesten auf **westliche Industriestaaten** anwendbar 
-- **Phase 2:** Medizin und Hygiene werden besser
+- **Phase 2:** Altersvorsorge, Medizin und Hygiene werden besser
 - **Phase 3–4:** Geburten aus Gründen der Altersvorsorge nicht mehr nötig
 - ***Zweiter Demographischer Übergang:***
 	- Einsicht, dass zu viele Menschen vorhanden sein werden
@@ -133,11 +133,11 @@
 **> Atlas S. 180**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMjUzMzMyOSwtNDU1OTA2MjU0LC0yMD
-M5NjY5MDA2LC0xMDAwNjEwMzc2LC0xNzIzODg1NTE1LDE2MDI0
-NDI2ODQsMTQ5Nzk3NzU5MSwtNjAwMTA1MDgzLDE1NjEwMjA0LC
-02NDA3Mzg1NjgsLTIwMTgyNTM5MzAsLTI5MzQ3OTcyNCwxMTY1
-NDIxMDU3LDg2NTM2NDEyNSwxNzczNjMyNDA5LDE0OTEzMjY5Nj
-IsLTQ3MTkzNzMxNiw3Mzk3NTE2NjksLTE3NzIyMzc3NzIsMTA2
-NTA4MDAxMV19
+eyJoaXN0b3J5IjpbLTE1MjYzNzYxMzEsMjAwMjUzMzMyOSwtND
+U1OTA2MjU0LC0yMDM5NjY5MDA2LC0xMDAwNjEwMzc2LC0xNzIz
+ODg1NTE1LDE2MDI0NDI2ODQsMTQ5Nzk3NzU5MSwtNjAwMTA1MD
+gzLDE1NjEwMjA0LC02NDA3Mzg1NjgsLTIwMTgyNTM5MzAsLTI5
+MzQ3OTcyNCwxMTY1NDIxMDU3LDg2NTM2NDEyNSwxNzczNjMyND
+A5LDE0OTEzMjY5NjIsLTQ3MTkzNzMxNiw3Mzk3NTE2NjksLTE3
+NzIyMzc3NzJdfQ==
 -->
