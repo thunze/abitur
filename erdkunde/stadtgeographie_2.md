@@ -32,9 +32,9 @@
 ## Marginalisierung
 
 ### Prozess in Megacitys
-- Menschen vom Land suchen Perspektive in einer großen Stadt und sucht dort nach **innerstädtischen** *Slums* / heruntergekommenen Gebäuden in der Innenstadt, aber nur ein Bruchteil findet tatsächlich eine Unterkunft
+- Menschen vom Land suchen Perspektive in einer großen Stadt und sucht dort nach heruntergekommenen Gebäuden in der Innenstadt (diese werden dann Teil des entstehenden innerstädtischen ***Slums***), aber nur ein Bruchteil findet tatsächlich eine Unterkunft
 - deshalb bauen die anderen **außerhalb** der Stadt **illegal** und in Eigenregie Siedlungen (unter schlechten Lebensbedingungen)
-	- innerstädtische 
+	- innerstädtische *Slums* + randstädtische Siedlungen = ***Marginalsiedlungen***
 - durch *Entwicklungsprojekte* etc. werden die Menschen dort vertrieben und deren Siedlungen zerstört; es wird **keine Alternative** geboten
 - **Folgen:** *Zersiedelung* / unstrukturiertes Wachstum, schlechte *Infrastruktur*, Kriminalität, Resignation, Einfluss auf den Entwicklungsstand des Landes, ***Segregation*** im Bezug auf die Entstehung von ***Gated Communities***
 - 
@@ -96,8 +96,8 @@
 - **Industriegebiet** entwickelt sich um den Hafen herum weiter
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MzE5OTk5MCwtMzA5NjI3NDUxLC0zMD
-A3NTg0MTUsMTY1MjcyMDY4MCwyNDQyNDg1MCw1MTY1ODIxNTIs
-LTIwMjE2MjM1NzMsNjQyMzk2NDg4LDE1ODYzMTI1NTQsLTE5ND
-EwNjIxMzcsLTgyMjAxOTU5MCwtNjgyODA2MjQ3XX0=
+eyJoaXN0b3J5IjpbNDcyOTU4MDM0LC0zMDk2Mjc0NTEsLTMwMD
+c1ODQxNSwxNjUyNzIwNjgwLDI0NDI0ODUwLDUxNjU4MjE1Miwt
+MjAyMTYyMzU3Myw2NDIzOTY0ODgsMTU4NjMxMjU1NCwtMTk0MT
+A2MjEzNywtODIyMDE5NTkwLC02ODI4MDYyNDddfQ==
 -->
