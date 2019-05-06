@@ -4,6 +4,7 @@
 
 ### Fachbegriffe
 - *Flucht*, *Arbeitsmigration*, *Binnenmigration*
+- neuerdings: sexuelle Orientierung, ***Klimawandel***
 
 ### Indikatoren
 - *Geburtenrate / -ziffer:* **Lebendgeborene** pro Einwohnerzahl in einem Zeitraum (oder Prozentsatz)
@@ -53,8 +54,9 @@
 **Risiken** | <li>"Brain drain" / Mangel an Fachkräften</li><li>Familientrennung</li><li>geringere Steuereinnahmen</li> | <li>Segregation</li><li>Überforderung</li>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNjUyMDczMiwtNTIzNDM0NzY2LC0xND
-U4MTkxMzUxLDE0MTkxNzgyNzQsLTE3OTUxMzY3NTgsLTkyMTU1
-OTU0OCwtMTAwMDA1MzcyNywtMTY5NDA1NzIyMiwxNzYzNTc1MT
-Y3LC02MDk2OTY3NzksLTc1MjE2MDg3MV19
+eyJoaXN0b3J5IjpbMTU3MjY2MzA4MCwtNjA2NTIwNzMyLC01Mj
+M0MzQ3NjYsLTE0NTgxOTEzNTEsMTQxOTE3ODI3NCwtMTc5NTEz
+Njc1OCwtOTIxNTU5NTQ4LC0xMDAwMDUzNzI3LC0xNjk0MDU3Mj
+IyLDE3NjM1NzUxNjcsLTYwOTY5Njc3OSwtNzUyMTYwODcxXX0=
+
 -->
