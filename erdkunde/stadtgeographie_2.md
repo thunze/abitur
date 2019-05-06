@@ -86,6 +86,7 @@
 - sparsame Wasserverwendung
 - **Nahversorgung** (kurzfristiger Bedarf)
 - allgemeine Attraktivität **> *Tourismus***
+- **Nachteile:** *Homogenisierung*, *soziale Segregation*, hohe Mieten
 
 ## Strukturwandel in Hafengebieten / Containerisierung
 
@@ -96,9 +97,9 @@
 - **Industriegebiet** entwickelt sich um den Hafen herum weiter
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MDMzMTgyOSw3NTk0NTMxNTMsLTMwOT
-YyNzQ1MSwtMzAwNzU4NDE1LDE2NTI3MjA2ODAsMjQ0MjQ4NTAs
-NTE2NTgyMTUyLC0yMDIxNjIzNTczLDY0MjM5NjQ4OCwxNTg2Mz
-EyNTU0LC0xOTQxMDYyMTM3LC04MjIwMTk1OTAsLTY4MjgwNjI0
-N119
+eyJoaXN0b3J5IjpbLTIwMTYxMTMyNDUsMTI4MDMzMTgyOSw3NT
+k0NTMxNTMsLTMwOTYyNzQ1MSwtMzAwNzU4NDE1LDE2NTI3MjA2
+ODAsMjQ0MjQ4NTAsNTE2NTgyMTUyLC0yMDIxNjIzNTczLDY0Mj
+M5NjQ4OCwxNTg2MzEyNTU0LC0xOTQxMDYyMTM3LC04MjIwMTk1
+OTAsLTY4MjgwNjI0N119
 -->
