@@ -21,7 +21,7 @@
 | <li>1900 als Folge des *Strukturwandels* in der Landwirtschaft und der *Industrialisierung*</li> | <li>**Diskrepanz** ziwschen Wirtschaftswachstum und Bevölkerungswachstum</li> |
 | <li>hohe Sterberaten (Stadtleben) bei hohen Geburtenraten (Phänomen)</li> | <li>hohe Zuwanderung **und** hohe natürliche Wachstumsrate</li> |
 | <li>relativ **ausgewogene Verteilung** wachsender Städte</li> | <li>Konzentration auf **wenige**, aber dafür umso **größere** Städte</li> |
-| | <li>**Sterblichkeit** in der Stadt niedriger als auf dem Land</li> |
+| <li>dementsprechend **kein** hohes Bevölkerungswachstum</li> | <li>**Sterblichkeit** in der Stadt niedriger als auf dem Land</li> |
 
 ### Urbanisierung
 - Ausbreitung **städtischer Lebensformen** (Haushaltsformen, **Konsummuster**, Wertvorstellungen etc.)
@@ -85,8 +85,8 @@
 - **Industriegebiet** entwickelt sich um den Hafen herum weiter
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMDc1ODQxNSwxNjUyNzIwNjgwLDI0ND
-I0ODUwLDUxNjU4MjE1MiwtMjAyMTYyMzU3Myw2NDIzOTY0ODgs
-MTU4NjMxMjU1NCwtMTk0MTA2MjEzNywtODIyMDE5NTkwLC02OD
-I4MDYyNDddfQ==
+eyJoaXN0b3J5IjpbNDg5NDIxODc1LC0zMDA3NTg0MTUsMTY1Mj
+cyMDY4MCwyNDQyNDg1MCw1MTY1ODIxNTIsLTIwMjE2MjM1NzMs
+NjQyMzk2NDg4LDE1ODYzMTI1NTQsLTE5NDEwNjIxMzcsLTgyMj
+AxOTU5MCwtNjgyODA2MjQ3XX0=
 -->
