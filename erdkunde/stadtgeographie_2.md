@@ -85,7 +85,7 @@
 
 ## Global City
 
-
+- **Entstehung:** Zersplitterung der Produktionsprozesse / ***Outsourcing***, Zentralisierung der Managementfunktionen
 
 **> Atlas S. 270**
 
@@ -114,10 +114,10 @@
 - **Industriegebiet** entwickelt sich um den Hafen herum weiter
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MjI5OTE1OSwtODQwNjIxNTYyLDQ0Nj
-Y3NDgyMCwtMjAxNjExMzI0NSwxMjgwMzMxODI5LDc1OTQ1MzE1
-MywtMzA5NjI3NDUxLC0zMDA3NTg0MTUsMTY1MjcyMDY4MCwyND
-QyNDg1MCw1MTY1ODIxNTIsLTIwMjE2MjM1NzMsNjQyMzk2NDg4
-LDE1ODYzMTI1NTQsLTE5NDEwNjIxMzcsLTgyMjAxOTU5MCwtNj
-gyODA2MjQ3XX0=
+eyJoaXN0b3J5IjpbMTAzMjk5ODQ5MywxNjcyMjk5MTU5LC04ND
+A2MjE1NjIsNDQ2Njc0ODIwLC0yMDE2MTEzMjQ1LDEyODAzMzE4
+MjksNzU5NDUzMTUzLC0zMDk2Mjc0NTEsLTMwMDc1ODQxNSwxNj
+UyNzIwNjgwLDI0NDI0ODUwLDUxNjU4MjE1MiwtMjAyMTYyMzU3
+Myw2NDIzOTY0ODgsMTU4NjMxMjU1NCwtMTk0MTA2MjEzNywtOD
+IyMDE5NTkwLC02ODI4MDYyNDddfQ==
 -->
