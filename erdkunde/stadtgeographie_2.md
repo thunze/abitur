@@ -29,6 +29,10 @@
 
 **> *soziologischer* Aspekt**
 
+## Marginalisierung
+
+### Prozess in
+
 ## Merkmale der fragmentierten Stadt
 
 - Prozesse der ***Globalisierung*** führen zu Verstädterung
@@ -86,8 +90,8 @@
 - **Industriegebiet** entwickelt sich um den Hafen herum weiter
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwOTYyNzQ1MSwtMzAwNzU4NDE1LDE2NT
-I3MjA2ODAsMjQ0MjQ4NTAsNTE2NTgyMTUyLC0yMDIxNjIzNTcz
-LDY0MjM5NjQ4OCwxNTg2MzEyNTU0LC0xOTQxMDYyMTM3LC04Mj
-IwMTk1OTAsLTY4MjgwNjI0N119
+eyJoaXN0b3J5IjpbLTE2MjgwNDA1OTgsLTMwOTYyNzQ1MSwtMz
+AwNzU4NDE1LDE2NTI3MjA2ODAsMjQ0MjQ4NTAsNTE2NTgyMTUy
+LC0yMDIxNjIzNTczLDY0MjM5NjQ4OCwxNTg2MzEyNTU0LC0xOT
+QxMDYyMTM3LC04MjIwMTk1OTAsLTY4MjgwNjI0N119
 -->
