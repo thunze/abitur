@@ -8,7 +8,7 @@
 
 ### Weiche Standortfaktoren (kaum messbar)
 
-**> werden heutzutage immer wichtiger *(Tertiärisierung)***
+**> werden heutzutage immer wichtiger *Tertiärisierung)***
 
 ### Standorttheorie (Weber)
 - eher auf altindustrielle Räume anwendbar
@@ -22,6 +22,6 @@
 
 ## Cluster
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcxNzk1MjAxLC0xODYzMzE1MTUsMTU5OT
-UwMDAxLC0xNjk0NjY5NDg3XX0=
+eyJoaXN0b3J5IjpbLTg3NjkyMDc2NSwtMTg2MzMxNTE1LDE1OT
+k1MDAwMSwtMTY5NDY2OTQ4N119
 -->
