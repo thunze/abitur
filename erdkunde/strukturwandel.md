@@ -19,6 +19,7 @@
 - **Achtung:** heutige *Standortfaktoren* eher weich und auf *Dienstleistungsunternehmen* zugeschnitten
 
 **> *Footloose Industry* nicht an bestimme Standortfaktoren gebunden**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAzMDc3Njk5LC0xNjk0NjY5NDg3XX0=
+eyJoaXN0b3J5IjpbMTU5OTUwMDAxLC0xNjk0NjY5NDg3XX0=
 -->
