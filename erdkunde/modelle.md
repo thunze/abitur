@@ -29,6 +29,8 @@
 - so kann auch ein *globaler Ort* in einem EL und die *neue Peripherie* in einem IL sein
 - Bespiel *globalisierter Ort*: Head-Office neben Slum (Scheingewinner, andere Regionen schöpfen Gewinn ab)
 
+**> Atlas S. 270**
+
 ## Bevölkerungsentwicklung & Migration
 
 ### Modell des demographischen Übergangs
@@ -131,11 +133,11 @@
 **> Atlas S. 180**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NTkwNjI1NCwtMjAzOTY2OTAwNiwtMT
-AwMDYxMDM3NiwtMTcyMzg4NTUxNSwxNjAyNDQyNjg0LDE0OTc5
-Nzc1OTEsLTYwMDEwNTA4MywxNTYxMDIwNCwtNjQwNzM4NTY4LC
-0yMDE4MjUzOTMwLC0yOTM0Nzk3MjQsMTE2NTQyMTA1Nyw4NjUz
-NjQxMjUsMTc3MzYzMjQwOSwxNDkxMzI2OTYyLC00NzE5MzczMT
-YsNzM5NzUxNjY5LC0xNzcyMjM3NzcyLDEwNjUwODAwMTEsNTg0
-MDk3NTI3XX0=
+eyJoaXN0b3J5IjpbMjAwMjUzMzMyOSwtNDU1OTA2MjU0LC0yMD
+M5NjY5MDA2LC0xMDAwNjEwMzc2LC0xNzIzODg1NTE1LDE2MDI0
+NDI2ODQsMTQ5Nzk3NzU5MSwtNjAwMTA1MDgzLDE1NjEwMjA0LC
+02NDA3Mzg1NjgsLTIwMTgyNTM5MzAsLTI5MzQ3OTcyNCwxMTY1
+NDIxMDU3LDg2NTM2NDEyNSwxNzczNjMyNDA5LDE0OTEzMjY5Nj
+IsLTQ3MTkzNzMxNiw3Mzk3NTE2NjksLTE3NzIyMzc3NzIsMTA2
+NTA4MDAxMV19
 -->
