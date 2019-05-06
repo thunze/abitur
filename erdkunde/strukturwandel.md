@@ -12,7 +12,9 @@
 
 ### Standorttheorie (Weber)
 - eher auf altindustrielle Räume anwendbar
-- Unterscheidung zwischen **Reingewichtsmaterial**, **Gewichtsverlustmaterial** und Ubiquit
+- Theorie zur Bestimmung eines *Produktionsortes* durch ermitteln
+- Unterscheidung zwischen ***Reingewichtsmaterial***, ***Gewichtsverlustmaterial*** und ***Ubiquität***
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNDQwODUwMCwtMTY5NDY2OTQ4N119
+eyJoaXN0b3J5IjpbMTg0MzU2MTQyNSwtMTY5NDY2OTQ4N119
 -->
