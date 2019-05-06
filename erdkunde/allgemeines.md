@@ -1,5 +1,3 @@
-----------
-
 # Allgemeines
 
 ## Vorgehensweise
@@ -55,9 +53,9 @@ Tertiär | Dienstleistungen
 - um 5 *Prozent* gestiegen vs. um 5 *Prozent**punkte*** gestiegen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMTgxMDkxNCwxMzA0NzQzNTgyLDEzMj
-kwMTA2MzMsMTQ0NzU1ODgxNSwyMDI1OTU0NDcwLC0xMzQ5NzI3
-MTEyLDcyNzM5MTEwMSwtMTc5MzA4ODEyMywtODkyMzQzNjI0LC
-02OTY3OTYzOTMsLTE2OTEzMjExMzAsLTI4NTI5NDMxMSwtODI0
-MzA2MjQxXX0=
+eyJoaXN0b3J5IjpbMTMwNDc0MzU4MiwxNzIxODEwOTE0LDEzMD
+Q3NDM1ODIsMTMyOTAxMDYzMywxNDQ3NTU4ODE1LDIwMjU5NTQ0
+NzAsLTEzNDk3MjcxMTIsNzI3MzkxMTAxLC0xNzkzMDg4MTIzLC
+04OTIzNDM2MjQsLTY5Njc5NjM5MywtMTY5MTMyMTEzMCwtMjg1
+Mjk0MzExLC04MjQzMDYyNDFdfQ==
 -->
