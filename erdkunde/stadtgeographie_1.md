@@ -70,7 +70,7 @@
 ### Gartenstadtmodell (nach 1900)
 - kleinere, autarke Städte
 	- ***Funktionsmischung***
-	- ausreichende *Versorgungs-* und *Arbeitsfunktion*
+	- ausreichende *Versorgungsfunktion*
 - im ~6,5-km-Radius an größere Stadt angebunden
 - Grüngürtel (Verkehrsnetz und Grünflächen) dazwischen
 
@@ -242,9 +242,9 @@
 **> Atlas S. 47**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NDU2ODE4MCwtMzM2NjI1MjY4LC0xOD
-M5ODA5OTM0LDE0NzE5NzEzNDUsNzE2NTQ1NTYwLDE3MjQ4Njk1
-OTAsMTA3NTk4MzM1MCwyMDIxNjcyMTMxLC0xMTg2NzYyMTU1LD
-I3ODYyNDg2OCwyNzg2MjQ4NjgsMTcxMTIzNTkzMSw2NDM3Nzcz
-NjFdfQ==
+eyJoaXN0b3J5IjpbLTEwOTcyNDg5NDQsMTY1NDU2ODE4MCwtMz
+M2NjI1MjY4LC0xODM5ODA5OTM0LDE0NzE5NzEzNDUsNzE2NTQ1
+NTYwLDE3MjQ4Njk1OTAsMTA3NTk4MzM1MCwyMDIxNjcyMTMxLC
+0xMTg2NzYyMTU1LDI3ODYyNDg2OCwyNzg2MjQ4NjgsMTcxMTIz
+NTkzMSw2NDM3NzczNjFdfQ==
 -->
