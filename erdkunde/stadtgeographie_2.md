@@ -31,7 +31,8 @@
 
 ## Marginalisierung und Fragmentierung
 
-### Prozess in Megacitys
+### Prozess der Marginalisierung
+- **allgemein:** Ab
 - Menschen vom Land suchen Perspektive in einer großen Stadt und sucht dort nach heruntergekommenen Gebäuden in der Innenstadt (diese werden dann Teil des entstehenden ***Slums***), aber nur ein Bruchteil findet tatsächlich eine Unterkunft
 - deshalb bauen die anderen **außerhalb** der Stadt **illegal** und in Eigenregie Siedlungen (unter schlechten Lebensbedingungen)
 	- der Begriff *Slum* bezieht sich immer nur auf **innerstädtische** *Marginalsiedlungen*
@@ -95,8 +96,9 @@
 - **Industriegebiet** entwickelt sich um den Hafen herum weiter
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU5NDUzMTUzLC0zMDk2Mjc0NTEsLTMwMD
-c1ODQxNSwxNjUyNzIwNjgwLDI0NDI0ODUwLDUxNjU4MjE1Miwt
-MjAyMTYyMzU3Myw2NDIzOTY0ODgsMTU4NjMxMjU1NCwtMTk0MT
-A2MjEzNywtODIyMDE5NTkwLC02ODI4MDYyNDddfQ==
+eyJoaXN0b3J5IjpbLTIwNDY0MjUyMiw3NTk0NTMxNTMsLTMwOT
+YyNzQ1MSwtMzAwNzU4NDE1LDE2NTI3MjA2ODAsMjQ0MjQ4NTAs
+NTE2NTgyMTUyLC0yMDIxNjIzNTczLDY0MjM5NjQ4OCwxNTg2Mz
+EyNTU0LC0xOTQxMDYyMTM3LC04MjIwMTk1OTAsLTY4MjgwNjI0
+N119
 -->
