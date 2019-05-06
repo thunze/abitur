@@ -107,7 +107,8 @@
 - *CBD* in der **Downtown** als Wirtschaftszentrum
 - Nebenzentren *(Edge Cities)* außerhalb
 - homogene Strukturen, konzentrische Anordnung
-- sekundärer 
+- *Kreis-* / *Sektoren-* / *Mehrkernmodell* meist anwendbar
+- soziale / ethnische *Segregation*
 
 **> Atlas S. 222**
 
@@ -126,11 +127,11 @@
 
 **> Atlas S. 180**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwODA0MjA3OSwtMjAzOTY2OTAwNiwtMT
-AwMDYxMDM3NiwtMTcyMzg4NTUxNSwxNjAyNDQyNjg0LDE0OTc5
-Nzc1OTEsLTYwMDEwNTA4MywxNTYxMDIwNCwtNjQwNzM4NTY4LC
-0yMDE4MjUzOTMwLC0yOTM0Nzk3MjQsMTE2NTQyMTA1Nyw4NjUz
-NjQxMjUsMTc3MzYzMjQwOSwxNDkxMzI2OTYyLC00NzE5MzczMT
-YsNzM5NzUxNjY5LC0xNzcyMjM3NzcyLDEwNjUwODAwMTEsNTg0
-MDk3NTI3XX0=
+eyJoaXN0b3J5IjpbNjQ0NTE5Mzk2LC0yMDM5NjY5MDA2LC0xMD
+AwNjEwMzc2LC0xNzIzODg1NTE1LDE2MDI0NDI2ODQsMTQ5Nzk3
+NzU5MSwtNjAwMTA1MDgzLDE1NjEwMjA0LC02NDA3Mzg1NjgsLT
+IwMTgyNTM5MzAsLTI5MzQ3OTcyNCwxMTY1NDIxMDU3LDg2NTM2
+NDEyNSwxNzczNjMyNDA5LDE0OTEzMjY5NjIsLTQ3MTkzNzMxNi
+w3Mzk3NTE2NjksLTE3NzIyMzc3NzIsMTA2NTA4MDAxMSw1ODQw
+OTc1MjddfQ==
 -->
