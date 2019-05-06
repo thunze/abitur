@@ -92,7 +92,7 @@
 	- Zentralisierung der Managementfunktionen
 	- ***Tertiärisierung***
 - **Gewinner:** etablierte *Metropole* in Europa, Nordamerika, Ostasien etc.
-- **Verlierer:** überaltete, ehemals wichtige Städte **> *Shrinking Cities***
+- **Verlierer:** strukturell veraltete, ggf. eher auf Industrie ausgerichtete, ehemals wichtige Städte **> *Shrinking Cities***
 
 **> Atlas S. 270**
 
@@ -121,10 +121,10 @@
 - **Industriegebiet** entwickelt sich um den Hafen herum weiter
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjYxNzY3OTcsMTY3MjI5OTE1OSwtOD
-QwNjIxNTYyLDQ0NjY3NDgyMCwtMjAxNjExMzI0NSwxMjgwMzMx
-ODI5LDc1OTQ1MzE1MywtMzA5NjI3NDUxLC0zMDA3NTg0MTUsMT
-Y1MjcyMDY4MCwyNDQyNDg1MCw1MTY1ODIxNTIsLTIwMjE2MjM1
-NzMsNjQyMzk2NDg4LDE1ODYzMTI1NTQsLTE5NDEwNjIxMzcsLT
-gyMjAxOTU5MCwtNjgyODA2MjQ3XX0=
+eyJoaXN0b3J5IjpbLTI4NTc2ODE2LDE2NzIyOTkxNTksLTg0MD
+YyMTU2Miw0NDY2NzQ4MjAsLTIwMTYxMTMyNDUsMTI4MDMzMTgy
+OSw3NTk0NTMxNTMsLTMwOTYyNzQ1MSwtMzAwNzU4NDE1LDE2NT
+I3MjA2ODAsMjQ0MjQ4NTAsNTE2NTgyMTUyLC0yMDIxNjIzNTcz
+LDY0MjM5NjQ4OCwxNTg2MzEyNTU0LC0xOTQxMDYyMTM3LC04Mj
+IwMTk1OTAsLTY4MjgwNjI0N119
 -->
