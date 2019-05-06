@@ -12,6 +12,8 @@
 - gute Internetverbindung
 
 ### Weiche Standortfaktoren (kaum messbar)
+- kuturelle Aspekte
+- 
 
 **> werden heutzutage immer wichtiger, vor allem im Zuge der *Tertiärisierung***
 
@@ -27,7 +29,7 @@
 
 ## Cluster
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA5MTkyNzgyLC0zNTEzMzk1NTUsLTExNj
-k0MjI3MTYsLTE2OTMxNTA1OTQsLTE4NjMzMTUxNSwxNTk5NTAw
-MDEsLTE2OTQ2Njk0ODddfQ==
+eyJoaXN0b3J5IjpbMTA1ODAyNzQ4NiwtMzUxMzM5NTU1LC0xMT
+Y5NDIyNzE2LC0xNjkzMTUwNTk0LC0xODYzMzE1MTUsMTU5OTUw
+MDAxLC0xNjk0NjY5NDg3XX0=
 -->
