@@ -9,7 +9,7 @@
 - Nähe zu **Bildungseinrichtungen**, z. B. Universitäten
 - Nähe zu **Freizeitangeboten**
 - niedrige **Bodenpreise**
-- 
+- gute 
 
 ### Weiche Standortfaktoren (kaum messbar)
 
@@ -27,6 +27,7 @@
 
 ## Cluster
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjk0MjI3MTYsLTE2OTMxNTA1OTQsLT
-E4NjMzMTUxNSwxNTk5NTAwMDEsLTE2OTQ2Njk0ODddfQ==
+eyJoaXN0b3J5IjpbLTM1MTMzOTU1NSwtMTE2OTQyMjcxNiwtMT
+Y5MzE1MDU5NCwtMTg2MzMxNTE1LDE1OTk1MDAwMSwtMTY5NDY2
+OTQ4N119
 -->
