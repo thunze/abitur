@@ -102,25 +102,29 @@
 ### Modell der angloamerikanischen Stadt
 ![10](https://i.imgur.com/RTVv33P.jpg)
 
+
+
 **> Atlas S. 222**
 
 ### Modell der lateinamerikanischen Stadt
 ![11](https://i.imgur.com/2tZfIgt.png)
 
-- sozialräumliche Gliederung geprägt durch Kern-Rand-Gefälle: Oberschicht im Zentrum, Rest im Umland der *Agglomeration*
+- sozialräumliche Gliederung geprägt durch **Kern-Rand-Gefälle**: Oberschicht im Zentrum, Rest im Umland der *Agglomeration*
 
 **> Atlas S. 223**
 
 ### Modell der islamisch-orientalischen Stadt
 ![12](https://i.imgur.com/XvT7XYy.jpg)
 
+- 
+
 **> Atlas S. 180**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTkwMDAxMjMsLTIwMzk2NjkwMDYsLT
-EwMDA2MTAzNzYsLTE3MjM4ODU1MTUsMTYwMjQ0MjY4NCwxNDk3
-OTc3NTkxLC02MDAxMDUwODMsMTU2MTAyMDQsLTY0MDczODU2OC
-wtMjAxODI1MzkzMCwtMjkzNDc5NzI0LDExNjU0MjEwNTcsODY1
-MzY0MTI1LDE3NzM2MzI0MDksMTQ5MTMyNjk2MiwtNDcxOTM3Mz
-E2LDczOTc1MTY2OSwtMTc3MjIzNzc3MiwxMDY1MDgwMDExLDU4
-NDA5NzUyN119
+eyJoaXN0b3J5IjpbMjAyNjg2MjIxOCwtMjAzOTY2OTAwNiwtMT
+AwMDYxMDM3NiwtMTcyMzg4NTUxNSwxNjAyNDQyNjg0LDE0OTc5
+Nzc1OTEsLTYwMDEwNTA4MywxNTYxMDIwNCwtNjQwNzM4NTY4LC
+0yMDE4MjUzOTMwLC0yOTM0Nzk3MjQsMTE2NTQyMTA1Nyw4NjUz
+NjQxMjUsMTc3MzYzMjQwOSwxNDkxMzI2OTYyLC00NzE5MzczMT
+YsNzM5NzUxNjY5LC0xNzcyMjM3NzcyLDEwNjUwODAwMTEsNTg0
+MDk3NTI3XX0=
 -->
