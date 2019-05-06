@@ -58,7 +58,7 @@
 ### Lösungsansätze
 - Verbesserung der **Lebensbedingungen** der *Peripherie*
 - Lenkung der Wanderbewegungen auf Mittel- und Kleinstädte
-- Maßnahmen gegen Korruption
+- Maßnahmen gegen *Korruption* (z. B. Bürgerbeteiligungen)
 
 ## Primatstadt
 
@@ -108,10 +108,9 @@
 - **Industriegebiet** entwickelt sich um den Hafen herum weiter
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODcwMzM2NzEsNDQ2Njc0ODIwLC0yMD
-E2MTEzMjQ1LDEyODAzMzE4MjksNzU5NDUzMTUzLC0zMDk2Mjc0
-NTEsLTMwMDc1ODQxNSwxNjUyNzIwNjgwLDI0NDI0ODUwLDUxNj
-U4MjE1MiwtMjAyMTYyMzU3Myw2NDIzOTY0ODgsMTU4NjMxMjU1
-NCwtMTk0MTA2MjEzNywtODIyMDE5NTkwLC02ODI4MDYyNDddfQ
-==
+eyJoaXN0b3J5IjpbLTg0MDYyMTU2Miw0NDY2NzQ4MjAsLTIwMT
+YxMTMyNDUsMTI4MDMzMTgyOSw3NTk0NTMxNTMsLTMwOTYyNzQ1
+MSwtMzAwNzU4NDE1LDE2NTI3MjA2ODAsMjQ0MjQ4NTAsNTE2NT
+gyMTUyLC0yMDIxNjIzNTczLDY0MjM5NjQ4OCwxNTg2MzEyNTU0
+LC0xOTQxMDYyMTM3LC04MjIwMTk1OTAsLTY4MjgwNjI0N119
 -->
