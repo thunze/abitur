@@ -32,7 +32,7 @@
 ## Marginalisierung und Fragmentierung
 
 ### Prozess der Marginalisierung
-- **allgemein:** Abdrängen von Menschen / Gruppen in wirtschaftliche, gesellschaftliche, räumliche, provisorische, illegale und von **schlechter Bausubstanz** geprägte R
+- **allgemein:** Abdrängen von Menschen / Gruppen in wirtschaftliche, gesellschaftliche, räumliche, provisorische, illegale und von **schlechter Bausubstanz** (physiognomisch) geprägte Randexistenzen
 - Menschen vom Land suchen Perspektive in einer großen Stadt und sucht dort nach heruntergekommenen Gebäuden in der Innenstadt (diese werden dann Teil des entstehenden ***Slums***), aber nur ein Bruchteil findet tatsächlich eine Unterkunft
 - deshalb bauen die anderen **außerhalb** der Stadt **illegal** und in Eigenregie Siedlungen (unter schlechten Lebensbedingungen)
 	- der Begriff *Slum* bezieht sich immer nur auf **innerstädtische** *Marginalsiedlungen*
@@ -96,9 +96,9 @@
 - **Industriegebiet** entwickelt sich um den Hafen herum weiter
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjcxODY3NjAsNzU5NDUzMTUzLC0zMD
-k2Mjc0NTEsLTMwMDc1ODQxNSwxNjUyNzIwNjgwLDI0NDI0ODUw
-LDUxNjU4MjE1MiwtMjAyMTYyMzU3Myw2NDIzOTY0ODgsMTU4Nj
-MxMjU1NCwtMTk0MTA2MjEzNywtODIyMDE5NTkwLC02ODI4MDYy
-NDddfQ==
+eyJoaXN0b3J5IjpbMTI4MDMzMTgyOSw3NTk0NTMxNTMsLTMwOT
+YyNzQ1MSwtMzAwNzU4NDE1LDE2NTI3MjA2ODAsMjQ0MjQ4NTAs
+NTE2NTgyMTUyLC0yMDIxNjIzNTczLDY0MjM5NjQ4OCwxNTg2Mz
+EyNTU0LC0xOTQxMDYyMTM3LC04MjIwMTk1OTAsLTY4MjgwNjI0
+N119
 -->
