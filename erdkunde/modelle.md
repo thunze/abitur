@@ -102,17 +102,18 @@
 ### Modell der angloamerikanischen Stadt
 ![10](https://i.imgur.com/RTVv33P.jpg)
 
+
 ### Modell der lateinamerikanischen Stadt
 ![11](https://i.imgur.com/2tZfIgt.png)
 
 ### Modell der islamisch-orientalischen Stadt
 ![12](https://i.imgur.com/XvT7XYy.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTYzNDM5NTIsLTEwMDA2MTAzNzYsLT
-E3MjM4ODU1MTUsMTYwMjQ0MjY4NCwxNDk3OTc3NTkxLC02MDAx
-MDUwODMsMTU2MTAyMDQsLTY0MDczODU2OCwtMjAxODI1MzkzMC
-wtMjkzNDc5NzI0LDExNjU0MjEwNTcsODY1MzY0MTI1LDE3NzM2
-MzI0MDksMTQ5MTMyNjk2MiwtNDcxOTM3MzE2LDczOTc1MTY2OS
-wtMTc3MjIzNzc3MiwxMDY1MDgwMDExLDU4NDA5NzUyNyw5MzU5
-MTQ2MDRdfQ==
+eyJoaXN0b3J5IjpbMjA4OTE1MzExOCwtMTAwMDYxMDM3NiwtMT
+cyMzg4NTUxNSwxNjAyNDQyNjg0LDE0OTc5Nzc1OTEsLTYwMDEw
+NTA4MywxNTYxMDIwNCwtNjQwNzM4NTY4LC0yMDE4MjUzOTMwLC
+0yOTM0Nzk3MjQsMTE2NTQyMTA1Nyw4NjUzNjQxMjUsMTc3MzYz
+MjQwOSwxNDkxMzI2OTYyLC00NzE5MzczMTYsNzM5NzUxNjY5LC
+0xNzcyMjM3NzcyLDEwNjUwODAwMTEsNTg0MDk3NTI3LDkzNTkx
+NDYwNF19
 -->
