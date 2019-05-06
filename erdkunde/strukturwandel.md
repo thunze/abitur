@@ -5,6 +5,8 @@
 ## Standortfaktoren
 
 ### Harte Standortfaktoren (messbar)
+- infrastrukturelle Anbindung
+- 
 
 ### Weiche Standortfaktoren (kaum messbar)
 
@@ -22,6 +24,6 @@
 
 ## Cluster
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTMxNTA1OTQsLTE4NjMzMTUxNSwxNT
-k5NTAwMDEsLTE2OTQ2Njk0ODddfQ==
+eyJoaXN0b3J5IjpbLTMwOTI0MzczOCwtMTY5MzE1MDU5NCwtMT
+g2MzMxNTE1LDE1OTk1MDAwMSwtMTY5NDY2OTQ4N119
 -->
