@@ -35,8 +35,17 @@
 **> *Footloose Industry* kaum an bestimme Standortfaktoren gebunden**
 
 ## Cluster
+
+## Strukturwandel in Hafengebieten / Containerisierung
+
+ - **größere Schiffe:** größerer Tiefgang, höheres Ladevolumen
+ - **höherer Flächenbedarf** (vor allem Lagerfläche)
+ - geschlossene Transportkette – Veränderung der Arbeitsstruktur *(Technisierung)*
+ - Anstieg der **Wirtschaftsleistung**, Ausweitung der Hafengebiete
+- **Industriegebiet** entwickelt sich um den Hafen herum weiter
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDYxNzI0OTAsLTM1MTMzOTU1NSwtMT
-E2OTQyMjcxNiwtMTY5MzE1MDU5NCwtMTg2MzMxNTE1LDE1OTk1
-MDAwMSwtMTY5NDY2OTQ4N119
+eyJoaXN0b3J5IjpbNjI1ODM0MTQzLC0yMTQ2MTcyNDkwLC0zNT
+EzMzk1NTUsLTExNjk0MjI3MTYsLTE2OTMxNTA1OTQsLTE4NjMz
+MTUxNSwxNTk5NTAwMDEsLTE2OTQ2Njk0ODddfQ==
 -->
