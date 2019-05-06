@@ -3,8 +3,7 @@
 ## Kategorisierung von Räumen *(Aufgabe 1)*
 
 ### Fachbegriffe
-- *Flucht*, *Arbeitsmigration*, *Binnenmigration*
-- neuerdings: sexuelle Orientierung, ***Klimawandel***
+- *Flucht*, *Arbeitsmigration*, *Binnenmigration*, ***Klimaflucht***
 
 ### Indikatoren
 - *Geburtenrate / -ziffer:* **Lebendgeborene** pro Einwohnerzahl in einem Zeitraum (oder Prozentsatz)
@@ -54,7 +53,7 @@
 **Risiken** | <li>"Brain drain" / Mangel an Fachkräften</li><li>Familientrennung</li><li>geringere Steuereinnahmen</li> | <li>Segregation</li><li>Überforderung</li>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MjY2MzA4MCwtNjA2NTIwNzMyLC01Mj
+eyJoaXN0b3J5IjpbMTA2ODU4MDA4MCwtNjA2NTIwNzMyLC01Mj
 M0MzQ3NjYsLTE0NTgxOTEzNTEsMTQxOTE3ODI3NCwtMTc5NTEz
 Njc1OCwtOTIxNTU5NTQ4LC0xMDAwMDUzNzI3LC0xNjk0MDU3Mj
 IyLDE3NjM1NzUxNjcsLTYwOTY5Njc3OSwtNzUyMTYwODcxXX0=
