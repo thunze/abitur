@@ -8,14 +8,19 @@
 - infrastrukturelle Anbindung
 - niedrige Bodenpreise
 - gute Internetverbindung
-- Steuern, Abgaben, Subventionen
-- regionaler Absatzmarkt
+- Steuern, Abgaben, *Subventionen*
+- *regionaler Absatzmarkt*
 - Nähe zu Zulieferern
 
 ### Weiche Standortfaktoren (kaum messbar)
 - **kuturelle** Aspekte / Attraktivitäten
-- Nähe zu **Bildungseinrichtungen**, z. B. Universitäten
-- Nähe zu **Freizeitangeboten**
+- Nähe zu Bildungseinrichtungen, z. B. Universitäten
+- Nähe zu Freizeitangeboten
+- Wohnwert
+- soziales Klima
+- physisches Klima
+- Mentalität der Bevölkerung / Arbeitseinstellung
+- Image / *Prestige*
 
 **> werden heutzutage immer wichtiger, vor allem im Zuge der *Tertiärisierung***
 
@@ -31,7 +36,7 @@
 
 ## Cluster
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MDExMzQzOCwtMzUxMzM5NTU1LC0xMT
-Y5NDIyNzE2LC0xNjkzMTUwNTk0LC0xODYzMzE1MTUsMTU5OTUw
-MDAxLC0xNjk0NjY5NDg3XX0=
+eyJoaXN0b3J5IjpbLTIxNDYxNzI0OTAsLTM1MTMzOTU1NSwtMT
+E2OTQyMjcxNiwtMTY5MzE1MDU5NCwtMTg2MzMxNTE1LDE1OTk1
+MDAwMSwtMTY5NDY2OTQ4N119
 -->
