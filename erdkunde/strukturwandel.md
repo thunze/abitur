@@ -8,8 +8,8 @@
 - infrastrukturelle Anbindung
 - Nähe zu **Bildungseinrichtungen**, z. B. Universitäten
 - Nähe zu **Freizeitangeboten**
-- niedrige **Bodenpreise**
-- gute 
+- niedrige Bodenpreise
+- gute Internetverbindung
 
 ### Weiche Standortfaktoren (kaum messbar)
 
@@ -27,7 +27,7 @@
 
 ## Cluster
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MTMzOTU1NSwtMTE2OTQyMjcxNiwtMT
-Y5MzE1MDU5NCwtMTg2MzMxNTE1LDE1OTk1MDAwMSwtMTY5NDY2
-OTQ4N119
+eyJoaXN0b3J5IjpbNDA5MTkyNzgyLC0zNTEzMzk1NTUsLTExNj
+k0MjI3MTYsLTE2OTMxNTA1OTQsLTE4NjMzMTUxNSwxNTk5NTAw
+MDEsLTE2OTQ2Njk0ODddfQ==
 -->
