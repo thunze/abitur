@@ -2,8 +2,7 @@
 
 ## Metropolisierung
 
-- **allgemein:** Einwohnerzahl, Wirtschaftskraft und politische Bedeutung der Stadt überragt die der anderen Städte
-- *Metropolisierungsgrad:* Anteil der Bevölkerung des
+- **allgemein:** Einwohnerzahl, Wirtschaftskraft und politische Bedeutung der ***Agglomeration*** / des *Ballungsraums* überragt die der anderen Städte
 
 ## Verstädterung & Urbanisierung
 
@@ -27,7 +26,7 @@
 | <li>hohe Sterberaten (Stadtleben) bei hohen Geburtenraten (Phänomen)</li> | <li>hohe Zuwanderung **und** hohe natürliche Wachstumsrate</li> |
 | <li>relativ **ausgewogene Verteilung** wachsender Städte</li> | <li>Konzentration auf **wenige**, aber dafür umso **größere** Städte</li> |
 | <li>dementsprechend **kein** hohes Bevölkerungswachstum</li> | <li>**Sterblichkeit** in der Stadt niedriger als auf dem Land</li> |
-| | <li>Menschen glauben an bessere **Perspektive** in der Stadt</li> |
+| <li>funktionale Konzentration / Überzentralisierung als Ursache</li> | <li>Menschen glauben an bessere **Perspektive** in der Stadt</li> |
 
 ### Urbanisierung
 - Ausbreitung **städtischer Lebensformen** (Haushaltsformen, **Konsummuster**, Wertvorstellungen etc.)
@@ -103,7 +102,7 @@
 - **Industriegebiet** entwickelt sich um den Hafen herum weiter
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE1NzEyNDMwLDQ0NjY3NDgyMCwtMjAxNj
+eyJoaXN0b3J5IjpbLTc0MDAyMDg1LDQ0NjY3NDgyMCwtMjAxNj
 ExMzI0NSwxMjgwMzMxODI5LDc1OTQ1MzE1MywtMzA5NjI3NDUx
 LC0zMDA3NTg0MTUsMTY1MjcyMDY4MCwyNDQyNDg1MCw1MTY1OD
 IxNTIsLTIwMjE2MjM1NzMsNjQyMzk2NDg4LDE1ODYzMTI1NTQs
