@@ -55,6 +55,11 @@
 
 **> siehe Modell der globalen und lokalen Fragmentierung (Scholz)**
 
+### Lösungsansätze
+- Verbesserung der **Lebensbedingungen** der *Peripherie*
+- Lenkung der Wanderbewegungen auf Mittel- und Kleinstädte
+- Maßnahmen gegen Korruption
+
 ## Primatstadt
 
 ### Demographische Primatstadt
@@ -103,7 +108,7 @@
 - **Industriegebiet** entwickelt sich um den Hafen herum weiter
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDg2NTM2MDcsNDQ2Njc0ODIwLC0yMD
+eyJoaXN0b3J5IjpbLTIwODcwMzM2NzEsNDQ2Njc0ODIwLC0yMD
 E2MTEzMjQ1LDEyODAzMzE4MjksNzU5NDUzMTUzLC0zMDk2Mjc0
 NTEsLTMwMDc1ODQxNSwxNjUyNzIwNjgwLDI0NDI0ODUwLDUxNj
 U4MjE1MiwtMjAyMTYyMzU3Myw2NDIzOTY0ODgsMTU4NjMxMjU1
