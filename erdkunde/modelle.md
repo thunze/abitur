@@ -102,8 +102,9 @@
 ### Modell der angloamerikanischen Stadt
 ![10](https://i.imgur.com/RTVv33P.jpg)
 
-- meistens strukturiert und **geplant**, keine wirkliche "Geschichte"
-- 
+- meistens strukturiert und **geplant**, keine wirkliche "Geschichte" (keine Altstadt, kein zentraler Markt etc.)
+- Einteilung der Fläche in Parzellen
+- CBD 
 
 **> Atlas S. 222**
 
@@ -122,7 +123,7 @@
 
 **> Atlas S. 180**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNTYzODcwMCwtMjAzOTY2OTAwNiwtMT
+eyJoaXN0b3J5IjpbMTE5MDIzNjE0NCwtMjAzOTY2OTAwNiwtMT
 AwMDYxMDM3NiwtMTcyMzg4NTUxNSwxNjAyNDQyNjg0LDE0OTc5
 Nzc1OTEsLTYwMDEwNTA4MywxNTYxMDIwNCwtNjQwNzM4NTY4LC
 0yMDE4MjUzOTMwLC0yOTM0Nzk3MjQsMTE2NTQyMTA1Nyw4NjUz
