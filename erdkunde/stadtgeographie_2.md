@@ -34,7 +34,8 @@
 ### Prozess in Megacitys
 - Menschen vom Land suchen Perspektive in einer großen Stadt und sucht dort nach **innerstädtischen** *Slums* / heruntergekommenen Gebäuden in der Innenstadt, aber nur ein Bruchteil findet tatsächlich eine Unterkunft
 - deshalb bauen die anderen **außerhalb** der Stadt **illegal** und in Eigenregie Siedlungen (unter schlechten Lebensbedingungen)
-- durch Entwicklungspro
+- durch *Entwicklungsprojekte* etc. werden die Menschen dort vertrieben und deren Siedlungen zerstört; es wird **keine Alternative** geboten
+- **Folgen:** *Zersiedelung* / unstrukturiertes Wachstum, schlechte *Infrastruktur*, 
 
 ## Merkmale der fragmentierten Stadt
 
@@ -93,8 +94,8 @@
 - **Industriegebiet** entwickelt sich um den Hafen herum weiter
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODI2NDI2NTcsLTMwOTYyNzQ1MSwtMz
-AwNzU4NDE1LDE2NTI3MjA2ODAsMjQ0MjQ4NTAsNTE2NTgyMTUy
-LC0yMDIxNjIzNTczLDY0MjM5NjQ4OCwxNTg2MzEyNTU0LC0xOT
-QxMDYyMTM3LC04MjIwMTk1OTAsLTY4MjgwNjI0N119
+eyJoaXN0b3J5IjpbMTY2OTk4MDg3MCwtMzA5NjI3NDUxLC0zMD
+A3NTg0MTUsMTY1MjcyMDY4MCwyNDQyNDg1MCw1MTY1ODIxNTIs
+LTIwMjE2MjM1NzMsNjQyMzk2NDg4LDE1ODYzMTI1NTQsLTE5ND
+EwNjIxMzcsLTgyMjAxOTU5MCwtNjgyODA2MjQ3XX0=
 -->
