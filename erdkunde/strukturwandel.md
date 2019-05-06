@@ -12,9 +12,9 @@
 
 ### Standorttheorie (Weber)
 - eher auf altindustrielle Räume anwendbar
-- Theorie zur Bestimmung eines *Produktionsortes* durch ermitteln
+- Theorie zur Bestimmung des bestmöglichen *Produktionsortes* durch Ermittlung des ***Transportkostenminimalpunkts***
 - Unterscheidung zwischen ***Reingewichtsmaterial***, ***Gewichtsverlustmaterial*** und ***Ubiquität***
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MzU2MTQyNSwtMTY5NDY2OTQ4N119
+eyJoaXN0b3J5IjpbMTk2OTc2Njg5MiwtMTY5NDY2OTQ4N119
 -->
