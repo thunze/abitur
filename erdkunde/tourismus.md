@@ -43,7 +43,7 @@
 - Einheimische haben **Einfluss** auf die lokale Entwicklung des Tourismus
 	**> faire Löhne**
 - **Sensibilisierung** der Touristen
-- *Akkulturation:* Übernehmen von Angewohnheiten der Einheimischen)
+	- ggf. sogar *Akkulturation* (Übernehmen von Angewohnheiten der Einheimischen)
 
 ## Beurteilung von Tourismus in Entwicklungsländern
 
@@ -67,7 +67,7 @@
 - vor allem **ökologische** Langzeitfolgen möglich
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyOTY3OTc1OCwxODYyNTE4NTQ1LC0xNj
+eyJoaXN0b3J5IjpbMTA1MTIxMDQyNiwxODYyNTE4NTQ1LC0xNj
 gzMTY5MDM3LC03ODg1OTI0MTgsLTE1OTYyMjI3NjcsMjE4ODU2
 Nzg3LDE5NTM5OTAxMjQsLTE4MDE4MjY2NSwtNDc4NTE2Mjc2LC
 0xMjAwODYwMzQ5XX0=
