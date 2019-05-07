@@ -68,7 +68,7 @@
 
 | | Vorteile | Nachteile |
 | --- | --- | --- |
-| ***Oberflächenbewässerung*** | | |
+| ***Oberflächenbewässerung*** | <li>wenig Aufwand</li><li>kostengünstig</li><li>gleichmäßige Bewässerung</li> | |
 | ***Beregnungsbewässerung*** | | |
 | ***Tröpfchenbewässerung*** | | |
 
@@ -108,9 +108,9 @@
 - *Land Grabbing*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MTkyNzQxNiwxNzMyMDM2MTIxLC05Nz
-I2MDQ1NzQsLTE4OTA0MDI0NzksLTEwMDQxMDY2NTQsLTExNjkw
-NDU2NzgsLTcwNDM0NjIwMiwxOTQ1MzgyMTEwLDc1MTU4MzM4Mi
-wtMTg1NDQyODk2NSwxMDg5MDc3NDE3LDE3ODIyNDA1NTddfQ==
+eyJoaXN0b3J5IjpbLTEyMjU2NDg3NzUsMTczMjAzNjEyMSwtOT
+cyNjA0NTc0LC0xODkwNDAyNDc5LC0xMDA0MTA2NjU0LC0xMTY5
+MDQ1Njc4LC03MDQzNDYyMDIsMTk0NTM4MjExMCw3NTE1ODMzOD
+IsLTE4NTQ0Mjg5NjUsMTA4OTA3NzQxNywxNzgyMjQwNTU3XX0=
 
 -->
