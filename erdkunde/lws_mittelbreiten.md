@@ -75,6 +75,8 @@
 ### Probleme
 - Versalzung
 - Versandung / ***Desertifikation***
+- *Infrastruktur* muss häufig geschaffen werden
+- B
 
 ## Alternativen zum Agrobusiness *(Aufgabe 2 & 3)*
 
@@ -110,8 +112,9 @@
 - *Land Grabbing*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcwNzcxOTcwLDE3MzIwMzYxMjEsLTk3Mj
-YwNDU3NCwtMTg5MDQwMjQ3OSwtMTAwNDEwNjY1NCwtMTE2OTA0
-NTY3OCwtNzA0MzQ2MjAyLDE5NDUzODIxMTAsNzUxNTgzMzgyLC
-0xODU0NDI4OTY1LDEwODkwNzc0MTcsMTc4MjI0MDU1N119
+eyJoaXN0b3J5IjpbLTE4Mzg2Nzg1NDYsMTczMjAzNjEyMSwtOT
+cyNjA0NTc0LC0xODkwNDAyNDc5LC0xMDA0MTA2NjU0LC0xMTY5
+MDQ1Njc4LC03MDQzNDYyMDIsMTk0NTM4MjExMCw3NTE1ODMzOD
+IsLTE4NTQ0Mjg5NjUsMTA4OTA3NzQxNywxNzgyMjQwNTU3XX0=
+
 -->
