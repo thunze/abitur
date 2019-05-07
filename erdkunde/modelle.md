@@ -140,7 +140,11 @@
 	- hohe *FuE-* und Werbekosten, kaum Gewinn **> Verlust**
 	- ***humankapitalintensiv***
 - **Wachstums- & Reifephase:**
-	- Verkauf als **Massenware**, Produktion wird immer günstiger aufgrund vb
+	- Verkauf als **Massenware**, Produktion wird immer günstiger aufgrund von *Prozessinnovation* und *Rationalisierung*
+	- breite Gewinnzone
+	- ***kapitalintensiv***
+- **Schrumpfungsphase:**
+	- sinkende Erlöse durch zunehmende Konkurrenz
 
 ### Theorie der langen Wellen (Kondratjew)
 
@@ -151,11 +155,11 @@
 ### Sektoraler Strukturwandel (Fourastié)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MTMwOTEyNywxMzE5NDYxNDcsMTA5Mj
-U4ODMyNiwtMTUyNjM3NjEzMSwyMDAyNTMzMzI5LC00NTU5MDYy
-NTQsLTIwMzk2NjkwMDYsLTEwMDA2MTAzNzYsLTE3MjM4ODU1MT
-UsMTYwMjQ0MjY4NCwxNDk3OTc3NTkxLC02MDAxMDUwODMsMTU2
-MTAyMDQsLTY0MDczODU2OCwtMjAxODI1MzkzMCwtMjkzNDc5Nz
-I0LDExNjU0MjEwNTcsODY1MzY0MTI1LDE3NzM2MzI0MDksMTQ5
-MTMyNjk2Ml19
+eyJoaXN0b3J5IjpbLTE1NTA3MzU4MjEsMTMxOTQ2MTQ3LDEwOT
+I1ODgzMjYsLTE1MjYzNzYxMzEsMjAwMjUzMzMyOSwtNDU1OTA2
+MjU0LC0yMDM5NjY5MDA2LC0xMDAwNjEwMzc2LC0xNzIzODg1NT
+E1LDE2MDI0NDI2ODQsMTQ5Nzk3NzU5MSwtNjAwMTA1MDgzLDE1
+NjEwMjA0LC02NDA3Mzg1NjgsLTIwMTgyNTM5MzAsLTI5MzQ3OT
+cyNCwxMTY1NDIxMDU3LDg2NTM2NDEyNSwxNzczNjMyNDA5LDE0
+OTEzMjY5NjJdfQ==
 -->
