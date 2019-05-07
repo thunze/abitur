@@ -98,12 +98,13 @@
 	- steigende Nachfrage nach Gesundheits- und Pflegedienstleistungen *(2. demographischer Wandel)*
 - für **unternehmensorientierte Dienstleistungen**:
 	- neue **Produktionskonzepte** und Organisationsformen der Industrie (z. B. *Postfordismus*, *Lean Production* etc.)
-	- m
+	- Einsatz moderner Logistikkonzepte (z. B. ***Just-In-Time-Zulieferung***)
+- **sozial:** Aufspaltung in Niedrig
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyODAxMzAsOTYzMDE4OTc5LDUxNDY1MT
-gxLC0xOTI3NTgxMjE5LC0xNzQzNjU2MDAwLDEyMzYxMDQzMTAs
-LTE0ODA0Njk5MzAsMjcwNzU4NjcyLDYyNTgzNDE0MywtMjE0Nj
-E3MjQ5MCwtMzUxMzM5NTU1LC0xMTY5NDIyNzE2LC0xNjkzMTUw
-NTk0LC0xODYzMzE1MTUsMTU5OTUwMDAxLC0xNjk0NjY5NDg3XX
-0=
+eyJoaXN0b3J5IjpbLTI2Mjc4NTIyMSw5NjMwMTg5NzksNTE0Nj
+UxODEsLTE5Mjc1ODEyMTksLTE3NDM2NTYwMDAsMTIzNjEwNDMx
+MCwtMTQ4MDQ2OTkzMCwyNzA3NTg2NzIsNjI1ODM0MTQzLC0yMT
+Q2MTcyNDkwLC0zNTEzMzk1NTUsLTExNjk0MjI3MTYsLTE2OTMx
+NTA1OTQsLTE4NjMzMTUxNSwxNTk5NTAwMDEsLTE2OTQ2Njk0OD
+ddfQ==
 -->
