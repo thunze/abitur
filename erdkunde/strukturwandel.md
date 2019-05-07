@@ -99,12 +99,13 @@
 - für **unternehmensorientierte Dienstleistungen**:
 	- neue **Produktionskonzepte** und Organisationsformen der Industrie (z. B. *Postfordismus*, *Lean Production* etc.)
 	- Einsatz moderner Logistikkonzepte (z. B. ***Just-In-Time-Zulieferung***)
-- **sozial:** Aufspaltung in Niedrig
+- **sozial:** Aufspaltung in **Niedrig-** und **Hochlohnbereich** **> *Disparitäten* etc.**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2Mjc4NTIyMSw5NjMwMTg5NzksNTE0Nj
-UxODEsLTE5Mjc1ODEyMTksLTE3NDM2NTYwMDAsMTIzNjEwNDMx
-MCwtMTQ4MDQ2OTkzMCwyNzA3NTg2NzIsNjI1ODM0MTQzLC0yMT
-Q2MTcyNDkwLC0zNTEzMzk1NTUsLTExNjk0MjI3MTYsLTE2OTMx
-NTA1OTQsLTE4NjMzMTUxNSwxNTk5NTAwMDEsLTE2OTQ2Njk0OD
-ddfQ==
+eyJoaXN0b3J5IjpbLTEyMjkxNzMyODMsOTYzMDE4OTc5LDUxND
+Y1MTgxLC0xOTI3NTgxMjE5LC0xNzQzNjU2MDAwLDEyMzYxMDQz
+MTAsLTE0ODA0Njk5MzAsMjcwNzU4NjcyLDYyNTgzNDE0MywtMj
+E0NjE3MjQ5MCwtMzUxMzM5NTU1LC0xMTY5NDIyNzE2LC0xNjkz
+MTUwNTk0LC0xODYzMzE1MTUsMTU5OTUwMDAxLC0xNjk0NjY5ND
+g3XX0=
 -->
