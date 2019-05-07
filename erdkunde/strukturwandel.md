@@ -2,7 +2,7 @@
 
 ## Beispielhafter Verlauf eines Strukturwandels
 
-**> siehe *Explainity* Ruhrgebiet**
+**> siehe Explainity Ruhrgebiet**
 
 ## Standortfaktoren
 
@@ -82,7 +82,7 @@
 - Digitalisierung, KI, Rationalisierung (Steigerung der Effizienz durch Automatiserung etc.), Spezialisierung, Globalisierungsanforderung (Skalierbarkeit, Vergrößerung), Innovation, Belastung von Umwelt und Gesundheit etc.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ5NDU0OTAzLC0xNzQzNjU2MDAwLDEyMz
+eyJoaXN0b3J5IjpbNjE0ODQ5MDAxLC0xNzQzNjU2MDAwLDEyMz
 YxMDQzMTAsLTE0ODA0Njk5MzAsMjcwNzU4NjcyLDYyNTgzNDE0
 MywtMjE0NjE3MjQ5MCwtMzUxMzM5NTU1LC0xMTY5NDIyNzE2LC
 0xNjkzMTUwNTk0LC0xODYzMzE1MTUsMTU5OTUwMDAxLC0xNjk0
