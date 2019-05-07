@@ -134,7 +134,7 @@
 
 ## Strukturwandel
 
-### Produktlebenszyklusmodell
+### Produktlebenszyklusmodell (Vernon)
 
 ### Theorie der langen Wellen (Kondratjew)
 
@@ -143,8 +143,9 @@
 ### Transportketten im Modell
 
 ### Sektoraler Strukturwandel (Fourastié)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYwNTg5MDI0LDEwOTI1ODgzMjYsLTE1Mj
+eyJoaXN0b3J5IjpbMTMxOTQ2MTQ3LDEwOTI1ODgzMjYsLTE1Mj
 YzNzYxMzEsMjAwMjUzMzMyOSwtNDU1OTA2MjU0LC0yMDM5NjY5
 MDA2LC0xMDAwNjEwMzc2LC0xNzIzODg1NTE1LDE2MDI0NDI2OD
 QsMTQ5Nzk3NzU5MSwtNjAwMTA1MDgzLDE1NjEwMjA0LC02NDA3
