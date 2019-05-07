@@ -76,10 +76,11 @@
 	- Stückgüter werden auf unterschiedliche (direkt, *Nebenhafen*, *Inlandterminal*) zum *Haupthafen* geliefert, exportiert und ähnlich verteilt
 	- Massengüter werden ähnlich, aber **zusätzlich** über *Massengutterminals* und eine Güterzugverbindung umgeschlagen
 	- reicht weiter in die *Peripherie*, ist komplexer
-- **Supply-Chain-M**
+- ***Supply-Chain-Management:*** Verwaltung der ganzen Transportkette mit anderen Dienstleistern und Unternehmen
+- Digitalisierung, Automatisierung, KI, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE0MzQ4ODc2LDEyMzYxMDQzMTAsLTE0OD
-A0Njk5MzAsMjcwNzU4NjcyLDYyNTgzNDE0MywtMjE0NjE3MjQ5
-MCwtMzUxMzM5NTU1LC0xMTY5NDIyNzE2LC0xNjkzMTUwNTk0LC
-0xODYzMzE1MTUsMTU5OTUwMDAxLC0xNjk0NjY5NDg3XX0=
+eyJoaXN0b3J5IjpbLTUxMzI1NDUwNSwxMjM2MTA0MzEwLC0xND
+gwNDY5OTMwLDI3MDc1ODY3Miw2MjU4MzQxNDMsLTIxNDYxNzI0
+OTAsLTM1MTMzOTU1NSwtMTE2OTQyMjcxNiwtMTY5MzE1MDU5NC
+wtMTg2MzMxNTE1LDE1OTk1MDAwMSwtMTY5NDY2OTQ4N119
 -->
