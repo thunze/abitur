@@ -38,8 +38,9 @@
 
 | &nbsp; | Fordistisches Modell | Postfordistisches Modell |
 | --- | --- | --- |
-Produktionsorganisation | | |
-|--- |--- |--- |--|
+| Produktionsorganisation | <li>Fließband, Einzweckmaschinen</li><li>viele Produktionsschritte innerhalb der Firma ausgeführt</li> | |
+| Arbeitsorganisation | | |
+| Produkte | | |
 
 ## Cluster
 
@@ -54,7 +55,7 @@ Produktionsorganisation | | |
 - **Industriegebiet** entwickelt sich um den Hafen herum weiter
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MzE4MzYyLDYyNTgzNDE0MywtMjE0Nj
+eyJoaXN0b3J5IjpbNDk2MDExOTgyLDYyNTgzNDE0MywtMjE0Nj
 E3MjQ5MCwtMzUxMzM5NTU1LC0xMTY5NDIyNzE2LC0xNjkzMTUw
 NTk0LC0xODYzMzE1MTUsMTU5OTUwMDAxLC0xNjk0NjY5NDg3XX
 0=
