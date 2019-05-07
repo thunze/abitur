@@ -38,7 +38,7 @@
 
 | &nbsp; | Fordistisches Modell | Postfordistisches Modell |
 | --- | --- | --- |
-| Produktionsorganisation | <li>Fließband</li><li>**Einzweck**maschinen</li><li>hohe *Fertigungstiefe* (viele Produktionsschritte innerhalb der Firma ausgeführt)</li><li>viele direkte Zulieferer</li> | <li>Fließband, aber flexible Arbeitsgruppen</li><li>flexible **Mehrzweck**maschinen</li><li>geringe *Fertigungstiefe*</li><li>wenige Zulieferer, ***Just-In-Time-Anlieferung***</li> |
+| Produktionsorganisation | <li>Fließband</li><li>**Einzweck**maschinen</li><li>hohe *Fertigungstiefe* (viele Produktionsschritte innerhalb der Firma ausgeführt)</li><li>viele direkte Zulieferer</li> | <li>Fließband, aber flexible Arbeitsgruppen</li><li>flexible **Mehrzweck**maschinen</li><li>geringe *Fertigungstiefe*</li><li>wenige Zulieferer, ***Just-In-Time-Zulieferung***</li> |
 | Arbeitsorganisation | <li>große Lagerhaltung</li><li>Arbeitskräfte eng qualifiziert und **ungelernt**</li><li>einfache Arbeiten in **vorgegebener** Folge</li> | <li>geringe Lagerhaltung</li><li>Arbeitskräfte höher qualifiziert, ggf. Gruppenarbeit</li><li>***Flexibilisierung***</li> |
 | Produkte | <li>***Massenproduktion***</li><li>geringe *Produktdifferenzierung*</li><li>Größenvorteile *(economies of scale)*</li> | <li>Produktion **kleiner Serien**</li><li>starke *Produktdifferenzierung*</li><li>Verbundvorteile *(economies of scope)*</li> |
 
@@ -47,7 +47,9 @@
 - *economies of scope:* Verbundgrößenvorteile bei Mehrproduktunternehmen (*Forschung & Entwicklung*, Finanzierung, Unternehmensleitung)
 	- **mögliche Folge:** Unternehmenskonzentration **> eher *Cluster im ursprünglichen Sinn* (Porter)**
 - **weitere Merkmale des Postfordismus:**
-	- Verringerung der *Fertigungstiefe* durch ***Outsourcing***
+	- Verringerung der *Fertigungstiefe* durch ***Outsourcing*** an Zulieferer und Dienstleister
+	- ***Just-In-Time-Zulieferung:*** zeitgenaue Lieferung der Teile an die richtige Stelle im Produktionsprozess (keine Lagerung nötig, Risiken entfallen)
+	- ***Lean Productio***
 
 ## Cluster
 
@@ -62,7 +64,7 @@
 - **Industriegebiet** entwickelt sich um den Hafen herum weiter
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgyMzU1MTAxLC0xNDgwNDY5OTMwLDI3MD
+eyJoaXN0b3J5IjpbNjE4Mzc3MzgyLC0xNDgwNDY5OTMwLDI3MD
 c1ODY3Miw2MjU4MzQxNDMsLTIxNDYxNzI0OTAsLTM1MTMzOTU1
 NSwtMTE2OTQyMjcxNiwtMTY5MzE1MDU5NCwtMTg2MzMxNTE1LD
 E1OTk1MDAwMSwtMTY5NDY2OTQ4N119
