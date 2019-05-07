@@ -154,7 +154,7 @@
 
 - Wirtschaftsentwicklung in Zyklen mit **Aufschwung**, **Abschwung/Rezession**, **Depression** und anschließender **Erholung**
 - am Anfang eines Aufschwungs **Basisinnovation**, in die **stark investiert** wird
-- nach der Durchsetzung **Sättigung** des Marktes, Innovationen und  werden weniger und es kommt zum **Abschwung**, bis die **nächsten** Innovationen eine neue Welle anstoßen
+- nach der Durchsetzung **Sättigung** des Marktes, Innovationen und Investitionen in *FuE* werden weniger und es kommt zum **Abschwung**, bis die **nächsten** Innovationen eine neue Welle anstoßen
 - **Höhe** der Wellen **nimmt zu** und der **Abstand** zwischen ihnen **wird kleiner**, da die wachsende wirtschaftliche Gesamtleistung zunimmt (u. a. durch ***Globalisierung***)
 - in den jeweiligen Zyklen ergeben sich *Agglomerationen* (z. T. ***Cluster***) mit starken *Persistenzeffekten* und räumlichen Konzentrationen. **> *Monostruktur*, ggf. *Disparitäten***
 
@@ -165,7 +165,7 @@
 ![16](https://i.imgur.com/CzQJOCU.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI2OTEwNDI3LDE0Nzc1NDE3OTgsLTEwNz
+eyJoaXN0b3J5IjpbMzEzNDE5MjQxLDE0Nzc1NDE3OTgsLTEwNz
 A4Njk3NDUsMjEyOTQzOTg1MCw2ODcyNDI5NjgsLTkwNzU5MjYw
 LDEzMTk0NjE0NywxMDkyNTg4MzI2LC0xNTI2Mzc2MTMxLDIwMD
 I1MzMzMjksLTQ1NTkwNjI1NCwtMjAzOTY2OTAwNiwtMTAwMDYx
