@@ -34,6 +34,10 @@
 
 **> *Footloose Industry* kaum an bestimme Standortfaktoren gebunden**
 
+## Fordismus und Postfordismus
+
+
+
 ## Cluster
 
 - komplexe, lokale **Branchennetzwerke**
@@ -47,8 +51,8 @@
 - **Industriegebiet** entwickelt sich um den Hafen herum weiter
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNTc1NTg0MSw2MjU4MzQxNDMsLTIxND
-YxNzI0OTAsLTM1MTMzOTU1NSwtMTE2OTQyMjcxNiwtMTY5MzE1
-MDU5NCwtMTg2MzMxNTE1LDE1OTk1MDAwMSwtMTY5NDY2OTQ4N1
-19
+eyJoaXN0b3J5IjpbLTExNjUyNjE1NjgsNjI1ODM0MTQzLC0yMT
+Q2MTcyNDkwLC0zNTEzMzk1NTUsLTExNjk0MjI3MTYsLTE2OTMx
+NTA1OTQsLTE4NjMzMTUxNSwxNTk5NTAwMDEsLTE2OTQ2Njk0OD
+ddfQ==
 -->
