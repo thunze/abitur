@@ -69,10 +69,10 @@
 - **Industriegebiet** entwickelt sich um den Hafen herum weiter
 
 ### Merkmale moderner / zukünftiger Logistik
-
+- **Containernutzung:** flexibel einsetzbar, kühlfähig, platzsparend, stapelbar, gut sortierbar etc.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNjEwNDMxMCwtMTQ4MDQ2OTkzMCwyNz
-A3NTg2NzIsNjI1ODM0MTQzLC0yMTQ2MTcyNDkwLC0zNTEzMzk1
-NTUsLTExNjk0MjI3MTYsLTE2OTMxNTA1OTQsLTE4NjMzMTUxNS
-wxNTk5NTAwMDEsLTE2OTQ2Njk0ODddfQ==
+eyJoaXN0b3J5IjpbLTU0MzQyNTAzMywxMjM2MTA0MzEwLC0xND
+gwNDY5OTMwLDI3MDc1ODY3Miw2MjU4MzQxNDMsLTIxNDYxNzI0
+OTAsLTM1MTMzOTU1NSwtMTE2OTQyMjcxNiwtMTY5MzE1MDU5NC
+wtMTg2MzMxNTE1LDE1OTk1MDAwMSwtMTY5NDY2OTQ4N119
 -->
