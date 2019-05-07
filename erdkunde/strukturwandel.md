@@ -36,6 +36,8 @@
 
 ## Cluster
 
+- komplexe, lokale **Branchennetzwerke**
+
 ## Strukturwandel in Hafengebieten / Containerisierung
 
  - **größere Schiffe:** größerer Tiefgang, höheres Ladevolumen
@@ -45,7 +47,8 @@
 - **Industriegebiet** entwickelt sich um den Hafen herum weiter
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI1ODM0MTQzLC0yMTQ2MTcyNDkwLC0zNT
-EzMzk1NTUsLTExNjk0MjI3MTYsLTE2OTMxNTA1OTQsLTE4NjMz
-MTUxNSwxNTk5NTAwMDEsLTE2OTQ2Njk0ODddfQ==
+eyJoaXN0b3J5IjpbLTcwNTc1NTg0MSw2MjU4MzQxNDMsLTIxND
+YxNzI0OTAsLTM1MTMzOTU1NSwtMTE2OTQyMjcxNiwtMTY5MzE1
+MDU5NCwtMTg2MzMxNTE1LDE1OTk1MDAwMSwtMTY5NDY2OTQ4N1
+19
 -->
