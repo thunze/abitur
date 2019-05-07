@@ -49,7 +49,7 @@
 - **weitere Merkmale des Postfordismus:**
 	- Verringerung der *Fertigungstiefe* durch ***Outsourcing*** an Zulieferer und Dienstleister
 	- ***Just-In-Time-Zulieferung:*** zeitgenaue Lieferung der Teile an die richtige Stelle im Produktionsprozess (keine Lagerung nötig, Risiken entfallen)
-	- ***Lean Productio***
+	- ***lean production:*** Verkürzung und *Flexibilisierung* der gesamten Produktionsabläufe
 
 ## Cluster
 
@@ -64,8 +64,8 @@
 - **Industriegebiet** entwickelt sich um den Hafen herum weiter
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE4Mzc3MzgyLC0xNDgwNDY5OTMwLDI3MD
-c1ODY3Miw2MjU4MzQxNDMsLTIxNDYxNzI0OTAsLTM1MTMzOTU1
-NSwtMTE2OTQyMjcxNiwtMTY5MzE1MDU5NCwtMTg2MzMxNTE1LD
-E1OTk1MDAwMSwtMTY5NDY2OTQ4N119
+eyJoaXN0b3J5IjpbMjA0MDk4MTI1NiwtMTQ4MDQ2OTkzMCwyNz
+A3NTg2NzIsNjI1ODM0MTQzLC0yMTQ2MTcyNDkwLC0zNTEzMzk1
+NTUsLTExNjk0MjI3MTYsLTE2OTMxNTA1OTQsLTE4NjMzMTUxNS
+wxNTk5NTAwMDEsLTE2OTQ2Njk0ODddfQ==
 -->
