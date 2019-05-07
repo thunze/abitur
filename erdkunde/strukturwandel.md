@@ -40,9 +40,9 @@
 
 | &nbsp; | Fordistisches Modell | Postfordistisches Modell |
 | --- | --- | --- |
-| Produktionsorganisation | <li>Fließband</li><li>**Einzweck**maschinen</li><li>hohe *Fertigungstiefe* (viele Produktionsschritte innerhalb der Firma ausgeführt)</li><li>viele direkte Zulieferer</li> | <li>Fließband, aber flexible Arbeitsgruppen</li><li>flexible **Mehrzweck**maschinen</li><li>geringe *Fertigungstiefe*</li><li>wenige Zulieferer, ***Just-In-Time-Zulieferung***</li> |
-| Arbeitsorganisation | <li>große Lagerhaltung</li><li>Arbeitskräfte eng qualifiziert und **ungelernt**</li><li>einfache Arbeiten in **vorgegebener** Folge</li> | <li>geringe Lagerhaltung</li><li>Arbeitskräfte höher qualifiziert, ggf. Gruppenarbeit</li><li>***Flexibilisierung***</li> |
-| Produkte | <li>***Massenproduktion***</li><li>geringe *Produktdifferenzierung*</li><li>Größenvorteile *(economies of scale)*</li> | <li>Produktion **kleiner Serien**</li><li>starke *Produktdifferenzierung*</li><li>Verbundvorteile *(economies of scope)*</li> |
+| **Produktionsorganisation** | <li>Fließband</li><li>**Einzweck**maschinen</li><li>hohe *Fertigungstiefe* (viele Produktionsschritte innerhalb der Firma ausgeführt)</li><li>viele direkte Zulieferer</li> | <li>Fließband, aber flexible Arbeitsgruppen</li><li>flexible **Mehrzweck**maschinen</li><li>geringe *Fertigungstiefe*</li><li>wenige Zulieferer, ***Just-In-Time-Zulieferung***</li> |
+| **Arbeitsorganisation** | <li>große Lagerhaltung</li><li>Arbeitskräfte eng qualifiziert und **ungelernt**</li><li>einfache Arbeiten in **vorgegebener** Folge</li> | <li>geringe Lagerhaltung</li><li>Arbeitskräfte höher qualifiziert, ggf. Gruppenarbeit</li><li>***Flexibilisierung***</li> |
+| **Produkte** | <li>***Massenproduktion***</li><li>geringe *Produktdifferenzierung*</li><li>Größenvorteile *(economies of scale)*</li> | <li>Produktion **kleiner Serien**</li><li>starke *Produktdifferenzierung*</li><li>Verbundvorteile *(economies of scope)*</li> |
 
 - *economies of scale:* Größenkostenvorteile durch **gleichbleibende *Fixkosten*** bei steigender Produktion
 	- **Folge:** Unternehmenskonzentration **> eher *Sterncluster***
@@ -84,9 +84,9 @@
 ## Tertiärisierung
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mjc1ODEyMTksLTE3NDM2NTYwMDAsMT
-IzNjEwNDMxMCwtMTQ4MDQ2OTkzMCwyNzA3NTg2NzIsNjI1ODM0
-MTQzLC0yMTQ2MTcyNDkwLC0zNTEzMzk1NTUsLTExNjk0MjI3MT
-YsLTE2OTMxNTA1OTQsLTE4NjMzMTUxNSwxNTk5NTAwMDEsLTE2
-OTQ2Njk0ODddfQ==
+eyJoaXN0b3J5IjpbNTE0NjUxODEsLTE5Mjc1ODEyMTksLTE3ND
+M2NTYwMDAsMTIzNjEwNDMxMCwtMTQ4MDQ2OTkzMCwyNzA3NTg2
+NzIsNjI1ODM0MTQzLC0yMTQ2MTcyNDkwLC0zNTEzMzk1NTUsLT
+ExNjk0MjI3MTYsLTE2OTMxNTA1OTQsLTE4NjMzMTUxNSwxNTk5
+NTAwMDEsLTE2OTQ2Njk0ODddfQ==
 -->
