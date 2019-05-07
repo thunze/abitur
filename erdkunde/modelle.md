@@ -138,6 +138,9 @@
 - prinzipell: *Destinationslebenszyklusmodell* für Produkte
 - **Entwicklungsphase:**
 	- hohe *FuE-* und Werbekosten, kaum Gewinn **> Verlust**
+	- ***humankapitalintensiv***
+- **Wachstums- & Reifephase:**
+	- Verkauf als **Massenware**, Produktion wird immer günstiger aufgrund vb
 
 ### Theorie der langen Wellen (Kondratjew)
 
@@ -148,7 +151,7 @@
 ### Sektoraler Strukturwandel (Fourastié)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2ODE5NDY3MSwxMzE5NDYxNDcsMTA5Mj
+eyJoaXN0b3J5IjpbMjA3MTMwOTEyNywxMzE5NDYxNDcsMTA5Mj
 U4ODMyNiwtMTUyNjM3NjEzMSwyMDAyNTMzMzI5LC00NTU5MDYy
 NTQsLTIwMzk2NjkwMDYsLTEwMDA2MTAzNzYsLTE3MjM4ODU1MT
 UsMTYwMjQ0MjY4NCwxNDk3OTc3NTkxLC02MDAxMDUwODMsMTU2
