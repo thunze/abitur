@@ -156,7 +156,7 @@
 - am Anfang eines Aufschwungs **Basisinnovation**, in die **stark investiert** wird
 - nach der Durchsetzung **Sättigung** des Marktes, Innovationen werden weniger und es kommt zum **Abschwung**, bis die **nächsten** Innovationen eine neue Welle anstoßen
 - **Höhe** der Wellen **nimmt zu** und der **Abstand** zwischen ihnen **wird kleiner**, da die wachsende wirtschaftliche Gesamtleistung zunimmt (u. a. durch ***Globalisierung***)
-- in den jeweiligen Zyklen ergeben sich *Agglomerationen* (z. T. ***Cluster***) mit starken *Persistenzeffekten* und räumlichen Konzentrationen. **> *Monostruktur***
+- in den jeweiligen Zyklen ergeben sich *Agglomerationen* (z. T. ***Cluster***) mit starken *Persistenzeffekten* und räumlichen Konzentrationen. **> *Monostruktur*, ggf. *Disparitäten***
 
 ### Transportketten im Modell
 ![15](https://i.imgur.com/ypMUFit.png)
@@ -165,11 +165,11 @@
 ![16](https://i.imgur.com/CzQJOCU.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzA4Njk3NDUsMjEyOTQzOTg1MCw2OD
-cyNDI5NjgsLTkwNzU5MjYwLDEzMTk0NjE0NywxMDkyNTg4MzI2
-LC0xNTI2Mzc2MTMxLDIwMDI1MzMzMjksLTQ1NTkwNjI1NCwtMj
-AzOTY2OTAwNiwtMTAwMDYxMDM3NiwtMTcyMzg4NTUxNSwxNjAy
-NDQyNjg0LDE0OTc5Nzc1OTEsLTYwMDEwNTA4MywxNTYxMDIwNC
-wtNjQwNzM4NTY4LC0yMDE4MjUzOTMwLC0yOTM0Nzk3MjQsMTE2
-NTQyMTA1N119
+eyJoaXN0b3J5IjpbMTQ3NzU0MTc5OCwtMTA3MDg2OTc0NSwyMT
+I5NDM5ODUwLDY4NzI0Mjk2OCwtOTA3NTkyNjAsMTMxOTQ2MTQ3
+LDEwOTI1ODgzMjYsLTE1MjYzNzYxMzEsMjAwMjUzMzMyOSwtND
+U1OTA2MjU0LC0yMDM5NjY5MDA2LC0xMDAwNjEwMzc2LC0xNzIz
+ODg1NTE1LDE2MDI0NDI2ODQsMTQ5Nzk3NzU5MSwtNjAwMTA1MD
+gzLDE1NjEwMjA0LC02NDA3Mzg1NjgsLTIwMTgyNTM5MzAsLTI5
+MzQ3OTcyNF19
 -->
