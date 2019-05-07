@@ -106,17 +106,17 @@ Vorteile | Nachteile
 - Einwohner nutzen dieses Land ohne wirkliche Genehmigung
 - Staat verpachtet das Land an **Unternehmen**, Bauern wird das Land **weggenommen**
 	- verursacht oft Migration in Städte **> *Verstädterung***
-- Unternehmen nutzen das Land zur *Wasserversorgung* ***(Watergrabbing)*** anderer Staaten oder zur *Landwirtschaft* (vorrangig ***Plantagenwirtschaft***, siehe oben)
+- Unternehmen nutzen das Land zur *Wasserversorgung* ***(Water Grabbing)*** anderer Staaten oder zur *Landwirtschaft* (vorrangig ***Plantagenwirtschaft***, siehe oben)
 - meist werden *Cash-Crops* für den **Export** angebaut, *Food-Crops* wären für die Unterstützung der Einheimischen deutlich sinnvoller
 - verursacht häufig soziale und politische Spannungen
 - jemand sollte auf *Nachhaltigkeit* achten und Arbeitsplätze und Perspektiven für die Bevölkerung schaffen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU4MjEyODY0LDg1NTk3MDI5OSwtMTkxMz
-Y0MjE1NywtNDY1MDc0ODk2LDY2MjAwMTQ3MiwtMTI0NDExMDg0
-NCwxNzU0OTU4Njg0LDEwODQ1NDI0MzksMTEyODE1OTMyOCwxNT
-k1NjQ2MjE3LDQwMDI5MzY0MywtMTA2NDA2NDgwMiwzNzU4OTMy
-NDcsLTE5OTE4OTk3NDcsODc5MjQ5NjY1LC0xNDA1ODc3ODIzLD
-E0NjI2NTkyNjUsLTk1Mzc5NTU1MCwzMTI2NjA1NjUsLTIwNTk0
-OTc1MTldfQ==
+eyJoaXN0b3J5IjpbMTA4ODQyNjkzMiwzNTgyMTI4NjQsODU1OT
+cwMjk5LC0xOTEzNjQyMTU3LC00NjUwNzQ4OTYsNjYyMDAxNDcy
+LC0xMjQ0MTEwODQ0LDE3NTQ5NTg2ODQsMTA4NDU0MjQzOSwxMT
+I4MTU5MzI4LDE1OTU2NDYyMTcsNDAwMjkzNjQzLC0xMDY0MDY0
+ODAyLDM3NTg5MzI0NywtMTk5MTg5OTc0Nyw4NzkyNDk2NjUsLT
+E0MDU4Nzc4MjMsMTQ2MjY1OTI2NSwtOTUzNzk1NTUwLDMxMjY2
+MDU2NV19
 -->
