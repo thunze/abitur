@@ -46,7 +46,8 @@
 	- **Folge:** Unternehmenskonzentration **> eher *Sterncluster***
 - *economies of scope:* Verbundgrößenvorteile bei Mehrproduktunternehmen (*Forschung & Entwicklung*, Finanzierung, Unternehmensleitung)
 	- **mögliche Folge:** Unternehmenskonzentration **> eher *Cluster im ursprünglichen Sinn* (Porter)**
-- weite
+- **weitere Merkmale des Postfordismus:**
+	- Verringerung der *Fertigungstiefe* durch ***Outsourcing***
 
 ## Cluster
 
@@ -61,8 +62,8 @@
 - **Industriegebiet** entwickelt sich um den Hafen herum weiter
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NDUyOTU4NywtMTQ4MDQ2OTkzMCwyNz
-A3NTg2NzIsNjI1ODM0MTQzLC0yMTQ2MTcyNDkwLC0zNTEzMzk1
-NTUsLTExNjk0MjI3MTYsLTE2OTMxNTA1OTQsLTE4NjMzMTUxNS
-wxNTk5NTAwMDEsLTE2OTQ2Njk0ODddfQ==
+eyJoaXN0b3J5IjpbODgyMzU1MTAxLC0xNDgwNDY5OTMwLDI3MD
+c1ODY3Miw2MjU4MzQxNDMsLTIxNDYxNzI0OTAsLTM1MTMzOTU1
+NSwtMTE2OTQyMjcxNiwtMTY5MzE1MDU5NCwtMTg2MzMxNTE1LD
+E1OTk1MDAwMSwtMTY5NDY2OTQ4N119
 -->
