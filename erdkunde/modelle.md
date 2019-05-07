@@ -135,7 +135,7 @@
 ## Strukturwandel
 
 ### Modell der Standortwahl (Porter)
-
+![13](https://i.imgur.com/dCQCTW3.png)
 
 ### Produktlebenszyklusmodell (Vernon)
 - prinzipell: *Destinationslebenszyklusmodell* für Produkte
@@ -150,7 +150,7 @@
 	- sinkende Erlöse durch zunehmende **Konkurrenz** **> Verlust**
 
 ### Theorie der langen Wellen (Kondratjew)
-![13](https://i.imgur.com/s37C7q5.png)
+![14](https://i.imgur.com/s37C7q5.png)
 
 - Wirtschaftsentwicklung in Zyklen mit **Aufschwung**, **Abschwung/Rezession**, **Depression** und anschließender **Erholung**
 - am Anfang eines Aufschwungs **Basisinnovation**, in die **stark investiert** wird
@@ -159,15 +159,17 @@
 - in den jeweiligen Zyklen ergeben sich *Agglomerationen* (z. T. ***Cluster***) mit starken *Persistenzeffekten* und räumlichen Konzentrationen. **> *Monostruktur***
 
 ### Transportketten im Modell
+![15](https://i.imgur.com/ypMUFit.png)
 
 ### Sektoraler Strukturwandel (Fourastié)
+![16](https://i.imgur.com/CzQJOCU.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyOTQzOTg1MCw2ODcyNDI5NjgsLTkwNz
-U5MjYwLDEzMTk0NjE0NywxMDkyNTg4MzI2LC0xNTI2Mzc2MTMx
-LDIwMDI1MzMzMjksLTQ1NTkwNjI1NCwtMjAzOTY2OTAwNiwtMT
-AwMDYxMDM3NiwtMTcyMzg4NTUxNSwxNjAyNDQyNjg0LDE0OTc5
-Nzc1OTEsLTYwMDEwNTA4MywxNTYxMDIwNCwtNjQwNzM4NTY4LC
-0yMDE4MjUzOTMwLC0yOTM0Nzk3MjQsMTE2NTQyMTA1Nyw4NjUz
-NjQxMjVdfQ==
+eyJoaXN0b3J5IjpbLTEwNzA4Njk3NDUsMjEyOTQzOTg1MCw2OD
+cyNDI5NjgsLTkwNzU5MjYwLDEzMTk0NjE0NywxMDkyNTg4MzI2
+LC0xNTI2Mzc2MTMxLDIwMDI1MzMzMjksLTQ1NTkwNjI1NCwtMj
+AzOTY2OTAwNiwtMTAwMDYxMDM3NiwtMTcyMzg4NTUxNSwxNjAy
+NDQyNjg0LDE0OTc5Nzc1OTEsLTYwMDEwNTA4MywxNTYxMDIwNC
+wtNjQwNzM4NTY4LC0yMDE4MjUzOTMwLC0yOTM0Nzk3MjQsMTE2
+NTQyMTA1N119
 -->
