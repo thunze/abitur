@@ -147,6 +147,9 @@
 	- sinkende Erlöse durch zunehmende **Konkurrenz** **> Verlust**
 
 ### Theorie der langen Wellen (Kondratjew)
+![13](https://i.imgur.com/s37C7q5.png)
+
+
 
 ### Modell der Standortwahl (Porter)
 
@@ -155,11 +158,11 @@
 ### Sektoraler Strukturwandel (Fourastié)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNzU5MjYwLDEzMTk0NjE0NywxMDkyNT
-g4MzI2LC0xNTI2Mzc2MTMxLDIwMDI1MzMzMjksLTQ1NTkwNjI1
-NCwtMjAzOTY2OTAwNiwtMTAwMDYxMDM3NiwtMTcyMzg4NTUxNS
-wxNjAyNDQyNjg0LDE0OTc5Nzc1OTEsLTYwMDEwNTA4MywxNTYx
-MDIwNCwtNjQwNzM4NTY4LC0yMDE4MjUzOTMwLC0yOTM0Nzk3Mj
-QsMTE2NTQyMTA1Nyw4NjUzNjQxMjUsMTc3MzYzMjQwOSwxNDkx
-MzI2OTYyXX0=
+eyJoaXN0b3J5IjpbNjg3MjQyOTY4LC05MDc1OTI2MCwxMzE5ND
+YxNDcsMTA5MjU4ODMyNiwtMTUyNjM3NjEzMSwyMDAyNTMzMzI5
+LC00NTU5MDYyNTQsLTIwMzk2NjkwMDYsLTEwMDA2MTAzNzYsLT
+E3MjM4ODU1MTUsMTYwMjQ0MjY4NCwxNDk3OTc3NTkxLC02MDAx
+MDUwODMsMTU2MTAyMDQsLTY0MDczODU2OCwtMjAxODI1MzkzMC
+wtMjkzNDc5NzI0LDExNjU0MjEwNTcsODY1MzY0MTI1LDE3NzM2
+MzI0MDldfQ==
 -->
