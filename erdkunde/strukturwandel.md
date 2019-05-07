@@ -42,8 +42,10 @@
 | Arbeitsorganisation | <li>große Lagerhaltung</li><li>Arbeitskräfte eng qualifiziert und **ungelernt**</li><li>einfache Arbeiten in **vorgegebener** Folge</li> | <li>geringe Lagerhaltung</li><li>Arbeitskräfte höher qualifiziert, ggf. Gruppenarbeit</li><li>***Flexibilisierung***</li> |
 | Produkte | <li>***Massenproduktion***</li><li>geringe *Produktdifferenzierung*</li><li>Größenvorteile *(economies of scale)*</li> | <li>Produktion **kleiner Serien**</li><li>starke *Produktdifferenzierung*</li><li>Verbundvorteile *(economies of scope)*</li> |
 
-- *economies of scale:* Größenkostenvorteile durch **gleichbleibende *Fixkosten***
-- *economies of scope:*
+- *economies of scale:* Größenkostenvorteile durch **gleichbleibende *Fixkosten*** bei steigender Produktion
+	- **Folge:** Unternehmenskonzentration
+- *economies of scope:* Verbundgrößenvorteile bei Mehrproduktunternehmen (*Forschung & Entwicklung*, Finanzierung, Unternehmensleitung)
+	- **mögliche Folge:** Unternehmenskonzentration **> C**
 
 ## Cluster
 
@@ -58,7 +60,7 @@
 - **Industriegebiet** entwickelt sich um den Hafen herum weiter
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODA2Nzg4MDksMjcwNzU4NjcyLDYyNT
+eyJoaXN0b3J5IjpbLTE4ODc3MTM0NjIsMjcwNzU4NjcyLDYyNT
 gzNDE0MywtMjE0NjE3MjQ5MCwtMzUxMzM5NTU1LC0xMTY5NDIy
 NzE2LC0xNjkzMTUwNTk0LC0xODYzMzE1MTUsMTU5OTUwMDAxLC
 0xNjk0NjY5NDg3XX0=
