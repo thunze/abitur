@@ -151,8 +151,8 @@
 
 - Wirtschaftsentwicklung in Zyklen mit **Aufschwung**, **Abschwung/Rezession**, **Depression** und anschließender **Erholung**
 - am Anfang eines Aufschwungs **Basisinnovation**, in die **stark investiert** wird
-- nach der Durchsetzung kommt es zu einer Sättigung des Marktes, die Innovationen werden weniger und es kommt zum Abschwung bis die nächsten Innovationen eine neue Welle anstoßen.
--Die Höhe der Wellen nimmt zu und der Abstand zwischen ihnen wird kleiner, da die wachsende wirtschaftliche Gesamtleistung auch durch die Globalisierung zunimmt.
+- nach der Durchsetzung **Sättigung** des Marktes, Innovationen werden weniger und es kommt zum **Abschwung**, bis die **nächsten** Innovationen eine neue Welle anstoßen
+- Höhe der Wellen nimmt zu und der Abstand zwischen ihnen wird kleiner, da die wachsende wirtschaftliche Gesamtleistung zunimmt (u. a. durch Globalisierung)
 -In den jeweiligen Zyklen ergeben sich Agglomerationen (z.T. Cluster) mit starken Persistenzeffekten und räumlichen Konzentrationen. (->Monostruktur)
 
 ### Modell der Standortwahl (Porter)
@@ -162,7 +162,7 @@
 ### Sektoraler Strukturwandel (Fourastié)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwOTI4NDY4NCw2ODcyNDI5NjgsLTkwNz
+eyJoaXN0b3J5IjpbLTMwMjE5NjQ2Miw2ODcyNDI5NjgsLTkwNz
 U5MjYwLDEzMTk0NjE0NywxMDkyNTg4MzI2LC0xNTI2Mzc2MTMx
 LDIwMDI1MzMzMjksLTQ1NTkwNjI1NCwtMjAzOTY2OTAwNiwtMT
 AwMDYxMDM3NiwtMTcyMzg4NTUxNSwxNjAyNDQyNjg0LDE0OTc5
