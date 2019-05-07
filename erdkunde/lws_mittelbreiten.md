@@ -62,7 +62,13 @@
 
 **> kann dennoch aufgrund von Menge und Preis Menschen ernähren, ist aber keineswegs nachhaltig**
 
-## Bewässerungs
+## Land- und Viehwirtschaft in Trockengebieten *(Aufgabe 2 & 3)*
+
+### Bewässerungsmöglichkeiten
+
+
+
+### Probleme
 
 ## Alternativen zum Agrobusiness *(Aufgabe 2 & 3)*
 
@@ -98,7 +104,7 @@
 - *Land Grabbing*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzOTc4OTkzNCwtOTcyNjA0NTc0LC0xOD
+eyJoaXN0b3J5IjpbMTczMjAzNjEyMSwtOTcyNjA0NTc0LC0xOD
 kwNDAyNDc5LC0xMDA0MTA2NjU0LC0xMTY5MDQ1Njc4LC03MDQz
 NDYyMDIsMTk0NTM4MjExMCw3NTE1ODMzODIsLTE4NTQ0Mjg5Nj
 UsMTA4OTA3NzQxNywxNzgyMjQwNTU3XX0=
