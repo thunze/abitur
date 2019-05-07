@@ -38,7 +38,7 @@
 
 | &nbsp; | Fordistisches Modell | Postfordistisches Modell |
 | --- | --- | --- |
-| Produktionsorganisation | <li>Fließband</li><li>Einzweckmaschinen</li><li>hohe *Fertigungstiefe* (viele Produktionsschritte innerhalb der Firma ausgeführt)</li><li>viele direkte Zulieferer</li> | <li>Fließband, aber flexible Arbeitsgruppen</li><li>flexible Mehrzweckmaschinen</li><li>geringe *Fertigungstiefe*</li> |
+| Produktionsorganisation | <li>Fließband</li><li>**Einzweck**maschinen</li><li>hohe *Fertigungstiefe* (viele Produktionsschritte innerhalb der Firma ausgeführt)</li><li>viele direkte Zulieferer</li> | <li>Fließband, aber flexible Arbeitsgruppen</li><li>flexible **Mehrzweck**maschinen</li><li>geringe *Fertigungstiefe*</li><li>wenige Zulieferer, ***Just-In-Time-Anlieferung***</li> |
 | Arbeitsorganisation | | |
 | Produkte | | |
 
@@ -55,7 +55,7 @@
 - **Industriegebiet** entwickelt sich um den Hafen herum weiter
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ4NTU5NjgwLDYyNTgzNDE0MywtMjE0Nj
+eyJoaXN0b3J5IjpbMjcwNzU4NjcyLDYyNTgzNDE0MywtMjE0Nj
 E3MjQ5MCwtMzUxMzM5NTU1LC0xMTY5NDIyNzE2LC0xNjkzMTUw
 NTk0LC0xODYzMzE1MTUsMTU5OTUwMDAxLC0xNjk0NjY5NDg3XX
 0=
