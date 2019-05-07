@@ -39,8 +39,8 @@
 | &nbsp; | Fordistisches Modell | Postfordistisches Modell |
 | --- | --- | --- |
 | Produktionsorganisation | <li>Fließband</li><li>**Einzweck**maschinen</li><li>hohe *Fertigungstiefe* (viele Produktionsschritte innerhalb der Firma ausgeführt)</li><li>viele direkte Zulieferer</li> | <li>Fließband, aber flexible Arbeitsgruppen</li><li>flexible **Mehrzweck**maschinen</li><li>geringe *Fertigungstiefe*</li><li>wenige Zulieferer, ***Just-In-Time-Anlieferung***</li> |
-| Arbeitsorganisation | <li>große Lagerhaltung</li><li>Arbeitskräfte eng qualifiziert und **ungelernt**</li><li>einfache Arbeiten in **vorgegebener** Folge</li> | <li>geringe Lagerhaltung</li><li>Arbeitskräfte höher qualifiziert, ggf. Gruppenarbei</li> |
-| Produkte | | |
+| Arbeitsorganisation | <li>große Lagerhaltung</li><li>Arbeitskräfte eng qualifiziert und **ungelernt**</li><li>einfache Arbeiten in **vorgegebener** Folge</li> | <li>geringe Lagerhaltung</li><li>Arbeitskräfte höher qualifiziert, ggf. Gruppenarbeit</li><li>***Flexibilisierung***</li> |
+| Produkte | <li>***Massenproduktion***</li><li>geringe *Produktdifferenzierung*</li><li>Größenvorteile *(economies of scale)*</li> | |
 
 ## Cluster
 
@@ -55,7 +55,7 @@
 - **Industriegebiet** entwickelt sich um den Hafen herum weiter
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjMxNjM4MjgsMjcwNzU4NjcyLDYyNT
+eyJoaXN0b3J5IjpbLTE3MDc4MTg4NTUsMjcwNzU4NjcyLDYyNT
 gzNDE0MywtMjE0NjE3MjQ5MCwtMzUxMzM5NTU1LC0xMTY5NDIy
 NzE2LC0xNjkzMTUwNTk0LC0xODYzMzE1MTUsMTU5OTUwMDAxLC
 0xNjk0NjY5NDg3XX0=
