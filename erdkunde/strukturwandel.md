@@ -86,12 +86,16 @@
 ### Ursachen
 - gesteigerte Arbeitsproduktivität **> *Globalisierung*, *Liberalisierung* des Welthandels**
 - neue **Produktionskonzepte** und Organisationsformen der Industrie (z. B. *Postfordismus*)
-- Outsourcin
-- 
+- steigende Bedeutung von *Forschung & Entwicklung*
+- ***Outsourcing***, Management und Leitung nötig
+
+### Folgen
+- verschärfter Wettbewerb durch neue Konkurrenten
+- *Automatisierung*, *Digitalisierung*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQxMDk0MzY5LDUxNDY1MTgxLC0xOTI3NT
-gxMjE5LC0xNzQzNjU2MDAwLDEyMzYxMDQzMTAsLTE0ODA0Njk5
-MzAsMjcwNzU4NjcyLDYyNTgzNDE0MywtMjE0NjE3MjQ5MCwtMz
-UxMzM5NTU1LC0xMTY5NDIyNzE2LC0xNjkzMTUwNTk0LC0xODYz
-MzE1MTUsMTU5OTUwMDAxLC0xNjk0NjY5NDg3XX0=
+eyJoaXN0b3J5IjpbMTg5Njg4MjEyOSw1MTQ2NTE4MSwtMTkyNz
+U4MTIxOSwtMTc0MzY1NjAwMCwxMjM2MTA0MzEwLC0xNDgwNDY5
+OTMwLDI3MDc1ODY3Miw2MjU4MzQxNDMsLTIxNDYxNzI0OTAsLT
+M1MTMzOTU1NSwtMTE2OTQyMjcxNiwtMTY5MzE1MDU5NCwtMTg2
+MzMxNTE1LDE1OTk1MDAwMSwtMTY5NDY2OTQ4N119
 -->
