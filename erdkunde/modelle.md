@@ -141,10 +141,10 @@
 	- ***humankapitalintensiv***
 - **Wachstums- & Reifephase:**
 	- Verkauf als **Massenware**, Produktion wird immer günstiger aufgrund von *Prozessinnovation* und *Rationalisierung*
-	- breite Gewinnzone
+	- hohe Erlöse **> Gewinn**
 	- ***kapitalintensiv***
 - **Schrumpfungsphase:**
-	- sinkende Erlöse durch zunehmende Konkurrenz
+	- sinkende Erlöse durch zunehmende **Konkurrenz** **> Verlust**
 
 ### Theorie der langen Wellen (Kondratjew)
 
@@ -155,11 +155,11 @@
 ### Sektoraler Strukturwandel (Fourastié)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTA3MzU4MjEsMTMxOTQ2MTQ3LDEwOT
-I1ODgzMjYsLTE1MjYzNzYxMzEsMjAwMjUzMzMyOSwtNDU1OTA2
-MjU0LC0yMDM5NjY5MDA2LC0xMDAwNjEwMzc2LC0xNzIzODg1NT
-E1LDE2MDI0NDI2ODQsMTQ5Nzk3NzU5MSwtNjAwMTA1MDgzLDE1
-NjEwMjA0LC02NDA3Mzg1NjgsLTIwMTgyNTM5MzAsLTI5MzQ3OT
-cyNCwxMTY1NDIxMDU3LDg2NTM2NDEyNSwxNzczNjMyNDA5LDE0
-OTEzMjY5NjJdfQ==
+eyJoaXN0b3J5IjpbLTkwNzU5MjYwLDEzMTk0NjE0NywxMDkyNT
+g4MzI2LC0xNTI2Mzc2MTMxLDIwMDI1MzMzMjksLTQ1NTkwNjI1
+NCwtMjAzOTY2OTAwNiwtMTAwMDYxMDM3NiwtMTcyMzg4NTUxNS
+wxNjAyNDQyNjg0LDE0OTc5Nzc1OTEsLTYwMDEwNTA4MywxNTYx
+MDIwNCwtNjQwNzM4NTY4LC0yMDE4MjUzOTMwLC0yOTM0Nzk3Mj
+QsMTE2NTQyMTA1Nyw4NjUzNjQxMjUsMTc3MzYzMjQwOSwxNDkx
+MzI2OTYyXX0=
 -->
