@@ -69,10 +69,12 @@
 | | Vorteile | Nachteile |
 | --- | --- | --- |
 | ***Oberflächenbewässerung*** | <li>wenig Aufwand</li><li>kostengünstig</li><li>gleichmäßige Bewässerung</li> | <li>***arbeitsintensiv***</li><li>ebene Flächen nötig</li><li>Versickerungs- und Verdunstungsverluste</li><li>niedrige Effizienz</li> |
-| ***Beregnungsbewässerung*** | <li>nicht *arbeitsintensiv*</li><li>Abdeckung großer Flächen</li><li>Beimischung von *Agrochemikalien* möglich</li><li>höhere Effizienz</li> | <li>***kapitalintensiv***</li><li>ebene Flächen nötig</li><li>Verdunstung</li><li>Schädlingsbefall</li><li>*Verblasungen* bei Wind möglich</li> |
+| ***Beregnungsbewässerung*** | <li>nicht *arbeitsintensiv*</li><li>Abdeckung großer Flächen</li><li>Beimischung von *Agrochemikalien* möglich</li><li>höhere Effizienz</li> | <li>***kapitalintensiv***</li><li>qualifiziertes Personal nötig</li><li>ebene Flächen nötig</li><li>Verdunstung</li><li>Schädlingsbefall</li><li>*Verblasungen* bei Wind möglich</li> |
 | ***Tröpfchenbewässerung*** | <li>genaue Dosierung</li><li>höchste Effizienz</li><li>Beimischung von Dünger und Pflanzenschutz möglich</li><li>geringer Anspruch an den Boden</li> | <li>***kapitalintensiv***</li><li>qualifiziertes Personal nötig</li><li>Filterung nötig</li><li>Probleme bei der Bodenbearbeitung</li> |
 
 ### Probleme
+- Versalzung
+- Versandung / ***Desertifikation***
 
 ## Alternativen zum Agrobusiness *(Aufgabe 2 & 3)*
 
@@ -108,7 +110,7 @@
 - *Land Grabbing*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNTQ2MzIyLDE3MzIwMzYxMjEsLTk3Mj
+eyJoaXN0b3J5IjpbNTcwNzcxOTcwLDE3MzIwMzYxMjEsLTk3Mj
 YwNDU3NCwtMTg5MDQwMjQ3OSwtMTAwNDEwNjY1NCwtMTE2OTA0
 NTY3OCwtNzA0MzQ2MjAyLDE5NDUzODIxMTAsNzUxNTgzMzgyLC
 0xODU0NDI4OTY1LDEwODkwNzc0MTcsMTc4MjI0MDU1N119
