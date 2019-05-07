@@ -36,7 +36,10 @@
 
 ## Fordismus und Postfordismus
 
-
+| &nbsp; | Fordistisches Modell | Postfordistisches Modell |
+| --- | --- | --- |
+Produktionsorganisation | | |
+|--- |--- |--- |--|
 
 ## Cluster
 
@@ -51,8 +54,8 @@
 - **Industriegebiet** entwickelt sich um den Hafen herum weiter
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjUyNjE1NjgsNjI1ODM0MTQzLC0yMT
-Q2MTcyNDkwLC0zNTEzMzk1NTUsLTExNjk0MjI3MTYsLTE2OTMx
-NTA1OTQsLTE4NjMzMTUxNSwxNTk5NTAwMDEsLTE2OTQ2Njk0OD
-ddfQ==
+eyJoaXN0b3J5IjpbMTU1MzE4MzYyLDYyNTgzNDE0MywtMjE0Nj
+E3MjQ5MCwtMzUxMzM5NTU1LC0xMTY5NDIyNzE2LC0xNjkzMTUw
+NTk0LC0xODYzMzE1MTUsMTU5OTUwMDAxLC0xNjk0NjY5NDg3XX
+0=
 -->
