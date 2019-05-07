@@ -149,9 +149,9 @@
 ### Theorie der langen Wellen (Kondratjew)
 ![13](https://i.imgur.com/s37C7q5.png)
 
--Wirtschaftsentwicklung in Zyklen mit Aufschwung, (Hochphase), Abschwung/Rezession, Depression und anschließender Erholung/Aufschwung
-
--Am Anfang eines Aufschwungs stehen immer Basisinnovationen, in die stark investiert wird. Dadurch kommt es zum Aufschwung. Nach der Durchsetzung kommt es zu einer Sättigung des Marktes, die Innovationen werden weniger und es kommt zum Abschwung bis die nächsten Innovationen eine neue Welle anstoßen.
+- Wirtschaftsentwicklung in Zyklen mit **Aufschwung**, **Abschwung/Rezession**, **Depression** und anschließender **Erholung**
+- am Anfang eines Aufschwungs **Basisinnovation**, in die **stark investiert** wird
+- nach der Durchsetzung kommt es zu einer Sättigung des Marktes, die Innovationen werden weniger und es kommt zum Abschwung bis die nächsten Innovationen eine neue Welle anstoßen.
 -Die Höhe der Wellen nimmt zu und der Abstand zwischen ihnen wird kleiner, da die wachsende wirtschaftliche Gesamtleistung auch durch die Globalisierung zunimmt.
 -In den jeweiligen Zyklen ergeben sich Agglomerationen (z.T. Cluster) mit starken Persistenzeffekten und räumlichen Konzentrationen. (->Monostruktur)
 
@@ -162,11 +162,11 @@
 ### Sektoraler Strukturwandel (Fourastié)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTk1Mzg2NjUsNjg3MjQyOTY4LC05MD
-c1OTI2MCwxMzE5NDYxNDcsMTA5MjU4ODMyNiwtMTUyNjM3NjEz
-MSwyMDAyNTMzMzI5LC00NTU5MDYyNTQsLTIwMzk2NjkwMDYsLT
-EwMDA2MTAzNzYsLTE3MjM4ODU1MTUsMTYwMjQ0MjY4NCwxNDk3
-OTc3NTkxLC02MDAxMDUwODMsMTU2MTAyMDQsLTY0MDczODU2OC
-wtMjAxODI1MzkzMCwtMjkzNDc5NzI0LDExNjU0MjEwNTcsODY1
-MzY0MTI1XX0=
+eyJoaXN0b3J5IjpbMTAwOTI4NDY4NCw2ODcyNDI5NjgsLTkwNz
+U5MjYwLDEzMTk0NjE0NywxMDkyNTg4MzI2LC0xNTI2Mzc2MTMx
+LDIwMDI1MzMzMjksLTQ1NTkwNjI1NCwtMjAzOTY2OTAwNiwtMT
+AwMDYxMDM3NiwtMTcyMzg4NTUxNSwxNjAyNDQyNjg0LDE0OTc5
+Nzc1OTEsLTYwMDEwNTA4MywxNTYxMDIwNCwtNjQwNzM4NTY4LC
+0yMDE4MjUzOTMwLC0yOTM0Nzk3MjQsMTE2NTQyMTA1Nyw4NjUz
+NjQxMjVdfQ==
 -->
