@@ -46,6 +46,7 @@
 	- **Folge:** Unternehmenskonzentration **> eher *Sterncluster***
 - *economies of scope:* Verbundgrößenvorteile bei Mehrproduktunternehmen (*Forschung & Entwicklung*, Finanzierung, Unternehmensleitung)
 	- **mögliche Folge:** Unternehmenskonzentration **> eher *Cluster im ursprünglichen Sinn* (Porter)**
+- weite
 
 ## Cluster
 
@@ -60,8 +61,8 @@
 - **Industriegebiet** entwickelt sich um den Hafen herum weiter
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODA0Njk5MzAsMjcwNzU4NjcyLDYyNT
-gzNDE0MywtMjE0NjE3MjQ5MCwtMzUxMzM5NTU1LC0xMTY5NDIy
-NzE2LC0xNjkzMTUwNTk0LC0xODYzMzE1MTUsMTU5OTUwMDAxLC
-0xNjk0NjY5NDg3XX0=
+eyJoaXN0b3J5IjpbLTI4NDUyOTU4NywtMTQ4MDQ2OTkzMCwyNz
+A3NTg2NzIsNjI1ODM0MTQzLC0yMTQ2MTcyNDkwLC0zNTEzMzk1
+NTUsLTExNjk0MjI3MTYsLTE2OTMxNTA1OTQsLTE4NjMzMTUxNS
+wxNTk5NTAwMDEsLTE2OTQ2Njk0ODddfQ==
 -->
