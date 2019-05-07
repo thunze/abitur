@@ -51,7 +51,7 @@
 - **weitere Merkmale des Postfordismus:**
 	- Verringerung der *Fertigungstiefe* durch ***Outsourcing*** an Zulieferer und Dienstleister
 	- ***Just-In-Time-Zulieferung:*** zeitgenaue Lieferung der Teile an die richtige Stelle im Produktionsprozess (keine Lagerung nötig, Risiken entfallen)
-	- ***lean production:*** Verkürzung und *Flexibilisierung* der gesamten Produktionsabläufe
+	- ***Lean Production:*** Verkürzung und *Flexibilisierung* der gesamten Produktionsabläufe
 
 ## Cluster
 
@@ -97,13 +97,13 @@
 	- wachsende Nachfrage nach Freizeitmöglichkeiten **> *Tourismus***
 	- steigende Nachfrage nach Gesundheits- und Pflegedienstleistungen *(2. demographischer Wandel)*
 - für **unternehmensorientierte Dienstleistungen**:
-	- neue **Produktionskonzepte** und Organisationsformen der Industrie
-		- z. B. *Postfordismus*)
+	- neue **Produktionskonzepte** und Organisationsformen der Industrie (z. B. *Postfordismus*, *Lean Production* etc.)
+	- m
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NTE1NzI1Niw5NjMwMTg5NzksNTE0Nj
-UxODEsLTE5Mjc1ODEyMTksLTE3NDM2NTYwMDAsMTIzNjEwNDMx
-MCwtMTQ4MDQ2OTkzMCwyNzA3NTg2NzIsNjI1ODM0MTQzLC0yMT
-Q2MTcyNDkwLC0zNTEzMzk1NTUsLTExNjk0MjI3MTYsLTE2OTMx
-NTA1OTQsLTE4NjMzMTUxNSwxNTk5NTAwMDEsLTE2OTQ2Njk0OD
-ddfQ==
+eyJoaXN0b3J5IjpbMjAyODAxMzAsOTYzMDE4OTc5LDUxNDY1MT
+gxLC0xOTI3NTgxMjE5LC0xNzQzNjU2MDAwLDEyMzYxMDQzMTAs
+LTE0ODA0Njk5MzAsMjcwNzU4NjcyLDYyNTgzNDE0MywtMjE0Nj
+E3MjQ5MCwtMzUxMzM5NTU1LC0xMTY5NDIyNzE2LC0xNjkzMTUw
+NTk0LC0xODYzMzE1MTUsMTU5OTUwMDAxLC0xNjk0NjY5NDg3XX
+0=
 -->
