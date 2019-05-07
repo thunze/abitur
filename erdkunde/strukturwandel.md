@@ -83,9 +83,13 @@
 
 ## Tertiärisierung
 
-###
+### Ursachen
+- gesteigerte Arbeitsproduktivität **> *Globalisierung*, *Liberalisierung* des Welthandels**
+- neue **Produktionskonzepte** und Organisationsformen der Industrie (z. B. *Postfordismus*)
+- Outsourcin
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ4MjU2ODM4LDUxNDY1MTgxLC0xOTI3NT
+eyJoaXN0b3J5IjpbMjQxMDk0MzY5LDUxNDY1MTgxLC0xOTI3NT
 gxMjE5LC0xNzQzNjU2MDAwLDEyMzYxMDQzMTAsLTE0ODA0Njk5
 MzAsMjcwNzU4NjcyLDYyNTgzNDE0MywtMjE0NjE3MjQ5MCwtMz
 UxMzM5NTU1LC0xMTY5NDIyNzE2LC0xNjkzMTUwNTk0LC0xODYz
