@@ -77,7 +77,10 @@
 - Versandung / ***Desertifikation***
 - *Infrastruktur* muss häufig geschaffen werden
 - Bewässerung nötig
-- Entnahme von fossilem Wasser 
+- Entnahme von fossilem Wasser führt zum Sinken des Grundwasserspiegels
+- politische Konflike aufgrund der Wasserentnahme (auch ***Water Grabbing***)
+- Einfluss des *Klimawandels*
+- teilweise keine sparsamen Bewässerungsmethoden möglich
 
 ## Alternativen zum Agrobusiness *(Aufgabe 2 & 3)*
 
@@ -113,7 +116,7 @@
 - *Land Grabbing*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTU2MjAxNCwxNzMyMDM2MTIxLC05Nz
+eyJoaXN0b3J5IjpbMTU2OTk2ODM1NCwxNzMyMDM2MTIxLC05Nz
 I2MDQ1NzQsLTE4OTA0MDI0NzksLTEwMDQxMDY2NTQsLTExNjkw
 NDU2NzgsLTcwNDM0NjIwMiwxOTQ1MzgyMTEwLDc1MTU4MzM4Mi
 wtMTg1NDQyODk2NSwxMDg5MDc3NDE3LDE3ODIyNDA1NTddfQ==
