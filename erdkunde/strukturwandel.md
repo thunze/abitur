@@ -85,7 +85,6 @@
 
 ### Ursachen
 - gesteigerte Arbeitsproduktivität **> *Globalisierung*, *Liberalisierung* des Welthandels**
-- neue **Produktionskonzepte** und Organisationsformen der Industrie (z. B. *Postfordismus*)
 - steigende Bedeutung von *Forschung & Entwicklung*
 - ***Outsourcing***, Management und Leitung nötig
 
@@ -95,11 +94,16 @@
 	- Aufschwund von *Informations-* und *Kommunikationstechnologien* (5. Welle nach Kondratjew)
 - *Spezialisierung*
 - für **konsumorientierte Dienstleistungen**:
-	- 
+	- wachsende Nachfrage nach Freizeitmöglichkeiten **> *Tourismus***
+	- steigende Nachfrage nach Gesundheits- und Pflegedienstleistungen *(2. demographischer Wandel)*
+- für **unternehmensorientierte Dienstleistungen**:
+	- neue **Produktionskonzepte** und Organisationsformen der Industrie
+		- z. B. *Postfordismus*)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYzMDE4OTc5LDUxNDY1MTgxLC0xOTI3NT
-gxMjE5LC0xNzQzNjU2MDAwLDEyMzYxMDQzMTAsLTE0ODA0Njk5
-MzAsMjcwNzU4NjcyLDYyNTgzNDE0MywtMjE0NjE3MjQ5MCwtMz
-UxMzM5NTU1LC0xMTY5NDIyNzE2LC0xNjkzMTUwNTk0LC0xODYz
-MzE1MTUsMTU5OTUwMDAxLC0xNjk0NjY5NDg3XX0=
+eyJoaXN0b3J5IjpbMTk3NTE1NzI1Niw5NjMwMTg5NzksNTE0Nj
+UxODEsLTE5Mjc1ODEyMTksLTE3NDM2NTYwMDAsMTIzNjEwNDMx
+MCwtMTQ4MDQ2OTkzMCwyNzA3NTg2NzIsNjI1ODM0MTQzLC0yMT
+Q2MTcyNDkwLC0zNTEzMzk1NTUsLTExNjk0MjI3MTYsLTE2OTMx
+NTA1OTQsLTE4NjMzMTUxNSwxNTk5NTAwMDEsLTE2OTQ2Njk0OD
+ddfQ==
 -->
