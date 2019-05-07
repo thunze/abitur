@@ -75,11 +75,11 @@
 - **intermodale Transportkette:**
 	- Stückgüter werden auf unterschiedliche (direkt, *Nebenhafen*, *Inlandterminal*) zum *Haupthafen* geliefert, exportiert und ähnlich verteilt
 	- Massengüter werden ähnlich, aber **zusätzlich** über *Massengutterminals* und eine Güterzugverbindung umgeschlagen
-	- reicht weit
+	- reicht weiter in die *Peripherie*, ist komplexer
+- **Supply-Chain-M**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTgwNzgxNzYsMTIzNjEwNDMxMCwtMT
-Q4MDQ2OTkzMCwyNzA3NTg2NzIsNjI1ODM0MTQzLC0yMTQ2MTcy
-NDkwLC0zNTEzMzk1NTUsLTExNjk0MjI3MTYsLTE2OTMxNTA1OT
-QsLTE4NjMzMTUxNSwxNTk5NTAwMDEsLTE2OTQ2Njk0ODddfQ==
-
+eyJoaXN0b3J5IjpbNDE0MzQ4ODc2LDEyMzYxMDQzMTAsLTE0OD
+A0Njk5MzAsMjcwNzU4NjcyLDYyNTgzNDE0MywtMjE0NjE3MjQ5
+MCwtMzUxMzM5NTU1LC0xMTY5NDIyNzE2LC0xNjkzMTUwNTk0LC
+0xODYzMzE1MTUsMTU5OTUwMDAxLC0xNjk0NjY5NDg3XX0=
 -->
