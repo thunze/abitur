@@ -70,11 +70,16 @@
 
 ### Merkmale moderner / zukünftiger Logistik
 - **Containernutzung:** flexibel einsetzbar, kühlfähig, platzsparend, stapelbar, gut sortierbar etc.
-- **traditionelle Transportkette:** alle Güter werden mit **verschiedenen** Verkehrsmitteln zum *Exporthafen* geliefert und von dort zum *Importhafen* verschifft, wo sie wieder verteilt werden
-- **intermodale Transportkette:** Stückgüter werden auf unterschiedliche *(direkt, Nebenhafen, Inlandterminal)* zum *Haupthafen*
+- **traditionelle Transportkette:**
+	- alle Güter werden mit **verschiedenen** Verkehrsmitteln zum *Exporthafen* geliefert und von dort zum *Importhafen* verschifft, wo sie wieder verteilt werden
+- **intermodale Transportkette:**
+	- Stückgüter werden auf unterschiedliche (direkt, *Nebenhafen*, *Inlandterminal*) zum *Haupthafen* geliefert, exportiert und ähnlich verteilt
+	- Massengüter werden ähnlich, aber **zusätzlich** über *Massengutterminals* und eine Güterzugverbindung umgeschlagen
+	- reicht weit
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMDk5NDAyMSwxMjM2MTA0MzEwLC0xND
-gwNDY5OTMwLDI3MDc1ODY3Miw2MjU4MzQxNDMsLTIxNDYxNzI0
-OTAsLTM1MTMzOTU1NSwtMTE2OTQyMjcxNiwtMTY5MzE1MDU5NC
-wtMTg2MzMxNTE1LDE1OTk1MDAwMSwtMTY5NDY2OTQ4N119
+eyJoaXN0b3J5IjpbLTExMTgwNzgxNzYsMTIzNjEwNDMxMCwtMT
+Q4MDQ2OTkzMCwyNzA3NTg2NzIsNjI1ODM0MTQzLC0yMTQ2MTcy
+NDkwLC0zNTEzMzk1NTUsLTExNjk0MjI3MTYsLTE2OTMxNTA1OT
+QsLTE4NjMzMTUxNSwxNTk5NTAwMDEsLTE2OTQ2Njk0ODddfQ==
+
 -->
