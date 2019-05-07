@@ -77,10 +77,12 @@
 	- Massengüter werden ähnlich, aber **zusätzlich** über *Massengutterminals* und eine Güterzugverbindung umgeschlagen
 	- reicht weiter in die *Peripherie*, ist komplexer
 - ***Supply-Chain-Management:*** Verwaltung der ganzen Transportkette mit anderen Dienstleistern und Unternehmen
-- Digitalisierung, Automatisierung, KI, Globalisierungsanforderung (Skalierbarkeit, Vergrößerung), Innovation, Belastung von Umwelt und Gesundheit, Datenverarbeitung, Rationalisierung, Spezialisierung etc.
+- Digitalisierung, KI, Rationalisierung (Steigerung der Effizienz durch Automatiserung etc.), Spezialisierung, Globalisierungsanforderung (Skalierbarkeit, Vergrößerung), Innovation, Belastung von Umwelt und Gesundheit etc.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ1MDQyNTk4LDEyMzYxMDQzMTAsLTE0OD
-A0Njk5MzAsMjcwNzU4NjcyLDYyNTgzNDE0MywtMjE0NjE3MjQ5
-MCwtMzUxMzM5NTU1LC0xMTY5NDIyNzE2LC0xNjkzMTUwNTk0LC
-0xODYzMzE1MTUsMTU5OTUwMDAxLC0xNjk0NjY5NDg3XX0=
+eyJoaXN0b3J5IjpbLTE3NDM2NTYwMDAsMTIzNjEwNDMxMCwtMT
+Q4MDQ2OTkzMCwyNzA3NTg2NzIsNjI1ODM0MTQzLC0yMTQ2MTcy
+NDkwLC0zNTEzMzk1NTUsLTExNjk0MjI3MTYsLTE2OTMxNTA1OT
+QsLTE4NjMzMTUxNSwxNTk5NTAwMDEsLTE2OTQ2Njk0ODddfQ==
+
 -->
