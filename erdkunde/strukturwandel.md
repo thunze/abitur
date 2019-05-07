@@ -1,6 +1,8 @@
 # Strukturwandel in altindustriellen Räumen
 
-## Verlauf eines Strukturwandels
+## Beispielhafter Verlauf eines Strukturwandels
+
+**> siehe *Explainity* Ruhrgebiet**
 
 ## Standortfaktoren
 
@@ -80,9 +82,9 @@
 - Digitalisierung, KI, Rationalisierung (Steigerung der Effizienz durch Automatiserung etc.), Spezialisierung, Globalisierungsanforderung (Skalierbarkeit, Vergrößerung), Innovation, Belastung von Umwelt und Gesundheit etc.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDM2NTYwMDAsMTIzNjEwNDMxMCwtMT
-Q4MDQ2OTkzMCwyNzA3NTg2NzIsNjI1ODM0MTQzLC0yMTQ2MTcy
-NDkwLC0zNTEzMzk1NTUsLTExNjk0MjI3MTYsLTE2OTMxNTA1OT
-QsLTE4NjMzMTUxNSwxNTk5NTAwMDEsLTE2OTQ2Njk0ODddfQ==
-
+eyJoaXN0b3J5IjpbNTQ5NDU0OTAzLC0xNzQzNjU2MDAwLDEyMz
+YxMDQzMTAsLTE0ODA0Njk5MzAsMjcwNzU4NjcyLDYyNTgzNDE0
+MywtMjE0NjE3MjQ5MCwtMzUxMzM5NTU1LC0xMTY5NDIyNzE2LC
+0xNjkzMTUwNTk0LC0xODYzMzE1MTUsMTU5OTUwMDAxLC0xNjk0
+NjY5NDg3XX0=
 -->
