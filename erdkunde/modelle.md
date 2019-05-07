@@ -139,8 +139,12 @@
 ### Theorie der langen Wellen (Kondratjew)
 
 ### Modell der Standortwahl (Porter)
+
+### Transportketten im Modell
+
+### Sektoraler Strukturwandel ()
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwOTM3NzM4MSwxMDkyNTg4MzI2LC0xNT
+eyJoaXN0b3J5IjpbMTUyNTkxNDcxOCwxMDkyNTg4MzI2LC0xNT
 I2Mzc2MTMxLDIwMDI1MzMzMjksLTQ1NTkwNjI1NCwtMjAzOTY2
 OTAwNiwtMTAwMDYxMDM3NiwtMTcyMzg4NTUxNSwxNjAyNDQyNj
 g0LDE0OTc5Nzc1OTEsLTYwMDEwNTA4MywxNTYxMDIwNCwtNjQw
