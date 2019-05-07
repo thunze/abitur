@@ -92,10 +92,14 @@
 ### Folgen
 - verschärfter Wettbewerb durch neue Konkurrenten
 - *Automatisierung*, *Digitalisierung*
+	- Aufschwund von *Informations-* und *Kommunikationstechnologien* (5. Welle nach Kondratjew)
+- *Spezialisierung*
+- für **konsumorientierte Dienstleistungen**:
+	- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5Njg4MjEyOSw1MTQ2NTE4MSwtMTkyNz
-U4MTIxOSwtMTc0MzY1NjAwMCwxMjM2MTA0MzEwLC0xNDgwNDY5
-OTMwLDI3MDc1ODY3Miw2MjU4MzQxNDMsLTIxNDYxNzI0OTAsLT
-M1MTMzOTU1NSwtMTE2OTQyMjcxNiwtMTY5MzE1MDU5NCwtMTg2
-MzMxNTE1LDE1OTk1MDAwMSwtMTY5NDY2OTQ4N119
+eyJoaXN0b3J5IjpbOTYzMDE4OTc5LDUxNDY1MTgxLC0xOTI3NT
+gxMjE5LC0xNzQzNjU2MDAwLDEyMzYxMDQzMTAsLTE0ODA0Njk5
+MzAsMjcwNzU4NjcyLDYyNTgzNDE0MywtMjE0NjE3MjQ5MCwtMz
+UxMzM5NTU1LC0xMTY5NDIyNzE2LC0xNjkzMTUwNTk0LC0xODYz
+MzE1MTUsMTU5OTUwMDAxLC0xNjk0NjY5NDg3XX0=
 -->
