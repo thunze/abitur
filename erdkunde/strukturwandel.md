@@ -56,7 +56,7 @@
 - komplexe, lokale **Branchennetzwerke**
 
 ### Arten von Clustern
-![01](https://i.imgur.com/i9HZZQ9.png)
+![01](https://i.imgur.com/undefined.png)
 
 ## Strukturwandel in Hafengebieten / Containerisierung
 
@@ -67,8 +67,8 @@
 - **Industriegebiet** entwickelt sich um den Hafen herum weiter
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwODMxMTQ1NCwtMTQ4MDQ2OTkzMCwyNz
-A3NTg2NzIsNjI1ODM0MTQzLC0yMTQ2MTcyNDkwLC0zNTEzMzk1
-NTUsLTExNjk0MjI3MTYsLTE2OTMxNTA1OTQsLTE4NjMzMTUxNS
-wxNTk5NTAwMDEsLTE2OTQ2Njk0ODddfQ==
+eyJoaXN0b3J5IjpbLTEwODgyNTkzMTQsLTE0ODA0Njk5MzAsMj
+cwNzU4NjcyLDYyNTgzNDE0MywtMjE0NjE3MjQ5MCwtMzUxMzM5
+NTU1LC0xMTY5NDIyNzE2LC0xNjkzMTUwNTk0LC0xODYzMzE1MT
+UsMTU5OTUwMDAxLC0xNjk0NjY5NDg3XX0=
 -->
