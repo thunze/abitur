@@ -66,7 +66,8 @@
 
 ### Bewässerungsmöglichkeiten
 
-
+| | Vorteile | Nachteile |
+| Oberflächenbewässerung
 
 ### Probleme
 
@@ -104,8 +105,8 @@
 - *Land Grabbing*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMjAzNjEyMSwtOTcyNjA0NTc0LC0xOD
-kwNDAyNDc5LC0xMDA0MTA2NjU0LC0xMTY5MDQ1Njc4LC03MDQz
-NDYyMDIsMTk0NTM4MjExMCw3NTE1ODMzODIsLTE4NTQ0Mjg5Nj
-UsMTA4OTA3NzQxNywxNzgyMjQwNTU3XX0=
+eyJoaXN0b3J5IjpbNDYwNzg5MDkzLDE3MzIwMzYxMjEsLTk3Mj
+YwNDU3NCwtMTg5MDQwMjQ3OSwtMTAwNDEwNjY1NCwtMTE2OTA0
+NTY3OCwtNzA0MzQ2MjAyLDE5NDUzODIxMTAsNzUxNTgzMzgyLC
+0xODU0NDI4OTY1LDEwODkwNzc0MTcsMTc4MjI0MDU1N119
 -->
