@@ -60,7 +60,9 @@
 - **Verdrängung** kleinbäuerlicher Betriebe
 - *Monokultur* des Futtermittelanbaus verringert ***Biodiversität***
 
- **> kann dennoch aufgrund von Menge und Preis Menschen ernähren, ist aber keineswegs nachhaltig**
+**> kann dennoch aufgrund von Menge und Preis Menschen ernähren, ist aber keineswegs nachhaltig**
+
+## Bewässerungs
 
 ## Alternativen zum Agrobusiness *(Aufgabe 2 & 3)*
 
@@ -96,8 +98,8 @@
 - *Land Grabbing*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MjYwNDU3NCwtMTg5MDQwMjQ3OSwtMT
-AwNDEwNjY1NCwtMTE2OTA0NTY3OCwtNzA0MzQ2MjAyLDE5NDUz
-ODIxMTAsNzUxNTgzMzgyLC0xODU0NDI4OTY1LDEwODkwNzc0MT
-csMTc4MjI0MDU1N119
+eyJoaXN0b3J5IjpbLTYzOTc4OTkzNCwtOTcyNjA0NTc0LC0xOD
+kwNDAyNDc5LC0xMDA0MTA2NjU0LC0xMTY5MDQ1Njc4LC03MDQz
+NDYyMDIsMTk0NTM4MjExMCw3NTE1ODMzODIsLTE4NTQ0Mjg5Nj
+UsMTA4OTA3NzQxNywxNzgyMjQwNTU3XX0=
 -->
