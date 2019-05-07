@@ -1,6 +1,6 @@
-# Strukturwandel in altindustriellen Räumen
+# Strukturwandel
 
-## Beispielhafter Verlauf eines Strukturwandels
+## Beispielhafter Verlauf eines Strukturwandels in altindustriellen Räumen
 
 **> siehe Explainity Ruhrgebiet**
 
@@ -81,10 +81,12 @@
 - ***Supply-Chain-Management:*** Verwaltung der ganzen Transportkette mit anderen Dienstleistern und Unternehmen
 - Digitalisierung, KI, Rationalisierung (Steigerung der Effizienz durch Automatiserung etc.), Spezialisierung, Globalisierungsanforderung (Skalierbarkeit, Vergrößerung), Innovation, Belastung von Umwelt und Gesundheit etc.
 
+## Tertiärisierung
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE0ODQ5MDAxLC0xNzQzNjU2MDAwLDEyMz
-YxMDQzMTAsLTE0ODA0Njk5MzAsMjcwNzU4NjcyLDYyNTgzNDE0
-MywtMjE0NjE3MjQ5MCwtMzUxMzM5NTU1LC0xMTY5NDIyNzE2LC
-0xNjkzMTUwNTk0LC0xODYzMzE1MTUsMTU5OTUwMDAxLC0xNjk0
-NjY5NDg3XX0=
+eyJoaXN0b3J5IjpbLTE5Mjc1ODEyMTksLTE3NDM2NTYwMDAsMT
+IzNjEwNDMxMCwtMTQ4MDQ2OTkzMCwyNzA3NTg2NzIsNjI1ODM0
+MTQzLC0yMTQ2MTcyNDkwLC0zNTEzMzk1NTUsLTExNjk0MjI3MT
+YsLTE2OTMxNTA1OTQsLTE4NjMzMTUxNSwxNTk5NTAwMDEsLTE2
+OTQ2Njk0ODddfQ==
 -->
