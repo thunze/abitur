@@ -66,7 +66,7 @@
 	- Die Destination **etabliert** sich auf dem (inter-)nationalen Tourismusmarkt; die Zuwachsrate verkleinert sich.
 - **5. Phase – *Stagnation:***
 	- Es gibt **keinen Zuwachs** mehr. Die Region ist bekannt, aber nicht mehr "in".
-- **6. Phase – *Erneuerung / [...] / Verfall:***
+- **6. Phase – *Erneuerung / [...] / Verfall***
 
 ### Modell der raumzeitlichen Entfaltung (Vorlaufer)
 ![07](https://i.imgur.com/1REkSme.jpg)
