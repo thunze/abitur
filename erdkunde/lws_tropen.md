@@ -9,7 +9,7 @@
 - *Mechanisierung:* Umstellung auf *kapitalintensivere* Bewirtschaftung unterstützt durch Maschinen
 - *Agrochemikalien:* Düngemittel; Pestizide, Fungizide etc.
 
-## Bewirtschaftung tropischer Böden *(Aufgabe 1-3)*
+## Bewirtschaftung tropischer Böden *(Aufgabe 1–3)*
 
 Gunstfaktoren | Ungunstfaktoren
 --- | ---
