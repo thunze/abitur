@@ -23,7 +23,7 @@
 - zentraler Platz
 - außerhalb der Stadtmauern: Friedhöfe, Landwirtschaft
 - Funktion je nach Status / örtlichen Gegebenheiten
-	- Fluss: wirtschaftliche Funktion (z.B. Köln)
+	- Fluss: wirtschaftliche Funktion (z. B. Köln)
 
 ### Mittelalter
 - falls an einem Fluss gelegen: ggf. Stapelrecht
