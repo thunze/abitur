@@ -79,7 +79,7 @@
 	- Massengüter werden ähnlich, aber **zusätzlich** über *Massengutterminals* und eine Güterzugverbindung umgeschlagen
 	- reicht weiter in die *Peripherie*, ist komplexer
 - ***Supply-Chain-Management:*** Verwaltung der ganzen Transportkette mit anderen Dienstleistern und Unternehmen
-- Digitalisierung, KI, Rationalisierung (Steigerung der Effizienz durch Automatiserung etc.), Spezialisierung, Globalisierungsanforderung (Skalierbarkeit, Vergrößerung), Innovation, Belastung von Umwelt und Gesundheit etc.
+- Digitalisierung, KI, Rationalisierung (Steigerung der Effizienz durch Automatiserung etc.), Spezialisierung, Globalisierungsanforderungen (Skalierbarkeit, Vergrößerung), Innovation, Belastung von Umwelt und Gesundheit etc.
 
 ## Tertiärisierung
 
@@ -91,11 +91,11 @@
 ### Folgen
 - verschärfter Wettbewerb durch neue Konkurrenten
 - *Automatisierung*, *Digitalisierung*
-	- Aufschwund von *Informations-* und *Kommunikationstechnologien* (5. Welle nach Kondratjew)
+	- Aufschwung von *Informations-* und *Kommunikationstechnologien* (5. Welle nach Kondratjew)
 - *Spezialisierung*
 - für **konsumorientierte Dienstleistungen**:
 	- wachsende Nachfrage nach Freizeitmöglichkeiten **> *Tourismus***
-	- steigende Nachfrage nach Gesundheits- und Pflegedienstleistungen *(2. demographischer Wandel)*
+	- wachsende Nachfrage nach Gesundheits- und Pflegedienstleistungen *(2. demographischer Wandel)*
 - für **unternehmensorientierte Dienstleistungen**:
 	- neue **Produktionskonzepte** und Organisationsformen der Industrie (z. B. *Postfordismus*, *Lean Production* etc.)
 	- Einsatz moderner Logistikkonzepte (z. B. ***Just-In-Time-Zulieferung***)
