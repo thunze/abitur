@@ -64,7 +64,7 @@
 
 ### Demographische Primatstadt
 - demographische **Vormachtstellung** der Stadt im Bezug auf das
-	- **gesamte Land** – *demografische Primacy* (Bevölkerung der größten Stadt / Gesamtbevölkerung des Landes) und / oder auf die
+	- **gesamte Land** – *demographische Primacy* (Bevölkerung der größten Stadt / Gesamtbevölkerung des Landes) und / oder auf die
 	- **zweitgrößte Stadt** – *Index of Primacy / Primacy Index* (Bevölkerung der größten Stadt / Bevölkerung der zweigrößten Stadt **> 2**)
 
 ### Funktionale Primatstadt
