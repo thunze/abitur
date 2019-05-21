@@ -31,9 +31,10 @@
 - ***repetition***
 - ***rhetorical question:*** obvious answer, may be indirectly criticizing sth.
 - ***simile:*** comparison, usually with *"like"*
-- ***symbol:*** one thing is used to repre
+- ***symbol:*** one thing is used to represent sth. else, e. g. the rose is a symbol for love
+- ***use of the first person plural:*** involves the audience and presupposes agreement
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NDQyOTQyOSwtMTMwMzc2NDY5OSwtOD
-YzMDMxNjEzXX0=
+eyJoaXN0b3J5IjpbNTgyMTA1NzI3LC0xMzAzNzY0Njk5LC04Nj
+MwMzE2MTNdfQ==
 -->
