@@ -14,8 +14,9 @@
 - ***Antithesis:*** contrasting statements are balanced against each other to create *emphasis*
 - ***Apostrophe:*** Anrede, z. B. *"Oh, my God."*
 - ***Climax:*** highest point of *suspense*
-- 
+- ***Comparison:***
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDM3NjQ2OTksLTg2MzAzMTYxM119
+eyJoaXN0b3J5IjpbLTI3MTEyOTQ2NCwtMTMwMzc2NDY5OSwtOD
+YzMDMxNjEzXX0=
 -->
