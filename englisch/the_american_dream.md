@@ -2,7 +2,7 @@
 
 ## Vocabulary
 
-- ***Individualism:***
+- ***Individualism:*** 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwOTA4ODQwMl19
+eyJoaXN0b3J5IjpbMTkyMjAzODkxOCwtNzA5MDg4NDAyXX0=
 -->
