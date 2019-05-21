@@ -2,7 +2,7 @@
 
 ## Vocabulary
 
-- ***Individualism:*** 
+- ***Individualism:*** responsibility for one's **own faith**, American scepticism about restrictions made by the gov. / the church etc.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMjAzODkxOCwtNzA5MDg4NDAyXX0=
+eyJoaXN0b3J5IjpbLTEwMzIxNzI5OTUsLTcwOTA4ODQwMl19
 -->
