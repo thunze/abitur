@@ -23,9 +23,11 @@
 - ***irony:*** the use of words that say the opposite of what is really meant
 - ***metaphor***
 - ***onomatopoeia:*** *Lautmalerei*
+- ***paradox:*** contradictory statement with a deeper meaning
+- ***parallelism:*** regarding the arrangement / structure of phrases
 - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMTk4NTMwNSwtMTMwMzc2NDY5OSwtOD
+eyJoaXN0b3J5IjpbMTgzMjQxMDU3MCwtMTMwMzc2NDY5OSwtOD
 YzMDMxNjEzXX0=
 -->
