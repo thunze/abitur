@@ -9,7 +9,9 @@
 - ***Ellis Island:*** former headquarters of the US **immigration authority**
 - ***The Puritans:*** movement to **clean the American churches** from Roman-Catholic papism
 - ***manifest destiny:*** the aim to spread the philosophy of *the American dream* / to **democratize** the world
-	- in fact only **justification** for the American *imperialism* and its territorial expansion
+	- in fact only **justification** for the American *imperialism* and their territorial expansion
+- ***independence day:*** 4th of July
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjk0MzYxOTQsLTcwOTA4ODQwMl19
+eyJoaXN0b3J5IjpbODE4OTcwMDM0LC0yMDI5NDM2MTk0LC03MD
+kwODg0MDJdfQ==
 -->
