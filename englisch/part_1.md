@@ -20,9 +20,12 @@
 - ***enumeration***
 - ***euphemism:*** indirect phrase to refer to sth. bad, e. g. *"to pass away"*
 - ***hyperbole***
+- ***irony:*** the use of words that say the opposite of what is really meant
+- ***metaphor***
+- ***onomatopoeia:*** *Lautmalerei*
 - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjAyODQ3MjgsLTEzMDM3NjQ2OTksLT
-g2MzAzMTYxM119
+eyJoaXN0b3J5IjpbLTQwMTk4NTMwNSwtMTMwMzc2NDY5OSwtOD
+YzMDMxNjEzXX0=
 -->
