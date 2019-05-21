@@ -11,8 +11,9 @@
 - ***Alliteration***
 - ***Allusion:*** Anspielung, z. B. auf eine berühmte Person
 - ***Anaphora***
-- ***Anti***
+- ***Antithesis:*** contrasting statements are balanced against each other to create *emphasis*
+- ***Apostrophe***
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MzAzMTYxM119
+eyJoaXN0b3J5IjpbLTY2MTI2NDk0NiwtODYzMDMxNjEzXX0=
 -->
