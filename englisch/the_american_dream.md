@@ -12,7 +12,8 @@
 	- in fact only **justification** for the American *imperialism* and their territorial expansion
 	- phenomenon of the US in general, it is as old as America is
 - ***independence day:*** July 4, 1776 – *life, liberty and the pursuit of happiness*
-	- independence of the every colony
+	- independence from the UK
+	- every human is equal
 - ***New Canaan:*** writers refer to that land (originally the land west of the river Jordan) as the American colonies to be *New Canaan* because of people fleeing there **because of religious persecution** etc.
 - ***Frontier:*** line of settlement / citizens **moving westwards** – territorial expansion **> myth**
 - ***the stars and stripes / old glory:*** the American flag
@@ -20,7 +21,7 @@
 - ***multiculturalism:*** cultural fragmentation vs. rights for minorities
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzAzMjY1MjAsLTEzODc5NDI3MTEsLT
-E5MjUxNTYxODYsODE4OTcwMDM0LC0yMDI5NDM2MTk0LC03MDkw
-ODg0MDJdfQ==
+eyJoaXN0b3J5IjpbMTgyODc3NTgwNywtMTM4Nzk0MjcxMSwtMT
+kyNTE1NjE4Niw4MTg5NzAwMzQsLTIwMjk0MzYxOTQsLTcwOTA4
+ODQwMl19
 -->
