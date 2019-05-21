@@ -15,8 +15,8 @@
 - ***Frontier:*** line of settlement / citizens **moving westwards** – territorial expansion **> myth**
 - ***the stars and stripes / old glory:*** the American flag
 - ***melting pot:*** metaphor for the US **> *multiculturalism***
-- ***multiculturalism:*** 
+- ***multiculturalism:*** cultural fragmentation vs. rights for minorities
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTQ0MTQwODUsLTE5MjUxNTYxODYsOD
-E4OTcwMDM0LC0yMDI5NDM2MTk0LC03MDkwODg0MDJdfQ==
+eyJoaXN0b3J5IjpbMTkzMTMyMjAyOCwtMTkyNTE1NjE4Niw4MT
+g5NzAwMzQsLTIwMjk0MzYxOTQsLTcwOTA4ODQwMl19
 -->
