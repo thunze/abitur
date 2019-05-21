@@ -8,15 +8,19 @@
 
 ## Stylistic Devices
 
-- ***Alliteration***
-- ***Allusion:*** Anspielung, z. B. auf eine berühmte Person
-- ***Anaphora***
-- ***Antithesis:*** contrasting statements are balanced against each other to create *emphasis*
-- ***Apostrophe:*** Anrede, z. B. *"Oh, my God."*
-- ***Climax:*** highest point of *suspense*
-- ***Comparison:***
+- ***alliteration***
+- ***allusion:*** Anspielung, z. B. auf eine berühmte Person
+- ***anaphora***
+- ***antithesis:*** contrasting statements are balanced against each other to create *emphasis*
+- ***apostrophe:*** Anrede, z. B. *"Oh, my God."*
+- ***climax:*** highest point of *suspense*
+- ***comparison***
+- ***contrast:*** opposition of two extremes, e. g. *"black and white"*
+- ***directly adressing the audience***
+- ***enumeration***
+- *emphasized text*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MTEyOTQ2NCwtMTMwMzc2NDY5OSwtOD
+eyJoaXN0b3J5IjpbMTYyNDU1OTEwMCwtMTMwMzc2NDY5OSwtOD
 YzMDMxNjEzXX0=
 -->
