@@ -8,7 +8,8 @@
 - ***Uncle Sam:*** nickname for the American **gov.**
 - ***Ellis Island:*** former headquarters of the US **immigration authority**
 - ***The Puritans:*** movement to **clean the American churches** from Roman-Catholic papism
-- ***manifest destiny:*** the aim to spread the philosophy of the American dream / to democratize the world
+- ***manifest destiny:*** the aim to spread the philosophy of *the American dream* / to **democratize** the world
+	- in fact only **justification** for the American *imperialism* and its territorial expansion
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MTk5NDkwMywtNzA5MDg4NDAyXX0=
+eyJoaXN0b3J5IjpbLTIwMjk0MzYxOTQsLTcwOTA4ODQwMl19
 -->
