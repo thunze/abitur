@@ -11,8 +11,9 @@
 - ***manifest destiny:*** the aim to spread the philosophy of *the American dream* / to **democratize** the world
 	- in fact only **justification** for the American *imperialism* and their territorial expansion
 - ***independence day:*** July 4, 1776 – *life, liberty and the pursuit of happiness* – independence of the UK
-- ***New Canaan:*** writers refer to that land (originally the land west of the river Jordan) 
+- ***New Canaan:*** writers refer to that land (originally the land west of the river Jordan) as the American colonies to be *New Canaan* because of people fleeing there **because of religious persecution** etc.
+- ***Frontier:*** citizens 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcxMzQ3NTksODE4OTcwMDM0LC0yMDI5ND
-M2MTk0LC03MDkwODg0MDJdfQ==
+eyJoaXN0b3J5IjpbLTE5MjUxNTYxODYsODE4OTcwMDM0LC0yMD
+I5NDM2MTk0LC03MDkwODg0MDJdfQ==
 -->
