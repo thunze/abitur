@@ -25,9 +25,13 @@
 - ***onomatopoeia:*** *Lautmalerei*
 - ***paradox:*** contradictory statement with a deeper meaning
 - ***parallelism:*** regarding the arrangement / structure of phrases
-- 
+- ***periphrasis:*** an abstract methos of saying sth. simple
+- ***personification***
+- ***pun:*** *Wortspiel*
+- ***repetition***
+- ***rhetorical question:*** obvious answer, may be criticizing 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMjQxMDU3MCwtMTMwMzc2NDY5OSwtOD
+eyJoaXN0b3J5IjpbMTkxNjA1NjM0NSwtMTMwMzc2NDY5OSwtOD
 YzMDMxNjEzXX0=
 -->
