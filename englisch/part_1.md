@@ -1,8 +1,11 @@
-# Methods *(Oral Exam: Part 1)*
+# How-to – *Oral Exam: Part 1*
 
 ## Summary
 
-## Anany
+## Analysis
+
+## Comment
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MDc2MTg4MF19
+eyJoaXN0b3J5IjpbLTIwNTI3MjY0MjZdfQ==
 -->
