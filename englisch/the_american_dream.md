@@ -10,8 +10,8 @@
 - ***The Puritans:*** movement to **clean the American churches** from Roman-Catholic papism
 - ***manifest destiny:*** the aim to spread the philosophy of *the American dream* / to **democratize** the world
 	- in fact only **justification** for the American *imperialism* and their territorial expansion
-- ***independence day:*** 4th of July
+- ***independence day:*** July 4, 1776 – ""
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE4OTcwMDM0LC0yMDI5NDM2MTk0LC03MD
-kwODg0MDJdfQ==
+eyJoaXN0b3J5IjpbLTE4MTA4Mjg2MDEsODE4OTcwMDM0LC0yMD
+I5NDM2MTk0LC03MDkwODg0MDJdfQ==
 -->
