@@ -29,9 +29,11 @@
 - ***personification***
 - ***pun:*** *Wortspiel*
 - ***repetition***
-- ***rhetorical question:*** obvious answer, may be criticizing 
+- ***rhetorical question:*** obvious answer, may be indirectly criticizing sth.
+- ***simile:*** comparison, usually with *"like"*
+- ***symbol:*** one thing is used to repre
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNjA1NjM0NSwtMTMwMzc2NDY5OSwtOD
+eyJoaXN0b3J5IjpbLTk3NDQyOTQyOSwtMTMwMzc2NDY5OSwtOD
 YzMDMxNjEzXX0=
 -->
