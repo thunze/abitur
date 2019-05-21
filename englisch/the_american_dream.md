@@ -13,8 +13,9 @@
 - ***independence day:*** July 4, 1776 – *life, liberty and the pursuit of happiness* – independence of the UK
 - ***New Canaan:*** writers refer to that land (originally the land west of the river Jordan) as the American colonies to be *New Canaan* because of people fleeing there **because of religious persecution** etc.
 - ***Frontier:*** line of settlement / citizens moving westwards – territorial expansion **> myth**
-- 
+- ***the stars and stripes / old glory:*** the American flag
+- ***melting pot:*** expression of multiculturalism in the US
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUyOTU0ODQzLC0xOTI1MTU2MTg2LDgxOD
-k3MDAzNCwtMjAyOTQzNjE5NCwtNzA5MDg4NDAyXX0=
+eyJoaXN0b3J5IjpbLTIxNDQyMDMwMDUsLTE5MjUxNTYxODYsOD
+E4OTcwMDM0LC0yMDI5NDM2MTk0LC03MDkwODg0MDJdfQ==
 -->
