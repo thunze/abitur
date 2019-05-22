@@ -1,12 +1,8 @@
 # Shakespeare
 
-## General Facts
+## About William Shakespeare
 
-- **full name:** William Shakespeare
 - lived during the 16th / 17th century
-- influenced by **Ovid** (Roman author)
-- myterious style of writing
-- wrote *sonnets*
 - most famous British writer
 
 ## About the time
@@ -17,6 +13,13 @@
 - people making their own minds / *"questioning the facts"*
 	- in general thery were very **open-minded**
 
+## About Shakespeare's work
+
+- he wrote *sonnets*
+- influenced by **Ovid** (Roman author)
+- myterious style of writing
+- w
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkzNDM0OTE3XX0=
+eyJoaXN0b3J5IjpbLTc4ODExMzQ2N119
 -->
