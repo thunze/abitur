@@ -13,6 +13,7 @@
 - analysis of **each** section regarding
 	- **most important** *stylistic devices:* explanation + *function / effect*
 	- analysis of the ***content***
+- *objective* vs. *emotive* language
 
 ### Conclusion
 - summary of the most important aspects and *stylistic devices*
@@ -46,7 +47,11 @@
 - to put it in a nutshell, in conclusion, to conclude, over all
 
 ### Function of rhetorical devices
-- (to) establish contact with sb., (to) emphasize, (to) stress, (to) illustrate / visualize an
+- (to) establish contact with sb.
+- (to) emphasize
+- (to) stress
+- (to) illustrate / visualize an idea
+- (to) persuade sb.
 
 ### Stylistic devices
 - ***alliteration***
@@ -76,6 +81,6 @@
 - ***use of the first person plural:*** involves the audience and presupposes that everybody else agrees
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDc3NTUwMDIsNTA4NzcwMjkwLC0yMT
-E1MTE5ODUxLC0xMzAzNzY0Njk5LC04NjMwMzE2MTNdfQ==
+eyJoaXN0b3J5IjpbLTYxOTg2MjAwMyw1MDg3NzAyOTAsLTIxMT
+UxMTk4NTEsLTEzMDM3NjQ2OTksLTg2MzAzMTYxM119
 -->
