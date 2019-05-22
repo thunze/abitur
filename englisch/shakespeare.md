@@ -12,14 +12,17 @@
 - students learning how to inherit their **family's** business at school
 - people making their own minds / *"questioning the facts"*
 	- in general thery were very **open-minded**
+- religious change
+- capita
 
 ## About Shakespeare's work
 
-- he wrote *sonnets*
-- influenced by **Ovid** (Roman author)
+- *sonnets*
 - myterious style of writing
-- w
+- influenced by the big **changes** going on at this time
+- influenced by **Ovid** (Roman author)
+- *"cosmopolitan / international mindset"*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4ODExMzQ2N119
+eyJoaXN0b3J5IjpbLTcxMTQ0MDM1Ml19
 -->
