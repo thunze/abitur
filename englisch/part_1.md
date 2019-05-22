@@ -51,8 +51,8 @@
 
 ### Hints
 - **always *quote* from the text** / mention the important lines in text
-	- *direct quote:* (l. 1), (l. 2f.), (l. 33ff.), (l. 33-40)
-	- *indire*
+	- *direct quote:* (l. 1) / (l. 2f.) / (l. 33ff.) / (l. 33-40)
+	- *indirect quote:* (cf. l. 5) / etc.
 - use of *present tense* *(simple present / present perfect)*
 - use of objective language
 - use of own words
@@ -98,7 +98,7 @@
 - ***use of the first person plural:*** involves the audience and presupposes that everybody else agrees
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk2OTk1MzYsLTY1OTI3MjQyMCwtMTI4OT
-UxNzA1LC02MTk4NjIwMDMsNTA4NzcwMjkwLC0yMTE1MTE5ODUx
-LC0xMzAzNzY0Njk5LC04NjMwMzE2MTNdfQ==
+eyJoaXN0b3J5IjpbNzM3ODk2ODQyLC02NTkyNzI0MjAsLTEyOD
+k1MTcwNSwtNjE5ODYyMDAzLDUwODc3MDI5MCwtMjExNTExOTg1
+MSwtMTMwMzc2NDY5OSwtODYzMDMxNjEzXX0=
 -->
