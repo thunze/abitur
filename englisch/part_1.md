@@ -8,12 +8,17 @@
 - purpose of the analysis **> *task***
 - ***thesis*** (e. g. *"x uses many different strategies to y z"*)
 
-### Main part
+### Main part (speech)
 - analysis of the structure (introduction, main part, conclusion)
 - analysis of **each** section regarding
 	- **most important** *stylistic devices:* explanation + *function / effect*
 	- analysis of the ***content***
 - *objective* vs. *emotive* language
+
+### Main part (newspaper article)
+- *broadsheet* or *tabloid*
+- type of newspaper article **> *TODO***
+- train of thought (structure) – thes
 
 ### Conclusion
 - summary of the most important aspects and *stylistic devices*
@@ -87,7 +92,7 @@
 - ***use of the first person plural:*** involves the audience and presupposes that everybody else agrees
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjM5OTg1MzYsLTEyODk1MTcwNSwtNj
-E5ODYyMDAzLDUwODc3MDI5MCwtMjExNTExOTg1MSwtMTMwMzc2
-NDY5OSwtODYzMDMxNjEzXX0=
+eyJoaXN0b3J5IjpbLTIyNTg1MTQ0MSwtMTI4OTUxNzA1LC02MT
+k4NjIwMDMsNTA4NzcwMjkwLC0yMTE1MTE5ODUxLC0xMzAzNzY0
+Njk5LC04NjMwMzE2MTNdfQ==
 -->
