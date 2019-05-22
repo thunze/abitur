@@ -22,10 +22,9 @@
 
 ## General hints
 
-- always ***quote*** from the text:
-	- 
-- use *present tense* *(simple present / present perfect)*
-- use 
+- always ***quote*** from the text / mention the important lines in text
+- use of *present tense* *(simple present / present perfect)*
+- use of own words
 
 ## Stylistic devices
 
@@ -56,6 +55,6 @@
 - ***use of the first person plural:*** involves the audience and presupposes that everybody else agrees
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTAwMzE0ODUsLTIxMTUxMTk4NTEsLT
-EzMDM3NjQ2OTksLTg2MzAzMTYxM119
+eyJoaXN0b3J5IjpbMTY1NjgxMTUxNCwtMjExNTExOTg1MSwtMT
+MwMzc2NDY5OSwtODYzMDMxNjEzXX0=
 -->
