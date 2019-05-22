@@ -20,8 +20,9 @@
 - headline
 - type of newspaper article **> *TODO***
 - train of thought (structure) – thesis? / example? / general issue?
+	- *"How does it convince the reader?"*
 - style, tone, register **> *TODO***
-- sty
+- stylistic devices
 
 ### Conclusion
 - summary of the most important aspects and *stylistic devices*
@@ -95,7 +96,7 @@
 - ***use of the first person plural:*** involves the audience and presupposes that everybody else agrees
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU3ODQyNzI2LC0xMjg5NTE3MDUsLTYxOT
-g2MjAwMyw1MDg3NzAyOTAsLTIxMTUxMTk4NTEsLTEzMDM3NjQ2
-OTksLTg2MzAzMTYxM119
+eyJoaXN0b3J5IjpbLTY1OTI3MjQyMCwtMTI4OTUxNzA1LC02MT
+k4NjIwMDMsNTA4NzcwMjkwLC0yMTE1MTE5ODUxLC0xMzAzNzY0
+Njk5LC04NjMwMzE2MTNdfQ==
 -->
