@@ -20,17 +20,19 @@
 
 ## Comment
 
+
 ## General stuff
 
 ### Hints
 - always ***quote*** from the text / mention the important lines in text
 - use of *present tense* *(simple present / present perfect)*
+- use of objective language
 - use of own words
 
 ### Connectives
 - first(ly), moreover, in addition, furthermore, also, what is more, besides that, last(ly)
 - on the one hand / on the other hand, although, because of, otherwise
-- 
+- to put it in a nutshell, in conclusion, to conclude, over all
 
 ### Stylistic devices
 - ***alliteration***
@@ -60,6 +62,6 @@
 - ***use of the first person plural:*** involves the audience and presupposes that everybody else agrees
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTY3MjU5NjIsLTIxMTUxMTk4NTEsLT
-EzMDM3NjQ2OTksLTg2MzAzMTYxM119
+eyJoaXN0b3J5IjpbLTk2NzEwNjYxLC0yMTE1MTE5ODUxLC0xMz
+AzNzY0Njk5LC04NjMwMzE2MTNdfQ==
 -->
