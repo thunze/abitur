@@ -10,7 +10,9 @@
 
 ### Main part
 - analysis of the structure (introduction, main part, conclusion)
-- analysis of **each** section rega
+- analysis of **each** section regarding
+	- ****most important** *stylistic devices:*** **explanation + *function / effect***
+	- analysis of the ***content*** of the speech
 
 ## Comment
 
@@ -43,6 +45,6 @@
 - ***use of the first person plural:*** involves the audience and presupposes that everybody else agrees
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkzNjE2MDY5LC0yMTE1MTE5ODUxLC0xMz
-AzNzY0Njk5LC04NjMwMzE2MTNdfQ==
+eyJoaXN0b3J5IjpbLTEzODI1NjAwODIsLTIxMTUxMTk4NTEsLT
+EzMDM3NjQ2OTksLTg2MzAzMTYxM119
 -->
