@@ -11,8 +11,12 @@
 ### Main part
 - analysis of the structure (introduction, main part, conclusion)
 - analysis of **each** section regarding
-	- ****most important** *stylistic devices:*** **explanation + *function / effect***
-	- analysis of the ***content*** of the speech
+	- **most important** *stylistic devices:* explanation + *function / effect*
+	- analysis of the ***content***
+
+### Conclusion
+- summary of the most important aspects and *stylistic devices*
+- referral to the ***thesis***
 
 ## Comment
 
@@ -45,6 +49,6 @@
 - ***use of the first person plural:*** involves the audience and presupposes that everybody else agrees
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODI1NjAwODIsLTIxMTUxMTk4NTEsLT
-EzMDM3NjQ2OTksLTg2MzAzMTYxM119
+eyJoaXN0b3J5IjpbMTQwNTM1MDIzOSwtMjExNTExOTg1MSwtMT
+MwMzc2NDY5OSwtODYzMDMxNjEzXX0=
 -->
