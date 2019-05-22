@@ -38,6 +38,7 @@
 - use of *present tense* *(simple present / present perfect)*
 - use of objective language
 - use of own words
+- *this:* zeitlich / räumlihc
 
 ### Connectives
 - first(ly), moreover, in addition, furthermore, also, what is more, besides that, last(ly)
@@ -72,6 +73,6 @@
 - ***use of the first person plural:*** involves the audience and presupposes that everybody else agrees
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA4NzcwMjkwLC0yMTE1MTE5ODUxLC0xMz
-AzNzY0Njk5LC04NjMwMzE2MTNdfQ==
+eyJoaXN0b3J5IjpbMTI5NjczOTEzNCw1MDg3NzAyOTAsLTIxMT
+UxMTk4NTEsLTEzMDM3NjQ2OTksLTg2MzAzMTYxM119
 -->
