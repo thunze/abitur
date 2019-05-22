@@ -20,6 +20,14 @@
 
 ## Comment
 
+### Introduction
+- referral to the task
+- catch the reader's attention
+
+### Main part
+- own opinion
+- arguments supporting your opinion
+- examples to support arguments
 
 ## General stuff
 
@@ -62,6 +70,6 @@
 - ***use of the first person plural:*** involves the audience and presupposes that everybody else agrees
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NzEwNjYxLC0yMTE1MTE5ODUxLC0xMz
-AzNzY0Njk5LC04NjMwMzE2MTNdfQ==
+eyJoaXN0b3J5IjpbMTQ1MzAyMjI1NCwtMjExNTExOTg1MSwtMT
+MwMzc2NDY5OSwtODYzMDMxNjEzXX0=
 -->
