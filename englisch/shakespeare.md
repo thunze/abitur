@@ -3,6 +3,7 @@
 ## About William Shakespeare
 
 - lived during the 16th / 17th century
+- only attended grammar school
 - most famous British writer
 
 ## About the time
@@ -13,7 +14,7 @@
 - people making their own minds / *"questioning the facts"*
 	- in general thery were very **open-minded**
 - religious change
-	- many Catholics against the Queen **> *got executed***
+	- many Catholics against the Queen because she rather was Protestant  **> they got executed**
 - **capitalism** began to become more popular
 	- England as a colonial country / mighty
 	- **national identity**
@@ -29,5 +30,5 @@
 - *"cosmopolitan / international mindset"*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTczMDMzNTQ2XX0=
+eyJoaXN0b3J5IjpbNDQyNDY5NTk0XX0=
 -->
