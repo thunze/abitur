@@ -34,6 +34,10 @@
 
 ## General stuff
 
+### Common newspapers
+- ***tabloid:***
+- ***broadsheet:***
+
 ### Hints
 - **always *quote* from the text** / mention the important lines in text
 - use of *present tense* *(simple present / present perfect)*
@@ -81,6 +85,7 @@
 - ***use of the first person plural:*** involves the audience and presupposes that everybody else agrees
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxOTg2MjAwMyw1MDg3NzAyOTAsLTIxMT
-UxMTk4NTEsLTEzMDM3NjQ2OTksLTg2MzAzMTYxM119
+eyJoaXN0b3J5IjpbLTEyODk1MTcwNSwtNjE5ODYyMDAzLDUwOD
+c3MDI5MCwtMjExNTExOTg1MSwtMTMwMzc2NDY5OSwtODYzMDMx
+NjEzXX0=
 -->
