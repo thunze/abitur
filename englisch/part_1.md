@@ -4,6 +4,10 @@
 
 ## Analysis
 
+### Introduction
+- purpose of the analysis **> *task***
+- thesis (e. g. *"x uses many "*)
+
 ## Comment
 
 ## Stylistic Devices
@@ -35,6 +39,6 @@
 - ***use of the first person plural:*** involves the audience and presupposes that everybody else agrees
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTUxMTk4NTEsLTEzMDM3NjQ2OTksLT
-g2MzAzMTYxM119
+eyJoaXN0b3J5IjpbMTEzNDQwMzAyMywtMjExNTExOTg1MSwtMT
+MwMzc2NDY5OSwtODYzMDMxNjEzXX0=
 -->
