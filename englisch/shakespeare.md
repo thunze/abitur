@@ -13,7 +13,10 @@
 - people making their own minds / *"questioning the facts"*
 	- in general thery were very **open-minded**
 - religious change
-- capita
+- **capitalism** began to become more popular
+	- England as a colonial country / mighty
+	- **national identity**
+- under the reign of **Elizabeth I.**
 
 ## About Shakespeare's work
 
@@ -24,5 +27,5 @@
 - *"cosmopolitan / international mindset"*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMTQ0MDM1Ml19
+eyJoaXN0b3J5IjpbLTEzNDgwNjAxNTVdfQ==
 -->
