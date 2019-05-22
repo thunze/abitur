@@ -24,11 +24,12 @@
 ## About Shakespeare's work
 
 - *plays* and *sonnets*
+- *tragedy* and *comedy* (bad ending vs. good ending)
 - myterious style of writing
 - influenced by the big **changes** going on at this time
 - influenced by **Ovid** (Roman author)
 - *"cosmopolitan / international mindset"*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQyNDY5NTk0XX0=
+eyJoaXN0b3J5IjpbLTkwMDc4OTk3MV19
 -->
