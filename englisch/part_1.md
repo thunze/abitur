@@ -105,10 +105,15 @@
 ### Rhetorical strategies
 - ***giving facts and numbers:*** surveys and statistics are mentioned
 - ***quoting experts / referring to authorities***
-- ***including personal ex***
+- ***including personal experience of affected people***
+- ***making claims:*** based on evidence
+- ***giving arguments***
+- ***giving examples***
+- ***exaggerating***
+- ***using humour / irony / sarcams***
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MjU5ODE0MiwyMDQwNjI2MDUwLDczNz
-g5Njg0MiwtNjU5MjcyNDIwLC0xMjg5NTE3MDUsLTYxOTg2MjAw
-Myw1MDg3NzAyOTAsLTIxMTUxMTk4NTEsLTEzMDM3NjQ2OTksLT
-g2MzAzMTYxM119
+eyJoaXN0b3J5IjpbNzUyNDY0NTI3LDIwNDA2MjYwNTAsNzM3OD
+k2ODQyLC02NTkyNzI0MjAsLTEyODk1MTcwNSwtNjE5ODYyMDAz
+LDUwODc3MDI5MCwtMjExNTExOTg1MSwtMTMwMzc2NDY5OSwtOD
+YzMDMxNjEzXX0=
 -->
