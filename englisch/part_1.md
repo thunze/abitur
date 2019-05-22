@@ -28,7 +28,9 @@
 - use of own words
 
 ### Connectives
-- first, moreover, in addition, furthermore, also, what is more, besides that, last
+- first(ly), moreover, in addition, furthermore, also, what is more, besides that, last(ly)
+- on the one hand / on the other hand, although, because of, otherwise
+- 
 
 ### Stylistic devices
 - ***alliteration***
@@ -58,6 +60,6 @@
 - ***use of the first person plural:*** involves the audience and presupposes that everybody else agrees
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2OTIxMjg2LC0yMTE1MTE5ODUxLC0xMz
-AzNzY0Njk5LC04NjMwMzE2MTNdfQ==
+eyJoaXN0b3J5IjpbLTE1OTY3MjU5NjIsLTIxMTUxMTk4NTEsLT
+EzMDM3NjQ2OTksLTg2MzAzMTYxM119
 -->
