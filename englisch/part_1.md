@@ -21,14 +21,14 @@
 ## Comment
 
 ### Introduction
-- refer to the task
+- refer to the ***task***
 - catch the reader's attention
 
 ### Main part
 - **own opinion**
 - arguments supporting your opinion
 - examples to support own arguments
-- refu
+- **refute** arguments of the opposite position
 - underline **contradictory statements**
 
 ## General stuff
@@ -46,7 +46,7 @@
 
 ### Stylistic devices
 - ***alliteration***
-- ***allusion:*** refer, e. g. to a celebrity
+- ***allusion:*** referral, e. g. to a celebrity
 - ***anaphora***
 - ***antithesis:*** contrasting statements are balanced against each other to create *emphasis*
 - ***apostrophe:*** *Anrede*, e. g. *"Oh, my God."*
@@ -72,6 +72,6 @@
 - ***use of the first person plural:*** involves the audience and presupposes that everybody else agrees
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzM4ODY3MjIsLTIxMTUxMTk4NTEsLT
-EzMDM3NjQ2OTksLTg2MzAzMTYxM119
+eyJoaXN0b3J5IjpbNTA4NzcwMjkwLC0yMTE1MTE5ODUxLC0xMz
+AzNzY0Njk5LC04NjMwMzE2MTNdfQ==
 -->
