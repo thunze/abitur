@@ -6,7 +6,11 @@
 
 ### Introduction
 - purpose of the analysis **> *task***
-- thesis (e. g. *"x uses many "*)
+- thesis (e. g. *"x uses many different strategies to y z"*)
+
+### Main part
+- analysis of the structure (introduction, main part, conclusion)
+- analysis of **each** section rega
 
 ## Comment
 
@@ -39,6 +43,6 @@
 - ***use of the first person plural:*** involves the audience and presupposes that everybody else agrees
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNDQwMzAyMywtMjExNTExOTg1MSwtMT
-MwMzc2NDY5OSwtODYzMDMxNjEzXX0=
+eyJoaXN0b3J5IjpbNzkzNjE2MDY5LC0yMTE1MTE5ODUxLC0xMz
+AzNzY0Njk5LC04NjMwMzE2MTNdfQ==
 -->
