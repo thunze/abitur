@@ -20,14 +20,17 @@
 
 ## Comment
 
-## General hints
+## General stuff
 
+### Hints
 - always ***quote*** from the text / mention the important lines in text
 - use of *present tense* *(simple present / present perfect)*
 - use of own words
 
-## Stylistic devices
+### Connectives
+- first, moreover, in addition, furthermore, also, what is more, besides that, last
 
+### Stylistic devices
 - ***alliteration***
 - ***allusion:*** referral, e. g. to a celebrity
 - ***anaphora***
@@ -55,6 +58,6 @@
 - ***use of the first person plural:*** involves the audience and presupposes that everybody else agrees
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NjgxMTUxNCwtMjExNTExOTg1MSwtMT
-MwMzc2NDY5OSwtODYzMDMxNjEzXX0=
+eyJoaXN0b3J5IjpbLTg2OTIxMjg2LC0yMTE1MTE5ODUxLC0xMz
+AzNzY0Njk5LC04NjMwMzE2MTNdfQ==
 -->
