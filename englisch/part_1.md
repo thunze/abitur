@@ -68,13 +68,6 @@
 - on the one hand / on the other hand, although, because of, otherwise
 - to put it in a nutshell, in conclusion, to conclude, over all
 
-### Function of rhetorical devices
-- (to) establish contact with sb.
-- (to) emphasize
-- (to) stress
-- (to) illustrate / visualize an idea
-- (to) persuade sb.
-
 ### Stylistic devices
 - ***alliteration***
 - ***allusion:*** referral, e. g. to a celebrity
@@ -102,9 +95,20 @@
 - ***symbol:*** one thing is used to represent sth. else, e. g. the rose is a symbol for love
 - ***use of the first person plural:*** involves the audience and presupposes that everybody else agrees
 
+### Potential function of stylistic devices
+- (to) establish contact with sb.
+- (to) emphasize
+- (to) stress
+- (to) illustrate / visualize an idea
+- (to) persuade sb.
+
+### Rhetorical strategies
+- ***giving facts and numbers:*** surveys and statistics are mentioned
+- ***quoting experts / referring to authorities***
+- ***including personal ex***
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MDYyNjA1MCw3Mzc4OTY4NDIsLTY1OT
-I3MjQyMCwtMTI4OTUxNzA1LC02MTk4NjIwMDMsNTA4NzcwMjkw
-LC0yMTE1MTE5ODUxLC0xMzAzNzY0Njk5LC04NjMwMzE2MTNdfQ
-==
+eyJoaXN0b3J5IjpbMjA2MjU5ODE0MiwyMDQwNjI2MDUwLDczNz
+g5Njg0MiwtNjU5MjcyNDIwLC0xMjg5NTE3MDUsLTYxOTg2MjAw
+Myw1MDg3NzAyOTAsLTIxMTUxMTk4NTEsLTEzMDM3NjQ2OTksLT
+g2MzAzMTYxM119
 -->
