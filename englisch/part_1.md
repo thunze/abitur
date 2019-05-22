@@ -45,6 +45,9 @@
 - on the one hand / on the other hand, although, because of, otherwise
 - to put it in a nutshell, in conclusion, to conclude, over all
 
+### Function of rhetorical devices
+- (to) establish contact with sb., (to) emphasize, (to) stress, (to) illustrate / visualize an
+
 ### Stylistic devices
 - ***alliteration***
 - ***allusion:*** referral, e. g. to a celebrity
@@ -73,6 +76,6 @@
 - ***use of the first person plural:*** involves the audience and presupposes that everybody else agrees
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NzYzMDE1MCw1MDg3NzAyOTAsLTIxMT
-UxMTk4NTEsLTEzMDM3NjQ2OTksLTg2MzAzMTYxM119
+eyJoaXN0b3J5IjpbLTIwMDc3NTUwMDIsNTA4NzcwMjkwLC0yMT
+E1MTE5ODUxLC0xMzAzNzY0Njk5LC04NjMwMzE2MTNdfQ==
 -->
