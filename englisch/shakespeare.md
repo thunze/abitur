@@ -11,8 +11,11 @@
 
 ## About the time
 
+- **first:** only wealthy people were able to get education because it was very expensive
+	- big change:
+- students learning at school how to inherit their **family's** business
 - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5OTk3NTExNF19
+eyJoaXN0b3J5IjpbMjc1OTk1MzY4XX0=
 -->
