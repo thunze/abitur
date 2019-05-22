@@ -6,7 +6,7 @@
 
 ### Introduction
 - purpose of the analysis **> *task***
-- thesis (e. g. *"x uses many different strategies to y z"*)
+- ***thesis*** (e. g. *"x uses many different strategies to y z"*)
 
 ### Main part
 - analysis of the structure (introduction, main part, conclusion)
@@ -20,7 +20,14 @@
 
 ## Comment
 
-## Stylistic Devices
+## General hints
+
+- always ***quote*** from the text:
+	- 
+- use *present tense* *(simple present / present perfect)*
+- use 
+
+## Stylistic devices
 
 - ***alliteration***
 - ***allusion:*** referral, e. g. to a celebrity
@@ -49,6 +56,6 @@
 - ***use of the first person plural:*** involves the audience and presupposes that everybody else agrees
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNTM1MDIzOSwtMjExNTExOTg1MSwtMT
-MwMzc2NDY5OSwtODYzMDMxNjEzXX0=
+eyJoaXN0b3J5IjpbLTExOTAwMzE0ODUsLTIxMTUxMTk4NTEsLT
+EzMDM3NjQ2OTksLTg2MzAzMTYxM119
 -->
