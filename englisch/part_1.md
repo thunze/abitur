@@ -40,9 +40,11 @@
 - examples to support own arguments
 - **refute** arguments of the opposite position
 - underline **contradictory statements**
-- always try to differentiate between the **own opinion** and **facts**
+- always try to differentiate between your **own opinion** and **facts**
 
 ### Conclusion
+- sum up the main arguments
+- **connect** the result with your own opinion
 
 ## General stuff
 
@@ -101,8 +103,8 @@
 - ***use of the first person plural:*** involves the audience and presupposes that everybody else agrees
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzEyNDAxMDUsNzM3ODk2ODQyLC02NT
-kyNzI0MjAsLTEyODk1MTcwNSwtNjE5ODYyMDAzLDUwODc3MDI5
-MCwtMjExNTExOTg1MSwtMTMwMzc2NDY5OSwtODYzMDMxNjEzXX
-0=
+eyJoaXN0b3J5IjpbMjA0MDYyNjA1MCw3Mzc4OTY4NDIsLTY1OT
+I3MjQyMCwtMTI4OTUxNzA1LC02MTk4NjIwMDMsNTA4NzcwMjkw
+LC0yMTE1MTE5ODUxLC0xMzAzNzY0Njk5LC04NjMwMzE2MTNdfQ
+==
 -->
