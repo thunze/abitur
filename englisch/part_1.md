@@ -8,14 +8,14 @@
 - purpose of the analysis **> *task***
 - ***thesis*** (e. g. *"x uses many different strategies to y z"*)
 
-### Main part (speech)
+### Main part – Speech
 - analysis of the structure (introduction, main part, conclusion)
 - analysis of **each** section regarding
 	- ***stylistic devices* and *rhetorical strategies***: only the most important ones, explanation + function / effect
 	- analysis of the ***content***
 - *objective* vs. *emotive* language
 
-### Main part (newspaper article)
+### Main part – Newspaper article
 - *broadsheet* or *tabloid*
 - headline
 - type of newspaper article **> *TODO***
@@ -113,8 +113,8 @@
 - ***use of the first person plural:*** involves the audience and presupposes that everybody else agrees
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3Nzc5NTc1NywyMDQwNjI2MDUwLDczNz
-g5Njg0MiwtNjU5MjcyNDIwLC0xMjg5NTE3MDUsLTYxOTg2MjAw
-Myw1MDg3NzAyOTAsLTIxMTUxMTk4NTEsLTEzMDM3NjQ2OTksLT
-g2MzAzMTYxM119
+eyJoaXN0b3J5IjpbLTU1MTU3Nzc5NSwxMjc3Nzk1NzU3LDIwND
+A2MjYwNTAsNzM3ODk2ODQyLC02NTkyNzI0MjAsLTEyODk1MTcw
+NSwtNjE5ODYyMDAzLDUwODc3MDI5MCwtMjExNTExOTg1MSwtMT
+MwMzc2NDY5OSwtODYzMDMxNjEzXX0=
 -->
