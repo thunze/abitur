@@ -48,8 +48,12 @@
 - ***broadsheet:*** The Times, The Daily Telegraph, The Guardian, The Observer, i etc.
 	- quality content
 
-
-
+### Hints
+- **always *quote* from the text** / mention the important lines in text
+- use of *present tense* *(simple present / present perfect)*
+- use of objective language
+- use of own words
+- *this* vs. *that* (zeitlich und / oder räumlich nah vs. entfernt)
 
 ### Connectives
 - first(ly), moreover, in addition, furthermore, also, what is more, besides that, last(ly)
@@ -91,7 +95,7 @@
 - ***use of the first person plural:*** involves the audience and presupposes that everybody else agrees
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4OTAyMTg0MCwtMTI4OTUxNzA1LC02MT
-k4NjIwMDMsNTA4NzcwMjkwLC0yMTE1MTE5ODUxLC0xMzAzNzY0
-Njk5LC04NjMwMzE2MTNdfQ==
+eyJoaXN0b3J5IjpbNzU3ODQyNzI2LC0xMjg5NTE3MDUsLTYxOT
+g2MjAwMyw1MDg3NzAyOTAsLTIxMTUxMTk4NTEsLTEzMDM3NjQ2
+OTksLTg2MzAzMTYxM119
 -->
