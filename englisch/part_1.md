@@ -11,7 +11,7 @@
 ### Main part (speech)
 - analysis of the structure (introduction, main part, conclusion)
 - analysis of **each** section regarding
-	- ***stylistic devices* and *rhetorical strategies***: explanation + function / effect
+	- ***stylistic devices* and *rhetorical strategies***: only the most important ones, explanation + function / effect
 	- analysis of the ***content***
 - *objective* vs. *emotive* language
 
@@ -113,8 +113,8 @@
 - ***use of the first person plural:*** involves the audience and presupposes that everybody else agrees
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ0NTQzMjUyLDIwNDA2MjYwNTAsNzM3OD
-k2ODQyLC02NTkyNzI0MjAsLTEyODk1MTcwNSwtNjE5ODYyMDAz
-LDUwODc3MDI5MCwtMjExNTExOTg1MSwtMTMwMzc2NDY5OSwtOD
-YzMDMxNjEzXX0=
+eyJoaXN0b3J5IjpbMTI3Nzc5NTc1NywyMDQwNjI2MDUwLDczNz
+g5Njg0MiwtNjU5MjcyNDIwLC0xMjg5NTE3MDUsLTYxOTg2MjAw
+Myw1MDg3NzAyOTAsLTIxMTUxMTk4NTEsLTEzMDM3NjQ2OTksLT
+g2MzAzMTYxM119
 -->
