@@ -11,7 +11,7 @@
 ### Main part (speech)
 - analysis of the structure (introduction, main part, conclusion)
 - analysis of **each** section regarding
-	- **most important** *stylistic devices:* explanation + *function / effect*
+	- ***stylistic devices* and *rhetorical strategies***: explanation + function / effect
 	- analysis of the ***content***
 - *objective* vs. *emotive* language
 
@@ -22,7 +22,7 @@
 - train of thought (structure) – thesis? / example? / general issue?
 	- *"How does it convince the reader?"*
 - style, tone, register **> *TODO***
-- stylistic devices
+- *stylistic devices* and *rhetorical strategies*
 
 ### Conclusion
 - summary of the most important aspects and *stylistic devices*
@@ -113,8 +113,8 @@
 - ***use of the first person plural:*** involves the audience and presupposes that everybody else agrees
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MDcyNTU2MSwyMDQwNjI2MDUwLDczNz
-g5Njg0MiwtNjU5MjcyNDIwLC0xMjg5NTE3MDUsLTYxOTg2MjAw
-Myw1MDg3NzAyOTAsLTIxMTUxMTk4NTEsLTEzMDM3NjQ2OTksLT
-g2MzAzMTYxM119
+eyJoaXN0b3J5IjpbODQ0NTQzMjUyLDIwNDA2MjYwNTAsNzM3OD
+k2ODQyLC02NTkyNzI0MjAsLTEyODk1MTcwNSwtNjE5ODYyMDAz
+LDUwODc3MDI5MCwtMjExNTExOTg1MSwtMTMwMzc2NDY5OSwtOD
+YzMDMxNjEzXX0=
 -->
