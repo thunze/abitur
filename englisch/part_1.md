@@ -35,7 +35,7 @@
 ## General stuff
 
 ### Common newspapers
-- ***tabloid:***
+- ***tabloid:*** Daily Mail, The Mail on Sunday, *-Express, 
 - ***broadsheet:***
 
 ### Hints
@@ -85,7 +85,7 @@
 - ***use of the first person plural:*** involves the audience and presupposes that everybody else agrees
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODk1MTcwNSwtNjE5ODYyMDAzLDUwOD
-c3MDI5MCwtMjExNTExOTg1MSwtMTMwMzc2NDY5OSwtODYzMDMx
-NjEzXX0=
+eyJoaXN0b3J5IjpbLTExNTkyMDYzMjUsLTEyODk1MTcwNSwtNj
+E5ODYyMDAzLDUwODc3MDI5MCwtMjExNTExOTg1MSwtMTMwMzc2
+NDY5OSwtODYzMDMxNjEzXX0=
 -->
