@@ -16,18 +16,20 @@
 
 ### Conclusion
 - summary of the most important aspects and *stylistic devices*
-- referral to the ***thesis***
+- refer to the ***thesis***
 
 ## Comment
 
 ### Introduction
-- referral to the task
+- refer to the task
 - catch the reader's attention
 
 ### Main part
-- own opinion
+- **own opinion**
 - arguments supporting your opinion
-- examples to support arguments
+- examples to support own arguments
+- refu
+- underline **contradictory statements**
 
 ## General stuff
 
@@ -44,7 +46,7 @@
 
 ### Stylistic devices
 - ***alliteration***
-- ***allusion:*** referral, e. g. to a celebrity
+- ***allusion:*** refer, e. g. to a celebrity
 - ***anaphora***
 - ***antithesis:*** contrasting statements are balanced against each other to create *emphasis*
 - ***apostrophe:*** *Anrede*, e. g. *"Oh, my God."*
@@ -70,6 +72,6 @@
 - ***use of the first person plural:*** involves the audience and presupposes that everybody else agrees
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MzAyMjI1NCwtMjExNTExOTg1MSwtMT
-MwMzc2NDY5OSwtODYzMDMxNjEzXX0=
+eyJoaXN0b3J5IjpbLTIxMzM4ODY3MjIsLTIxMTUxMTk4NTEsLT
+EzMDM3NjQ2OTksLTg2MzAzMTYxM119
 -->
