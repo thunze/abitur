@@ -77,7 +77,6 @@
 - ***climax:*** highest point of *suspense*
 - ***comparison***
 - ***contrast:*** opposition of two extremes, e. g. *"black and white"*
-- ***directly adressing the audience***
 - ***enumeration***
 - ***euphemism:*** indirect phrase to refer to sth. bad, e. g. *"to pass away"*
 - ***hyperbole***
@@ -93,7 +92,6 @@
 - ***rhetorical question:*** obvious answer, may be indirectly criticizing sth.
 - ***simile:*** comparison, usually with *"like"*
 - ***symbol:*** one thing is used to represent sth. else, e. g. the rose is a symbol for love
-- ***use of the first person plural:*** involves the audience and presupposes that everybody else agrees
 
 ### Potential function of stylistic devices
 - (to) establish contact with sb.
@@ -110,10 +108,13 @@
 - ***giving arguments***
 - ***giving examples***
 - ***exaggerating***
-- ***using humour / irony / sarcams***
+- ***using humour / irony / sarcasm***
+- ***directly adressing the audience***
+- ***use of the first person plural:*** involves the audience and presupposes that everybody else agrees
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUyNDY0NTI3LDIwNDA2MjYwNTAsNzM3OD
-k2ODQyLC02NTkyNzI0MjAsLTEyODk1MTcwNSwtNjE5ODYyMDAz
-LDUwODc3MDI5MCwtMjExNTExOTg1MSwtMTMwMzc2NDY5OSwtOD
-YzMDMxNjEzXX0=
+eyJoaXN0b3J5IjpbMTc5MDcyNTU2MSwyMDQwNjI2MDUwLDczNz
+g5Njg0MiwtNjU5MjcyNDIwLC0xMjg5NTE3MDUsLTYxOTg2MjAw
+Myw1MDg3NzAyOTAsLTIxMTUxMTk4NTEsLTEzMDM3NjQ2OTksLT
+g2MzAzMTYxM119
 -->
