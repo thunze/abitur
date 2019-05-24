@@ -19,7 +19,7 @@
 	- ***stylistic devices* and *communicative devices*** (incl. language)
 		- only the most important ones, explanation + function / effect
 	- analysis of the ***content***
-- *"to get back to the beginning, these examples [...]":* show use of *language*
+- *"To get back to the beginning, these examples [...]":* show use of *language*
 
 ### Main part – Newspaper article
 - *broadsheet* or *tabloid*
@@ -33,7 +33,7 @@
 	- *"How does it convince the reader?"*
 - style, tone, register **> *TODO***
 - *stylistic devices* and *communicative devices*
-- *"to get back to the beginning, these examples [...]":* show use of *language*
+- *"To get back to the beginning, these examples [...]":* show use of *language*
 
 ### Conclusion
 - summary of the most important aspects and *stylistic devices*
@@ -56,7 +56,7 @@
 
 ### Conclusion
 - **connect** the main arguments with your own opinion
-- sum up the main arguments
+	- e. g. *"As you can see, I (dis)agree with [...] mainly because of [...]"*
 
 ## General stuff
 
@@ -120,7 +120,7 @@
 - ***language:*** emotional, scientific, formal, informal etc.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNzIyMjQxOCwtNjYxOTQ5OTA0LC03ND
+eyJoaXN0b3J5IjpbMTM2MDI2MjM2NywtNjYxOTQ5OTA0LC03ND
 A0NjEzNTYsLTI0MDEwMzM0NiwtNTUxNTc3Nzk1LDEyNzc3OTU3
 NTcsMjA0MDYyNjA1MCw3Mzc4OTY4NDIsLTY1OTI3MjQyMCwtMT
 I4OTUxNzA1LC02MTk4NjIwMDMsNTA4NzcwMjkwLC0yMTE1MTE5
