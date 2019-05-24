@@ -2,8 +2,9 @@
 
 ## Summary
 
-- title, author, text type, date of publication, **topic**
-- 
+- **title, author, text type, date of publication, topic**
+- 4 or 5 sentences **main summary** **> present tense**
+- 1 or 2 sentences **conclusion**
 
 ## Analysis
 
@@ -113,9 +114,9 @@
 - ***language:*** emotional, scientific, formal, informal etc.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjc2MjM4MjMsLTI0MDEwMzM0NiwtNT
-UxNTc3Nzk1LDEyNzc3OTU3NTcsMjA0MDYyNjA1MCw3Mzc4OTY4
-NDIsLTY1OTI3MjQyMCwtMTI4OTUxNzA1LC02MTk4NjIwMDMsNT
-A4NzcwMjkwLC0yMTE1MTE5ODUxLC0xMzAzNzY0Njk5LC04NjMw
-MzE2MTNdfQ==
+eyJoaXN0b3J5IjpbODgxNzY2Mzk4LC0yNDAxMDMzNDYsLTU1MT
+U3Nzc5NSwxMjc3Nzk1NzU3LDIwNDA2MjYwNTAsNzM3ODk2ODQy
+LC02NTkyNzI0MjAsLTEyODk1MTcwNSwtNjE5ODYyMDAzLDUwOD
+c3MDI5MCwtMjExNTExOTg1MSwtMTMwMzc2NDY5OSwtODYzMDMx
+NjEzXX0=
 -->
