@@ -18,11 +18,12 @@
 ### Main part – Newspaper article
 - *broadsheet* or *tabloid*
 - headline
+- analyze each section on its **own**
 - type of newspaper article **> *TODO***
 - train of thought (structure) – thesis? / example? / general issue?
 	- *"How does it convince the reader?"*
 - style, tone, register **> *TODO***
-- *stylistic devices* and *rhetorical strategies*
+- *stylistic devices* and *rhetorical strategies* (including *emphasized text*)
 
 ### Conclusion
 - summary of the most important aspects and *stylistic devices*
@@ -108,9 +109,9 @@
 - ***language:*** emotional, scientific, formal, informal etc.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNDAzMjM0MCwtMjQwMTAzMzQ2LC01NT
-E1Nzc3OTUsMTI3Nzc5NTc1NywyMDQwNjI2MDUwLDczNzg5Njg0
-MiwtNjU5MjcyNDIwLC0xMjg5NTE3MDUsLTYxOTg2MjAwMyw1MD
-g3NzAyOTAsLTIxMTUxMTk4NTEsLTEzMDM3NjQ2OTksLTg2MzAz
-MTYxM119
+eyJoaXN0b3J5IjpbLTE4ODQ2NDk2NzksLTI0MDEwMzM0NiwtNT
+UxNTc3Nzk1LDEyNzc3OTU3NTcsMjA0MDYyNjA1MCw3Mzc4OTY4
+NDIsLTY1OTI3MjQyMCwtMTI4OTUxNzA1LC02MTk4NjIwMDMsNT
+A4NzcwMjkwLC0yMTE1MTE5ODUxLC0xMzAzNzY0Njk5LC04NjMw
+MzE2MTNdfQ==
 -->
