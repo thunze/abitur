@@ -97,7 +97,7 @@
 - ***giving facts and numbers:*** surveys and statistics are mentioned
 - ***quoting experts / referring to authorities***
 - ***including personal experience of affected people***
-- ***making (unfounded) claims:*** instead of well-founded arguments **> no room left for doubt or questions**
+- ***making (unfounded) claims:*** instead of well-founded arguments
 - ***giving arguments***
 	- ***order of arguments***
 - ***giving examples***
@@ -107,9 +107,9 @@
 - ***use of the first person plural:*** involves the audience and presupposes that everybody else agrees
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzA4OTEzLC0yNDAxMDMzNDYsLTU1MT
-U3Nzc5NSwxMjc3Nzk1NzU3LDIwNDA2MjYwNTAsNzM3ODk2ODQy
-LC02NTkyNzI0MjAsLTEyODk1MTcwNSwtNjE5ODYyMDAzLDUwOD
-c3MDI5MCwtMjExNTExOTg1MSwtMTMwMzc2NDY5OSwtODYzMDMx
-NjEzXX0=
+eyJoaXN0b3J5IjpbLTEyMDEwMjQ1MywtMjQwMTAzMzQ2LC01NT
+E1Nzc3OTUsMTI3Nzc5NTc1NywyMDQwNjI2MDUwLDczNzg5Njg0
+MiwtNjU5MjcyNDIwLC0xMjg5NTE3MDUsLTYxOTg2MjAwMyw1MD
+g3NzAyOTAsLTIxMTUxMTk4NTEsLTEzMDM3NjQ2OTksLTg2MzAz
+MTYxM119
 -->
