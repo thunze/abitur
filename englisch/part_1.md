@@ -42,6 +42,7 @@
 ## Comment
 
 ### Introduction
+- **formal**
 - refer to the ***task***
 - catch the reader's attention
 
@@ -54,8 +55,8 @@
 - always try to differentiate between your **own opinion** and **facts**
 
 ### Conclusion
+- **connect** the main arguments with your own opinion
 - sum up the main arguments
-- **connect** the result with your own opinion
 
 ## General stuff
 
@@ -119,9 +120,9 @@
 - ***language:*** emotional, scientific, formal, informal etc.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzAyMTA5MjgsLTY2MTk0OTkwNCwtNz
-QwNDYxMzU2LC0yNDAxMDMzNDYsLTU1MTU3Nzc5NSwxMjc3Nzk1
-NzU3LDIwNDA2MjYwNTAsNzM3ODk2ODQyLC02NTkyNzI0MjAsLT
-EyODk1MTcwNSwtNjE5ODYyMDAzLDUwODc3MDI5MCwtMjExNTEx
-OTg1MSwtMTMwMzc2NDY5OSwtODYzMDMxNjEzXX0=
+eyJoaXN0b3J5IjpbLTUxNzIyMjQxOCwtNjYxOTQ5OTA0LC03ND
+A0NjEzNTYsLTI0MDEwMzM0NiwtNTUxNTc3Nzk1LDEyNzc3OTU3
+NTcsMjA0MDYyNjA1MCw3Mzc4OTY4NDIsLTY1OTI3MjQyMCwtMT
+I4OTUxNzA1LC02MTk4NjIwMDMsNTA4NzcwMjkwLC0yMTE1MTE5
+ODUxLC0xMzAzNzY0Njk5LC04NjMwMzE2MTNdfQ==
 -->
