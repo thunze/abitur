@@ -3,14 +3,19 @@
 ## General aspects of political rhetoric
 
 ### Introduction
-- purpose of the speech
-- mentioning the topic and emphasizing its importance
-- beginning with a question or a little story
+- making clear the **purpose** of the speech
+- mentioning the topic and emphasizing its **importance**
+- beginning with a **question** or a **little story**
 
 ### Main part
-- forming rather short and clear sentences
-- developing thoughts step by step
-- 
+- trying to maintain the audience's attention
+- forming rather **short** and **clear** sentences
+- developing thoughts **step by step**
+- backing up with **facts** and **background information**
+- using *stylistic devices* and *rhetorical strategies*
+
+### Conclusion
+
 
 ## Common newspapers
 
@@ -20,5 +25,5 @@
 	- quality content
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MjIzMzI5MF19
+eyJoaXN0b3J5IjpbLTMwMzIyMTIyN119
 -->
