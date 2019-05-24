@@ -10,8 +10,9 @@
 
 ### Introduction
 - purpose of the analysis **> *task***
-	- e. g. *"The purpose of this analysis is to discover the real intention of the speaker / politician / author and" how he tries to influence the audience / readership.*
-- ***thesis*** (e. g. *"He / She uses many different strategies to [...]"*)
+	- e. g. *"The purpose of this analysis is to discover the real intention of the speaker / politician / author and how he / she tries to influence the audience / readership."*
+- ***thesis***
+	- e. g. *"He / She uses many different strategies to [...]"*
 
 ### Main part – Speech
 - analysis of the structure (introduction, main part, conclusion)
@@ -25,7 +26,7 @@
 - *broadsheet* or *tabloid*
 - headline
 - analyze each section on its **own**
-- type of newspaper article **> *TODO***
+- type of newspaper article
 	- *news report:* short, only facts /
 	- *news story:* long, background information, story-like introduction etc. /
 	- *editorial / column:* expresses the newspaper's or the journalist's opinion / experience of the author
@@ -120,7 +121,7 @@
 - ***language:*** emotional, scientific, formal, informal etc.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MDI2MjM2NywtNjYxOTQ5OTA0LC03ND
+eyJoaXN0b3J5IjpbLTIwODE0NzgxNCwtNjYxOTQ5OTA0LC03ND
 A0NjEzNTYsLTI0MDEwMzM0NiwtNTUxNTc3Nzk1LDEyNzc3OTU3
 NTcsMjA0MDYyNjA1MCw3Mzc4OTY4NDIsLTY1OTI3MjQyMCwtMT
 I4OTUxNzA1LC02MTk4NjIwMDMsNTA4NzcwMjkwLC0yMTE1MTE5
