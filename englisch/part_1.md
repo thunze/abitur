@@ -11,7 +11,7 @@
 ### Introduction
 - purpose of the analysis **> *task***
 	- e. g. *"The purpose of this analysis is to discover the real intention of the speaker / politician / author and" how he tries to influence the audience / readership.*
-- ***thesis*** (e. g. *"x uses many different strategies to y z"*)
+- ***thesis*** (e. g. *" uses many different strategies to [...]"*)
 
 ### Main part – Speech
 - analysis of the structure (introduction, main part, conclusion)
@@ -32,6 +32,7 @@
 - *stylistic devices* and *rhetorical strategies* (incl. language)
 
 ### Conclusion
+- *"to get back to the beginning, these examples [...]"*
 - summary of the most important aspects and *stylistic devices*
 - refer to the ***thesis***
 
@@ -115,9 +116,9 @@
 - ***language:*** emotional, scientific, formal, informal etc.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI5MjYzNDc2LC03NDA0NjEzNTYsLTI0MD
-EwMzM0NiwtNTUxNTc3Nzk1LDEyNzc3OTU3NTcsMjA0MDYyNjA1
-MCw3Mzc4OTY4NDIsLTY1OTI3MjQyMCwtMTI4OTUxNzA1LC02MT
-k4NjIwMDMsNTA4NzcwMjkwLC0yMTE1MTE5ODUxLC0xMzAzNzY0
-Njk5LC04NjMwMzE2MTNdfQ==
+eyJoaXN0b3J5IjpbLTIwMDcxODQ3OTUsLTc0MDQ2MTM1NiwtMj
+QwMTAzMzQ2LC01NTE1Nzc3OTUsMTI3Nzc5NTc1NywyMDQwNjI2
+MDUwLDczNzg5Njg0MiwtNjU5MjcyNDIwLC0xMjg5NTE3MDUsLT
+YxOTg2MjAwMyw1MDg3NzAyOTAsLTIxMTUxMTk4NTEsLTEzMDM3
+NjQ2OTksLTg2MzAzMTYxM119
 -->
