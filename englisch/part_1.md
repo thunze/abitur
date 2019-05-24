@@ -97,8 +97,9 @@
 - ***giving facts and numbers:*** surveys and statistics are mentioned
 - ***quoting experts / referring to authorities***
 - ***including personal experience of affected people***
-- ***making (unfounded) claims:*** instead 
+- ***making (unfounded) claims:*** instead of well-founded arguments **> no room left for doubt or questions**
 - ***giving arguments***
+	- ***order of arguments***
 - ***giving examples***
 - ***hyperbole / exaggerating***
 - ***using humour / irony / sarcasm***
@@ -106,7 +107,7 @@
 - ***use of the first person plural:*** involves the audience and presupposes that everybody else agrees
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkyOTA0NDM2LC0yNDAxMDMzNDYsLTU1MT
+eyJoaXN0b3J5IjpbLTE2MzA4OTEzLC0yNDAxMDMzNDYsLTU1MT
 U3Nzc5NSwxMjc3Nzk1NzU3LDIwNDA2MjYwNTAsNzM3ODk2ODQy
 LC02NTkyNzI0MjAsLTEyODk1MTcwNSwtNjE5ODYyMDAzLDUwOD
 c3MDI5MCwtMjExNTExOTg1MSwtMTMwMzc2NDY5OSwtODYzMDMx
