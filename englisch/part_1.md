@@ -73,7 +73,6 @@
 - ***contrast:*** opposition of two extremes, e. g. *"black and white"*
 - ***enumeration***
 - ***euphemism:*** indirect phrase to refer to sth. bad, e. g. *"to pass away"*
-- ***hyperbole***
 - ***irony:*** the use of words that say the opposite of what is really meant
 - ***metaphor***
 - ***onomatopoeia:*** *Lautmalerei*
@@ -98,16 +97,16 @@
 - ***giving facts and numbers:*** surveys and statistics are mentioned
 - ***quoting experts / referring to authorities***
 - ***including personal experience of affected people***
-- ***making claims:*** based on evidence
+- ***making (unfounded) claims:*** instead 
 - ***giving arguments***
 - ***giving examples***
-- ***exaggerating***
+- ***hyperbole / exaggerating***
 - ***using humour / irony / sarcasm***
 - ***directly adressing the audience***
 - ***use of the first person plural:*** involves the audience and presupposes that everybody else agrees
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2Mjk2MDU2LC0yNDAxMDMzNDYsLTU1MT
+eyJoaXN0b3J5IjpbNjkyOTA0NDM2LC0yNDAxMDMzNDYsLTU1MT
 U3Nzc5NSwxMjc3Nzk1NzU3LDIwNDA2MjYwNTAsNzM3ODk2ODQy
 LC02NTkyNzI0MjAsLTEyODk1MTcwNSwtNjE5ODYyMDAzLDUwOD
 c3MDI5MCwtMjExNTExOTg1MSwtMTMwMzc2NDY5OSwtODYzMDMx
