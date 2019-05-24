@@ -48,14 +48,6 @@
 
 ## General stuff
 
-### Typical 
-
-### Common newspapers
-- ***tabloid:*** Daily Mail, The Mail on Sunday, Daily Mirror, Sunday People, The Sun, *-Express, *-Star etc.
-	- emotive and **colloquial** language
-- ***broadsheet:*** The Times, The Daily Telegraph, The Guardian, The Observer, i etc.
-	- quality content
-
 ### Hints
 - **always *quote* from the text** / mention the important lines in text
 	- *direct quote:* (l. 1) / (l. 2f.) / (l. 33ff.) / (l. 33-40)
@@ -115,8 +107,9 @@
 - ***use of the first person plural:*** involves the audience and presupposes that everybody else agrees
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MDEwMzM0NiwtNTUxNTc3Nzk1LDEyNz
-c3OTU3NTcsMjA0MDYyNjA1MCw3Mzc4OTY4NDIsLTY1OTI3MjQy
-MCwtMTI4OTUxNzA1LC02MTk4NjIwMDMsNTA4NzcwMjkwLC0yMT
-E1MTE5ODUxLC0xMzAzNzY0Njk5LC04NjMwMzE2MTNdfQ==
+eyJoaXN0b3J5IjpbLTk2Mjk2MDU2LC0yNDAxMDMzNDYsLTU1MT
+U3Nzc5NSwxMjc3Nzk1NzU3LDIwNDA2MjYwNTAsNzM3ODk2ODQy
+LC02NTkyNzI0MjAsLTEyODk1MTcwNSwtNjE5ODYyMDAzLDUwOD
+c3MDI5MCwtMjExNTExOTg1MSwtMTMwMzc2NDY5OSwtODYzMDMx
+NjEzXX0=
 -->
