@@ -28,7 +28,7 @@
 - type of newspaper article **> *TODO***
 	- *news report:* short, only facts /
 	- *news story:* long, background information, story-like introduction etc. /
-	- *editorial / column:* expresses newspaper's o journalist's opinion / experience o f
+	- *editorial / column:* expresses the newspaper's or the journalist's opinion / experience of the author
 - ***train of thought*** (structure) – thesis? / example? / general issue?
 	- *"How does it convince the reader?"*
 - style, tone, register **> *TODO***
@@ -119,7 +119,7 @@
 - ***language:*** emotional, scientific, formal, informal etc.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NzQ0NDM1MywtNzQwNDYxMzU2LC0yND
+eyJoaXN0b3J5IjpbMTcxNDYyOTA3MSwtNzQwNDYxMzU2LC0yND
 AxMDMzNDYsLTU1MTU3Nzc5NSwxMjc3Nzk1NzU3LDIwNDA2MjYw
 NTAsNzM3ODk2ODQyLC02NTkyNzI0MjAsLTEyODk1MTcwNSwtNj
 E5ODYyMDAzLDUwODc3MDI5MCwtMjExNTExOTg1MSwtMTMwMzc2
