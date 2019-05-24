@@ -3,7 +3,7 @@
 ## Summary
 
 - **title, author, text type, date of publication, topic**
-- 4 or 5 sentences **main summary** **> present tense**
+- 5 or 6 sentences **main summary** **> present tense**
 - 1 or 2 sentences **conclusion**
 
 ## Analysis
@@ -104,7 +104,7 @@
 - (to) illustrate / visualize an idea
 - (to) persuade sb.
 
-### Rhetorical strategies
+### Communicative devices
 - ***giving facts and numbers:*** surveys and statistics are mentioned
 - ***quoting experts / referring to authorities***
 - ***including personal experience of affected people***
@@ -119,7 +119,7 @@
 - ***language:*** emotional, scientific, formal, informal etc.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNDYyOTA3MSwtNzQwNDYxMzU2LC0yND
+eyJoaXN0b3J5IjpbLTY2MTk0OTkwNCwtNzQwNDYxMzU2LC0yND
 AxMDMzNDYsLTU1MTU3Nzc5NSwxMjc3Nzk1NzU3LDIwNDA2MjYw
 NTAsNzM3ODk2ODQyLC02NTkyNzI0MjAsLTEyODk1MTcwNSwtNj
 E5ODYyMDAzLDUwODc3MDI5MCwtMjExNTExOTg1MSwtMTMwMzc2
