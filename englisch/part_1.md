@@ -16,7 +16,7 @@
 ### Main part – Speech
 - analysis of the structure (introduction, main part, conclusion)
 - analysis of **each** section regarding
-	- ***stylistic devices* and *rhetorical strategies*** (incl. language)
+	- ***stylistic devices* and *communicative devices*** (incl. language)
 		- only the most important ones, explanation + function / effect
 	- analysis of the ***content***
 - *"to get back to the beginning, these examples [...]":* show use of *language*
@@ -32,7 +32,7 @@
 - ***train of thought*** (structure) – thesis? / example? / general issue?
 	- *"How does it convince the reader?"*
 - style, tone, register **> *TODO***
-- *stylistic devices* and *rhetorical strategies*
+- *stylistic devices* and *communicative devices*
 - *"to get back to the beginning, these examples [...]":* show use of *language*
 
 ### Conclusion
@@ -119,9 +119,9 @@
 - ***language:*** emotional, scientific, formal, informal etc.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MTk0OTkwNCwtNzQwNDYxMzU2LC0yND
-AxMDMzNDYsLTU1MTU3Nzc5NSwxMjc3Nzk1NzU3LDIwNDA2MjYw
-NTAsNzM3ODk2ODQyLC02NTkyNzI0MjAsLTEyODk1MTcwNSwtNj
-E5ODYyMDAzLDUwODc3MDI5MCwtMjExNTExOTg1MSwtMTMwMzc2
-NDY5OSwtODYzMDMxNjEzXX0=
+eyJoaXN0b3J5IjpbLTE4MzAyMTA5MjgsLTY2MTk0OTkwNCwtNz
+QwNDYxMzU2LC0yNDAxMDMzNDYsLTU1MTU3Nzc5NSwxMjc3Nzk1
+NzU3LDIwNDA2MjYwNTAsNzM3ODk2ODQyLC02NTkyNzI0MjAsLT
+EyODk1MTcwNSwtNjE5ODYyMDAzLDUwODc3MDI5MCwtMjExNTEx
+OTg1MSwtMTMwMzc2NDY5OSwtODYzMDMxNjEzXX0=
 -->
