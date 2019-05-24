@@ -8,14 +8,16 @@
 - beginning with a **question** or a **little story**
 
 ### Main part
-- trying to maintain the audience's attention
+- trying to maintain the audience's **attention**
 - forming rather **short** and **clear** sentences
 - developing thoughts **step by step**
 - backing up with **facts** and **background information**
 - using *stylistic devices* and *rhetorical strategies*
 
 ### Conclusion
-
+- summing up the main arguments and thoughts
+- briefly mentioning the **outlook**
+- appealing to **intellect** and **emotion** of the audience
 
 ## Common newspapers
 
@@ -25,5 +27,5 @@
 	- quality content
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMzIyMTIyN119
+eyJoaXN0b3J5IjpbNTQ4NTgzNDE1XX0=
 -->
