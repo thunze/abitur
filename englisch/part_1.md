@@ -10,7 +10,7 @@
 
 ### Introduction
 - purpose of the analysis **> *task***
-	- e. g. *"The purpose of this analysis is to discover the real intention of the author /  and" how he tries to influence the audience / readership.*
+	- e. g. *"The purpose of this analysis is to discover the real intention of the speaker / politician / author and" how he tries to influence the audience / readership.*
 - ***thesis*** (e. g. *"x uses many different strategies to y z"*)
 
 ### Main part – Speech
@@ -115,9 +115,9 @@
 - ***language:*** emotional, scientific, formal, informal etc.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MDQ2MTM1NiwtMjQwMTAzMzQ2LC01NT
-E1Nzc3OTUsMTI3Nzc5NTc1NywyMDQwNjI2MDUwLDczNzg5Njg0
-MiwtNjU5MjcyNDIwLC0xMjg5NTE3MDUsLTYxOTg2MjAwMyw1MD
-g3NzAyOTAsLTIxMTUxMTk4NTEsLTEzMDM3NjQ2OTksLTg2MzAz
-MTYxM119
+eyJoaXN0b3J5IjpbMzI5MjYzNDc2LC03NDA0NjEzNTYsLTI0MD
+EwMzM0NiwtNTUxNTc3Nzk1LDEyNzc3OTU3NTcsMjA0MDYyNjA1
+MCw3Mzc4OTY4NDIsLTY1OTI3MjQyMCwtMTI4OTUxNzA1LC02MT
+k4NjIwMDMsNTA4NzcwMjkwLC0yMTE1MTE5ODUxLC0xMzAzNzY0
+Njk5LC04NjMwMzE2MTNdfQ==
 -->
