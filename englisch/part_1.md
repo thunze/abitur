@@ -105,9 +105,10 @@
 - ***using humour / irony / sarcasm***
 - ***directly adressing the audience***
 - ***use of the first person plural:*** involves the audience and presupposes that everybody else agrees
+- ***language:*** emotional, scientific, formal, informal etc.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDEwMjQ1MywtMjQwMTAzMzQ2LC01NT
+eyJoaXN0b3J5IjpbLTYxNDAzMjM0MCwtMjQwMTAzMzQ2LC01NT
 E1Nzc3OTUsMTI3Nzc5NTc1NywyMDQwNjI2MDUwLDczNzg5Njg0
 MiwtNjU5MjcyNDIwLC0xMjg5NTE3MDUsLTYxOTg2MjAwMyw1MD
 g3NzAyOTAsLTIxMTUxMTk4NTEsLTEzMDM3NjQ2OTksLTg2MzAz
