@@ -11,7 +11,7 @@
 ### Introduction
 - purpose of the analysis **> *task***
 	- e. g. *"The purpose of this analysis is to discover the real intention of the speaker / politician / author and" how he tries to influence the audience / readership.*
-- ***thesis*** (e. g. *" uses many different strategies to [...]"*)
+- ***thesis*** (e. g. *"He / She uses many different strategies to [...]"*)
 
 ### Main part – Speech
 - analysis of the structure (introduction, main part, conclusion)
@@ -19,20 +19,23 @@
 	- ***stylistic devices* and *rhetorical strategies*** (incl. language)
 		- only the most important ones, explanation + function / effect
 	- analysis of the ***content***
-- *objective* vs. *emotive* language
+- *"to get back to the beginning, these examples [...]":* show use of *language*
 
 ### Main part – Newspaper article
 - *broadsheet* or *tabloid*
 - headline
 - analyze each section on its **own**
 - type of newspaper article **> *TODO***
+	- *news report:*
+	- *new:*
+	- *news report:*
 - train of thought (structure) – thesis? / example? / general issue?
 	- *"How does it convince the reader?"*
 - style, tone, register **> *TODO***
-- *stylistic devices* and *rhetorical strategies* (incl. language)
+- *stylistic devices* and *rhetorical strategies*
+- *"to get back to the beginning, these examples [...]":* show use of *language*
 
 ### Conclusion
-- *"to get back to the beginning, these examples [...]"*
 - summary of the most important aspects and *stylistic devices*
 - refer to the ***thesis***
 
@@ -116,9 +119,9 @@
 - ***language:*** emotional, scientific, formal, informal etc.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDcxODQ3OTUsLTc0MDQ2MTM1NiwtMj
-QwMTAzMzQ2LC01NTE1Nzc3OTUsMTI3Nzc5NTc1NywyMDQwNjI2
-MDUwLDczNzg5Njg0MiwtNjU5MjcyNDIwLC0xMjg5NTE3MDUsLT
-YxOTg2MjAwMyw1MDg3NzAyOTAsLTIxMTUxMTk4NTEsLTEzMDM3
-NjQ2OTksLTg2MzAzMTYxM119
+eyJoaXN0b3J5IjpbMjAzNjY3ODQ2NSwtNzQwNDYxMzU2LC0yND
+AxMDMzNDYsLTU1MTU3Nzc5NSwxMjc3Nzk1NzU3LDIwNDA2MjYw
+NTAsNzM3ODk2ODQyLC02NTkyNzI0MjAsLTEyODk1MTcwNSwtNj
+E5ODYyMDAzLDUwODc3MDI5MCwtMjExNTExOTg1MSwtMTMwMzc2
+NDY5OSwtODYzMDMxNjEzXX0=
 -->
