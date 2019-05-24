@@ -12,7 +12,7 @@
 - forming rather **short** and **clear** sentences
 - developing thoughts **step by step**
 - backing up with **facts** and **background information**
-- using *stylistic devices* and *rhetorical strategies*
+- using *stylistic devices* and *communicative devices*
 
 ### Conclusion
 - summing up the main arguments and thoughts
@@ -27,5 +27,5 @@
 	- quality content
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ4NTgzNDE1XX0=
+eyJoaXN0b3J5IjpbLTE4Nzg5NDIyODAsNTQ4NTgzNDE1XX0=
 -->
