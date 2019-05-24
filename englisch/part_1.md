@@ -2,6 +2,9 @@
 
 ## Summary
 
+- title, author, text type, date of publication, **topic**
+- 
+
 ## Analysis
 
 ### Introduction
@@ -11,7 +14,8 @@
 ### Main part – Speech
 - analysis of the structure (introduction, main part, conclusion)
 - analysis of **each** section regarding
-	- ***stylistic devices* and *rhetorical strategies***: only the most important ones, explanation + function / effect
+	- ***stylistic devices* and *rhetorical strategies*** (incl. language)
+		- only the most important ones, explanation + function / effect
 	- analysis of the ***content***
 - *objective* vs. *emotive* language
 
@@ -23,7 +27,7 @@
 - train of thought (structure) – thesis? / example? / general issue?
 	- *"How does it convince the reader?"*
 - style, tone, register **> *TODO***
-- *stylistic devices* and *rhetorical strategies* (including *emphasized text*)
+- *stylistic devices* and *rhetorical strategies* (incl. language)
 
 ### Conclusion
 - summary of the most important aspects and *stylistic devices*
@@ -109,7 +113,7 @@
 - ***language:*** emotional, scientific, formal, informal etc.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODQ2NDk2NzksLTI0MDEwMzM0NiwtNT
+eyJoaXN0b3J5IjpbLTExNjc2MjM4MjMsLTI0MDEwMzM0NiwtNT
 UxNTc3Nzk1LDEyNzc3OTU3NTcsMjA0MDYyNjA1MCw3Mzc4OTY4
 NDIsLTY1OTI3MjQyMCwtMTI4OTUxNzA1LC02MTk4NjIwMDMsNT
 A4NzcwMjkwLC0yMTE1MTE5ODUxLC0xMzAzNzY0Njk5LC04NjMw
