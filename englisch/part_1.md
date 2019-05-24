@@ -48,6 +48,8 @@
 
 ## General stuff
 
+### Typical 
+
 ### Common newspapers
 - ***tabloid:*** Daily Mail, The Mail on Sunday, Daily Mirror, Sunday People, The Sun, *-Express, *-Star etc.
 	- emotive and **colloquial** language
@@ -113,8 +115,8 @@
 - ***use of the first person plural:*** involves the audience and presupposes that everybody else agrees
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MTU3Nzc5NSwxMjc3Nzk1NzU3LDIwND
-A2MjYwNTAsNzM3ODk2ODQyLC02NTkyNzI0MjAsLTEyODk1MTcw
-NSwtNjE5ODYyMDAzLDUwODc3MDI5MCwtMjExNTExOTg1MSwtMT
-MwMzc2NDY5OSwtODYzMDMxNjEzXX0=
+eyJoaXN0b3J5IjpbLTI0MDEwMzM0NiwtNTUxNTc3Nzk1LDEyNz
+c3OTU3NTcsMjA0MDYyNjA1MCw3Mzc4OTY4NDIsLTY1OTI3MjQy
+MCwtMTI4OTUxNzA1LC02MTk4NjIwMDMsNTA4NzcwMjkwLC0yMT
+E1MTE5ODUxLC0xMzAzNzY0Njk5LC04NjMwMzE2MTNdfQ==
 -->
