@@ -26,7 +26,7 @@
 - *broadsheet* or *tabloid*
 - headline
 - analyze each section on its **own**
-- type of newspaper article
+- **type of newspaper article:**
 	- *news report:* short, only facts /
 	- *news story:* long, background information, story-like introduction etc. /
 	- *editorial / column:* expresses the newspaper's or the journalist's opinion / experience of the author
@@ -37,6 +37,8 @@
 - *"To get back to the beginning, these examples [...]":* show use of *language*
 
 ### Main part – fictional text
+- *stylistic devices*
+- *"To get back to the beginning, these examples [...]":* show use of *language*
 
 ### Conclusion
 - summary of the most important aspects and *stylistic devices*
@@ -124,7 +126,7 @@
 - ***language:*** emotional, scientific, formal, informal etc.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzYwMTg0NDAsMTQ4MTg2MjA0NSwtMj
+eyJoaXN0b3J5IjpbLTExNDAzODEzMzUsMTQ4MTg2MjA0NSwtMj
 A4MTQ3ODE0LC0yMDgxNDc4MTQsLTY2MTk0OTkwNCwtNzQwNDYx
 MzU2LC0yNDAxMDMzNDYsLTU1MTU3Nzc5NSwxMjc3Nzk1NzU3LD
 IwNDA2MjYwNTAsNzM3ODk2ODQyLC02NTkyNzI0MjAsLTEyODk1
