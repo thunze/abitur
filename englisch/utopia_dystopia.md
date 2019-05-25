@@ -1,9 +1,12 @@
 # Utopian and dystopian society
 
-## Properties of a dystopian society
+## Characteristics of a dystopian society
 
 - people need to accomplish **senseless tasks**
-- treatment of humankind as **scientific objects**
+- treatment of humankind as **scientific objects** / dehumanized state
+- fear of the outside world
+- society as an illusion of a perfect utopian world
+- worshipping of a figurehead or concept
 
 ## Organ donation
 
@@ -14,5 +17,5 @@
 	- better solution: people can only **explicitly revoke** the permission to transplant organs after death
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1ODQ0MTU5LC02ODk3NzM4MzJdfQ==
+eyJoaXN0b3J5IjpbLTg3ODQ0MjA0MCwtNjg5NzczODMyXX0=
 -->
