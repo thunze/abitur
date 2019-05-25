@@ -37,7 +37,7 @@
 - *"To get back to the beginning, these examples [...]":* show use of *language*
 
 ### Main part – fictional text
-- *stylistic devices*
+- *stylistic devices* 
 - *"To get back to the beginning, these examples [...]":* show use of *language*
 
 ### Conclusion
@@ -126,10 +126,11 @@
 - ***language:*** emotional, scientific, formal, informal etc.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDAzODEzMzUsMTQ4MTg2MjA0NSwtMj
-A4MTQ3ODE0LC0yMDgxNDc4MTQsLTY2MTk0OTkwNCwtNzQwNDYx
-MzU2LC0yNDAxMDMzNDYsLTU1MTU3Nzc5NSwxMjc3Nzk1NzU3LD
-IwNDA2MjYwNTAsNzM3ODk2ODQyLC02NTkyNzI0MjAsLTEyODk1
-MTcwNSwtNjE5ODYyMDAzLDUwODc3MDI5MCwtMjExNTExOTg1MS
-wtMTMwMzc2NDY5OSwtODYzMDMxNjEzXX0=
+eyJoaXN0b3J5IjpbMTE2ODYzMjI4MSwtMTE0MDM4MTMzNSwxND
+gxODYyMDQ1LC0yMDgxNDc4MTQsLTIwODE0NzgxNCwtNjYxOTQ5
+OTA0LC03NDA0NjEzNTYsLTI0MDEwMzM0NiwtNTUxNTc3Nzk1LD
+EyNzc3OTU3NTcsMjA0MDYyNjA1MCw3Mzc4OTY4NDIsLTY1OTI3
+MjQyMCwtMTI4OTUxNzA1LC02MTk4NjIwMDMsNTA4NzcwMjkwLC
+0yMTE1MTE5ODUxLC0xMzAzNzY0Njk5LC04NjMwMzE2MTNdfQ==
+
 -->
