@@ -18,6 +18,12 @@
 - **problems – donor:** health issues after donation, relatives / health insurance agreement (you need an organ donor card)
 	- better solution: people can only **explicitly revoke** the permission to transplant organs after death
 
+## Organ sales
+
+| + | – |
+| --- | --- |
+| <li></li> | <li></li> |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzA5OTI4ODIsLTY4OTc3MzgzMl19
+eyJoaXN0b3J5IjpbNDYxNjUzMTAzLC0xMzcwOTkyODgyLC02OD
+k3NzM4MzJdfQ==
 -->
