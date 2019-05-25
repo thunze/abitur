@@ -12,9 +12,9 @@
 | <li>sharing of **knowledge** and **know-how**</li> | <li>may lead to an **unsustainable** lifestyle (limited resources, ***overconsumption***)</li> |
 | <li></li> | <li>*outsourcing* may lead to ***child labour***</li> |
 | <li>instant **information**</li> | <li>too much / low quality information</li> |
-| <li></li> | <li>insecure data</li> |
-| <li></li> | <li>censoring</li> |
+| <li>chance of *development aid* for developing countries</li> | <li>insecure data</li> |
+| <li></li> | <li>**censoring**</li> |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MzYyMTM3Ml19
+eyJoaXN0b3J5IjpbMjA3NzU5ODMyNF19
 -->
