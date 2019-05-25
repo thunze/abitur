@@ -8,7 +8,7 @@
 - society as an illusion of a perfect utopian world
 - worshipping of a figurehead or concept
 - distrust and banishment of the natural world
-- uniformity
+- uniformity / homogeneity
 
 ## Organ donation
 
@@ -19,5 +19,5 @@
 	- better solution: people can only **explicitly revoke** the permission to transplant organs after death
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MzE0NTEwMSwtNjg5NzczODMyXX0=
+eyJoaXN0b3J5IjpbLTEzNzA5OTI4ODIsLTY4OTc3MzgzMl19
 -->
