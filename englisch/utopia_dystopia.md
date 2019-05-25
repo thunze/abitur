@@ -4,8 +4,8 @@
 
 - **reasons:** cells get weak / infected, esp. *vital organs*
 - **organs that can be transplanted:** kidneys, pancreas, liver, lungs etc.
-- **problems – recipient:** 
-- - **problems – recipient:** 
+- **problems – recipient:** graft rejection (immune system issue)
+- **problems – donor:** 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2OTE4OTMxNV19
+eyJoaXN0b3J5IjpbOTU2NTUzNTcwXX0=
 -->
