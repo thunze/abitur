@@ -37,7 +37,7 @@
 - *"To get back to the beginning, these examples [...]":* show use of *language*
 
 ### Main part – fictional text
-- *stylistic devices* 
+- *stylistic devices* **> esp. *symbols***
 - *"To get back to the beginning, these examples [...]":* show use of *language*
 
 ### Conclusion
@@ -69,7 +69,7 @@
 - **always *quote* from the text** / mention the important lines in text
 	- *direct quote:* (l. 1) / (l. 2f.) / (l. 33ff.) / (l. 33-40)
 	- *indirect quote:* (cf. l. 5) / etc.
-- ***What is the connection between the text and the adressed topic studied in class?***
+- ***"What is the connection between the text and the adressed topic studied in class?" > attitude***
 - use of *present tense* *(simple present / present perfect)*
 - use of objective language
 - use of own words
@@ -126,11 +126,11 @@
 - ***language:*** emotional, scientific, formal, informal etc.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2ODYzMjI4MSwtMTE0MDM4MTMzNSwxND
-gxODYyMDQ1LC0yMDgxNDc4MTQsLTIwODE0NzgxNCwtNjYxOTQ5
-OTA0LC03NDA0NjEzNTYsLTI0MDEwMzM0NiwtNTUxNTc3Nzk1LD
-EyNzc3OTU3NTcsMjA0MDYyNjA1MCw3Mzc4OTY4NDIsLTY1OTI3
-MjQyMCwtMTI4OTUxNzA1LC02MTk4NjIwMDMsNTA4NzcwMjkwLC
-0yMTE1MTE5ODUxLC0xMzAzNzY0Njk5LC04NjMwMzE2MTNdfQ==
+eyJoaXN0b3J5IjpbLTE5MzA1NTcyMzYsLTExNDAzODEzMzUsMT
+Q4MTg2MjA0NSwtMjA4MTQ3ODE0LC0yMDgxNDc4MTQsLTY2MTk0
+OTkwNCwtNzQwNDYxMzU2LC0yNDAxMDMzNDYsLTU1MTU3Nzc5NS
+wxMjc3Nzk1NzU3LDIwNDA2MjYwNTAsNzM3ODk2ODQyLC02NTky
+NzI0MjAsLTEyODk1MTcwNSwtNjE5ODYyMDAzLDUwODc3MDI5MC
+wtMjExNTExOTg1MSwtMTMwMzc2NDY5OSwtODYzMDMxNjEzXX0=
 
 -->
