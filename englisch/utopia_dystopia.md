@@ -22,8 +22,11 @@
 
 | + | – |
 | --- | --- |
+| <li>gives people a chance to live a better life</li> | <li>financial situation may lead to health issues</li> |
+| <li>gives more people a chance to stay alive (shortage)</li> | <li></li> |
+| <li></li> | <li></li> |
 | <li></li> | <li></li> |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYxNjUzMTAzLC0xMzcwOTkyODgyLC02OD
-k3NzM4MzJdfQ==
+eyJoaXN0b3J5IjpbMTA4MDg3NjU5MiwtMTM3MDk5Mjg4MiwtNj
+g5NzczODMyXX0=
 -->
