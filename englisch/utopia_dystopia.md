@@ -20,13 +20,13 @@
 
 ## Organ sales
 
-| + | – |
+| chances | challenges |
 | --- | --- |
 | <li>gives people a chance to live a better life</li> | <li>financial situation may lead to health issues</li> |
-| <li>gives more people a chance to stay alive (shortage)</li> | <li></li> |
-| <li></li> | <li></li> |
+| <li>gives more people a chance to stay alive (shortage)</li> | <li>potential explotation of the vulnerable situation of affected people</li> |
+| <li>bad government</li> | <li></li> |
 | <li></li> | <li></li> |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MDg3NjU5MiwtMTM3MDk5Mjg4MiwtNj
-g5NzczODMyXX0=
+eyJoaXN0b3J5IjpbLTExMjExMzU4NDgsLTEzNzA5OTI4ODIsLT
+Y4OTc3MzgzMl19
 -->
