@@ -36,6 +36,8 @@
 - *stylistic devices* and *communicative devices*
 - *"To get back to the beginning, these examples [...]":* show use of *language*
 
+### Main part – fictional
+
 ### Conclusion
 - summary of the most important aspects and *stylistic devices*
 - refer to the ***thesis***
@@ -122,7 +124,7 @@
 - ***language:*** emotional, scientific, formal, informal etc.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwODkyNjAwNiwtMjA4MTQ3ODE0LC0yMD
+eyJoaXN0b3J5IjpbMTQ4MTg2MjA0NSwtMjA4MTQ3ODE0LC0yMD
 gxNDc4MTQsLTY2MTk0OTkwNCwtNzQwNDYxMzU2LC0yNDAxMDMz
 NDYsLTU1MTU3Nzc5NSwxMjc3Nzk1NzU3LDIwNDA2MjYwNTAsNz
 M3ODk2ODQyLC02NTkyNzI0MjAsLTEyODk1MTcwNSwtNjE5ODYy
