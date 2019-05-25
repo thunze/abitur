@@ -9,9 +9,12 @@
 | <li>technological development</li> | <li>risk of **exploitation**</li> |
 | <li>international connection</li> | <li>industry influences the **environment**</li> |
 | <li>**political** and **cultural** exchange</li> | <li>**unfair distribution** of wealth and power (*global players* dominate the international market)</li> |
-| <li>sharing of **knowledge** and **know-how**</li> | <li>may lead to an **unsustainable** lifestyle (limited resources are overused etc.)</li> |
+| <li>sharing of **knowledge** and **know-how**</li> | <li>may lead to an **unsustainable** lifestyle (limited resources, ***overconsumption***)</li> |
 | <li></li> | <li>*outsourcing* may lead to ***child labour***</li> |
+| <li>instant **information**</li> | <li>too much / low quality information</li> |
+| <li></li> | <li>insecure data</li> |
+| <li></li> | <li>censoring</li> |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE1MDk4NTYyXX0=
+eyJoaXN0b3J5IjpbLTU0MzYyMTM3Ml19
 -->
