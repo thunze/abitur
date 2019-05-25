@@ -1,5 +1,5 @@
 # How-to – *Oral Exam: Part 1*
-[https://github.com/wycedev/abitur](https://github.com/wycedev/abitur)
+
 ## Summary
 
 - **title, author, text type, date of publication, topic**
@@ -121,10 +121,10 @@
 - ***language:*** emotional, scientific, formal, informal etc.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjYxODY5NDMsLTIwODE0NzgxNCwtNj
-YxOTQ5OTA0LC03NDA0NjEzNTYsLTI0MDEwMzM0NiwtNTUxNTc3
-Nzk1LDEyNzc3OTU3NTcsMjA0MDYyNjA1MCw3Mzc4OTY4NDIsLT
-Y1OTI3MjQyMCwtMTI4OTUxNzA1LC02MTk4NjIwMDMsNTA4Nzcw
-MjkwLC0yMTE1MTE5ODUxLC0xMzAzNzY0Njk5LC04NjMwMzE2MT
-NdfQ==
+eyJoaXN0b3J5IjpbLTIwODE0NzgxNCwtMjA4MTQ3ODE0LC02Nj
+E5NDk5MDQsLTc0MDQ2MTM1NiwtMjQwMTAzMzQ2LC01NTE1Nzc3
+OTUsMTI3Nzc5NTc1NywyMDQwNjI2MDUwLDczNzg5Njg0MiwtNj
+U5MjcyNDIwLC0xMjg5NTE3MDUsLTYxOTg2MjAwMyw1MDg3NzAy
+OTAsLTIxMTUxMTk4NTEsLTEzMDM3NjQ2OTksLTg2MzAzMTYxM1
+19
 -->
