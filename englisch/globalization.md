@@ -13,8 +13,8 @@
 | <li></li> | <li>*outsourcing* may lead to ***child labour***</li> |
 | <li>instant **information**</li> | <li>too much / low quality information</li> |
 | <li>chance of *development aid* for developing countries</li> | <li>insecure data</li> |
-| <li></li> | <li>**censoring**</li> |
+| <li>accessibility via mobile / internet technology</li> | <li>**censoring**</li> |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NzU5ODMyNF19
+eyJoaXN0b3J5IjpbMTgwMzU2NzI0LDIwNzc1OTgzMjRdfQ==
 -->
