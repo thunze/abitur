@@ -39,6 +39,8 @@
 ### Main part – fictional text
 - *stylistic devices* **> esp. *symbols***
 - *"To get back to the beginning, these examples [...]":* show use of *language*
+- *point of view*
+- *narrative perspective* and *narrative techniques* **> TODO, book S8**
 
 ### Conclusion
 - summary of the most important aspects and *stylistic devices*
@@ -126,11 +128,11 @@
 - ***language:*** emotional, scientific, formal, informal etc.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzA1NTcyMzYsLTExNDAzODEzMzUsMT
-Q4MTg2MjA0NSwtMjA4MTQ3ODE0LC0yMDgxNDc4MTQsLTY2MTk0
-OTkwNCwtNzQwNDYxMzU2LC0yNDAxMDMzNDYsLTU1MTU3Nzc5NS
-wxMjc3Nzk1NzU3LDIwNDA2MjYwNTAsNzM3ODk2ODQyLC02NTky
-NzI0MjAsLTEyODk1MTcwNSwtNjE5ODYyMDAzLDUwODc3MDI5MC
-wtMjExNTExOTg1MSwtMTMwMzc2NDY5OSwtODYzMDMxNjEzXX0=
+eyJoaXN0b3J5IjpbLTQ0Mjc4MDE2NCwtMTE0MDM4MTMzNSwxND
+gxODYyMDQ1LC0yMDgxNDc4MTQsLTIwODE0NzgxNCwtNjYxOTQ5
+OTA0LC03NDA0NjEzNTYsLTI0MDEwMzM0NiwtNTUxNTc3Nzk1LD
+EyNzc3OTU3NTcsMjA0MDYyNjA1MCw3Mzc4OTY4NDIsLTY1OTI3
+MjQyMCwtMTI4OTUxNzA1LC02MTk4NjIwMDMsNTA4NzcwMjkwLC
+0yMTE1MTE5ODUxLC0xMzAzNzY0Njk5LC04NjMwMzE2MTNdfQ==
 
 -->
