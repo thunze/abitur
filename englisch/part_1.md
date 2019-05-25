@@ -36,7 +36,7 @@
 - *stylistic devices* and *communicative devices*
 - *"To get back to the beginning, these examples [...]":* show use of *language*
 
-### Main part – fictional
+### Main part – fictional text
 
 ### Conclusion
 - summary of the most important aspects and *stylistic devices*
@@ -124,10 +124,10 @@
 - ***language:*** emotional, scientific, formal, informal etc.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MTg2MjA0NSwtMjA4MTQ3ODE0LC0yMD
-gxNDc4MTQsLTY2MTk0OTkwNCwtNzQwNDYxMzU2LC0yNDAxMDMz
-NDYsLTU1MTU3Nzc5NSwxMjc3Nzk1NzU3LDIwNDA2MjYwNTAsNz
-M3ODk2ODQyLC02NTkyNzI0MjAsLTEyODk1MTcwNSwtNjE5ODYy
-MDAzLDUwODc3MDI5MCwtMjExNTExOTg1MSwtMTMwMzc2NDY5OS
-wtODYzMDMxNjEzXX0=
+eyJoaXN0b3J5IjpbLTE2MzYwMTg0NDAsMTQ4MTg2MjA0NSwtMj
+A4MTQ3ODE0LC0yMDgxNDc4MTQsLTY2MTk0OTkwNCwtNzQwNDYx
+MzU2LC0yNDAxMDMzNDYsLTU1MTU3Nzc5NSwxMjc3Nzk1NzU3LD
+IwNDA2MjYwNTAsNzM3ODk2ODQyLC02NTkyNzI0MjAsLTEyODk1
+MTcwNSwtNjE5ODYyMDAzLDUwODc3MDI5MCwtMjExNTExOTg1MS
+wtMTMwMzc2NDY5OSwtODYzMDMxNjEzXX0=
 -->
