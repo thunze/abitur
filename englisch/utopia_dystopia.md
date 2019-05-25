@@ -24,9 +24,9 @@
 | --- | --- |
 | <li>gives people a chance to live a better life</li> | <li>financial situation may lead to health issues</li> |
 | <li>gives more people a chance to stay alive (shortage)</li> | <li>potential explotation of the vulnerable situation of affected people</li> |
-| <li>bad government</li> | <li></li> |
-| <li></li> | <li></li> |
+| <li>bad governmental control</li> | <li>undermines human dignity</li> |
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjExMzU4NDgsLTEzNzA5OTI4ODIsLT
+eyJoaXN0b3J5IjpbLTEyMzcyOTQyODMsLTEzNzA5OTI4ODIsLT
 Y4OTc3MzgzMl19
 -->
