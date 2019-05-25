@@ -2,7 +2,7 @@
 
 ## Chances & challenges
 
-| Chances | Challenges |
+| chances | challenges |
 | --- | --- |
 | <li>global availability of products and services</li> | <li>global expansion of the criminal market</li> |
 | <li>poor countries get the chance to develop</li> | <li>many people need to get a job in other countries because of the growth of population **> urbanization**</li> |
@@ -16,5 +16,6 @@
 | <li>accessibility via mobile / internet technology</li> | <li>**censoring**</li> |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMzU2NzI0LDIwNzc1OTgzMjRdfQ==
+eyJoaXN0b3J5IjpbMTMyMTAzNTMxNiwxODAzNTY3MjQsMjA3Nz
+U5ODMyNF19
 -->
