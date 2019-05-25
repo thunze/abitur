@@ -65,6 +65,7 @@
 - **always *quote* from the text** / mention the important lines in text
 	- *direct quote:* (l. 1) / (l. 2f.) / (l. 33ff.) / (l. 33-40)
 	- *indirect quote:* (cf. l. 5) / etc.
+- *What is the connection between the text and the adressed topic?* 
 - use of *present tense* *(simple present / present perfect)*
 - use of objective language
 - use of own words
@@ -121,10 +122,10 @@
 - ***language:*** emotional, scientific, formal, informal etc.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODE0NzgxNCwtMjA4MTQ3ODE0LC02Nj
-E5NDk5MDQsLTc0MDQ2MTM1NiwtMjQwMTAzMzQ2LC01NTE1Nzc3
-OTUsMTI3Nzc5NTc1NywyMDQwNjI2MDUwLDczNzg5Njg0MiwtNj
-U5MjcyNDIwLC0xMjg5NTE3MDUsLTYxOTg2MjAwMyw1MDg3NzAy
-OTAsLTIxMTUxMTk4NTEsLTEzMDM3NjQ2OTksLTg2MzAzMTYxM1
-19
+eyJoaXN0b3J5IjpbLTIwNDUwNDI5NDksLTIwODE0NzgxNCwtMj
+A4MTQ3ODE0LC02NjE5NDk5MDQsLTc0MDQ2MTM1NiwtMjQwMTAz
+MzQ2LC01NTE1Nzc3OTUsMTI3Nzc5NTc1NywyMDQwNjI2MDUwLD
+czNzg5Njg0MiwtNjU5MjcyNDIwLC0xMjg5NTE3MDUsLTYxOTg2
+MjAwMyw1MDg3NzAyOTAsLTIxMTUxMTk4NTEsLTEzMDM3NjQ2OT
+ksLTg2MzAzMTYxM119
 -->
