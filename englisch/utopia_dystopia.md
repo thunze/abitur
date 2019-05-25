@@ -2,7 +2,8 @@
 
 ## Properties of a dystopian society
 
-- people need to accomplish senseless tasks
+- people need to accomplish **senseless tasks**
+- treatment of humankind as **scientific objects**
 
 ## Organ donation
 
@@ -13,5 +14,5 @@
 	- better solution: people can only **explicitly revoke** the permission to transplant organs after death
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzI1NzMwNzMsLTY4OTc3MzgzMl19
+eyJoaXN0b3J5IjpbMTg1ODQ0MTU5LC02ODk3NzM4MzJdfQ==
 -->
