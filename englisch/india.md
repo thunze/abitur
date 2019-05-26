@@ -17,10 +17,6 @@
 
 ## Today's situation
 
-### Economics
-- IT services industry developed in the 90s, major economic factor
-- 
-
 ### Culture
 - many languages
 - **religions:**
@@ -36,9 +32,9 @@
 - many people living under very bad conditions (e. g. in *Slums* with bad infrastructure and without support from the gov.) 
 - large railway network, too many people using it
 - **Delhi** as the largest city of India (22 million citizens), the Indian government is located in **New Delhi**
-- summer 
+- summer monsoon has a great impact on the living conditions as some people reside in houses which are not water-proof
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MjMzMzY4MywxNzgwNTczNTEzLC0yNT
+eyJoaXN0b3J5IjpbMTIyMzI2MTkwOSwxNzgwNTczNTEzLC0yNT
 M3ODM0MzcsLTk2NjcyNzI3NywtMzc4MzI0NzkyLDEzMzI2NDEy
 NTgsMTI2NjIwNzg1N119
 -->
