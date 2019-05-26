@@ -26,8 +26,12 @@
 | <li>gives more people a chance to stay alive (shortage)</li> | <li>potential explotation of the vulnerable situation of affected people</li> |
 | <li>bad governmental control</li> | <li>undermines human dignity</li> |
 
-## 
+## Genetic engineering regarding DNA mofication before birth
+
+| chances | challenges |
+| --- | --- |
+| <li><
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNDkwMzE4NSwtMTIzNzI5NDI4MywtMT
-M3MDk5Mjg4MiwtNjg5NzczODMyXX0=
+eyJoaXN0b3J5IjpbLTE0NTIyMDYyMTYsLTEyMzcyOTQyODMsLT
+EzNzA5OTI4ODIsLTY4OTc3MzgzMl19
 -->
