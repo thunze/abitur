@@ -9,9 +9,9 @@
 	- high poverty rate, mainly because of high taxes
 	- bad living conditions
 - **1947:** India's independence
-	- India 
+	- India got splitted up into today's India (Hinduism predominant) and Pakistan (Islam predominant)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjE1NzE2ODYsMTMzMjY0MTI1OCwxMj
+eyJoaXN0b3J5IjpbLTEwNjIyMjUwMzMsMTMzMjY0MTI1OCwxMj
 Y2MjA3ODU3XX0=
 -->
