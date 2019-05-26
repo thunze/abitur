@@ -21,13 +21,17 @@
 - IT services industry developed in the 90s, major economic factor
 - 
 
-### Culture & People
+### Culture
 - many languages
 - **religions:**
 - *dabbawallas* deliver home-cooked food to offices in Mumbai
 - The Gateway of India (Mumbai harbour) – ceremonial entrance for high UK governors (until 1947)
-- many people living under very bad conditions (e. g. in *Slums* with bad infrastructure and wit) 
+- 
+
+### Living
+- many people living under very bad conditions (e. g. in *Slums* with bad infrastructure and without support from the gov.) 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NDM2NzY0NSwtOTY2NzI3Mjc3LC0zNz
-gzMjQ3OTIsMTMzMjY0MTI1OCwxMjY2MjA3ODU3XX0=
+eyJoaXN0b3J5IjpbLTE4NTEwOTkwMDMsLTk2NjcyNzI3NywtMz
+c4MzI0NzkyLDEzMzI2NDEyNTgsMTI2NjIwNzg1N119
 -->
