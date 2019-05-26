@@ -56,7 +56,7 @@
 | <li>love might happen afterwards</li> | <li>no "actual" romance possible in the first place</li> |
 | <li>unattractive people also find a partner (may seem drastic)</li> | <li>you need time to get to knwo each other better</li> |
 | <li>expectations can be fulfilled</li> | <li>"love machinery" – people are rather treated as objects</li> |
-| <li>people may need help regarding dating</li> | <li>maybe</li> |
+| <li>people may need help regarding dating</li> | <li>almost no chance to get divorced again</li> |
 | <li>support from the regarding families</li> | <li></li> |
 | <li></li> | <li></li> |
 | <li></li> | <li></li> |
@@ -64,9 +64,10 @@
 | <li></li> | <li></li> |
 | <li></li> | <li></li> |
 
+**> really depends on the cultural circumsta**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjgzMTMyMDcsLTQ5NTYwMjg3OCwxNz
-c0MTU1MjgsNTY4NzcxOTg0LDE3ODA1NzM1MTMsLTI1Mzc4MzQz
-NywtOTY2NzI3Mjc3LC0zNzgzMjQ3OTIsMTMzMjY0MTI1OCwxMj
-Y2MjA3ODU3XX0=
+eyJoaXN0b3J5IjpbMTg5NjQ3MTQxMCwtNDk1NjAyODc4LDE3Nz
+QxNTUyOCw1Njg3NzE5ODQsMTc4MDU3MzUxMywtMjUzNzgzNDM3
+LC05NjY3MjcyNzcsLTM3ODMyNDc5MiwxMzMyNjQxMjU4LDEyNj
+YyMDc4NTddfQ==
 -->
