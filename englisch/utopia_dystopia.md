@@ -33,12 +33,12 @@
 | <li>prevention of diseases</li> | <li>abortions are unethical</li> |
 | <li>possibility of individual randomizing until it fits</li> | <li>**aim:** perfectionism / overfitting; disparities if not perfect</li> |
 | <li>relationships can be tested in advance (less suffering)</li> | <li>imperfect children may be even treated as worthless</li> |
-| <li>falling costs</li> | <li></li> |
-| <li>esp. incurable diseases can be a big burden</li> | <li></li> |
-| <li></li> | <li></li> |
+| <li>falling costs</li> | <li>no diversity in the end</li> |
+| <li>esp. incurable diseases can be a big burden</li> | <li>broken relationships</li> |
+| <li></li> | <li>could get "trendy" – human</li> |
 | <li></li> | <li></li> |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY3NDM2MzE1LC0xMjM3Mjk0MjgzLC0xMz
-cwOTkyODgyLC02ODk3NzM4MzJdfQ==
+eyJoaXN0b3J5IjpbMTEzNTIyMTc2MywtMTIzNzI5NDI4MywtMT
+M3MDk5Mjg4MiwtNjg5NzczODMyXX0=
 -->
