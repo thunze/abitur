@@ -36,12 +36,15 @@
 
 ### Economics
 - IT services industry developed in the 90s, major economic factor
-- street as the biggest employer **> informal sector**
+- street as the biggest employer, created 60% of India's gross savings **> informal sector**
 	- shopkeepers, delivering employees, creatives, vendors *(street hawkers)*
-		- 10 million street hawkers, 
+		- 10 million street hawkers, 60 million people dependent on them
+- 90% self-employed, 3% working in organized sector
+- economically **mighty** anyway
+- insecure working values but highly motivated
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODQwNTg3MDMsNTY4NzcxOTg0LDE3OD
-A1NzM1MTMsLTI1Mzc4MzQzNywtOTY2NzI3Mjc3LC0zNzgzMjQ3
-OTIsMTMzMjY0MTI1OCwxMjY2MjA3ODU3XX0=
+eyJoaXN0b3J5IjpbLTYyNzI5MjE4LDU2ODc3MTk4NCwxNzgwNT
+czNTEzLC0yNTM3ODM0MzcsLTk2NjcyNzI3NywtMzc4MzI0Nzky
+LDEzMzI2NDEyNTgsMTI2NjIwNzg1N119
 -->
