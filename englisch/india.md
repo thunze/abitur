@@ -51,9 +51,10 @@
 
 | chances | challenges |
 | --- | --- |
-
+| <li><
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NTYwMjg3OCwxNzc0MTU1MjgsNTY4Nz
-cxOTg0LDE3ODA1NzM1MTMsLTI1Mzc4MzQzNywtOTY2NzI3Mjc3
-LC0zNzgzMjQ3OTIsMTMzMjY0MTI1OCwxMjY2MjA3ODU3XX0=
+eyJoaXN0b3J5IjpbMTQ0ODMwNzYxNSwtNDk1NjAyODc4LDE3Nz
+QxNTUyOCw1Njg3NzE5ODQsMTc4MDU3MzUxMywtMjUzNzgzNDM3
+LC05NjY3MjcyNzcsLTM3ODMyNDc5MiwxMzMyNjQxMjU4LDEyNj
+YyMDc4NTddfQ==
 -->
