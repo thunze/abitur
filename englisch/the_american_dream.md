@@ -15,7 +15,8 @@
 	- independence from the UK
 	- every human being is equal
 - ***New Canaan:*** writers refer to that land (originally the land west of the river Jordan) as the American colonies to be *New Canaan* because of people fleeing there **because of religious persecution** etc.
-- ***Frontier:*** line of settlement / citizens **moving westwards** – territorial expansion **> myth > metaphor for success moving westwards**
+- ***Frontier:*** line of settlement / citizens **moving westwards** – territorial expansion **> myth**
+	**> metaphor for success moving westwards**
 - ***the stars and stripes / old glory:*** the American flag
 - ***melting pot:*** metaphor for the US **> *multiculturalism***
 - ***multiculturalism:*** cultural fragmentation vs. rights for minorities
@@ -23,7 +24,7 @@
 - ***opportunity, freedom, equality***
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk2Njk0MjQ0LC01MTUwMzY3NDYsLTYxNT
-ExNDQ5NCwtMTM4Nzk0MjcxMSwtMTkyNTE1NjE4Niw4MTg5NzAw
-MzQsLTIwMjk0MzYxOTQsLTcwOTA4ODQwMl19
+eyJoaXN0b3J5IjpbLTE5NzE4ODk4NjgsLTUxNTAzNjc0NiwtNj
+E1MTE0NDk0LC0xMzg3OTQyNzExLC0xOTI1MTU2MTg2LDgxODk3
+MDAzNCwtMjAyOTQzNjE5NCwtNzA5MDg4NDAyXX0=
 -->
