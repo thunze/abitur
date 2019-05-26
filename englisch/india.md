@@ -36,10 +36,12 @@
 
 ### Economics
 - IT services industry developed in the 90s, major economic factor
-- s
+- street as the biggest employer **> informal sector**
+	- shopkeepers, delivering employees, creatives, vendors *(street hawkers)*
+		- 10 million street hawkers, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDI0ODQxNzQsNTY4NzcxOTg0LDE3OD
+eyJoaXN0b3J5IjpbLTExODQwNTg3MDMsNTY4NzcxOTg0LDE3OD
 A1NzM1MTMsLTI1Mzc4MzQzNywtOTY2NzI3Mjc3LC0zNzgzMjQ3
 OTIsMTMzMjY0MTI1OCwxMjY2MjA3ODU3XX0=
 -->
