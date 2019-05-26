@@ -9,13 +9,13 @@
 	- high poverty rate, mainly because of high taxes
 	- bad living conditions
 - **1932:** George VI. is crowned, new spirit: patriotism, nationalism
-- **World War II:** every colony is forced to fight for the UK **> nb**
+- **World War II:** every colony is forced to fight for the UK **> no independence** in the first place
 - **1947:** India's independence (15th August)
 	- Mahatma Gandhi and Jawaharlal Nehru
 	- India got splitted up into today's India (Hinduism predominant) and Pakistan (Islam predominant)
 	- new flag
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzA1MTE0OTksLTM3ODMyNDc5MiwxMz
-MyNjQxMjU4LDEyNjYyMDc4NTddfQ==
+eyJoaXN0b3J5IjpbLTk2NjcyNzI3NywtMzc4MzI0NzkyLDEzMz
+I2NDEyNTgsMTI2NjIwNzg1N119
 -->
