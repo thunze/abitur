@@ -32,13 +32,13 @@
 - **population:**
 	- overall > 1.3 billion
 	- more males than females
-	- high population density (~382 per )
+	- high population density (~382 per km²)
 - many people living under very bad conditions (e. g. in *Slums* with bad infrastructure and without support from the gov.) 
 - large railway network, too many people using it
 - **Delhi** as the largest city of India (22 million citizens), the Indian government is located in **New Delhi**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNTk1NTk1NywtMjUzNzgzNDM3LC05Nj
+eyJoaXN0b3J5IjpbMTc4MDU3MzUxMywtMjUzNzgzNDM3LC05Nj
 Y3MjcyNzcsLTM3ODMyNDc5MiwxMzMyNjQxMjU4LDEyNjYyMDc4
 NTddfQ==
 -->
