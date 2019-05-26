@@ -52,9 +52,9 @@
 | chances | challenges |
 | --- | --- |
 | <li>(artifically) peaceful relationship</li> | <li>partner may not fit, but you can't do anything about it</li> |
-| <li>financial dependence on the other family</li> | <li></li> |
-| <li></li> | <li></li> |
-| <li></li> | <li></li> |
+| <li>financial dependence on the other family</li> | <li>no possibility to gain experience with different partners</li> |
+| <li>love might happen afterwards</li> | <li>no "actual" romance possible in the first place</li> |
+| <li>people who are </li> | <li></li> |
 | <li></li> | <li></li> |
 | <li></li> | <li></li> |
 | <li></li> | <li></li> |
@@ -65,7 +65,7 @@
 | <li></li> | <li></li> |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE0NjA0ODAzLC00OTU2MDI4NzgsMTc3ND
+eyJoaXN0b3J5IjpbNDg5NDA1MTE4LC00OTU2MDI4NzgsMTc3ND
 E1NTI4LDU2ODc3MTk4NCwxNzgwNTczNTEzLC0yNTM3ODM0Mzcs
 LTk2NjcyNzI3NywtMzc4MzI0NzkyLDEzMzI2NDEyNTgsMTI2Nj
 IwNzg1N119
