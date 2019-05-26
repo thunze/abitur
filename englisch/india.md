@@ -33,7 +33,7 @@
 - large railway network, too many people using it
 - **Delhi** as the largest city of India (22 million citizens), the Indian government is located in **New Delhi**
 - summer monsoon has a great impact on the living conditions as some people reside in houses which are not water-proof
-- **many disparities, local fragmentation**
+- **many *disparities*, local *fragmentation***
 
 ### Economics
 - IT services industry developed in the 90s, major economic factor
@@ -45,9 +45,10 @@
 - insecure working values but highly motivated
 	- "Indian mind": thinking **out of the box** **> cost-efficiency**
 	- the lateral approach has advantages
+- competing ideologies, may be the future
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyOTA3Nzg2Myw1Njg3NzE5ODQsMTc4MD
-U3MzUxMywtMjUzNzgzNDM3LC05NjY3MjcyNzcsLTM3ODMyNDc5
-MiwxMzMyNjQxMjU4LDEyNjYyMDc4NTddfQ==
+eyJoaXN0b3J5IjpbMTc3NDE1NTI4LDU2ODc3MTk4NCwxNzgwNT
+czNTEzLC0yNTM3ODM0MzcsLTk2NjcyNzI3NywtMzc4MzI0Nzky
+LDEzMzI2NDEyNTgsMTI2NjIwNzg1N119
 -->
