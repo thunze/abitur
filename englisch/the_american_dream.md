@@ -13,15 +13,17 @@
 	- phenomenon of the US in general, it is as old as America is
 - ***independence day:*** July 4, 1776 – *life, liberty and the pursuit of happiness ("das Streben nach Glück")*
 	- independence from the UK
-	- every human is equal
+	- every human being is equal
 - ***New Canaan:*** writers refer to that land (originally the land west of the river Jordan) as the American colonies to be *New Canaan* because of people fleeing there **because of religious persecution** etc.
 - ***Frontier:*** line of settlement / citizens **moving westwards** – territorial expansion **> myth**
 - ***the stars and stripes / old glory:*** the American flag
 - ***melting pot:*** metaphor for the US **> *multiculturalism***
 - ***multiculturalism:*** cultural fragmentation vs. rights for minorities
+- ***from rags to riches***
+- ***opportunity, freedom, equality***
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNTExNDQ5NCwtMTM4Nzk0MjcxMSwtMT
-kyNTE1NjE4Niw4MTg5NzAwMzQsLTIwMjk0MzYxOTQsLTcwOTA4
-ODQwMl19
+eyJoaXN0b3J5IjpbLTUxNTAzNjc0NiwtNjE1MTE0NDk0LC0xMz
+g3OTQyNzExLC0xOTI1MTU2MTg2LDgxODk3MDAzNCwtMjAyOTQz
+NjE5NCwtNzA5MDg4NDAyXX0=
 -->
