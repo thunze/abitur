@@ -26,7 +26,8 @@
 | <li>gives more people a chance to stay alive (shortage)</li> | <li>potential explotation of the vulnerable situation of affected people</li> |
 | <li>bad governmental control</li> | <li>undermines human dignity</li> |
 
+## 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzcyOTQyODMsLTEzNzA5OTI4ODIsLT
-Y4OTc3MzgzMl19
+eyJoaXN0b3J5IjpbMTUyNDkwMzE4NSwtMTIzNzI5NDI4MywtMT
+M3MDk5Mjg4MiwtNjg5NzczODMyXX0=
 -->
