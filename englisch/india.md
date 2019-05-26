@@ -51,10 +51,22 @@
 
 | chances | challenges |
 | --- | --- |
-| <li><
+| <li>(artifically) peaceful relationship</li> | <li>partner may not fit, but you can't do anything about it</li> |
+| <li>financial dependence on the other family</li> | <li></li> |
+| <li></li> | <li></li> |
+| <li></li> | <li></li> |
+| <li></li> | <li></li> |
+| <li></li> | <li></li> |
+| <li></li> | <li></li> |
+| <li></li> | <li></li> |
+| <li></li> | <li></li> |
+| <li></li> | <li></li> |
+| <li></li> | <li></li> |
+| <li></li> | <li></li> |
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0ODMwNzYxNSwtNDk1NjAyODc4LDE3Nz
-QxNTUyOCw1Njg3NzE5ODQsMTc4MDU3MzUxMywtMjUzNzgzNDM3
-LC05NjY3MjcyNzcsLTM3ODMyNDc5MiwxMzMyNjQxMjU4LDEyNj
-YyMDc4NTddfQ==
+eyJoaXN0b3J5IjpbOTE0NjA0ODAzLC00OTU2MDI4NzgsMTc3ND
+E1NTI4LDU2ODc3MTk4NCwxNzgwNTczNTEzLC0yNTM3ODM0Mzcs
+LTk2NjcyNzI3NywtMzc4MzI0NzkyLDEzMzI2NDEyNTgsMTI2Nj
+IwNzg1N119
 -->
