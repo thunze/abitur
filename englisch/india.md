@@ -15,8 +15,17 @@
 	- India got splitted up into today's India (Hinduism predominant) and Pakistan (Islam predominant)
 	- new flag
 
-###
+## Today's situation
+
+### Economics
+- IT services industry developed in the 90s, major economic factor
+- 
+
+### Culture
+- many languages
+- **religions:**
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwODczODY0MCwtOTY2NzI3Mjc3LC0zNz
-gzMjQ3OTIsMTMzMjY0MTI1OCwxMjY2MjA3ODU3XX0=
+eyJoaXN0b3J5IjpbMjI5NjU5OTM5LC05NjY3MjcyNzcsLTM3OD
+MyNDc5MiwxMzMyNjQxMjU4LDEyNjYyMDc4NTddfQ==
 -->
