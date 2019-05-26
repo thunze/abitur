@@ -8,8 +8,10 @@
 - **1926:** general strike because of low wages
 	- high poverty rate, mainly because of high taxes
 	- bad living conditions
-- 
+- **1947:** India's independence
+	- India 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMjY0MTI1OCwxMjY2MjA3ODU3XX0=
+eyJoaXN0b3J5IjpbLTE2MjE1NzE2ODYsMTMzMjY0MTI1OCwxMj
+Y2MjA3ODU3XX0=
 -->
