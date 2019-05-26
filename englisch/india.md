@@ -19,7 +19,7 @@
 
 ### Culture
 - many languages
-- **religions:**
+- **religions:** 80% Hindu, 14% Muslim, 2.5% Christian, 2% Sikh
 - *dabbawallas* deliver home-cooked food to offices in Mumbai
 - The Gateway of India (Mumbai harbour) – ceremonial entrance for high UK governors (until 1947)
 - colorful clothing / tradition
@@ -33,8 +33,12 @@
 - large railway network, too many people using it
 - **Delhi** as the largest city of India (22 million citizens), the Indian government is located in **New Delhi**
 - summer monsoon has a great impact on the living conditions as some people reside in houses which are not water-proof
+
+### Economics
+- IT services industry developed in the 90s, major economic factor
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMzI2MTkwOSwxNzgwNTczNTEzLC0yNT
-M3ODM0MzcsLTk2NjcyNzI3NywtMzc4MzI0NzkyLDEzMzI2NDEy
-NTgsMTI2NjIwNzg1N119
+eyJoaXN0b3J5IjpbNTY4NzcxOTg0LDE3ODA1NzM1MTMsLTI1Mz
+c4MzQzNywtOTY2NzI3Mjc3LC0zNzgzMjQ3OTIsMTMzMjY0MTI1
+OCwxMjY2MjA3ODU3XX0=
 -->
