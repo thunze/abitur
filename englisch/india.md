@@ -57,17 +57,14 @@
 | <li>unattractive people also find a partner (may seem drastic)</li> | <li>you need time to get to knwo each other better</li> |
 | <li>expectations can be fulfilled</li> | <li>"love machinery" – people are rather treated as objects</li> |
 | <li>people may need help regarding dating</li> | <li>almost no chance to get divorced again</li> |
-| <li>support from the regarding families</li> | <li></li> |
-| <li></li> | <li></li> |
-| <li></li> | <li></li> |
-| <li></li> | <li></li> |
-| <li></li> | <li></li> |
-| <li></li> | <li></li> |
+| <li>support from the regarding families</li> | <li>women often don't stand up for themselves</li> |
+| | <li>"parental control"</li>  |
 
-**> really depends on the cultural circumsta**
+**> really depends on the cultural circumstances**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NjQ3MTQxMCwtNDk1NjAyODc4LDE3Nz
-QxNTUyOCw1Njg3NzE5ODQsMTc4MDU3MzUxMywtMjUzNzgzNDM3
-LC05NjY3MjcyNzcsLTM3ODMyNDc5MiwxMzMyNjQxMjU4LDEyNj
-YyMDc4NTddfQ==
+eyJoaXN0b3J5IjpbNDEyMTE0MDQ2LC00OTU2MDI4NzgsMTc3ND
+E1NTI4LDU2ODc3MTk4NCwxNzgwNTczNTEzLC0yNTM3ODM0Mzcs
+LTk2NjcyNzI3NywtMzc4MzI0NzkyLDEzMzI2NDEyNTgsMTI2Nj
+IwNzg1N119
 -->
