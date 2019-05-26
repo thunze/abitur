@@ -47,8 +47,13 @@
 	- the lateral approach has advantages
 - competing ideologies, may be the future
 
+## Arranged Marriages
+
+| chances | challenges |
+| --- | --- |
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NDE1NTI4LDU2ODc3MTk4NCwxNzgwNT
-czNTEzLC0yNTM3ODM0MzcsLTk2NjcyNzI3NywtMzc4MzI0Nzky
-LDEzMzI2NDEyNTgsMTI2NjIwNzg1N119
+eyJoaXN0b3J5IjpbLTQ5NTYwMjg3OCwxNzc0MTU1MjgsNTY4Nz
+cxOTg0LDE3ODA1NzM1MTMsLTI1Mzc4MzQzNywtOTY2NzI3Mjc3
+LC0zNzgzMjQ3OTIsMTMzMjY0MTI1OCwxMjY2MjA3ODU3XX0=
 -->
