@@ -30,8 +30,15 @@
 
 | chances | challenges |
 | --- | --- |
-| <li><
+| <li>prevention of diseases</li> | <li></li> |
+| <li>possibility of individual randomizing until it fits</li> | <li></li> |
+| <li>relationships can be tested in advance (less suffering)</li> | <li></li> |
+| <li></li> | <li></li> |
+| <li></li> | <li></li> |
+| <li></li> | <li></li> |
+| <li></li> | <li></li> |
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTIyMDYyMTYsLTEyMzcyOTQyODMsLT
-EzNzA5OTI4ODIsLTY4OTc3MzgzMl19
+eyJoaXN0b3J5IjpbLTYwMDIyNzAyNiwtMTIzNzI5NDI4MywtMT
+M3MDk5Mjg4MiwtNjg5NzczODMyXX0=
 -->
