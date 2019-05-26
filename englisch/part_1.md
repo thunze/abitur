@@ -58,6 +58,7 @@
 
 ### Main part
 - **own opinion**
+	- ***"Are the values represented still relevant today?"***
 - arguments supporting your opinion
 - examples to support own arguments
 - **refute** arguments of the opposite position
@@ -131,11 +132,11 @@
 - ***language:*** emotional, scientific, formal, informal etc.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYyMTE4NzcwLC0yMDcyMjE4Mzk4LC0xMT
-QwMzgxMzM1LDE0ODE4NjIwNDUsLTIwODE0NzgxNCwtMjA4MTQ3
-ODE0LC02NjE5NDk5MDQsLTc0MDQ2MTM1NiwtMjQwMTAzMzQ2LC
-01NTE1Nzc3OTUsMTI3Nzc5NTc1NywyMDQwNjI2MDUwLDczNzg5
-Njg0MiwtNjU5MjcyNDIwLC0xMjg5NTE3MDUsLTYxOTg2MjAwMy
-w1MDg3NzAyOTAsLTIxMTUxMTk4NTEsLTEzMDM3NjQ2OTksLTg2
-MzAzMTYxM119
+eyJoaXN0b3J5IjpbLTEwNTQ0NTM4NjYsMzYyMTE4NzcwLC0yMD
+cyMjE4Mzk4LC0xMTQwMzgxMzM1LDE0ODE4NjIwNDUsLTIwODE0
+NzgxNCwtMjA4MTQ3ODE0LC02NjE5NDk5MDQsLTc0MDQ2MTM1Ni
+wtMjQwMTAzMzQ2LC01NTE1Nzc3OTUsMTI3Nzc5NTc1NywyMDQw
+NjI2MDUwLDczNzg5Njg0MiwtNjU5MjcyNDIwLC0xMjg5NTE3MD
+UsLTYxOTg2MjAwMyw1MDg3NzAyOTAsLTIxMTUxMTk4NTEsLTEz
+MDM3NjQ2OTldfQ==
 -->
