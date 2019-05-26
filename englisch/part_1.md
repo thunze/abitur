@@ -2,13 +2,15 @@
 
 ## Summary
 
-- **title, author, text type, date of publication, topic**
+- **first:** *"In the following I'm going to summarize [...]"* **> task**
+- title, author, text type, date of publication, topic
 - 5 or 6 sentences **main summary** **> present tense**
 - 1 or 2 sentences **conclusion**
 
 ## Analysis
 
 ### Introduction
+- **first:** *"Now I'm going to analyze [...]"* **> task**
 - purpose of the analysis **> *task***
 	- e. g. *"The purpose of this analysis is to discover the real intention of the speaker / politician / author and how he / she tries to influence the audience / readership."*
 - ***thesis***
@@ -129,11 +131,11 @@
 - ***language:*** emotional, scientific, formal, informal etc.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzIyMTgzOTgsLTExNDAzODEzMzUsMT
-Q4MTg2MjA0NSwtMjA4MTQ3ODE0LC0yMDgxNDc4MTQsLTY2MTk0
-OTkwNCwtNzQwNDYxMzU2LC0yNDAxMDMzNDYsLTU1MTU3Nzc5NS
-wxMjc3Nzk1NzU3LDIwNDA2MjYwNTAsNzM3ODk2ODQyLC02NTky
-NzI0MjAsLTEyODk1MTcwNSwtNjE5ODYyMDAzLDUwODc3MDI5MC
-wtMjExNTExOTg1MSwtMTMwMzc2NDY5OSwtODYzMDMxNjEzXX0=
-
+eyJoaXN0b3J5IjpbMzYyMTE4NzcwLC0yMDcyMjE4Mzk4LC0xMT
+QwMzgxMzM1LDE0ODE4NjIwNDUsLTIwODE0NzgxNCwtMjA4MTQ3
+ODE0LC02NjE5NDk5MDQsLTc0MDQ2MTM1NiwtMjQwMTAzMzQ2LC
+01NTE1Nzc3OTUsMTI3Nzc5NTc1NywyMDQwNjI2MDUwLDczNzg5
+Njg0MiwtNjU5MjcyNDIwLC0xMjg5NTE3MDUsLTYxOTg2MjAwMy
+w1MDg3NzAyOTAsLTIxMTUxMTk4NTEsLTEzMDM3NjQ2OTksLTg2
+MzAzMTYxM119
 -->
