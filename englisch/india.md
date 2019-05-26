@@ -54,9 +54,9 @@
 | <li>(artifically) peaceful relationship</li> | <li>partner may not fit, but you can't do anything about it</li> |
 | <li>financial dependence on the other family</li> | <li>no possibility to gain experience with different partners</li> |
 | <li>love might happen afterwards</li> | <li>no "actual" romance possible in the first place</li> |
-| <li>people who are </li> | <li></li> |
-| <li></li> | <li></li> |
-| <li></li> | <li></li> |
+| <li>unattractive people also find a partner (may seem drastic)</li> | <li>you need time to get to knwo each other better</li> |
+| <li>expectations can be fulfilled</li> | <li></li> |
+| <li>people may need help </li> | <li></li> |
 | <li></li> | <li></li> |
 | <li></li> | <li></li> |
 | <li></li> | <li></li> |
@@ -65,8 +65,8 @@
 | <li></li> | <li></li> |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg5NDA1MTE4LC00OTU2MDI4NzgsMTc3ND
-E1NTI4LDU2ODc3MTk4NCwxNzgwNTczNTEzLC0yNTM3ODM0Mzcs
-LTk2NjcyNzI3NywtMzc4MzI0NzkyLDEzMzI2NDEyNTgsMTI2Nj
-IwNzg1N119
+eyJoaXN0b3J5IjpbLTM1NjI4NzU5MSwtNDk1NjAyODc4LDE3Nz
+QxNTUyOCw1Njg3NzE5ODQsMTc4MDU3MzUxMywtMjUzNzgzNDM3
+LC05NjY3MjcyNzcsLTM3ODMyNDc5MiwxMzMyNjQxMjU4LDEyNj
+YyMDc4NTddfQ==
 -->
