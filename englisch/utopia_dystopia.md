@@ -30,15 +30,15 @@
 
 | chances | challenges |
 | --- | --- |
-| <li>prevention of diseases</li> | <li></li> |
-| <li>possibility of individual randomizing until it fits</li> | <li></li> |
+| <li>prevention of diseases</li> | <li>abortions are unethical</li> |
+| <li>possibility of individual randomizing until it fits</li> | <li>**aim:** perfectionism / overfitting; disparities if not perfect</li> |
 | <li>relationships can be tested in advance (less suffering)</li> | <li></li> |
-| <li></li> | <li></li> |
-| <li></li> | <li></li> |
+| <li>falling costs</li> | <li></li> |
+| <li>esp. incurable diseases can be a big burden</li> | <li></li> |
 | <li></li> | <li></li> |
 | <li></li> | <li></li> |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMDIyNzAyNiwtMTIzNzI5NDI4MywtMT
-M3MDk5Mjg4MiwtNjg5NzczODMyXX0=
+eyJoaXN0b3J5IjpbLTE4OTczMDA1MTEsLTEyMzcyOTQyODMsLT
+EzNzA5OTI4ODIsLTY4OTc3MzgzMl19
 -->
