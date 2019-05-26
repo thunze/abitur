@@ -24,7 +24,7 @@
 - The Gateway of India (Mumbai harbour) – ceremonial entrance for high UK governors (until 1947)
 - colorful clothing / tradition
 
-### Living
+### Society
 - **population:**
 	- overall > 1.3 billion
 	- more males than females
@@ -33,6 +33,7 @@
 - large railway network, too many people using it
 - **Delhi** as the largest city of India (22 million citizens), the Indian government is located in **New Delhi**
 - summer monsoon has a great impact on the living conditions as some people reside in houses which are not water-proof
+- **many disparities, local fragmentation**
 
 ### Economics
 - IT services industry developed in the 90s, major economic factor
@@ -42,9 +43,11 @@
 - 90% self-employed, 3% working in organized sector
 - economically **mighty** anyway
 - insecure working values but highly motivated
+	- "Indian mind": thinking **out of the box** **> cost-efficiency**
+	- the lateral approach has advantages
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNzI5MjE4LDU2ODc3MTk4NCwxNzgwNT
-czNTEzLC0yNTM3ODM0MzcsLTk2NjcyNzI3NywtMzc4MzI0Nzky
-LDEzMzI2NDEyNTgsMTI2NjIwNzg1N119
+eyJoaXN0b3J5IjpbLTIyOTA3Nzg2Myw1Njg3NzE5ODQsMTc4MD
+U3MzUxMywtMjUzNzgzNDM3LC05NjY3MjcyNzcsLTM3ODMyNDc5
+MiwxMzMyNjQxMjU4LDEyNjYyMDc4NTddfQ==
 -->
