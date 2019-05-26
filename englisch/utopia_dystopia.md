@@ -35,10 +35,9 @@
 | <li>relationships can be tested in advance (less suffering)</li> | <li>imperfect children may be even treated as worthless</li> |
 | <li>falling costs</li> | <li>no diversity in the end</li> |
 | <li>esp. incurable diseases can be a big burden</li> | <li>broken relationships</li> |
-| <li></li> | <li>could get "trendy" – human</li> |
-| <li></li> | <li></li> |
+| | <li>could get "trendy" – human beings treated as objects</li> |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNTIyMTc2MywtMTIzNzI5NDI4MywtMT
+eyJoaXN0b3J5IjpbMTQ3NTE5ODMzMSwtMTIzNzI5NDI4MywtMT
 M3MDk5Mjg4MiwtNjg5NzczODMyXX0=
 -->
