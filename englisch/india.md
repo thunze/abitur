@@ -36,9 +36,9 @@
 - many people living under very bad conditions (e. g. in *Slums* with bad infrastructure and without support from the gov.) 
 - large railway network, too many people using it
 - **Delhi** as the largest city of India (22 million citizens), the Indian government is located in **New Delhi**
-
+- summer 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MDU3MzUxMywtMjUzNzgzNDM3LC05Nj
-Y3MjcyNzcsLTM3ODMyNDc5MiwxMzMyNjQxMjU4LDEyNjYyMDc4
-NTddfQ==
+eyJoaXN0b3J5IjpbLTk1MjMzMzY4MywxNzgwNTczNTEzLC0yNT
+M3ODM0MzcsLTk2NjcyNzI3NywtMzc4MzI0NzkyLDEzMzI2NDEy
+NTgsMTI2NjIwNzg1N119
 -->
