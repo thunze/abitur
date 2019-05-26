@@ -26,12 +26,14 @@
 - **religions:**
 - *dabbawallas* deliver home-cooked food to offices in Mumbai
 - The Gateway of India (Mumbai harbour) – ceremonial entrance for high UK governors (until 1947)
-- 
+- colorful clothing / tradition
 
 ### Living
 - many people living under very bad conditions (e. g. in *Slums* with bad infrastructure and without support from the gov.) 
+- large railway network, too many people using it
+- **Delhi** as the largest city of India (22 million citizens)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTEwOTkwMDMsLTk2NjcyNzI3NywtMz
-c4MzI0NzkyLDEzMzI2NDEyNTgsMTI2NjIwNzg1N119
+eyJoaXN0b3J5IjpbMTkwNDUxMjI0OSwtOTY2NzI3Mjc3LC0zNz
+gzMjQ3OTIsMTMzMjY0MTI1OCwxMjY2MjA3ODU3XX0=
 -->
