@@ -1,7 +1,5 @@
 # Utopian and dystopian society
 
-## Definitions
-
 ## Characteristics of a dystopian society
 
 - people need to accomplish **senseless tasks**
@@ -40,6 +38,7 @@
 | | <li>could get "trendy" – human beings treated as objects</li> |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTg2NDA2NDIsMTQ3NTE5ODMzMSwtMT
-IzNzI5NDI4MywtMTM3MDk5Mjg4MiwtNjg5NzczODMyXX0=
+eyJoaXN0b3J5IjpbOTc1MzUzOTg2LC0xNzU4NjQwNjQyLDE0Nz
+UxOTgzMzEsLTEyMzcyOTQyODMsLTEzNzA5OTI4ODIsLTY4OTc3
+MzgzMl19
 -->
