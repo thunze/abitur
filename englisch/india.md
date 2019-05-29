@@ -25,8 +25,8 @@
 - colorful clothing / tradition
 - **Cricket** as a unifying game – national players are celebrated like heroes
 - Bollywood movies deal with real problems of the Indian Culture
-- **gender roles:** men should be dutiful and honorable, women should be kind, righteous and strong but obedient
-	- different to tell 
+- **gender roles:** men should be dutiful, honorable **and** ; women should be kind, righteous and strong but obedient
+	- rooted in religion, different to tell if it's cultural or religious practice today
 
 ### Society
 - **population:**
@@ -76,10 +76,10 @@
 **> really depends on the cultural circumstances**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzE1MjE1NTQsLTE1NDI5NjM0MzQsLT
-E2NTA1NDAwOTIsLTEwNzA0MDc4MDYsMTc2MzgzNDA0MiwxNzky
-NzU3MzU0LC0xNzAzMjYzMTIwLDQxMjExNDA0NiwtNDk1NjAyOD
-c4LDE3NzQxNTUyOCw1Njg3NzE5ODQsMTc4MDU3MzUxMywtMjUz
-NzgzNDM3LC05NjY3MjcyNzcsLTM3ODMyNDc5MiwxMzMyNjQxMj
-U4LDEyNjYyMDc4NTddfQ==
+eyJoaXN0b3J5IjpbLTE1MDE0ODMzMCwtMTU0Mjk2MzQzNCwtMT
+Y1MDU0MDA5MiwtMTA3MDQwNzgwNiwxNzYzODM0MDQyLDE3OTI3
+NTczNTQsLTE3MDMyNjMxMjAsNDEyMTE0MDQ2LC00OTU2MDI4Nz
+gsMTc3NDE1NTI4LDU2ODc3MTk4NCwxNzgwNTczNTEzLC0yNTM3
+ODM0MzcsLTk2NjcyNzI3NywtMzc4MzI0NzkyLDEzMzI2NDEyNT
+gsMTI2NjIwNzg1N119
 -->
