@@ -1,11 +1,5 @@
 # Shakespeare
 
-## About William Shakespeare
-
-- lived during the 16th / 17th century
-- only attended grammar school
-- most famous British writer
-
 ## About the time
 
 - **first:** only wealthy people were able to get education because it was very expensive
@@ -30,6 +24,8 @@
 - influenced by **Ovid** (Roman author)
 - *"cosmopolitan / international mindset"*
 
+## Today's relevance of Shakespeare's work
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMDc4OTk3MV19
+eyJoaXN0b3J5IjpbLTM3ODU1MzU2MCwtOTAwNzg5OTcxXX0=
 -->
