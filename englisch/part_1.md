@@ -61,7 +61,8 @@
 	- ***suspense:*** is created by not giving away too much information
 	- ***tense:*** past tense can create distance between the reader and the characters
 	- ***indirect speech:*** can create distance between the reader and the characters
-	- ***stream of consciousness:***
+	- ***stream of consciousness:*** represents, as exactly as possible, what a character is thinking – seems unstructured, chaotic and very close to the reader
+	- ***dialogues, description, comments***
 - show use of ***language***
 - *stylistic devices* **> esp. *symbols***
 
@@ -157,11 +158,11 @@
 	- **register:** choice of words, style and grammar used in a certain social context **> reflects social status**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzMxNjY3NjEsLTE1MzM0NTA3MDMsLT
-IwNjc2NzA3ODcsNDQxOTE1MTg3LC0xMDU0NDUzODY2LDM2MjEx
-ODc3MCwtMjA3MjIxODM5OCwtMTE0MDM4MTMzNSwxNDgxODYyMD
-Q1LC0yMDgxNDc4MTQsLTIwODE0NzgxNCwtNjYxOTQ5OTA0LC03
-NDA0NjEzNTYsLTI0MDEwMzM0NiwtNTUxNTc3Nzk1LDEyNzc3OT
-U3NTcsMjA0MDYyNjA1MCw3Mzc4OTY4NDIsLTY1OTI3MjQyMCwt
-MTI4OTUxNzA1XX0=
+eyJoaXN0b3J5IjpbLTc2Mjg5MTc3NiwtMTUzMzQ1MDcwMywtMj
+A2NzY3MDc4Nyw0NDE5MTUxODcsLTEwNTQ0NTM4NjYsMzYyMTE4
+NzcwLC0yMDcyMjE4Mzk4LC0xMTQwMzgxMzM1LDE0ODE4NjIwND
+UsLTIwODE0NzgxNCwtMjA4MTQ3ODE0LC02NjE5NDk5MDQsLTc0
+MDQ2MTM1NiwtMjQwMTAzMzQ2LC01NTE1Nzc3OTUsMTI3Nzc5NT
+c1NywyMDQwNjI2MDUwLDczNzg5Njg0MiwtNjU5MjcyNDIwLC0x
+Mjg5NTE3MDVdfQ==
 -->
