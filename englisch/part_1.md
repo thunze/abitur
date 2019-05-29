@@ -26,25 +26,26 @@
 
 ### Main part – Newspaper article
 - *broadsheet* or *tabloid*
-- headline
-- analyze each section on its **own**
+- **headline**
 - **type of newspaper article:**
 	- *news report:* short, only facts /
 	- *news story:* long, background information, story-like introduction etc. /
 	- *editorial / column:* expresses the newspaper's or the journalist's opinion / experience of the author
 - ***train of thought*** (structure) – thesis? / example? / general issue?
 	- *"How does it convince the reader?"*
-- *stylistic devices* and *communicative strategies*
+- analyze each section on its **own** regarding:
+	- ***communicative strategies***
+	- ***stylistic devices***
 - *"To get back to the beginning, these examples [...]":* show use of ***language***
 
 ### Main part – fictional text
 - **setting:** time, place, conditions
 - **atmosphere** – possible functions: causing emotions, reflecting mindset or emotions of a character, creating a contrast
 - ***narrative perspective:***
-	- *first-person narrator:*
+	- ***first-person narrator:***
 - ***narrative techniques***
 	- ***point of view:***
-- show use of *language*
+- show use of ***language***
 - *stylistic devices* **> esp. *symbols***
 
 ### Conclusion
@@ -136,7 +137,7 @@
 	- **register:** choice of words, style and grammar used in a certain social context **> reflects social status**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NzA2ODAyMiwtMjA2NzY3MDc4Nyw0ND
+eyJoaXN0b3J5IjpbLTQ3MzM4MjU3NywtMjA2NzY3MDc4Nyw0ND
 E5MTUxODcsLTEwNTQ0NTM4NjYsMzYyMTE4NzcwLC0yMDcyMjE4
 Mzk4LC0xMTQwMzgxMzM1LDE0ODE4NjIwNDUsLTIwODE0NzgxNC
 wtMjA4MTQ3ODE0LC02NjE5NDk5MDQsLTc0MDQ2MTM1NiwtMjQw
