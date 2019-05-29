@@ -15,10 +15,7 @@
 | <li>chance of *development aid* for developing countries</li> | <li>insecure data</li> |
 | <li>accessibility via mobile / internet technology</li> | <li>**censoring**</li> |
 
-## Personal chances & challenges
-
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTg0OTU4OTMsMTMyMTAzNTMxNiwxOD
-AzNTY3MjQsMjA3NzU5ODMyNF19
+eyJoaXN0b3J5IjpbLTk2MzkxMTU3MiwtMTY1ODQ5NTg5MywxMz
+IxMDM1MzE2LDE4MDM1NjcyNCwyMDc3NTk4MzI0XX0=
 -->
