@@ -18,11 +18,11 @@
 
 ### Main part – Speech
 - analysis of the structure (introduction, main part, conclusion)
-- analysis of **each** section regarding
-	- ***stylistic devices* and *communicative strategies*** (incl. language)
+- analysis of **each** section on its **own** regarding:
+	- *stylistic devices* and *communicative strategies*
 		- only the most important ones, explanation + function / effect
 	- analysis of the ***content***
-- *"To get back to the beginning, these examples [...]":* show use of *language*
+- show use of ***language***: *"To get back to the beginning, these examples [...]"*
 
 ### Main part – Newspaper article
 - *broadsheet* or *tabloid*
@@ -33,10 +33,10 @@
 	- *editorial / column:* expresses the newspaper's or the journalist's opinion / experience of the author
 - ***train of thought*** (structure) – thesis? / example? / general issue?
 	- *"How does it convince the reader?"*
-- analyze each section on its **own** regarding:
+- analyze of each section on its **own** regarding:
 	- ***communicative strategies***
 	- ***stylistic devices***
-- *"To get back to the beginning, these examples [...]":* show use of ***language***
+- show use of ***language***: *"To get back to the beginning, these examples [...]"*
 
 ### Main part – fictional text
 - **setting:** time, place, conditions
@@ -137,11 +137,11 @@
 	- **register:** choice of words, style and grammar used in a certain social context **> reflects social status**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MzM4MjU3NywtMjA2NzY3MDc4Nyw0ND
-E5MTUxODcsLTEwNTQ0NTM4NjYsMzYyMTE4NzcwLC0yMDcyMjE4
-Mzk4LC0xMTQwMzgxMzM1LDE0ODE4NjIwNDUsLTIwODE0NzgxNC
-wtMjA4MTQ3ODE0LC02NjE5NDk5MDQsLTc0MDQ2MTM1NiwtMjQw
-MTAzMzQ2LC01NTE1Nzc3OTUsMTI3Nzc5NTc1NywyMDQwNjI2MD
-UwLDczNzg5Njg0MiwtNjU5MjcyNDIwLC0xMjg5NTE3MDUsLTYx
-OTg2MjAwM119
+eyJoaXN0b3J5IjpbLTE3MDYxMjI2MTQsLTIwNjc2NzA3ODcsND
+QxOTE1MTg3LC0xMDU0NDUzODY2LDM2MjExODc3MCwtMjA3MjIx
+ODM5OCwtMTE0MDM4MTMzNSwxNDgxODYyMDQ1LC0yMDgxNDc4MT
+QsLTIwODE0NzgxNCwtNjYxOTQ5OTA0LC03NDA0NjEzNTYsLTI0
+MDEwMzM0NiwtNTUxNTc3Nzk1LDEyNzc3OTU3NTcsMjA0MDYyNj
+A1MCw3Mzc4OTY4NDIsLTY1OTI3MjQyMCwtMTI4OTUxNzA1LC02
+MTk4NjIwMDNdfQ==
 -->
