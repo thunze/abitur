@@ -50,7 +50,7 @@
 
 ### Conclusion
 - summary of the most important aspects and *stylistic devices*
-- refer to the ***thesis*** / **intention**
+- refer to the ***thesis*** and ***intention***
 
 ## Comment
 
@@ -140,11 +140,11 @@
 	- **register:** choice of words, style and grammar used in a certain social context **> reflects social status**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM5MTgyOSwtMjA2NzY3MDc4Nyw0NDE5MT
-UxODcsLTEwNTQ0NTM4NjYsMzYyMTE4NzcwLC0yMDcyMjE4Mzk4
-LC0xMTQwMzgxMzM1LDE0ODE4NjIwNDUsLTIwODE0NzgxNCwtMj
-A4MTQ3ODE0LC02NjE5NDk5MDQsLTc0MDQ2MTM1NiwtMjQwMTAz
-MzQ2LC01NTE1Nzc3OTUsMTI3Nzc5NTc1NywyMDQwNjI2MDUwLD
-czNzg5Njg0MiwtNjU5MjcyNDIwLC0xMjg5NTE3MDUsLTYxOTg2
-MjAwM119
+eyJoaXN0b3J5IjpbLTE1MzM0NTA3MDMsLTIwNjc2NzA3ODcsND
+QxOTE1MTg3LC0xMDU0NDUzODY2LDM2MjExODc3MCwtMjA3MjIx
+ODM5OCwtMTE0MDM4MTMzNSwxNDgxODYyMDQ1LC0yMDgxNDc4MT
+QsLTIwODE0NzgxNCwtNjYxOTQ5OTA0LC03NDA0NjEzNTYsLTI0
+MDEwMzM0NiwtNTUxNTc3Nzk1LDEyNzc3OTU3NTcsMjA0MDYyNj
+A1MCw3Mzc4OTY4NDIsLTY1OTI3MjQyMCwtMTI4OTUxNzA1LC02
+MTk4NjIwMDNdfQ==
 -->
