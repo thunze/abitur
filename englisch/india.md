@@ -37,7 +37,7 @@
 - **Delhi** as the largest city of India (22 million citizens), the Indian government is located in **New Delhi**
 - summer monsoon has a great impact on the living conditions as some people reside in houses which are not water-proof
 - former caste system (until 1949): the "untouchables" had no rights and no power, "Brahmins" had to avoid contact with them
-	- dominated society and politics, democra
+	- dominated society and politics, democracy changed it
 - **many *disparities*, local *fragmentation***
 - ***growth of population*** as a main problem again:
 	- poor health services, poor education, child malnutrition
@@ -74,10 +74,10 @@
 **> really depends on the cultural circumstances**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NTk0NTM2MSwtMTY1MDU0MDA5MiwtMT
-A3MDQwNzgwNiwxNzYzODM0MDQyLDE3OTI3NTczNTQsLTE3MDMy
-NjMxMjAsNDEyMTE0MDQ2LC00OTU2MDI4NzgsMTc3NDE1NTI4LD
-U2ODc3MTk4NCwxNzgwNTczNTEzLC0yNTM3ODM0MzcsLTk2Njcy
-NzI3NywtMzc4MzI0NzkyLDEzMzI2NDEyNTgsMTI2NjIwNzg1N1
-19
+eyJoaXN0b3J5IjpbLTE1NDI5NjM0MzQsLTE2NTA1NDAwOTIsLT
+EwNzA0MDc4MDYsMTc2MzgzNDA0MiwxNzkyNzU3MzU0LC0xNzAz
+MjYzMTIwLDQxMjExNDA0NiwtNDk1NjAyODc4LDE3NzQxNTUyOC
+w1Njg3NzE5ODQsMTc4MDU3MzUxMywtMjUzNzgzNDM3LC05NjY3
+MjcyNzcsLTM3ODMyNDc5MiwxMzMyNjQxMjU4LDEyNjYyMDc4NT
+ddfQ==
 -->
