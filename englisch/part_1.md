@@ -19,7 +19,7 @@
 ### Main part – Speech
 - analysis of the structure (introduction, main part, conclusion)
 - analysis of **each** section regarding
-	- ***stylistic devices* and *communicative devices*** (incl. language)
+	- ***stylistic devices* and *communicative strategies*** (incl. language)
 		- only the most important ones, explanation + function / effect
 	- analysis of the ***content***
 - *"To get back to the beginning, these examples [...]":* show use of *language*
@@ -34,10 +34,8 @@
 	- *editorial / column:* expresses the newspaper's or the journalist's opinion / experience of the author
 - ***train of thought*** (structure) – thesis? / example? / general issue?
 	- *"How does it convince the reader?"*
-- **tone and register:**
-	- **tone:** general mood, feeling or attitude being expressed **> emotional content**
-	- **register:** cho
-- *stylistic devices* and *communicative devices*
+
+- *stylistic devices* and *communicative strategies*
 - *"To get back to the beginning, these examples [...]":* show use of *language*
 
 ### Main part – fictional text
@@ -133,10 +131,12 @@
 - ***using humour / irony / sarcasm***
 - ***directly adressing the audience***
 - ***use of the first person plural:*** involves the audience and presupposes that everybody else agrees
-- ***language:*** emotional, scientific, formal, informal, *literary* etc.
+- ***language:*** emotional, scientific, formal, informal, ***literary*** etc.
+	- **tone:** general mood, feeling or attitude being expressed **> emotional content**
+	- **register:** choice of words, style and grammar used in a certain social context **> reflects social status**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU5NTM4NjEwLC0yMDY3NjcwNzg3LDQ0MT
+eyJoaXN0b3J5IjpbNzg2NDU2OTA3LC0yMDY3NjcwNzg3LDQ0MT
 kxNTE4NywtMTA1NDQ1Mzg2NiwzNjIxMTg3NzAsLTIwNzIyMTgz
 OTgsLTExNDAzODEzMzUsMTQ4MTg2MjA0NSwtMjA4MTQ3ODE0LC
 0yMDgxNDc4MTQsLTY2MTk0OTkwNCwtNzQwNDYxMzU2LC0yNDAx
