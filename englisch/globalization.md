@@ -10,12 +10,13 @@
 | <li>international connection</li> | <li>industry influences the **environment**</li> |
 | <li>**political** and **cultural** exchange</li> | <li>**unfair distribution** of wealth and power (*global players* dominate the international market)</li> |
 | <li>sharing of **knowledge** and **know-how**</li> | <li>may lead to an **unsustainable** lifestyle (limited resources, ***overconsumption***)</li> |
-| <li></li> | <li>*outsourcing* may lead to ***child labour***</li> |
+| <li>international</li> | <li>*outsourcing* may lead to ***child labour***</li> |
 | <li>instant **information**</li> | <li>too much / low quality information</li> |
 | <li>chance of *development aid* for developing countries</li> | <li>insecure data</li> |
 | <li>accessibility via mobile / internet technology</li> | <li>**censoring**</li> |
+| <li></li> | <li>experiencing development countries may make one feel bad about it</li> |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MzkxMTU3MiwtMTY1ODQ5NTg5MywxMz
+eyJoaXN0b3J5IjpbLTIyNDIxNzgwMiwtMTY1ODQ5NTg5MywxMz
 IxMDM1MzE2LDE4MDM1NjcyNCwyMDc3NTk4MzI0XX0=
 -->
