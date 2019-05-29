@@ -30,6 +30,7 @@
 	- more males than females
 	- high population density (~382 per km²)
 - many people living under very bad conditions (e. g. in *Slums* with bad infrastructure and without support from the gov.) 
+	- illegal *slums* / informal housings 
 - large railway network, too many people using it
 - **Delhi** as the largest city of India (22 million citizens), the Indian government is located in **New Delhi**
 - summer monsoon has a great impact on the living conditions as some people reside in houses which are not water-proof
@@ -63,8 +64,8 @@
 **> really depends on the cultural circumstances**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEyMTE0MDQ2LC00OTU2MDI4NzgsMTc3ND
-E1NTI4LDU2ODc3MTk4NCwxNzgwNTczNTEzLC0yNTM3ODM0Mzcs
-LTk2NjcyNzI3NywtMzc4MzI0NzkyLDEzMzI2NDEyNTgsMTI2Nj
-IwNzg1N119
+eyJoaXN0b3J5IjpbNDkyOTIzNTIyLDQxMjExNDA0NiwtNDk1Nj
+AyODc4LDE3NzQxNTUyOCw1Njg3NzE5ODQsMTc4MDU3MzUxMywt
+MjUzNzgzNDM3LC05NjY3MjcyNzcsLTM3ODMyNDc5MiwxMzMyNj
+QxMjU4LDEyNjYyMDc4NTddfQ==
 -->
