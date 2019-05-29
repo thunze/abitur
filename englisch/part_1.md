@@ -38,14 +38,14 @@
 - *"To get back to the beginning, these examples [...]":* show use of ***language***
 
 ### Main part – fictional text
-- *"To get back to the beginning, these examples [...]":* show use of *language*
 - **setting:** time, place, conditions
-- **atmosphere** – possible functions: causing emotions, reflecting mindset or emotions of a character, creating a contrast)
+- **atmosphere** – possible functions: causing emotions, reflecting mindset or emotions of a character, creating a contrast
 - ***narrative perspective:***
-	- *first-person narrator* or
-- ***point of view:***
-	- sth.
-- ***narrative techniques*** **> TODO, book S8**
+	- *first-person narrator:*
+- ***narrative techniques***
+	- ***point of view:***
+- show use of *language*
+- *stylistic devices* **> esp. *symbols***
 
 ### Conclusion
 - summary of the most important aspects and *stylistic devices*
@@ -136,11 +136,11 @@
 	- **register:** choice of words, style and grammar used in a certain social context **> reflects social status**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg0NjA1NDA4LC0yMDY3NjcwNzg3LDQ0MT
-kxNTE4NywtMTA1NDQ1Mzg2NiwzNjIxMTg3NzAsLTIwNzIyMTgz
-OTgsLTExNDAzODEzMzUsMTQ4MTg2MjA0NSwtMjA4MTQ3ODE0LC
-0yMDgxNDc4MTQsLTY2MTk0OTkwNCwtNzQwNDYxMzU2LC0yNDAx
-MDMzNDYsLTU1MTU3Nzc5NSwxMjc3Nzk1NzU3LDIwNDA2MjYwNT
-AsNzM3ODk2ODQyLC02NTkyNzI0MjAsLTEyODk1MTcwNSwtNjE5
-ODYyMDAzXX0=
+eyJoaXN0b3J5IjpbLTU2NzA2ODAyMiwtMjA2NzY3MDc4Nyw0ND
+E5MTUxODcsLTEwNTQ0NTM4NjYsMzYyMTE4NzcwLC0yMDcyMjE4
+Mzk4LC0xMTQwMzgxMzM1LDE0ODE4NjIwNDUsLTIwODE0NzgxNC
+wtMjA4MTQ3ODE0LC02NjE5NDk5MDQsLTc0MDQ2MTM1NiwtMjQw
+MTAzMzQ2LC01NTE1Nzc3OTUsMTI3Nzc5NTc1NywyMDQwNjI2MD
+UwLDczNzg5Njg0MiwtNjU5MjcyNDIwLC0xMjg5NTE3MDUsLTYx
+OTg2MjAwM119
 -->
