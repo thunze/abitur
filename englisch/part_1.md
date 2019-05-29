@@ -42,8 +42,15 @@
 - **setting:** time, place, conditions
 - **atmosphere** – possible functions: causing emotions, reflecting mindset or emotions of a character, creating a contrast
 - ***narrative perspective:***
-	- ***third-person omniscient narrator:*** possible foreshadowing, narrator knows everything about the characters' feelings and the background of the story, mainly neutral attitude
-	- ***third-person limited narrator:*** sympathy with the character we are told most about
+	- ***third-person omniscient narrator:***
+		- tells the story from the outside
+		- possible foreshadowing
+		- narrator knows everything about the characters' feelings and the background of the story
+		- mainly neutral attitude
+	- ***third-person limited narrator:***
+		- tells the story from the outside
+		- only describes feelings of one particular character in the story
+		- sympathy with the character we are told most about
 	- ***first-person narrator:***
 - ***narrative techniques***
 	- ***point of view:***
@@ -142,11 +149,11 @@
 	- **register:** choice of words, style and grammar used in a certain social context **> reflects social status**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ2NTM4MjA3LC0xNTMzNDUwNzAzLC0yMD
-Y3NjcwNzg3LDQ0MTkxNTE4NywtMTA1NDQ1Mzg2NiwzNjIxMTg3
-NzAsLTIwNzIyMTgzOTgsLTExNDAzODEzMzUsMTQ4MTg2MjA0NS
-wtMjA4MTQ3ODE0LC0yMDgxNDc4MTQsLTY2MTk0OTkwNCwtNzQw
-NDYxMzU2LC0yNDAxMDMzNDYsLTU1MTU3Nzc5NSwxMjc3Nzk1Nz
-U3LDIwNDA2MjYwNTAsNzM3ODk2ODQyLC02NTkyNzI0MjAsLTEy
-ODk1MTcwNV19
+eyJoaXN0b3J5IjpbMTIwNDU1MzA4NSwtMTUzMzQ1MDcwMywtMj
+A2NzY3MDc4Nyw0NDE5MTUxODcsLTEwNTQ0NTM4NjYsMzYyMTE4
+NzcwLC0yMDcyMjE4Mzk4LC0xMTQwMzgxMzM1LDE0ODE4NjIwND
+UsLTIwODE0NzgxNCwtMjA4MTQ3ODE0LC02NjE5NDk5MDQsLTc0
+MDQ2MTM1NiwtMjQwMTAzMzQ2LC01NTE1Nzc3OTUsMTI3Nzc5NT
+c1NywyMDQwNjI2MDUwLDczNzg5Njg0MiwtNjU5MjcyNDIwLC0x
+Mjg5NTE3MDVdfQ==
 -->
