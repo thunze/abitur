@@ -30,11 +30,12 @@
 	- more males than females
 	- high population density (~382 per km²)
 - many people living under very bad conditions (e. g. in *Slums* with bad infrastructure and without support from the gov.) 
-	- illegal *slums* / informal housings not tolarated in the regarding town, threatened by potential bulldozing
+	- illegal *slums* / informal housings not tolerated in the regarding town, threatened by potential bulldozing
 - large railway network, too many people using it
 - **Delhi** as the largest city of India (22 million citizens), the Indian government is located in **New Delhi**
 - summer monsoon has a great impact on the living conditions as some people reside in houses which are not water-proof
 - **many *disparities*, local *fragmentation***
+- growth of popu
 
 ### Economics
 - IT services industry developed in the 90s, major economic factor
@@ -65,7 +66,7 @@
 **> really depends on the cultural circumstances**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNzkxMjk0OCw0MTIxMTQwNDYsLTQ5NT
+eyJoaXN0b3J5IjpbLTUyNzgzMjk3NSw0MTIxMTQwNDYsLTQ5NT
 YwMjg3OCwxNzc0MTU1MjgsNTY4NzcxOTg0LDE3ODA1NzM1MTMs
 LTI1Mzc4MzQzNywtOTY2NzI3Mjc3LC0zNzgzMjQ3OTIsMTMzMj
 Y0MTI1OCwxMjY2MjA3ODU3XX0=
