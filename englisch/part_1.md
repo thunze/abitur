@@ -34,18 +34,18 @@
 	- *editorial / column:* expresses the newspaper's or the journalist's opinion / experience of the author
 - ***train of thought*** (structure) – thesis? / example? / general issue?
 	- *"How does it convince the reader?"*
-
 - *stylistic devices* and *communicative strategies*
-- *"To get back to the beginning, these examples [...]":* show use of *language*
+- *"To get back to the beginning, these examples [...]":* show use of ***language***
 
 ### Main part – fictional text
-- *stylistic devices* **> esp. *symbols***
 - *"To get back to the beginning, these examples [...]":* show use of *language*
 - **setting:** time, place, conditions
 - **atmosphere** – possible functions: causing emotions, reflecting mindset or emotions of a character, creating a contrast)
-- *narrative perspective* and *point of view*
+- ***narrative perspective:***
 	- *first-person narrator* or
-- *narrative techniques* **> TODO, book S8**
+- ***point of view:***
+	- sth.
+- ***narrative techniques*** **> TODO, book S8**
 
 ### Conclusion
 - summary of the most important aspects and *stylistic devices*
@@ -136,7 +136,7 @@
 	- **register:** choice of words, style and grammar used in a certain social context **> reflects social status**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg2NDU2OTA3LC0yMDY3NjcwNzg3LDQ0MT
+eyJoaXN0b3J5IjpbOTg0NjA1NDA4LC0yMDY3NjcwNzg3LDQ0MT
 kxNTE4NywtMTA1NDQ1Mzg2NiwzNjIxMTg3NzAsLTIwNzIyMTgz
 OTgsLTExNDAzODEzMzUsMTQ4MTg2MjA0NSwtMjA4MTQ3ODE0LC
 0yMDgxNDc4MTQsLTY2MTk0OTkwNCwtNzQwNDYxMzU2LC0yNDAx
