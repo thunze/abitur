@@ -42,7 +42,7 @@
 - **setting:** time, place, conditions
 - **atmosphere** – possible functions: causing emotions, reflecting mindset or emotions of a character, creating a contrast
 - ***narrative perspective:***
-	- ***first-person narrator:***
+	- ***third-person om narrator:*** possible foreshadowing, narrator knows everything about the characters' feelings and the background of the story
 - ***narrative techniques***
 	- ***point of view:***
 - show use of ***language***
@@ -140,11 +140,11 @@
 	- **register:** choice of words, style and grammar used in a certain social context **> reflects social status**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzM0NTA3MDMsLTIwNjc2NzA3ODcsND
-QxOTE1MTg3LC0xMDU0NDUzODY2LDM2MjExODc3MCwtMjA3MjIx
-ODM5OCwtMTE0MDM4MTMzNSwxNDgxODYyMDQ1LC0yMDgxNDc4MT
-QsLTIwODE0NzgxNCwtNjYxOTQ5OTA0LC03NDA0NjEzNTYsLTI0
-MDEwMzM0NiwtNTUxNTc3Nzk1LDEyNzc3OTU3NTcsMjA0MDYyNj
-A1MCw3Mzc4OTY4NDIsLTY1OTI3MjQyMCwtMTI4OTUxNzA1LC02
-MTk4NjIwMDNdfQ==
+eyJoaXN0b3J5IjpbLTUyODcxNTU2NiwtMTUzMzQ1MDcwMywtMj
+A2NzY3MDc4Nyw0NDE5MTUxODcsLTEwNTQ0NTM4NjYsMzYyMTE4
+NzcwLC0yMDcyMjE4Mzk4LC0xMTQwMzgxMzM1LDE0ODE4NjIwND
+UsLTIwODE0NzgxNCwtMjA4MTQ3ODE0LC02NjE5NDk5MDQsLTc0
+MDQ2MTM1NiwtMjQwMTAzMzQ2LC01NTE1Nzc3OTUsMTI3Nzc5NT
+c1NywyMDQwNjI2MDUwLDczNzg5Njg0MiwtNjU5MjcyNDIwLC0x
+Mjg5NTE3MDVdfQ==
 -->
