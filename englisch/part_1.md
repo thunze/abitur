@@ -56,11 +56,12 @@
 		- also mostly the main character
 		- most sympathy with the narrator
 - ***narrative techniques***
-	- ***point of view:*** shows the narrator's attitude to the characters and can limit what the reader knows
-	- ***unreliable narrator:*** does not tell the whole truth to the reader
 	- ***suspense:*** is created by not giving away too much information
 	- ***exposition, rising action, climax, falling action, dénouement (resolution)***
-	- ***frame story:*** a story in a story
+	- ***frame story:*** presents a story in a story
+	- ***back story***
+	- ***point of view:*** shows the narrator's attitude to the characters and can limit what the reader knows
+	- ***unreliable narrator:*** does not tell the whole truth to the reader
 	- ***tense:*** past tense can create distance between the reader and the characters
 	- ***indirect speech:*** can create distance between the reader and the characters
 	- ***stream of consciousness:*** represents, as exactly as possible, what a character is thinking – seems unstructured, chaotic and very close to the reader
@@ -160,11 +161,11 @@
 	- **register:** choice of words, style and grammar used in a certain social context **> reflects social status**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNTIzNTE1OCwtMTUzMzQ1MDcwMywtMj
-A2NzY3MDc4Nyw0NDE5MTUxODcsLTEwNTQ0NTM4NjYsMzYyMTE4
-NzcwLC0yMDcyMjE4Mzk4LC0xMTQwMzgxMzM1LDE0ODE4NjIwND
-UsLTIwODE0NzgxNCwtMjA4MTQ3ODE0LC02NjE5NDk5MDQsLTc0
-MDQ2MTM1NiwtMjQwMTAzMzQ2LC01NTE1Nzc3OTUsMTI3Nzc5NT
-c1NywyMDQwNjI2MDUwLDczNzg5Njg0MiwtNjU5MjcyNDIwLC0x
-Mjg5NTE3MDVdfQ==
+eyJoaXN0b3J5IjpbNDQ0MzYzNjA3LC0xNTMzNDUwNzAzLC0yMD
+Y3NjcwNzg3LDQ0MTkxNTE4NywtMTA1NDQ1Mzg2NiwzNjIxMTg3
+NzAsLTIwNzIyMTgzOTgsLTExNDAzODEzMzUsMTQ4MTg2MjA0NS
+wtMjA4MTQ3ODE0LC0yMDgxNDc4MTQsLTY2MTk0OTkwNCwtNzQw
+NDYxMzU2LC0yNDAxMDMzNDYsLTU1MTU3Nzc5NSwxMjc3Nzk1Nz
+U3LDIwNDA2MjYwNTAsNzM3ODk2ODQyLC02NTkyNzI0MjAsLTEy
+ODk1MTcwNV19
 -->
