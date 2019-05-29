@@ -36,6 +36,7 @@
 - large railway network, too many people using it
 - **Delhi** as the largest city of India (22 million citizens), the Indian government is located in **New Delhi**
 - summer monsoon has a great impact on the living conditions as some people reside in houses which are not water-proof
+- former caste system (until 1949): the "untouchables" had no rights and no power, "Brahmins"
 - **many *disparities*, local *fragmentation***
 - ***growth of population*** as a main problem again:
 	- poor health services, poor education, child malnutrition
@@ -72,9 +73,9 @@
 **> really depends on the cultural circumstances**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzA0MDc4MDYsMTc2MzgzNDA0MiwxNz
-kyNzU3MzU0LC0xNzAzMjYzMTIwLDQxMjExNDA0NiwtNDk1NjAy
-ODc4LDE3NzQxNTUyOCw1Njg3NzE5ODQsMTc4MDU3MzUxMywtMj
-UzNzgzNDM3LC05NjY3MjcyNzcsLTM3ODMyNDc5MiwxMzMyNjQx
-MjU4LDEyNjYyMDc4NTddfQ==
+eyJoaXN0b3J5IjpbODAxOTU3MTQzLC0xMDcwNDA3ODA2LDE3Nj
+M4MzQwNDIsMTc5Mjc1NzM1NCwtMTcwMzI2MzEyMCw0MTIxMTQw
+NDYsLTQ5NTYwMjg3OCwxNzc0MTU1MjgsNTY4NzcxOTg0LDE3OD
+A1NzM1MTMsLTI1Mzc4MzQzNywtOTY2NzI3Mjc3LC0zNzgzMjQ3
+OTIsMTMzMjY0MTI1OCwxMjY2MjA3ODU3XX0=
 -->
