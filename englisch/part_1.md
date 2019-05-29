@@ -19,8 +19,8 @@
 ### Main part – Speech
 - analysis of the structure (introduction, main part, conclusion)
 - analysis of **each** section on its **own** regarding:
-	- *stylistic devices* and *communicative strategies*
-		- only the most important ones, explanation + function / effect
+	- ***communicative strategies***
+	- ***stylistic devices***
 	- analysis of the ***content***
 - show use of ***language***: *"To get back to the beginning, these examples [...]"*
 
@@ -113,6 +113,8 @@
 - ***simile:*** comparison, usually with *"like"*
 - ***symbol:*** one thing is used to represent sth. else, e. g. the rose is a symbol for love
 
+**> only pick the most important ones, explanation + function / effect**
+
 ### Potential function of stylistic devices
 - (to) establish contact with sb.
 - (to) emphasize
@@ -137,11 +139,11 @@
 	- **register:** choice of words, style and grammar used in a certain social context **> reflects social status**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDYxMjI2MTQsLTIwNjc2NzA3ODcsND
-QxOTE1MTg3LC0xMDU0NDUzODY2LDM2MjExODc3MCwtMjA3MjIx
-ODM5OCwtMTE0MDM4MTMzNSwxNDgxODYyMDQ1LC0yMDgxNDc4MT
-QsLTIwODE0NzgxNCwtNjYxOTQ5OTA0LC03NDA0NjEzNTYsLTI0
-MDEwMzM0NiwtNTUxNTc3Nzk1LDEyNzc3OTU3NTcsMjA0MDYyNj
-A1MCw3Mzc4OTY4NDIsLTY1OTI3MjQyMCwtMTI4OTUxNzA1LC02
-MTk4NjIwMDNdfQ==
+eyJoaXN0b3J5IjpbNjYzMDc0MDAsLTIwNjc2NzA3ODcsNDQxOT
+E1MTg3LC0xMDU0NDUzODY2LDM2MjExODc3MCwtMjA3MjIxODM5
+OCwtMTE0MDM4MTMzNSwxNDgxODYyMDQ1LC0yMDgxNDc4MTQsLT
+IwODE0NzgxNCwtNjYxOTQ5OTA0LC03NDA0NjEzNTYsLTI0MDEw
+MzM0NiwtNTUxNTc3Nzk1LDEyNzc3OTU3NTcsMjA0MDYyNjA1MC
+w3Mzc4OTY4NDIsLTY1OTI3MjQyMCwtMTI4OTUxNzA1LC02MTk4
+NjIwMDNdfQ==
 -->
