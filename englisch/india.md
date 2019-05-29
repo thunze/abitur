@@ -36,7 +36,7 @@
 - summer monsoon has a great impact on the living conditions as some people reside in houses which are not water-proof
 - **many *disparities*, local *fragmentation***
 - ***growth of population*** as a main problem again:
-	- poor he
+	- poor health services, poor education, child malnutrition
 
 ### Economics
 - IT services industry developed in the 90s, major economic factor
@@ -67,7 +67,7 @@
 **> really depends on the cultural circumstances**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjA2MDMxMSwtMTcwMzI2MzEyMCw0MT
+eyJoaXN0b3J5IjpbMTc5Mjc1NzM1NCwtMTcwMzI2MzEyMCw0MT
 IxMTQwNDYsLTQ5NTYwMjg3OCwxNzc0MTU1MjgsNTY4NzcxOTg0
 LDE3ODA1NzM1MTMsLTI1Mzc4MzQzNywtOTY2NzI3Mjc3LC0zNz
 gzMjQ3OTIsMTMzMjY0MTI1OCwxMjY2MjA3ODU3XX0=
