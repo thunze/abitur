@@ -56,7 +56,9 @@
 		- also mostly the main character
 		- most sympathy with the narrator
 - ***narrative techniques***
-	- ***point of view:*** 
+	- ***point of view:*** shows the narrator's attitude to the characters and can limit what the reader knows
+	- ***unreliable narrator:*** does not tell the whole truth to the reader
+	- ***suspense:*** is created by
 - show use of ***language***
 - *stylistic devices* **> esp. *symbols***
 
@@ -152,7 +154,7 @@
 	- **register:** choice of words, style and grammar used in a certain social context **> reflects social status**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTkzOTc4OCwtMTUzMzQ1MDcwMywtMj
+eyJoaXN0b3J5IjpbLTIzNDE0NDM4MiwtMTUzMzQ1MDcwMywtMj
 A2NzY3MDc4Nyw0NDE5MTUxODcsLTEwNTQ0NTM4NjYsMzYyMTE4
 NzcwLC0yMDcyMjE4Mzk4LC0xMTQwMzgxMzM1LDE0ODE4NjIwND
 UsLTIwODE0NzgxNCwtMjA4MTQ3ODE0LC02NjE5NDk5MDQsLTc0
