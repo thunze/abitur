@@ -34,8 +34,9 @@
 	- *editorial / column:* expresses the newspaper's or the journalist's opinion / experience of the author
 - ***train of thought*** (structure) – thesis? / example? / general issue?
 	- *"How does it convince the reader?"*
-- **style, tone and register:**
-	- style: 
+- **tone and register:**
+	- **tone:** general mood, feeling or attitude being expressed **> emotional content**
+	- **register:** cho
 - *stylistic devices* and *communicative devices*
 - *"To get back to the beginning, these examples [...]":* show use of *language*
 
@@ -135,11 +136,11 @@
 - ***language:*** emotional, scientific, formal, informal, *literary* etc.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA3Mzg1MzksLTIwNjc2NzA3ODcsNDQxOT
-E1MTg3LC0xMDU0NDUzODY2LDM2MjExODc3MCwtMjA3MjIxODM5
-OCwtMTE0MDM4MTMzNSwxNDgxODYyMDQ1LC0yMDgxNDc4MTQsLT
-IwODE0NzgxNCwtNjYxOTQ5OTA0LC03NDA0NjEzNTYsLTI0MDEw
-MzM0NiwtNTUxNTc3Nzk1LDEyNzc3OTU3NTcsMjA0MDYyNjA1MC
-w3Mzc4OTY4NDIsLTY1OTI3MjQyMCwtMTI4OTUxNzA1LC02MTk4
-NjIwMDNdfQ==
+eyJoaXN0b3J5IjpbNDU5NTM4NjEwLC0yMDY3NjcwNzg3LDQ0MT
+kxNTE4NywtMTA1NDQ1Mzg2NiwzNjIxMTg3NzAsLTIwNzIyMTgz
+OTgsLTExNDAzODEzMzUsMTQ4MTg2MjA0NSwtMjA4MTQ3ODE0LC
+0yMDgxNDc4MTQsLTY2MTk0OTkwNCwtNzQwNDYxMzU2LC0yNDAx
+MDMzNDYsLTU1MTU3Nzc5NSwxMjc3Nzk1NzU3LDIwNDA2MjYwNT
+AsNzM3ODk2ODQyLC02NTkyNzI0MjAsLTEyODk1MTcwNSwtNjE5
+ODYyMDAzXX0=
 -->
