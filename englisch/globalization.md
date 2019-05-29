@@ -1,6 +1,6 @@
 # Globalization
 
-## Chances & challenges
+## General chances & challenges
 
 | chances | challenges |
 | --- | --- |
@@ -15,7 +15,10 @@
 | <li>chance of *development aid* for developing countries</li> | <li>insecure data</li> |
 | <li>accessibility via mobile / internet technology</li> | <li>**censoring**</li> |
 
+## Personal chances & challenges
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMTAzNTMxNiwxODAzNTY3MjQsMjA3Nz
-U5ODMyNF19
+eyJoaXN0b3J5IjpbLTE2NTg0OTU4OTMsMTMyMTAzNTMxNiwxOD
+AzNTY3MjQsMjA3NzU5ODMyNF19
 -->
