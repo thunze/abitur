@@ -19,9 +19,13 @@
 ## Realistic future visions
 
 | positive | negative |
-| 
+| --- | --- |
+| <li>communication via **blockchain**</li><li>supporting **AI**</li><li>sustain</li><li></li> |
+| <li></li> | <li></li> |
+| <li></li> | <li></li> |
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc4MTI1MDM2LDQ5Mzk0MDc2OCwtMTY1OD
-Q5NTg5MywxMzIxMDM1MzE2LDE4MDM1NjcyNCwyMDc3NTk4MzI0
-XX0=
+eyJoaXN0b3J5IjpbLTEzOTI1NzcwNzIsNDkzOTQwNzY4LC0xNj
+U4NDk1ODkzLDEzMjEwMzUzMTYsMTgwMzU2NzI0LDIwNzc1OTgz
+MjRdfQ==
 -->
