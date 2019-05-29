@@ -41,26 +41,13 @@
 ### Main part – fictional text
 - **setting:** time, place, conditions
 - **atmosphere** – possible functions: causing emotions, reflecting mindset or emotions of a character, creating a contrast
-- ***narrative perspective:***
-	- ***third-person omniscient narrator:***
-		- tells the story from the outside
-		- possible flash-forward
-		- narrator knows everything about the characters' feelings and the background of the story
-		- mainly neutral attitude
-	- ***third-person limited narrator:***
-		- tells the story from the outside
-		- only describes feelings of one particular character in the story
-		- sympathy with the character we are told most about
-	- ***first-person narrator:***
-		- a character tells the story from his / her perspective
-		- also mostly the main character
-		- most sympathy with the narrator
+- ***narrative perspective***
 - ***narrative techniques***
 	- ***suspense:*** is created by not giving away too much information
 	- ***exposition, rising action, climax, falling action, dénouement (resolution)***
 	- ***frame story:*** presents a story in a story
 	- ***back story:*** gives the history of characters or elements in the story
-	- ***foreshadowing:*** early hints at a future develo
+	- ***foreshadowing:*** early hints at a future development
 	- ***flashback, flash-forward***
 	- ***point of view:*** shows the narrator's attitude to the characters and can limit what the reader knows
 	- ***unreliable narrator:*** does not tell the whole truth to the reader
@@ -162,12 +149,26 @@
 	- **tone:** general mood, feeling or attitude being expressed **> emotional content**
 	- **register:** choice of words, style and grammar used in a certain social context **> reflects social status**
 
+### Narrative perspectives
+- ***third-person omniscient narrator:***
+	- tells the story from the outside
+	- possible flash-forward
+	- narrator knows everything about the characters' feelings and the background of the story
+	- mainly neutral attitude
+- ***third-person limited narrator:***
+	- tells the story from the outside
+	- only describes feelings of one particular character in the story
+	- causes sympathy with the character we are told most about
+- ***first-person narrator:***
+	- a character tells the story from his / her perspective
+	- also mostly the main character
+	- causes most sympathy with the character
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDQ4OTk5MzQsLTE1MzM0NTA3MDMsLT
-IwNjc2NzA3ODcsNDQxOTE1MTg3LC0xMDU0NDUzODY2LDM2MjEx
-ODc3MCwtMjA3MjIxODM5OCwtMTE0MDM4MTMzNSwxNDgxODYyMD
-Q1LC0yMDgxNDc4MTQsLTIwODE0NzgxNCwtNjYxOTQ5OTA0LC03
-NDA0NjEzNTYsLTI0MDEwMzM0NiwtNTUxNTc3Nzk1LDEyNzc3OT
-U3NTcsMjA0MDYyNjA1MCw3Mzc4OTY4NDIsLTY1OTI3MjQyMCwt
-MTI4OTUxNzA1XX0=
+eyJoaXN0b3J5IjpbMTQwMzA0NDYzMCwtMTUzMzQ1MDcwMywtMj
+A2NzY3MDc4Nyw0NDE5MTUxODcsLTEwNTQ0NTM4NjYsMzYyMTE4
+NzcwLC0yMDcyMjE4Mzk4LC0xMTQwMzgxMzM1LDE0ODE4NjIwND
+UsLTIwODE0NzgxNCwtMjA4MTQ3ODE0LC02NjE5NDk5MDQsLTc0
+MDQ2MTM1NiwtMjQwMTAzMzQ2LC01NTE1Nzc3OTUsMTI3Nzc5NT
+c1NywyMDQwNjI2MDUwLDczNzg5Njg0MiwtNjU5MjcyNDIwLC0x
+Mjg5NTE3MDVdfQ==
 -->
