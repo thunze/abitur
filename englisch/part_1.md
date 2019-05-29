@@ -5,6 +5,7 @@
 - **first:** *"In the following I'm going to summarize [...]"* **> task**
 - title, author, text type, date of publication, topic
 - 5 or 6 sentences **main summary** **> present tense**
+	- *"says, writes, states, claims, mentions, deals with etc."*
 - 1 or 2 sentences **conclusion**
 
 ## Analysis
@@ -61,7 +62,7 @@
 ### Main part
 - **own opinion**
 	- ***"Are the values represented still relevant today?"***
-- arguments supporting your opinion
+- **only** arguments supporting your own opinion
 - examples to support own arguments
 - **refute** arguments of the opposite position
 - underline **contradictory statements**
@@ -168,11 +169,11 @@
 - ***dialogues, descriptions, comments***
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDYxNzcyNTksLTE1MzM0NTA3MDMsLT
-IwNjc2NzA3ODcsNDQxOTE1MTg3LC0xMDU0NDUzODY2LDM2MjEx
-ODc3MCwtMjA3MjIxODM5OCwtMTE0MDM4MTMzNSwxNDgxODYyMD
-Q1LC0yMDgxNDc4MTQsLTIwODE0NzgxNCwtNjYxOTQ5OTA0LC03
-NDA0NjEzNTYsLTI0MDEwMzM0NiwtNTUxNTc3Nzk1LDEyNzc3OT
-U3NTcsMjA0MDYyNjA1MCw3Mzc4OTY4NDIsLTY1OTI3MjQyMCwt
-MTI4OTUxNzA1XX0=
+eyJoaXN0b3J5IjpbMTM3ODczMzEwMSwtMTgwNjE3NzI1OSwtMT
+UzMzQ1MDcwMywtMjA2NzY3MDc4Nyw0NDE5MTUxODcsLTEwNTQ0
+NTM4NjYsMzYyMTE4NzcwLC0yMDcyMjE4Mzk4LC0xMTQwMzgxMz
+M1LDE0ODE4NjIwNDUsLTIwODE0NzgxNCwtMjA4MTQ3ODE0LC02
+NjE5NDk5MDQsLTc0MDQ2MTM1NiwtMjQwMTAzMzQ2LC01NTE1Nz
+c3OTUsMTI3Nzc5NTc1NywyMDQwNjI2MDUwLDczNzg5Njg0Miwt
+NjU5MjcyNDIwXX0=
 -->
