@@ -59,7 +59,9 @@
 	- ***suspense:*** is created by not giving away too much information
 	- ***exposition, rising action, climax, falling action, dénouement (resolution)***
 	- ***frame story:*** presents a story in a story
-	- ***back story***
+	- ***back story:*** gives the history of characters or elements in the story
+	- ***foreshadowing:*** early hints at a future develo
+	- ***flashback, flash-forward***
 	- ***point of view:*** shows the narrator's attitude to the characters and can limit what the reader knows
 	- ***unreliable narrator:*** does not tell the whole truth to the reader
 	- ***tense:*** past tense can create distance between the reader and the characters
@@ -161,11 +163,11 @@
 	- **register:** choice of words, style and grammar used in a certain social context **> reflects social status**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ0MzYzNjA3LC0xNTMzNDUwNzAzLC0yMD
-Y3NjcwNzg3LDQ0MTkxNTE4NywtMTA1NDQ1Mzg2NiwzNjIxMTg3
-NzAsLTIwNzIyMTgzOTgsLTExNDAzODEzMzUsMTQ4MTg2MjA0NS
-wtMjA4MTQ3ODE0LC0yMDgxNDc4MTQsLTY2MTk0OTkwNCwtNzQw
-NDYxMzU2LC0yNDAxMDMzNDYsLTU1MTU3Nzc5NSwxMjc3Nzk1Nz
-U3LDIwNDA2MjYwNTAsNzM3ODk2ODQyLC02NTkyNzI0MjAsLTEy
-ODk1MTcwNV19
+eyJoaXN0b3J5IjpbLTEyMDQ4OTk5MzQsLTE1MzM0NTA3MDMsLT
+IwNjc2NzA3ODcsNDQxOTE1MTg3LC0xMDU0NDUzODY2LDM2MjEx
+ODc3MCwtMjA3MjIxODM5OCwtMTE0MDM4MTMzNSwxNDgxODYyMD
+Q1LC0yMDgxNDc4MTQsLTIwODE0NzgxNCwtNjYxOTQ5OTA0LC03
+NDA0NjEzNTYsLTI0MDEwMzM0NiwtNTUxNTc3Nzk1LDEyNzc3OT
+U3NTcsMjA0MDYyNjA1MCw3Mzc4OTY4NDIsLTY1OTI3MjQyMCwt
+MTI4OTUxNzA1XX0=
 -->
