@@ -43,6 +43,7 @@
 - *"To get back to the beginning, these examples [...]":* show use of *language*
 - setting and atmosphere
 - *narrative perspective* and *point of view*
+	- *first-person narrator* or
 - *narrative techniques* **> TODO, book S8**
 
 ### Conclusion
@@ -132,11 +133,11 @@
 - ***language:*** emotional, scientific, formal, informal etc.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTQ0NTM4NjYsMzYyMTE4NzcwLC0yMD
-cyMjE4Mzk4LC0xMTQwMzgxMzM1LDE0ODE4NjIwNDUsLTIwODE0
-NzgxNCwtMjA4MTQ3ODE0LC02NjE5NDk5MDQsLTc0MDQ2MTM1Ni
-wtMjQwMTAzMzQ2LC01NTE1Nzc3OTUsMTI3Nzc5NTc1NywyMDQw
-NjI2MDUwLDczNzg5Njg0MiwtNjU5MjcyNDIwLC0xMjg5NTE3MD
-UsLTYxOTg2MjAwMyw1MDg3NzAyOTAsLTIxMTUxMTk4NTEsLTEz
-MDM3NjQ2OTldfQ==
+eyJoaXN0b3J5IjpbNDQxOTE1MTg3LC0xMDU0NDUzODY2LDM2Mj
+ExODc3MCwtMjA3MjIxODM5OCwtMTE0MDM4MTMzNSwxNDgxODYy
+MDQ1LC0yMDgxNDc4MTQsLTIwODE0NzgxNCwtNjYxOTQ5OTA0LC
+03NDA0NjEzNTYsLTI0MDEwMzM0NiwtNTUxNTc3Nzk1LDEyNzc3
+OTU3NTcsMjA0MDYyNjA1MCw3Mzc4OTY4NDIsLTY1OTI3MjQyMC
+wtMTI4OTUxNzA1LC02MTk4NjIwMDMsNTA4NzcwMjkwLC0yMTE1
+MTE5ODUxXX0=
 -->
