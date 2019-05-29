@@ -33,7 +33,7 @@
 	- *editorial / column:* expresses the newspaper's or the journalist's opinion / experience of the author
 - ***train of thought*** (structure) – thesis? / example? / general issue?
 	- *"How does it convince the reader?"*
-- analyze of each section on its **own** regarding:
+- analysis of each section on its **own** regarding:
 	- ***communicative strategies***
 	- ***stylistic devices***
 - show use of ***language***: *"To get back to the beginning, these examples [...]"*
@@ -42,9 +42,10 @@
 - **setting:** time, place, conditions
 - **atmosphere** – possible functions: causing emotions, reflecting mindset or emotions of a character, creating a contrast
 - ***narrative perspective***
-- ***narrative techniques***
+- analysis of each section on its **own** regarding:
+	- ***narrative techniques***
+	- only a few ***stylistic devices***, esp. *symbols*
 - show use of ***language***
-- *stylistic devices* **> esp. *symbols***
 
 ### Conclusion
 - summary of the most important aspects and *stylistic devices*
@@ -167,11 +168,11 @@
 - ***dialogues, descriptions, comments***
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MTE4NzY4OCwtMTUzMzQ1MDcwMywtMj
-A2NzY3MDc4Nyw0NDE5MTUxODcsLTEwNTQ0NTM4NjYsMzYyMTE4
-NzcwLC0yMDcyMjE4Mzk4LC0xMTQwMzgxMzM1LDE0ODE4NjIwND
-UsLTIwODE0NzgxNCwtMjA4MTQ3ODE0LC02NjE5NDk5MDQsLTc0
-MDQ2MTM1NiwtMjQwMTAzMzQ2LC01NTE1Nzc3OTUsMTI3Nzc5NT
-c1NywyMDQwNjI2MDUwLDczNzg5Njg0MiwtNjU5MjcyNDIwLC0x
-Mjg5NTE3MDVdfQ==
+eyJoaXN0b3J5IjpbLTE4MDYxNzcyNTksLTE1MzM0NTA3MDMsLT
+IwNjc2NzA3ODcsNDQxOTE1MTg3LC0xMDU0NDUzODY2LDM2MjEx
+ODc3MCwtMjA3MjIxODM5OCwtMTE0MDM4MTMzNSwxNDgxODYyMD
+Q1LC0yMDgxNDc4MTQsLTIwODE0NzgxNCwtNjYxOTQ5OTA0LC03
+NDA0NjEzNTYsLTI0MDEwMzM0NiwtNTUxNTc3Nzk1LDEyNzc3OT
+U3NTcsMjA0MDYyNjA1MCw3Mzc4OTY4NDIsLTY1OTI3MjQyMCwt
+MTI4OTUxNzA1XX0=
 -->
