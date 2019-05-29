@@ -41,7 +41,8 @@
 ### Main part – fictional text
 - *stylistic devices* **> esp. *symbols***
 - *"To get back to the beginning, these examples [...]":* show use of *language*
-- **atmosphere**, possible functions: causing emotions, reflecting mindset or emotions of a character, creating a contrast)
+- **setting:** time, place, conditions
+- **atmosphere** – possible functions: causing emotions, reflecting mindset or emotions of a character, creating a contrast)
 - *narrative perspective* and *point of view*
 	- *first-person narrator* or
 - *narrative techniques* **> TODO, book S8**
@@ -133,7 +134,7 @@
 - ***language:*** emotional, scientific, formal, informal etc.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMzcxNjU5NiwtMjA2NzY3MDc4Nyw0ND
+eyJoaXN0b3J5IjpbLTk1OTYzNDk3NCwtMjA2NzY3MDc4Nyw0ND
 E5MTUxODcsLTEwNTQ0NTM4NjYsMzYyMTE4NzcwLC0yMDcyMjE4
 Mzk4LC0xMTQwMzgxMzM1LDE0ODE4NjIwNDUsLTIwODE0NzgxNC
 wtMjA4MTQ3ODE0LC02NjE5NDk5MDQsLTc0MDQ2MTM1NiwtMjQw
