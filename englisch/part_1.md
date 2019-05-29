@@ -65,7 +65,7 @@
 - **only** arguments supporting **your own opinion**
 	- examples to support own arguments
 - **refutation** of arguments of the opposite position
-- uncovering of **contradictory statements**
+- exposure of **contradictory statements**
 - always try to differentiate between your **own opinion** and **facts**
 
 ### Conclusion
@@ -169,7 +169,7 @@
 - ***dialogues, descriptions, comments***
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzOTMzNjExMywtMTgwNjE3NzI1OSwtMT
+eyJoaXN0b3J5IjpbLTI0MDAzNTU5OCwtMTgwNjE3NzI1OSwtMT
 UzMzQ1MDcwMywtMjA2NzY3MDc4Nyw0NDE5MTUxODcsLTEwNTQ0
 NTM4NjYsMzYyMTE4NzcwLC0yMDcyMjE4Mzk4LC0xMTQwMzgxMz
 M1LDE0ODE4NjIwNDUsLTIwODE0NzgxNCwtMjA4MTQ3ODE0LC02
