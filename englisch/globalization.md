@@ -14,9 +14,14 @@
 | <li>instant **information**</li> | <li>too much / low quality information</li> |
 | <li>chance of *development aid* for developing countries</li> | <li>insecure data</li> |
 | <li>accessibility via mobile / internet technology</li> | <li>**censoring**</li> |
-| <li></li> | <li>experiencing development countries may create a "shocking momentum"</li> |
+| <li>higher income</li> | <li>experiencing development countries may create a "shocking momentum"</li> |
 
+## Realistic future visions
+
+| positive | negative |
+| 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkzOTQwNzY4LC0xNjU4NDk1ODkzLDEzMj
-EwMzUzMTYsMTgwMzU2NzI0LDIwNzc1OTgzMjRdfQ==
+eyJoaXN0b3J5IjpbNzc4MTI1MDM2LDQ5Mzk0MDc2OCwtMTY1OD
+Q5NTg5MywxMzIxMDM1MzE2LDE4MDM1NjcyNCwyMDc3NTk4MzI0
+XX0=
 -->
