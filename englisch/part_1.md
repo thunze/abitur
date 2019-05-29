@@ -52,6 +52,9 @@
 		- only describes feelings of one particular character in the story
 		- sympathy with the character we are told most about
 	- ***first-person narrator:***
+		- a character tells the story from his / her perspective
+		- also mostly the main character
+		- most sympathy with the narr
 - ***narrative techniques***
 	- ***point of view:***
 - show use of ***language***
@@ -149,7 +152,7 @@
 	- **register:** choice of words, style and grammar used in a certain social context **> reflects social status**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNDU1MzA4NSwtMTUzMzQ1MDcwMywtMj
+eyJoaXN0b3J5IjpbLTE4Nzg3MTMwOCwtMTUzMzQ1MDcwMywtMj
 A2NzY3MDc4Nyw0NDE5MTUxODcsLTEwNTQ0NTM4NjYsMzYyMTE4
 NzcwLC0yMDcyMjE4Mzk4LC0xMTQwMzgxMzM1LDE0ODE4NjIwND
 UsLTIwODE0NzgxNCwtMjA4MTQ3ODE0LC02NjE5NDk5MDQsLTc0
