@@ -23,7 +23,7 @@
 - *dabbawallas* deliver home-cooked food to offices in Mumbai
 - The Gateway of India (Mumbai harbour) – ceremonial entrance for high UK governors (until 1947)
 - colorful clothing / tradition
-- 
+- **Cricket** as 
 
 ### Society
 - **population:**
@@ -52,7 +52,7 @@
 - competing ideologies, may be the future
 - home to one third of the world's poorest people
 - inequality has widened despite the economical growth
-- **corruption:** many illegal activities harming the economics are tolerated by the police
+- **corruption:** many illegal activities harming the economics are tolerated by the police (e. g. illegal call centers)
 
 ## Arranged Marriages
 
@@ -70,9 +70,9 @@
 **> really depends on the cultural circumstances**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MzgzNDA0MiwxNzkyNzU3MzU0LC0xNz
-AzMjYzMTIwLDQxMjExNDA0NiwtNDk1NjAyODc4LDE3NzQxNTUy
-OCw1Njg3NzE5ODQsMTc4MDU3MzUxMywtMjUzNzgzNDM3LC05Nj
-Y3MjcyNzcsLTM3ODMyNDc5MiwxMzMyNjQxMjU4LDEyNjYyMDc4
-NTddfQ==
+eyJoaXN0b3J5IjpbLTI4NjQ1ODY2OCwxNzYzODM0MDQyLDE3OT
+I3NTczNTQsLTE3MDMyNjMxMjAsNDEyMTE0MDQ2LC00OTU2MDI4
+NzgsMTc3NDE1NTI4LDU2ODc3MTk4NCwxNzgwNTczNTEzLC0yNT
+M3ODM0MzcsLTk2NjcyNzI3NywtMzc4MzI0NzkyLDEzMzI2NDEy
+NTgsMTI2NjIwNzg1N119
 -->
