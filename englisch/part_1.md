@@ -145,6 +145,7 @@
 	- possible flash-forward
 	- narrator knows everything about the characters' feelings and the background of the story
 	- mainly neutral attitude
+	- may **comment** on the events
 - ***third-person limited narrator:***
 	- tells the story from the outside
 	- only describes feelings of one particular character in the story
@@ -157,8 +158,7 @@
 ### Narrative techniques
 - ***suspense:*** is created by not giving away too much information
 - ***exposition, rising action, climax, falling action, dénouement (resolution)***
-- ***frame story:*** presents a story in a story
-- ***back story:*** gives the history of characters or elements in the story
+- ***frame story***, ***back story***
 - ***foreshadowing:*** early hints at a future development
 - ***flashback, flash-forward***
 - ***point of view:*** shows the narrator's attitude to the characters and can limit what the reader knows
@@ -169,11 +169,11 @@
 - ***dialogues, descriptions, comments***
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDAwMzE5MTksLTE4MDYxNzcyNTksLT
-E1MzM0NTA3MDMsLTIwNjc2NzA3ODcsNDQxOTE1MTg3LC0xMDU0
-NDUzODY2LDM2MjExODc3MCwtMjA3MjIxODM5OCwtMTE0MDM4MT
-MzNSwxNDgxODYyMDQ1LC0yMDgxNDc4MTQsLTIwODE0NzgxNCwt
-NjYxOTQ5OTA0LC03NDA0NjEzNTYsLTI0MDEwMzM0NiwtNTUxNT
-c3Nzk1LDEyNzc3OTU3NTcsMjA0MDYyNjA1MCw3Mzc4OTY4NDIs
-LTY1OTI3MjQyMF19
+eyJoaXN0b3J5IjpbLTU5NTI2NzU2OCwtMTgwNjE3NzI1OSwtMT
+UzMzQ1MDcwMywtMjA2NzY3MDc4Nyw0NDE5MTUxODcsLTEwNTQ0
+NTM4NjYsMzYyMTE4NzcwLC0yMDcyMjE4Mzk4LC0xMTQwMzgxMz
+M1LDE0ODE4NjIwNDUsLTIwODE0NzgxNCwtMjA4MTQ3ODE0LC02
+NjE5NDk5MDQsLTc0MDQ2MTM1NiwtMjQwMTAzMzQ2LC01NTE1Nz
+c3OTUsMTI3Nzc5NTc1NywyMDQwNjI2MDUwLDczNzg5Njg0Miwt
+NjU5MjcyNDIwXX0=
 -->
