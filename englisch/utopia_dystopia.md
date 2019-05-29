@@ -1,5 +1,7 @@
 # Utopian and dystopian society
 
+## Definitions
+
 ## Characteristics of a dystopian society
 
 - people need to accomplish **senseless tasks**
@@ -18,7 +20,7 @@
 - **problems – donor:** health issues after donation, relatives / health insurance agreement (you need an organ donor card)
 	- better solution: people can only **explicitly revoke** the permission to transplant organs after death
 
-## Organ sales
+### Organ sales
 
 | chances | challenges |
 | --- | --- |
@@ -38,6 +40,6 @@
 | | <li>could get "trendy" – human beings treated as objects</li> |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NTE5ODMzMSwtMTIzNzI5NDI4MywtMT
-M3MDk5Mjg4MiwtNjg5NzczODMyXX0=
+eyJoaXN0b3J5IjpbLTE3NTg2NDA2NDIsMTQ3NTE5ODMzMSwtMT
+IzNzI5NDI4MywtMTM3MDk5Mjg4MiwtNjg5NzczODMyXX0=
 -->
