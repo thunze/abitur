@@ -24,7 +24,7 @@
 - The Gateway of India (Mumbai harbour) – ceremonial entrance for high UK governors (until 1947)
 - colorful clothing / tradition
 - **Cricket** as a unifying game – national players are celebrated like heroes
-- Bollywood fi
+- Bollywood movies deal with real problems of the Indian Culture
 
 ### Society
 - **population:**
@@ -72,9 +72,9 @@
 **> really depends on the cultural circumstances**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMDcwOTAwNywxNzYzODM0MDQyLDE3OT
-I3NTczNTQsLTE3MDMyNjMxMjAsNDEyMTE0MDQ2LC00OTU2MDI4
-NzgsMTc3NDE1NTI4LDU2ODc3MTk4NCwxNzgwNTczNTEzLC0yNT
-M3ODM0MzcsLTk2NjcyNzI3NywtMzc4MzI0NzkyLDEzMzI2NDEy
-NTgsMTI2NjIwNzg1N119
+eyJoaXN0b3J5IjpbLTEwNzA0MDc4MDYsMTc2MzgzNDA0MiwxNz
+kyNzU3MzU0LC0xNzAzMjYzMTIwLDQxMjExNDA0NiwtNDk1NjAy
+ODc4LDE3NzQxNTUyOCw1Njg3NzE5ODQsMTc4MDU3MzUxMywtMj
+UzNzgzNDM3LC05NjY3MjcyNzcsLTM3ODMyNDc5MiwxMzMyNjQx
+MjU4LDEyNjYyMDc4NTddfQ==
 -->
