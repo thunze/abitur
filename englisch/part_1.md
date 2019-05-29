@@ -58,7 +58,7 @@
 - ***narrative techniques***
 	- ***point of view:*** shows the narrator's attitude to the characters and can limit what the reader knows
 	- ***unreliable narrator:*** does not tell the whole truth to the reader
-	- ***suspense:*** is created by
+	- ***suspense:*** is created by not giving away too much information
 - show use of ***language***
 - *stylistic devices* **> esp. *symbols***
 
@@ -115,7 +115,7 @@
 - ***contrast:*** opposition of two extremes, e. g. *"black and white"*
 - ***enumeration***
 - ***euphemism:*** indirect phrase to refer to sth. bad, e. g. *"to pass away"*
-- ***irony:*** the use of words that say the opposite of what is really meant
+- ***irony:*** the use of words that say the opposite of what is really meant **> creates distance to sth.**
 - ***metaphor***
 - ***onomatopoeia:*** *Lautmalerei*
 - ***paradox:*** contradictory statement with a deeper meaning
@@ -146,7 +146,7 @@
 	- ***order of arguments***
 - ***giving examples***
 - ***hyperbole / exaggerating***
-- ***using humour / irony / sarcasm***
+- ***using humour / irony / sarcasm:*** creates distance to sth.
 - ***directly adressing the audience***
 - ***use of the first person plural:*** involves the audience and presupposes that everybody else agrees
 - ***language:*** emotional, scientific, formal, informal, ***literary*** etc.
@@ -154,7 +154,7 @@
 	- **register:** choice of words, style and grammar used in a certain social context **> reflects social status**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNDE0NDM4MiwtMTUzMzQ1MDcwMywtMj
+eyJoaXN0b3J5IjpbLTg0MjYwNDY0MCwtMTUzMzQ1MDcwMywtMj
 A2NzY3MDc4Nyw0NDE5MTUxODcsLTEwNTQ0NTM4NjYsMzYyMTE4
 NzcwLC0yMDcyMjE4Mzk4LC0xMTQwMzgxMzM1LDE0ODE4NjIwND
 UsLTIwODE0NzgxNCwtMjA4MTQ3ODE0LC02NjE5NDk5MDQsLTc0
