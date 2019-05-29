@@ -38,7 +38,7 @@
 - summer monsoon has a great impact on the living conditions as some people reside in houses which are not water-proof
 - former caste system (until 1949): the "untouchables" had no rights and no power, "Brahmins" had to avoid contact with them
 	- dominated society and politics, democracy changed it
-- gender roles: wife as kind, righteous,
+- **gender roles:** should be kind, righteous and strong but obedient
 - **many *disparities*, local *fragmentation***
 - ***growth of population*** as a main problem again:
 	- poor health services, poor education, child malnutrition
@@ -75,10 +75,10 @@
 **> really depends on the cultural circumstances**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjczODE1MjIsLTE1NDI5NjM0MzQsLT
-E2NTA1NDAwOTIsLTEwNzA0MDc4MDYsMTc2MzgzNDA0MiwxNzky
-NzU3MzU0LC0xNzAzMjYzMTIwLDQxMjExNDA0NiwtNDk1NjAyOD
-c4LDE3NzQxNTUyOCw1Njg3NzE5ODQsMTc4MDU3MzUxMywtMjUz
-NzgzNDM3LC05NjY3MjcyNzcsLTM3ODMyNDc5MiwxMzMyNjQxMj
-U4LDEyNjYyMDc4NTddfQ==
+eyJoaXN0b3J5IjpbNzI5NTg0OTAyLC0xNTQyOTYzNDM0LC0xNj
+UwNTQwMDkyLC0xMDcwNDA3ODA2LDE3NjM4MzQwNDIsMTc5Mjc1
+NzM1NCwtMTcwMzI2MzEyMCw0MTIxMTQwNDYsLTQ5NTYwMjg3OC
+wxNzc0MTU1MjgsNTY4NzcxOTg0LDE3ODA1NzM1MTMsLTI1Mzc4
+MzQzNywtOTY2NzI3Mjc3LC0zNzgzMjQ3OTIsMTMzMjY0MTI1OC
+wxMjY2MjA3ODU3XX0=
 -->
