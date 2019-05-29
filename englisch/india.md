@@ -23,6 +23,7 @@
 - *dabbawallas* deliver home-cooked food to offices in Mumbai
 - The Gateway of India (Mumbai harbour) – ceremonial entrance for high UK governors (until 1947)
 - colorful clothing / tradition
+- 
 
 ### Society
 - **population:**
@@ -50,6 +51,8 @@
 	- the lateral approach has advantages
 - competing ideologies, may be the future
 - home to one third of the world's poorest people
+- inequality has widened despite the economical growth
+- **corruption:** many illegal activities harming the economics are tolerated by the police
 
 ## Arranged Marriages
 
@@ -67,8 +70,9 @@
 **> really depends on the cultural circumstances**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5Mjc1NzM1NCwtMTcwMzI2MzEyMCw0MT
-IxMTQwNDYsLTQ5NTYwMjg3OCwxNzc0MTU1MjgsNTY4NzcxOTg0
-LDE3ODA1NzM1MTMsLTI1Mzc4MzQzNywtOTY2NzI3Mjc3LC0zNz
-gzMjQ3OTIsMTMzMjY0MTI1OCwxMjY2MjA3ODU3XX0=
+eyJoaXN0b3J5IjpbMTc2MzgzNDA0MiwxNzkyNzU3MzU0LC0xNz
+AzMjYzMTIwLDQxMjExNDA0NiwtNDk1NjAyODc4LDE3NzQxNTUy
+OCw1Njg3NzE5ODQsMTc4MDU3MzUxMywtMjUzNzgzNDM3LC05Nj
+Y3MjcyNzcsLTM3ODMyNDc5MiwxMzMyNjQxMjU4LDEyNjYyMDc4
+NTddfQ==
 -->
