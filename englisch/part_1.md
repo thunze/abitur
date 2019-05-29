@@ -43,18 +43,6 @@
 - **atmosphere** – possible functions: causing emotions, reflecting mindset or emotions of a character, creating a contrast
 - ***narrative perspective***
 - ***narrative techniques***
-	- ***suspense:*** is created by not giving away too much information
-	- ***exposition, rising action, climax, falling action, dénouement (resolution)***
-	- ***frame story:*** presents a story in a story
-	- ***back story:*** gives the history of characters or elements in the story
-	- ***foreshadowing:*** early hints at a future development
-	- ***flashback, flash-forward***
-	- ***point of view:*** shows the narrator's attitude to the characters and can limit what the reader knows
-	- ***unreliable narrator:*** does not tell the whole truth to the reader
-	- ***tense:*** past tense can create distance between the reader and the characters
-	- ***indirect speech:*** can create distance between the reader and the characters
-	- ***stream of consciousness:*** represents, as exactly as possible, what a character is thinking – seems unstructured, chaotic and very close to the reader
-	- ***dialogues, descriptions, comments***
 - show use of ***language***
 - *stylistic devices* **> esp. *symbols***
 
@@ -163,8 +151,23 @@
 	- a character tells the story from his / her perspective
 	- also mostly the main character
 	- causes most sympathy with the character
+
+### Narrative techniques
+- ***suspense:*** is created by not giving away too much information
+- ***exposition, rising action, climax, falling action, dénouement (resolution)***
+- ***frame story:*** presents a story in a story
+- ***back story:*** gives the history of characters or elements in the story
+- ***foreshadowing:*** early hints at a future development
+- ***flashback, flash-forward***
+- ***point of view:*** shows the narrator's attitude to the characters and can limit what the reader knows
+- ***unreliable narrator:*** does not tell the whole truth to the reader
+- ***tense:*** past tense can create distance between the reader and the characters
+- ***indirect speech:*** can create distance between the reader and the characters
+- ***stream of consciousness:*** represents, as exactly as possible, what a character is thinking – seems unstructured, chaotic and very close to the reader
+- ***dialogues, descriptions, comments***
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMzA0NDYzMCwtMTUzMzQ1MDcwMywtMj
+eyJoaXN0b3J5IjpbMTU0MTE4NzY4OCwtMTUzMzQ1MDcwMywtMj
 A2NzY3MDc4Nyw0NDE5MTUxODcsLTEwNTQ0NTM4NjYsMzYyMTE4
 NzcwLC0yMDcyMjE4Mzk4LC0xMTQwMzgxMzM1LDE0ODE4NjIwND
 UsLTIwODE0NzgxNCwtMjA4MTQ3ODE0LC02NjE5NDk5MDQsLTc0
