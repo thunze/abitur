@@ -45,7 +45,7 @@
 - ***narrative perspective***
 - analysis of each section on its **own** regarding:
 	- ***narrative techniques***
-	- only a few ***stylistic devices***, esp. *symbols*
+	- only a few ***stylistic devices***, content-focused ones (e. g. *symbols*)
 - show use of ***language***
 
 ### Conclusion
@@ -169,11 +169,11 @@
 - ***dialogues, descriptions, comments***
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MDAzNTU5OCwtMTgwNjE3NzI1OSwtMT
-UzMzQ1MDcwMywtMjA2NzY3MDc4Nyw0NDE5MTUxODcsLTEwNTQ0
-NTM4NjYsMzYyMTE4NzcwLC0yMDcyMjE4Mzk4LC0xMTQwMzgxMz
-M1LDE0ODE4NjIwNDUsLTIwODE0NzgxNCwtMjA4MTQ3ODE0LC02
-NjE5NDk5MDQsLTc0MDQ2MTM1NiwtMjQwMTAzMzQ2LC01NTE1Nz
-c3OTUsMTI3Nzc5NTc1NywyMDQwNjI2MDUwLDczNzg5Njg0Miwt
-NjU5MjcyNDIwXX0=
+eyJoaXN0b3J5IjpbLTEzNDAwMzE5MTksLTE4MDYxNzcyNTksLT
+E1MzM0NTA3MDMsLTIwNjc2NzA3ODcsNDQxOTE1MTg3LC0xMDU0
+NDUzODY2LDM2MjExODc3MCwtMjA3MjIxODM5OCwtMTE0MDM4MT
+MzNSwxNDgxODYyMDQ1LC0yMDgxNDc4MTQsLTIwODE0NzgxNCwt
+NjYxOTQ5OTA0LC03NDA0NjEzNTYsLTI0MDEwMzM0NiwtNTUxNT
+c3Nzk1LDEyNzc3OTU3NTcsMjA0MDYyNjA1MCw3Mzc4OTY4NDIs
+LTY1OTI3MjQyMF19
 -->
