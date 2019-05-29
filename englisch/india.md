@@ -24,6 +24,7 @@
 - The Gateway of India (Mumbai harbour) – ceremonial entrance for high UK governors (until 1947)
 - colorful clothing / tradition
 - **Cricket** as a unifying game – national players are celebrated like heroes
+- Bollywood fi
 
 ### Society
 - **population:**
@@ -52,6 +53,7 @@
 - competing ideologies, may be the future
 - home to one third of the world's poorest people
 - inequality has widened despite the economical growth
+- Bollywood as a great business in India (even greater than Hollywood)
 - **corruption:** many illegal activities harming the economics are tolerated by the police (e. g. illegal call centers)
 
 ## Arranged Marriages
@@ -70,7 +72,7 @@
 **> really depends on the cultural circumstances**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NjYxNjQzNywxNzYzODM0MDQyLDE3OT
+eyJoaXN0b3J5IjpbMTMwMDcwOTAwNywxNzYzODM0MDQyLDE3OT
 I3NTczNTQsLTE3MDMyNjMxMjAsNDEyMTE0MDQ2LC00OTU2MDI4
 NzgsMTc3NDE1NTI4LDU2ODc3MTk4NCwxNzgwNTczNTEzLC0yNT
 M3ODM0MzcsLTk2NjcyNzI3NywtMzc4MzI0NzkyLDEzMzI2NDEy
