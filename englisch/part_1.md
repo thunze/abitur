@@ -34,7 +34,8 @@
 	- *editorial / column:* expresses the newspaper's or the journalist's opinion / experience of the author
 - ***train of thought*** (structure) – thesis? / example? / general issue?
 	- *"How does it convince the reader?"*
-- style, tone, register **> *TODO***
+- **style, tone and register:**
+	- style: 
 - *stylistic devices* and *communicative devices*
 - *"To get back to the beginning, these examples [...]":* show use of *language*
 
@@ -131,14 +132,14 @@
 - ***using humour / irony / sarcasm***
 - ***directly adressing the audience***
 - ***use of the first person plural:*** involves the audience and presupposes that everybody else agrees
-- ***language:*** emotional, scientific, formal, informal etc.
+- ***language:*** emotional, scientific, formal, informal, *literary* etc.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1OTYzNDk3NCwtMjA2NzY3MDc4Nyw0ND
-E5MTUxODcsLTEwNTQ0NTM4NjYsMzYyMTE4NzcwLC0yMDcyMjE4
-Mzk4LC0xMTQwMzgxMzM1LDE0ODE4NjIwNDUsLTIwODE0NzgxNC
-wtMjA4MTQ3ODE0LC02NjE5NDk5MDQsLTc0MDQ2MTM1NiwtMjQw
-MTAzMzQ2LC01NTE1Nzc3OTUsMTI3Nzc5NTc1NywyMDQwNjI2MD
-UwLDczNzg5Njg0MiwtNjU5MjcyNDIwLC0xMjg5NTE3MDUsLTYx
-OTg2MjAwM119
+eyJoaXN0b3J5IjpbNzA3Mzg1MzksLTIwNjc2NzA3ODcsNDQxOT
+E1MTg3LC0xMDU0NDUzODY2LDM2MjExODc3MCwtMjA3MjIxODM5
+OCwtMTE0MDM4MTMzNSwxNDgxODYyMDQ1LC0yMDgxNDc4MTQsLT
+IwODE0NzgxNCwtNjYxOTQ5OTA0LC03NDA0NjEzNTYsLTI0MDEw
+MzM0NiwtNTUxNTc3Nzk1LDEyNzc3OTU3NTcsMjA0MDYyNjA1MC
+w3Mzc4OTY4NDIsLTY1OTI3MjQyMCwtMTI4OTUxNzA1LC02MTk4
+NjIwMDNdfQ==
 -->
