@@ -158,9 +158,8 @@
 ### Narrative techniques
 - ***suspense:*** is created by not giving away too much information
 - ***exposition, rising action, climax, falling action, dénouement (resolution)***
-- ***frame story***, ***back story***
+- ***frame story, back story, flashback, flash-forward***
 - ***foreshadowing:*** early hints at a future development
-- ***flashback, flash-forward***
 - ***point of view:*** shows the narrator's attitude to the characters and can limit what the reader knows
 - ***unreliable narrator:*** does not tell the whole truth to the reader
 - ***tense:*** past tense can create distance between the reader and the characters
@@ -169,7 +168,7 @@
 - ***dialogues, descriptions, comments***
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NTI2NzU2OCwtMTgwNjE3NzI1OSwtMT
+eyJoaXN0b3J5IjpbMTIwNjE3NDU3NywtMTgwNjE3NzI1OSwtMT
 UzMzQ1MDcwMywtMjA2NzY3MDc4Nyw0NDE5MTUxODcsLTEwNTQ0
 NTM4NjYsMzYyMTE4NzcwLC0yMDcyMjE4Mzk4LC0xMTQwMzgxMz
 M1LDE0ODE4NjIwNDUsLTIwODE0NzgxNCwtMjA4MTQ3ODE0LC02
