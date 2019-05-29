@@ -82,6 +82,7 @@
 - use of *present tense* *(simple present / present perfect)*
 - use of objective language
 - use of own words
+- do not confuse **narrator** and **author**
 - *this* vs. *that* (zeitlich und / oder räumlich nah vs. entfernt)
 
 ### Connectives
@@ -139,7 +140,7 @@
 	- **register:** choice of words, style and grammar used in a certain social context **> reflects social status**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMxMTQ1ODg3LC0yMDY3NjcwNzg3LDQ0MT
+eyJoaXN0b3J5IjpbNDY3NTA0NTkyLC0yMDY3NjcwNzg3LDQ0MT
 kxNTE4NywtMTA1NDQ1Mzg2NiwzNjIxMTg3NzAsLTIwNzIyMTgz
 OTgsLTExNDAzODEzMzUsMTQ4MTg2MjA0NSwtMjA4MTQ3ODE0LC
 0yMDgxNDc4MTQsLTY2MTk0OTkwNCwtNzQwNDYxMzU2LC0yNDAx
