@@ -44,7 +44,7 @@
 - ***narrative perspective:***
 	- ***third-person omniscient narrator:***
 		- tells the story from the outside
-		- possible foreshadowing
+		- possible flash-forward
 		- narrator knows everything about the characters' feelings and the background of the story
 		- mainly neutral attitude
 	- ***third-person limited narrator:***
@@ -54,9 +54,9 @@
 	- ***first-person narrator:***
 		- a character tells the story from his / her perspective
 		- also mostly the main character
-		- most sympathy with the narr
+		- most sympathy with the narrator
 - ***narrative techniques***
-	- ***point of view:***
+	- ***point of view:*** 
 - show use of ***language***
 - *stylistic devices* **> esp. *symbols***
 
@@ -152,7 +152,7 @@
 	- **register:** choice of words, style and grammar used in a certain social context **> reflects social status**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Nzg3MTMwOCwtMTUzMzQ1MDcwMywtMj
+eyJoaXN0b3J5IjpbLTIwOTkzOTc4OCwtMTUzMzQ1MDcwMywtMj
 A2NzY3MDc4Nyw0NDE5MTUxODcsLTEwNTQ0NTM4NjYsMzYyMTE4
 NzcwLC0yMDcyMjE4Mzk4LC0xMTQwMzgxMzM1LDE0ODE4NjIwND
 UsLTIwODE0NzgxNCwtMjA4MTQ3ODE0LC02NjE5NDk5MDQsLTc0
