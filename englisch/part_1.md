@@ -41,7 +41,8 @@
 ### Main part – fictional text
 - *stylistic devices* **> esp. *symbols***
 - *"To get back to the beginning, these examples [...]":* show use of *language*
-- setting and atmosphere
+- setting:
+- **atmosphere**, potential function: 
 - *narrative perspective* and *point of view*
 	- *first-person narrator* or
 - *narrative techniques* **> TODO, book S8**
@@ -133,11 +134,11 @@
 - ***language:*** emotional, scientific, formal, informal etc.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQxOTE1MTg3LC0xMDU0NDUzODY2LDM2Mj
-ExODc3MCwtMjA3MjIxODM5OCwtMTE0MDM4MTMzNSwxNDgxODYy
-MDQ1LC0yMDgxNDc4MTQsLTIwODE0NzgxNCwtNjYxOTQ5OTA0LC
-03NDA0NjEzNTYsLTI0MDEwMzM0NiwtNTUxNTc3Nzk1LDEyNzc3
-OTU3NTcsMjA0MDYyNjA1MCw3Mzc4OTY4NDIsLTY1OTI3MjQyMC
-wtMTI4OTUxNzA1LC02MTk4NjIwMDMsNTA4NzcwMjkwLC0yMTE1
-MTE5ODUxXX0=
+eyJoaXN0b3J5IjpbLTIwNjc2NzA3ODcsNDQxOTE1MTg3LC0xMD
+U0NDUzODY2LDM2MjExODc3MCwtMjA3MjIxODM5OCwtMTE0MDM4
+MTMzNSwxNDgxODYyMDQ1LC0yMDgxNDc4MTQsLTIwODE0NzgxNC
+wtNjYxOTQ5OTA0LC03NDA0NjEzNTYsLTI0MDEwMzM0NiwtNTUx
+NTc3Nzk1LDEyNzc3OTU3NTcsMjA0MDYyNjA1MCw3Mzc4OTY4ND
+IsLTY1OTI3MjQyMCwtMTI4OTUxNzA1LC02MTk4NjIwMDMsNTA4
+NzcwMjkwXX0=
 -->
