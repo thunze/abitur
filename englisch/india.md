@@ -47,6 +47,7 @@
 	- "Indian mind": thinking **out of the box** **> cost-efficiency**
 	- the lateral approach has advantages
 - competing ideologies, may be the future
+- home to one third of the world's poorest people
 
 ## Arranged Marriages
 
@@ -64,7 +65,7 @@
 **> really depends on the cultural circumstances**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NTg3MDI3MSw0MTIxMTQwNDYsLTQ5NT
+eyJoaXN0b3J5IjpbMTIyNzkxMjk0OCw0MTIxMTQwNDYsLTQ5NT
 YwMjg3OCwxNzc0MTU1MjgsNTY4NzcxOTg0LDE3ODA1NzM1MTMs
 LTI1Mzc4MzQzNywtOTY2NzI3Mjc3LC0zNzgzMjQ3OTIsMTMzMj
 Y0MTI1OCwxMjY2MjA3ODU3XX0=
