@@ -123,7 +123,7 @@
 - (to) illustrate / visualize an idea
 - (to) persuade sb.
 
-### Communicative devices
+### Communicative strategies
 - ***giving facts and numbers:*** surveys and statistics are mentioned
 - ***quoting experts / referring to authorities***
 - ***including personal experience of affected people***
@@ -168,11 +168,11 @@
 - ***dialogues, descriptions, comments***
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNjE3NDU3NywtMTgwNjE3NzI1OSwtMT
-UzMzQ1MDcwMywtMjA2NzY3MDc4Nyw0NDE5MTUxODcsLTEwNTQ0
-NTM4NjYsMzYyMTE4NzcwLC0yMDcyMjE4Mzk4LC0xMTQwMzgxMz
-M1LDE0ODE4NjIwNDUsLTIwODE0NzgxNCwtMjA4MTQ3ODE0LC02
-NjE5NDk5MDQsLTc0MDQ2MTM1NiwtMjQwMTAzMzQ2LC01NTE1Nz
-c3OTUsMTI3Nzc5NTc1NywyMDQwNjI2MDUwLDczNzg5Njg0Miwt
-NjU5MjcyNDIwXX0=
+eyJoaXN0b3J5IjpbLTYzODM2NjY3MSwxMjA2MTc0NTc3LC0xOD
+A2MTc3MjU5LC0xNTMzNDUwNzAzLC0yMDY3NjcwNzg3LDQ0MTkx
+NTE4NywtMTA1NDQ1Mzg2NiwzNjIxMTg3NzAsLTIwNzIyMTgzOT
+gsLTExNDAzODEzMzUsMTQ4MTg2MjA0NSwtMjA4MTQ3ODE0LC0y
+MDgxNDc4MTQsLTY2MTk0OTkwNCwtNzQwNDYxMzU2LC0yNDAxMD
+MzNDYsLTU1MTU3Nzc5NSwxMjc3Nzk1NzU3LDIwNDA2MjYwNTAs
+NzM3ODk2ODQyXX0=
 -->
