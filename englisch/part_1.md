@@ -94,7 +94,7 @@
 - to put it in a nutshell, in conclusion, to conclude, over all
 
 ### Stylistic devices
-- ***alliteration***
+- ***alliteration:*** makes the target group remember a certain phrase
 - ***allusion:*** referral, e. g. to a celebrity
 - ***anaphora***
 - ***antithesis:*** contrasting statements are balanced against each other to create *emphasis*
@@ -174,11 +174,11 @@
 - ***dialogues, descriptions, comments***
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NjE2MTgxMywyMjg2OTc4MzUsLTExOD
-AzMjMwMDMsMTIwNjE3NDU3NywtMTgwNjE3NzI1OSwtMTUzMzQ1
-MDcwMywtMjA2NzY3MDc4Nyw0NDE5MTUxODcsLTEwNTQ0NTM4Nj
-YsMzYyMTE4NzcwLC0yMDcyMjE4Mzk4LC0xMTQwMzgxMzM1LDE0
-ODE4NjIwNDUsLTIwODE0NzgxNCwtMjA4MTQ3ODE0LC02NjE5ND
-k5MDQsLTc0MDQ2MTM1NiwtMjQwMTAzMzQ2LC01NTE1Nzc3OTUs
-MTI3Nzc5NTc1N119
+eyJoaXN0b3J5IjpbLTY0NDA3MjczNCwtNjk2MTYxODEzLDIyOD
+Y5NzgzNSwtMTE4MDMyMzAwMywxMjA2MTc0NTc3LC0xODA2MTc3
+MjU5LC0xNTMzNDUwNzAzLC0yMDY3NjcwNzg3LDQ0MTkxNTE4Ny
+wtMTA1NDQ1Mzg2NiwzNjIxMTg3NzAsLTIwNzIyMTgzOTgsLTEx
+NDAzODEzMzUsMTQ4MTg2MjA0NSwtMjA4MTQ3ODE0LC0yMDgxND
+c4MTQsLTY2MTk0OTkwNCwtNzQwNDYxMzU2LC0yNDAxMDMzNDYs
+LTU1MTU3Nzc5NV19
 -->
