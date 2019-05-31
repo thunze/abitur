@@ -118,6 +118,7 @@
 - ***simile:*** comparison, usually with *"like"*
 - ***symbol:*** one thing is used to represent sth. else, e. g. the rose is a symbol for love
 - ***syntax:*** influences the experienced speed of the text
+- 
 
 **> only pick the most important ones, explanation + function / effect is mandatory**
 
@@ -174,11 +175,11 @@
 - ***dialogues, descriptions, comments***
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NDA3MjczNCwtNjk2MTYxODEzLDIyOD
-Y5NzgzNSwtMTE4MDMyMzAwMywxMjA2MTc0NTc3LC0xODA2MTc3
-MjU5LC0xNTMzNDUwNzAzLC0yMDY3NjcwNzg3LDQ0MTkxNTE4Ny
-wtMTA1NDQ1Mzg2NiwzNjIxMTg3NzAsLTIwNzIyMTgzOTgsLTEx
-NDAzODEzMzUsMTQ4MTg2MjA0NSwtMjA4MTQ3ODE0LC0yMDgxND
-c4MTQsLTY2MTk0OTkwNCwtNzQwNDYxMzU2LC0yNDAxMDMzNDYs
-LTU1MTU3Nzc5NV19
+eyJoaXN0b3J5IjpbMTQ5ODU3NjMyNywtNjQ0MDcyNzM0LC02OT
+YxNjE4MTMsMjI4Njk3ODM1LC0xMTgwMzIzMDAzLDEyMDYxNzQ1
+NzcsLTE4MDYxNzcyNTksLTE1MzM0NTA3MDMsLTIwNjc2NzA3OD
+csNDQxOTE1MTg3LC0xMDU0NDUzODY2LDM2MjExODc3MCwtMjA3
+MjIxODM5OCwtMTE0MDM4MTMzNSwxNDgxODYyMDQ1LC0yMDgxND
+c4MTQsLTIwODE0NzgxNCwtNjYxOTQ5OTA0LC03NDA0NjEzNTYs
+LTI0MDEwMzM0Nl19
 -->
