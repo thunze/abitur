@@ -23,8 +23,11 @@
 - ***from rags to riches:*** dream of success, fundamental ideology of capitalism
 - ***opportunity, freedom, equality***
 
+## Politics – current situation
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzE4ODk4NjgsLTUxNTAzNjc0NiwtNj
-E1MTE0NDk0LC0xMzg3OTQyNzExLC0xOTI1MTU2MTg2LDgxODk3
-MDAzNCwtMjAyOTQzNjE5NCwtNzA5MDg4NDAyXX0=
+eyJoaXN0b3J5IjpbMjEwNzIwMjk2NSwtMTk3MTg4OTg2OCwtNT
+E1MDM2NzQ2LC02MTUxMTQ0OTQsLTEzODc5NDI3MTEsLTE5MjUx
+NTYxODYsODE4OTcwMDM0LC0yMDI5NDM2MTk0LC03MDkwODg0MD
+JdfQ==
 -->
