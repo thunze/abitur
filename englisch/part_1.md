@@ -19,6 +19,7 @@
 
 ### Main part – Speech
 - analysis of the structure (introduction, main part, conclusion)
+- refer to the **title**
 - analysis of **each** section on its **own** regarding:
 	- ***communicative strategies***
 	- ***stylistic devices***
@@ -43,6 +44,7 @@
 - **setting:** time, place, conditions
 - **atmosphere** – possible functions: causing emotions, reflecting mindset or emotions of a character, creating a contrast
 - ***narrative perspective***
+- refer to the **title**
 - analysis of each section on its **own** regarding:
 	- ***narrative techniques***
 	- only a few ***stylistic devices***, content-focused ones (e. g. *symbols*)
@@ -171,11 +173,11 @@
 - ***dialogues, descriptions, comments***
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMjQ0Mzg5MywtMTE4MDMyMzAwMywxMj
-A2MTc0NTc3LC0xODA2MTc3MjU5LC0xNTMzNDUwNzAzLC0yMDY3
-NjcwNzg3LDQ0MTkxNTE4NywtMTA1NDQ1Mzg2NiwzNjIxMTg3Nz
-AsLTIwNzIyMTgzOTgsLTExNDAzODEzMzUsMTQ4MTg2MjA0NSwt
-MjA4MTQ3ODE0LC0yMDgxNDc4MTQsLTY2MTk0OTkwNCwtNzQwND
-YxMzU2LC0yNDAxMDMzNDYsLTU1MTU3Nzc5NSwxMjc3Nzk1NzU3
-LDIwNDA2MjYwNTBdfQ==
+eyJoaXN0b3J5IjpbMjI4Njk3ODM1LC0xMTgwMzIzMDAzLDEyMD
+YxNzQ1NzcsLTE4MDYxNzcyNTksLTE1MzM0NTA3MDMsLTIwNjc2
+NzA3ODcsNDQxOTE1MTg3LC0xMDU0NDUzODY2LDM2MjExODc3MC
+wtMjA3MjIxODM5OCwtMTE0MDM4MTMzNSwxNDgxODYyMDQ1LC0y
+MDgxNDc4MTQsLTIwODE0NzgxNCwtNjYxOTQ5OTA0LC03NDA0Nj
+EzNTYsLTI0MDEwMzM0NiwtNTUxNTc3Nzk1LDEyNzc3OTU3NTcs
+MjA0MDYyNjA1MF19
 -->
