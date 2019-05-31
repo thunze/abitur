@@ -98,7 +98,7 @@
 - ***antithesis:*** contrasting statements are balanced against each other to create *emphasis*
 - ***apostrophe:*** *Anrede*, e. g. *"Oh, my God."*
 - ***climax:*** highest point of *suspense*
-- ***complex syntax:*** influences the experienced speed of the
+- ***syntax:*** influences the experienced speed of the text
 - ***comparison***
 - ***contrast:*** opposition of two extremes, e. g. *"black and white"*
 - ***enumeration***
@@ -130,6 +130,7 @@
 - ***quoting experts / referring to authorities***
 - ***including personal experience of affected people***
 - ***making (unfounded) claims:*** instead of well-founded arguments
+- ***generalization***
 - ***giving arguments***
 	- ***order of arguments***
 - ***giving examples***
@@ -170,7 +171,7 @@
 - ***dialogues, descriptions, comments***
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MDM3NTUzOSwtMTE4MDMyMzAwMywxMj
+eyJoaXN0b3J5IjpbLTkwMjQ0Mzg5MywtMTE4MDMyMzAwMywxMj
 A2MTc0NTc3LC0xODA2MTc3MjU5LC0xNTMzNDUwNzAzLC0yMDY3
 NjcwNzg3LDQ0MTkxNTE4NywtMTA1NDQ1Mzg2NiwzNjIxMTg3Nz
 AsLTIwNzIyMTgzOTgsLTExNDAzODEzMzUsMTQ4MTg2MjA0NSwt
