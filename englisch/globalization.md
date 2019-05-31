@@ -20,10 +20,10 @@
 
 | positive | negative |
 | --- | --- |
-| <li>communication via **blockchain**</li><li>supporting **AI** / neural networks</li><li>sustainable energy & fuels</li><li>equality</li> | <li>better weapon technology</li><li>climate change</li><li>categorization of people by intelligence</li><li>extreme **lobbyism**</li> |
+| <li>communication via **blockchain**</li><li>supporting **AI** / neural networks</li><li>sustainable energy & fuels</li><li>equality</li> | <li>better weapon technology</li><li>climate change</li><li>categorization of people by intelligence</li><li>extreme **lobbyism**</li><li>exploitation </li> |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzQ4ODQ0NDEsMTcxNDEzOTM5Nyw0OT
-M5NDA3NjgsLTE2NTg0OTU4OTMsMTMyMTAzNTMxNiwxODAzNTY3
-MjQsMjA3NzU5ODMyNF19
+eyJoaXN0b3J5IjpbLTEyMDIyOTYzNDIsLTExMzQ4ODQ0NDEsMT
+cxNDEzOTM5Nyw0OTM5NDA3NjgsLTE2NTg0OTU4OTMsMTMyMTAz
+NTMxNiwxODAzNTY3MjQsMjA3NzU5ODMyNF19
 -->
