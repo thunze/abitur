@@ -100,9 +100,9 @@
 - ***antithesis:*** contrasting statements are balanced against each other to create *emphasis*
 - ***apostrophe:*** *Anrede*, e. g. *"Oh, my God."*
 - ***climax:*** highest point of *suspense*
-- ***syntax:*** influences the experienced speed of the text
 - ***comparison***
 - ***contrast:*** opposition of two extremes, e. g. *"black and white"*
+- ***ellipsis:*** to reduce repetition
 - ***enumeration***
 - ***euphemism:*** indirect phrase to refer to sth. bad, e. g. *"to pass away"*
 - ***irony:*** the use of words that say the opposite of what is really meant **> creates distance to sth.**
@@ -117,6 +117,7 @@
 - ***rhetorical question:*** obvious answer, may be indirectly criticizing sth.
 - ***simile:*** comparison, usually with *"like"*
 - ***symbol:*** one thing is used to represent sth. else, e. g. the rose is a symbol for love
+- ***syntax:*** influences the experienced speed of the text
 
 **> only pick the most important ones, explanation + function / effect is mandatory**
 
@@ -173,11 +174,11 @@
 - ***dialogues, descriptions, comments***
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI4Njk3ODM1LC0xMTgwMzIzMDAzLDEyMD
-YxNzQ1NzcsLTE4MDYxNzcyNTksLTE1MzM0NTA3MDMsLTIwNjc2
-NzA3ODcsNDQxOTE1MTg3LC0xMDU0NDUzODY2LDM2MjExODc3MC
-wtMjA3MjIxODM5OCwtMTE0MDM4MTMzNSwxNDgxODYyMDQ1LC0y
-MDgxNDc4MTQsLTIwODE0NzgxNCwtNjYxOTQ5OTA0LC03NDA0Nj
-EzNTYsLTI0MDEwMzM0NiwtNTUxNTc3Nzk1LDEyNzc3OTU3NTcs
-MjA0MDYyNjA1MF19
+eyJoaXN0b3J5IjpbLTY5NjE2MTgxMywyMjg2OTc4MzUsLTExOD
+AzMjMwMDMsMTIwNjE3NDU3NywtMTgwNjE3NzI1OSwtMTUzMzQ1
+MDcwMywtMjA2NzY3MDc4Nyw0NDE5MTUxODcsLTEwNTQ0NTM4Nj
+YsMzYyMTE4NzcwLC0yMDcyMjE4Mzk4LC0xMTQwMzgxMzM1LDE0
+ODE4NjIwNDUsLTIwODE0NzgxNCwtMjA4MTQ3ODE0LC02NjE5ND
+k5MDQsLTc0MDQ2MTM1NiwtMjQwMTAzMzQ2LC01NTE1Nzc3OTUs
+MTI3Nzc5NTc1N119
 -->
