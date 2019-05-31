@@ -118,7 +118,7 @@
 - ***simile:*** comparison, usually with *"like"*
 - ***symbol:*** one thing is used to represent sth. else, e. g. the rose is a symbol for love
 - ***syntax:*** influences the experienced speed of the text
-- 
+- ***use of certain word fields:*** positive or negative presentation of a topic
 
 **> only pick the most important ones, explanation + function / effect is mandatory**
 
@@ -175,7 +175,7 @@
 - ***dialogues, descriptions, comments***
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5ODU3NjMyNywtNjQ0MDcyNzM0LC02OT
+eyJoaXN0b3J5IjpbLTQzNjMzMzAyMCwtNjQ0MDcyNzM0LC02OT
 YxNjE4MTMsMjI4Njk3ODM1LC0xMTgwMzIzMDAzLDEyMDYxNzQ1
 NzcsLTE4MDYxNzcyNTksLTE1MzM0NTA3MDMsLTIwNjc2NzA3OD
 csNDQxOTE1MTg3LC0xMDU0NDUzODY2LDM2MjExODc3MCwtMjA3
