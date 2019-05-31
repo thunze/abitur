@@ -46,6 +46,7 @@
 - analysis of each section on its **own** regarding:
 	- ***narrative techniques***
 	- only a few ***stylistic devices***, content-focused ones (e. g. *symbols*)
+- **relationships** between characters
 - show use of ***language***
 
 ### Conclusion
@@ -168,11 +169,11 @@
 - ***dialogues, descriptions, comments***
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzODM2NjY3MSwxMjA2MTc0NTc3LC0xOD
-A2MTc3MjU5LC0xNTMzNDUwNzAzLC0yMDY3NjcwNzg3LDQ0MTkx
-NTE4NywtMTA1NDQ1Mzg2NiwzNjIxMTg3NzAsLTIwNzIyMTgzOT
-gsLTExNDAzODEzMzUsMTQ4MTg2MjA0NSwtMjA4MTQ3ODE0LC0y
-MDgxNDc4MTQsLTY2MTk0OTkwNCwtNzQwNDYxMzU2LC0yNDAxMD
-MzNDYsLTU1MTU3Nzc5NSwxMjc3Nzk1NzU3LDIwNDA2MjYwNTAs
-NzM3ODk2ODQyXX0=
+eyJoaXN0b3J5IjpbLTExODAzMjMwMDMsMTIwNjE3NDU3NywtMT
+gwNjE3NzI1OSwtMTUzMzQ1MDcwMywtMjA2NzY3MDc4Nyw0NDE5
+MTUxODcsLTEwNTQ0NTM4NjYsMzYyMTE4NzcwLC0yMDcyMjE4Mz
+k4LC0xMTQwMzgxMzM1LDE0ODE4NjIwNDUsLTIwODE0NzgxNCwt
+MjA4MTQ3ODE0LC02NjE5NDk5MDQsLTc0MDQ2MTM1NiwtMjQwMT
+AzMzQ2LC01NTE1Nzc3OTUsMTI3Nzc5NTc1NywyMDQwNjI2MDUw
+LDczNzg5Njg0Ml19
 -->
