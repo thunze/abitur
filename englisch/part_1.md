@@ -98,6 +98,7 @@
 - ***antithesis:*** contrasting statements are balanced against each other to create *emphasis*
 - ***apostrophe:*** *Anrede*, e. g. *"Oh, my God."*
 - ***climax:*** highest point of *suspense*
+- ***complex syntax:*** influences the experienced speed of the
 - ***comparison***
 - ***contrast:*** opposition of two extremes, e. g. *"black and white"*
 - ***enumeration***
@@ -169,11 +170,11 @@
 - ***dialogues, descriptions, comments***
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODAzMjMwMDMsMTIwNjE3NDU3NywtMT
-gwNjE3NzI1OSwtMTUzMzQ1MDcwMywtMjA2NzY3MDc4Nyw0NDE5
-MTUxODcsLTEwNTQ0NTM4NjYsMzYyMTE4NzcwLC0yMDcyMjE4Mz
-k4LC0xMTQwMzgxMzM1LDE0ODE4NjIwNDUsLTIwODE0NzgxNCwt
-MjA4MTQ3ODE0LC02NjE5NDk5MDQsLTc0MDQ2MTM1NiwtMjQwMT
-AzMzQ2LC01NTE1Nzc3OTUsMTI3Nzc5NTc1NywyMDQwNjI2MDUw
-LDczNzg5Njg0Ml19
+eyJoaXN0b3J5IjpbMTA3MDM3NTUzOSwtMTE4MDMyMzAwMywxMj
+A2MTc0NTc3LC0xODA2MTc3MjU5LC0xNTMzNDUwNzAzLC0yMDY3
+NjcwNzg3LDQ0MTkxNTE4NywtMTA1NDQ1Mzg2NiwzNjIxMTg3Nz
+AsLTIwNzIyMTgzOTgsLTExNDAzODEzMzUsMTQ4MTg2MjA0NSwt
+MjA4MTQ3ODE0LC0yMDgxNDc4MTQsLTY2MTk0OTkwNCwtNzQwND
+YxMzU2LC0yNDAxMDMzNDYsLTU1MTU3Nzc5NSwxMjc3Nzk1NzU3
+LDIwNDA2MjYwNTBdfQ==
 -->
