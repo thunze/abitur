@@ -139,6 +139,7 @@
 	- ***order of arguments***
 - ***giving examples***
 - ***hyperbole / exaggerating***
+- ***drastic / vivid description***
 - ***using humour / irony / sarcasm:*** creates distance to sth.
 - ***directly adressing the audience***
 - ***use of the first person plural:*** involves the audience and presupposes that everybody else agrees
@@ -175,11 +176,11 @@
 - ***dialogues, descriptions, comments***
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNjMzMzAyMCwtNjQ0MDcyNzM0LC02OT
-YxNjE4MTMsMjI4Njk3ODM1LC0xMTgwMzIzMDAzLDEyMDYxNzQ1
-NzcsLTE4MDYxNzcyNTksLTE1MzM0NTA3MDMsLTIwNjc2NzA3OD
-csNDQxOTE1MTg3LC0xMDU0NDUzODY2LDM2MjExODc3MCwtMjA3
-MjIxODM5OCwtMTE0MDM4MTMzNSwxNDgxODYyMDQ1LC0yMDgxND
-c4MTQsLTIwODE0NzgxNCwtNjYxOTQ5OTA0LC03NDA0NjEzNTYs
-LTI0MDEwMzM0Nl19
+eyJoaXN0b3J5IjpbMTAzMDMyNDAwMiwtNDM2MzMzMDIwLC02ND
+QwNzI3MzQsLTY5NjE2MTgxMywyMjg2OTc4MzUsLTExODAzMjMw
+MDMsMTIwNjE3NDU3NywtMTgwNjE3NzI1OSwtMTUzMzQ1MDcwMy
+wtMjA2NzY3MDc4Nyw0NDE5MTUxODcsLTEwNTQ0NTM4NjYsMzYy
+MTE4NzcwLC0yMDcyMjE4Mzk4LC0xMTQwMzgxMzM1LDE0ODE4Nj
+IwNDUsLTIwODE0NzgxNCwtMjA4MTQ3ODE0LC02NjE5NDk5MDQs
+LTc0MDQ2MTM1Nl19
 -->
