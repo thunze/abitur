@@ -30,10 +30,14 @@
 - some of the latest incidents:
 	- US imposed tariffs on various imports, esp. steel imports
 	- US **blacklisted** imports of some Chinese brands (e. g. Huawei)
-	- China accuses the US of forwarding Huawei deliveries to the US, although they're blacklisted **> led to **
+	- China accuses the US of forwarding Huawei deliveries to the US, although they're blacklisted **> led to deficit**
+
+### Migration politics regarding Mexico
+- there is much illegal migration from Mexico to the US
+- Trump 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzI4NTc0NTcsLTE2MDc0MzE4NzgsMj
-EwNzIwMjk2NSwtMTk3MTg4OTg2OCwtNTE1MDM2NzQ2LC02MTUx
-MTQ0OTQsLTEzODc5NDI3MTEsLTE5MjUxNTYxODYsODE4OTcwMD
-M0LC0yMDI5NDM2MTk0LC03MDkwODg0MDJdfQ==
+eyJoaXN0b3J5IjpbLTUxMjc1MDMyNSwtMTYwNzQzMTg3OCwyMT
+A3MjAyOTY1LC0xOTcxODg5ODY4LC01MTUwMzY3NDYsLTYxNTEx
+NDQ5NCwtMTM4Nzk0MjcxMSwtMTkyNTE1NjE4Niw4MTg5NzAwMz
+QsLTIwMjk0MzYxOTQsLTcwOTA4ODQwMl19
 -->
