@@ -24,8 +24,7 @@
 - influenced by **Ovid** (Roman author)
 - *"cosmopolitan / international mindset"*
 
-## Today's relevance of Shakespeare's work
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3ODU1MzU2MCwtOTAwNzg5OTcxXX0=
+eyJoaXN0b3J5IjpbLTgzNjY2NzM4LC0zNzg1NTM1NjAsLTkwMD
+c4OTk3MV19
 -->
