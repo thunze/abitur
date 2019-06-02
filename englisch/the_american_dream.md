@@ -30,10 +30,10 @@
 - some of the latest incidents:
 	- US imposed tariffs on various imports, esp. steel imports
 	- US **blacklisted** imports of some Chinese brands (e. g. Huawei)
-	- China accuses the US of 
+	- China accuses the US of forwarding Huawei deliveries to the US, although they're blacklisted **> led to **
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mzk0NTAyNSwtMTYwNzQzMTg3OCwyMT
-A3MjAyOTY1LC0xOTcxODg5ODY4LC01MTUwMzY3NDYsLTYxNTEx
-NDQ5NCwtMTM4Nzk0MjcxMSwtMTkyNTE1NjE4Niw4MTg5NzAwMz
-QsLTIwMjk0MzYxOTQsLTcwOTA4ODQwMl19
+eyJoaXN0b3J5IjpbLTEzNzI4NTc0NTcsLTE2MDc0MzE4NzgsMj
+EwNzIwMjk2NSwtMTk3MTg4OTg2OCwtNTE1MDM2NzQ2LC02MTUx
+MTQ0OTQsLTEzODc5NDI3MTEsLTE5MjUxNTYxODYsODE4OTcwMD
+M0LC0yMDI5NDM2MTk0LC03MDkwODg0MDJdfQ==
 -->
