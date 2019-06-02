@@ -35,9 +35,10 @@
 ### Migration politics regarding Mexico
 - there is much illegal migration from Mexico to the US
 - Trump wants Mexico to do something about it, otherwise he will impose tariffs on various imports from Mexico
-- **lately:** Mexico agreed and see
+- **lately:** Mexico agreed and seeks conversation
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5ODA5NzA0NCwtMTYwNzQzMTg3OCwyMT
+eyJoaXN0b3J5IjpbMjA2OTI3NTAwMywtMTYwNzQzMTg3OCwyMT
 A3MjAyOTY1LC0xOTcxODg5ODY4LC01MTUwMzY3NDYsLTYxNTEx
 NDQ5NCwtMTM4Nzk0MjcxMSwtMTkyNTE1NjE4Niw4MTg5NzAwMz
 QsLTIwMjk0MzYxOTQsLTcwOTA4ODQwMl19
