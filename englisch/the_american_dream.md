@@ -26,11 +26,14 @@
 ## Politics – current situation
 
 ### Trade war
-- US **blacklisted** imports of some Chinese brands (e. g. Huawei)
-- 
+- main actors: US and China
+- some of the latest incidents:
+	- US imposed tariffs on various imports, esp. steel imports
+	- US **blacklisted** imports of some Chinese brands (e. g. Huawei)
+	- China accuses the US of 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDc0MzE4NzgsMjEwNzIwMjk2NSwtMT
-k3MTg4OTg2OCwtNTE1MDM2NzQ2LC02MTUxMTQ0OTQsLTEzODc5
-NDI3MTEsLTE5MjUxNTYxODYsODE4OTcwMDM0LC0yMDI5NDM2MT
-k0LC03MDkwODg0MDJdfQ==
+eyJoaXN0b3J5IjpbLTE3Mzk0NTAyNSwtMTYwNzQzMTg3OCwyMT
+A3MjAyOTY1LC0xOTcxODg5ODY4LC01MTUwMzY3NDYsLTYxNTEx
+NDQ5NCwtMTM4Nzk0MjcxMSwtMTkyNTE1NjE4Niw4MTg5NzAwMz
+QsLTIwMjk0MzYxOTQsLTcwOTA4ODQwMl19
 -->
