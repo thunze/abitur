@@ -25,9 +25,12 @@
 
 ## Politics – current situation
 
+### Trade war
+- US **blacklisted** imports of some Chinese brands (e. g. Huawei)
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNzIwMjk2NSwtMTk3MTg4OTg2OCwtNT
-E1MDM2NzQ2LC02MTUxMTQ0OTQsLTEzODc5NDI3MTEsLTE5MjUx
-NTYxODYsODE4OTcwMDM0LC0yMDI5NDM2MTk0LC03MDkwODg0MD
-JdfQ==
+eyJoaXN0b3J5IjpbLTE2MDc0MzE4NzgsMjEwNzIwMjk2NSwtMT
+k3MTg4OTg2OCwtNTE1MDM2NzQ2LC02MTUxMTQ0OTQsLTEzODc5
+NDI3MTEsLTE5MjUxNTYxODYsODE4OTcwMDM0LC0yMDI5NDM2MT
+k0LC03MDkwODg0MDJdfQ==
 -->
