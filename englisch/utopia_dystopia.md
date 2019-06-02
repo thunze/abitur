@@ -37,8 +37,10 @@
 | <li>esp. incurable diseases can be a big burden</li> | <li>broken relationships</li> |
 | | <li>could get "trendy" – human beings treated as objects</li> |
 
+## Elements of dystopian literature: *Never Let Me Go*
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc1MzUzOTg2LC0xNzU4NjQwNjQyLDE0Nz
-UxOTgzMzEsLTEyMzcyOTQyODMsLTEzNzA5OTI4ODIsLTY4OTc3
-MzgzMl19
+eyJoaXN0b3J5IjpbLTI2ODE2Njc1OSw5NzUzNTM5ODYsLTE3NT
+g2NDA2NDIsMTQ3NTE5ODMzMSwtMTIzNzI5NDI4MywtMTM3MDk5
+Mjg4MiwtNjg5NzczODMyXX0=
 -->
