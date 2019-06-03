@@ -47,9 +47,10 @@
 - **three parts:** Hailsham, Cottages, Ruth's life as a so-called *carer*
 	- *carer:* people who take care of donors at some kind of "hospitals"
 - follows the life from the perpective of the protagonsist **Ruth**
+- **Kathy** is t
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MzgxMDEwOSwxMDI1MzgyNDQwLC0yNj
-gxNjY3NTksOTc1MzUzOTg2LC0xNzU4NjQwNjQyLDE0NzUxOTgz
-MzEsLTEyMzcyOTQyODMsLTEzNzA5OTI4ODIsLTY4OTc3MzgzMl
-19
+eyJoaXN0b3J5IjpbLTQxNzI1OTA1LDEwMjUzODI0NDAsLTI2OD
+E2Njc1OSw5NzUzNTM5ODYsLTE3NTg2NDA2NDIsMTQ3NTE5ODMz
+MSwtMTIzNzI5NDI4MywtMTM3MDk5Mjg4MiwtNjg5NzczODMyXX
+0=
 -->
