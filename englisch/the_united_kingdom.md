@@ -8,13 +8,13 @@
 
 ## Brexit – current situation
 
-- **23 June 2016:** Referendum announced by David Cameron where about 52% of the citizens voted for leaving the EU
+- **23rd June 2016:** Referendum announced by David Cameron where about 52% of the citizens voted for leaving the EU
 	- David Cameron resigned the day after
 - **currently:**
 	- UK negotiates the conditions of the Brexit with the EU because the UK parliament again voted against the conditions suggested by Theresa May
-	- **10 April 2019:** Brexit again delayed until 31 October
-	- lately Theresa May resigned and won't be Prime Minister from **7 June**
+	- **10th April 2019:** Brexit again delayed until 31 October
+	- lately Theresa May resigned and won't be Prime Minister from **7th June**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NDM2MDEzMywtNTA5NjE1OTczLDc0Mj
+eyJoaXN0b3J5IjpbLTU2ODY4ODYxOSwtNTA5NjE1OTczLDc0Mj
 Q1OTkzMSw3OTUyMjQwOTcsLTg0MjgxNDY4NV19
 -->
