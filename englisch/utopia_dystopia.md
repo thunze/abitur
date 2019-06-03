@@ -45,10 +45,11 @@
 - indoctrination happens so that they don't become rebellious **> limited knowledge**
 - clones are satisfied with **senseless tasks** they need to accomplish
 - **three parts:** Hailsham, Cottages, Ruth's life as a so-called *carer*
-	- *carer:* people who take care of donors at 
-- 
+	- *carer:* people who take care of donors at some kind of "hospitals"
+- follows the life from the perpective of the protagonsist **Ruth**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNTM4MjQ0MCwtMjY4MTY2NzU5LDk3NT
-M1Mzk4NiwtMTc1ODY0MDY0MiwxNDc1MTk4MzMxLC0xMjM3Mjk0
-MjgzLC0xMzcwOTkyODgyLC02ODk3NzM4MzJdfQ==
+eyJoaXN0b3J5IjpbLTQ4MzgxMDEwOSwxMDI1MzgyNDQwLC0yNj
+gxNjY3NTksOTc1MzUzOTg2LC0xNzU4NjQwNjQyLDE0NzUxOTgz
+MzEsLTEyMzcyOTQyODMsLTEzNzA5OTI4ODIsLTY4OTc3MzgzMl
+19
 -->
