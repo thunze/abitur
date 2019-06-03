@@ -25,7 +25,7 @@
 - colorful clothing / tradition
 - **Cricket** as a unifying game – national players are celebrated like heroes
 - Bollywood movies deal with real problems of the Indian Culture
-- **gender roles:** men should be dutiful, honorable **and** protective; women should be kind, righteous, strong but obedient and honorable if they're not yet married**> women need to constantly fulfill expectations of others**
+- **gender roles:** men should be dutiful, honorable **and** protective; women should be kind, righteous, strong but obedient and honorable if they're not yet married **> women need to constantly fulfill expectations of others**
 	- rooted in religion, different to tell if it's cultural or religious practice today
 
 ### Society
