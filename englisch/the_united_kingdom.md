@@ -12,12 +12,12 @@
 	- David Cameron resigned the day after
 - **currently:**
 	- UK negotiates the conditions of the Brexit with the EU because the UK parliament again voted against the conditions suggested by Theresa May
-	- **10th April 2019:** Brexit again delayed until 31 October
+	- **10th April 2019:** Brexit again delayed until **31st October**
 	- lately Theresa May resigned and won't be Prime Minister from **7th June**
 	- potential candidate is Boris Johnsohn, hardliner Brexiteer and former mayor of London
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MTE3Nzk5NSwxNjA3MDAwNDIsLTUwOT
-YxNTk3Myw3NDI0NTk5MzEsNzk1MjI0MDk3LC04NDI4MTQ2ODVd
-fQ==
+eyJoaXN0b3J5IjpbODgwODE0MjYwLDE2MDcwMDA0MiwtNTA5Nj
+E1OTczLDc0MjQ1OTkzMSw3OTUyMjQwOTcsLTg0MjgxNDY4NV19
+
 -->
