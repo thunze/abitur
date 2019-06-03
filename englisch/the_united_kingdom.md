@@ -14,8 +14,9 @@
 	- UK negotiates the conditions of the Brexit with the EU because the UK parliament again voted against the conditions suggested by Theresa May
 	- **10th April 2019:** Brexit again delayed until 31 October
 	- lately Theresa May resigned and won't be Prime Minister from **7th June**
-	- potential candidate is Boris Johnsohn, hardliner Brexiteer
+	- potential candidate is Boris Johnsohn, hardliner Brexiteer and former mayor of London
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNzAwMDQyLC01MDk2MTU5NzMsNzQyND
-U5OTMxLDc5NTIyNDA5NywtODQyODE0Njg1XX0=
+eyJoaXN0b3J5IjpbLTEzNzQ5MDA4NTcsMTYwNzAwMDQyLC01MD
+k2MTU5NzMsNzQyNDU5OTMxLDc5NTIyNDA5NywtODQyODE0Njg1
+XX0=
 -->
