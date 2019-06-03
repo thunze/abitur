@@ -45,13 +45,13 @@
 - indoctrination happens so that they don't become rebellious **> limited knowledge**
 - clones are satisfied with **senseless tasks** they need to accomplish
 	- **clones can't develop a healthy social life**
-- **three parts:** Hailsham, Cottages, Ruth's life as a so-called *carer*
+- **three parts:** Hailsham (a kind of boarding school), the Cottages, Ruth's life as a so-called *carer*
 	- *carer:* people who take care of donors at some kind of "hospitals"
 - follows the life from the perpective of the protagonsist **Ruth**
-- **Kathy** is the best friend of **Ruth** although they sometimes have arguments because of silly things in the beginning, maybe because they can't develop a healthy social life
-- 
+- **Ruth** is the best friend of **Kathy** although they sometimes have arguments because of silly things in the beginning, maybe because they can't develop a healthy social life
+- **Tommy** also is a friend 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMzQzMjM4NCwxMDI1MzgyNDQwLC0yNj
+eyJoaXN0b3J5IjpbLTE3MjE2ODA3NCwxMDI1MzgyNDQwLC0yNj
 gxNjY3NTksOTc1MzUzOTg2LC0xNzU4NjQwNjQyLDE0NzUxOTgz
 MzEsLTEyMzcyOTQyODMsLTEzNzA5OTI4ODIsLTY4OTc3MzgzMl
 19
