@@ -41,9 +41,10 @@
 
 - human clones are created so they can donate their organs as young adults
 - everything is controlled by a kind of government
-- clones' lives are heavily 
+- clones' lives are heavily restricted, e. g. they are not allowed to go outside there destined area
+- indoctrination happens so that they don't 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2Njc1ODM5NiwtMjY4MTY2NzU5LDk3NT
+eyJoaXN0b3J5IjpbLTk2NDI2OTIyNSwtMjY4MTY2NzU5LDk3NT
 M1Mzk4NiwtMTc1ODY0MDY0MiwxNDc1MTk4MzMxLC0xMjM3Mjk0
 MjgzLC0xMzcwOTkyODgyLC02ODk3NzM4MzJdfQ==
 -->
