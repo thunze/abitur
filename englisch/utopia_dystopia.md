@@ -52,10 +52,11 @@
 - **Tommy** also is a friend of both, **Ruth** gets together with him before attending the Cottages
 - later on – after they've broken up – **Ruth** seems to be jealous of **Kathy** because of her good connection to **Tommy**
 	- this leaves **Kathy** sad, so she starts her training as a *carer*
-- after *caring* for **Ruth** and **Tommy**, she also starts donating organs
-	- this is actually reflected in present tense in the novel, the rest is presented as a **flashback**
+- after *caring* for **Ruth** and **Tommy** and also after their death, she also starts donating organs
+	- only the donation process of Kathy (and some time before that) is actually reflected in present tense in the novel, the rest is presented as a **flashback**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyOTU4NTcyOSwxMDI1MzgyNDQwLC0yNj
+eyJoaXN0b3J5IjpbLTU2NzMwOTUxMiwxMDI1MzgyNDQwLC0yNj
 gxNjY3NTksOTc1MzUzOTg2LC0xNzU4NjQwNjQyLDE0NzUxOTgz
 MzEsLTEyMzcyOTQyODMsLTEzNzA5OTI4ODIsLTY4OTc3MzgzMl
 19
