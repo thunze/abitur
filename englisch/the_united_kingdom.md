@@ -10,8 +10,8 @@
 
 - **23 June 2016:** Referendum announced by David Cameron where about 52% of the citizens voted for leaving the EU
 	- David Cameron resigned the day after
-- Theresa May is the new Prime Mini
+- Theresa May is the new Prime Minister
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NTUyNzI1MCw3NDI0NTk5MzEsNzk1Mj
-I0MDk3LC04NDI4MTQ2ODVdfQ==
+eyJoaXN0b3J5IjpbODE3Mzc4ODgsNzQyNDU5OTMxLDc5NTIyND
+A5NywtODQyODE0Njg1XX0=
 -->
