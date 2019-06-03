@@ -10,8 +10,11 @@
 
 - **23 June 2016:** Referendum announced by David Cameron where about 52% of the citizens voted for leaving the EU
 	- David Cameron resigned the day after
-- **c
+- **currently:**
+	- UK negotiates the conditions of the Brexit with the EU
+	- **10 April 2019:** Brexit again delayed until 31 October
+	- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MDQ2Njg3LC01MDk2MTU5NzMsNzQyND
-U5OTMxLDc5NTIyNDA5NywtODQyODE0Njg1XX0=
+eyJoaXN0b3J5IjpbMTIxMTA1OTE5MSwtNTA5NjE1OTczLDc0Mj
+Q1OTkzMSw3OTUyMjQwOTcsLTg0MjgxNDY4NV19
 -->
