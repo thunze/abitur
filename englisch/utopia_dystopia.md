@@ -39,13 +39,14 @@
 
 ## Elements of dystopian literature: *Never Let Me Go*
 
-- **human clones are created so that they can donate their organs as young adults**
+- **human clones are created so that they can donate their organs to their *originals* as young adults**
 - everything is controlled by a kind of government
 - clones' lives are heavily restricted, e. g. they are not allowed to go outside there destined area
 - indoctrination happens so that they don't become rebellious **> limited knowledge**
-- 
+- clones are satisfied with **senseless tasks** they need to accomplish
+- **three parts:** Hailsham. Cottages, Ruth's 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgxMDkyMDQyLC0yNjgxNjY3NTksOTc1Mz
-UzOTg2LC0xNzU4NjQwNjQyLDE0NzUxOTgzMzEsLTEyMzcyOTQy
-ODMsLTEzNzA5OTI4ODIsLTY4OTc3MzgzMl19
+eyJoaXN0b3J5IjpbLTYwODE1ODI2MywtMjY4MTY2NzU5LDk3NT
+M1Mzk4NiwtMTc1ODY0MDY0MiwxNDc1MTk4MzMxLC0xMjM3Mjk0
+MjgzLC0xMzcwOTkyODgyLC02ODk3NzM4MzJdfQ==
 -->
