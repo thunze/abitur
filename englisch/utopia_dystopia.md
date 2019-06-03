@@ -49,11 +49,12 @@
 	- *carer:* people who take care of donors at some kind of "hospitals"
 - follows the life from the perpective of the protagonsist **Ruth**
 - **Ruth** is the best friend of **Kathy** although they sometimes have arguments because of silly things in the beginning, maybe because they can't develop a healthy social life
-- **Tommy** also is a friend of both, **Ruth** gets together with him before a
-- **Ruth** seems to be jealous of **Kathy** because she 
+- **Tommy** also is a friend of both, **Ruth** gets together with him before attending the Cottages
+- later on – after they've broken up – **Ruth** seems to be jealous of **Kathy** because of her good connection to **Tommy**
+	- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE1MTUyNTk4LDEwMjUzODI0NDAsLTI2OD
-E2Njc1OSw5NzUzNTM5ODYsLTE3NTg2NDA2NDIsMTQ3NTE5ODMz
-MSwtMTIzNzI5NDI4MywtMTM3MDk5Mjg4MiwtNjg5NzczODMyXX
-0=
+eyJoaXN0b3J5IjpbLTY0NDAxMjc5MCwxMDI1MzgyNDQwLC0yNj
+gxNjY3NTksOTc1MzUzOTg2LC0xNzU4NjQwNjQyLDE0NzUxOTgz
+MzEsLTEyMzcyOTQyODMsLTEzNzA5OTI4ODIsLTY4OTc3MzgzMl
+19
 -->
