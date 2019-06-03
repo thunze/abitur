@@ -39,8 +39,10 @@
 
 ## Elements of dystopian literature: *Never Let Me Go*
 
+- novel is about a dystopian world in which human clones are created so they can donate their organs as young adults
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2ODE2Njc1OSw5NzUzNTM5ODYsLTE3NT
-g2NDA2NDIsMTQ3NTE5ODMzMSwtMTIzNzI5NDI4MywtMTM3MDk5
-Mjg4MiwtNjg5NzczODMyXX0=
+eyJoaXN0b3J5IjpbLTE4MjczNDQzODksLTI2ODE2Njc1OSw5Nz
+UzNTM5ODYsLTE3NTg2NDA2NDIsMTQ3NTE5ODMzMSwtMTIzNzI5
+NDI4MywtMTM3MDk5Mjg4MiwtNjg5NzczODMyXX0=
 -->
