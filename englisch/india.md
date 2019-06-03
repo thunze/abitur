@@ -25,7 +25,7 @@
 - colorful clothing / tradition
 - **Cricket** as a unifying game – national players are celebrated like heroes
 - Bollywood movies deal with real problems of the Indian Culture
-- **gender roles:** men should be dutiful, honorable **and** protective; women should be kind, righteous, strong but obedient and honorable if they're not yet married **> women need to constantly fulfill expectations of others**
+- **gender roles:** men should be dutiful, honorable **and** protective; women should be kind, righteous, strong but obedient and honorable if they're not yet married**> women need to constantly fulfill expectations of others**
 	- rooted in religion, different to tell if it's cultural or religious practice today
 
 ### Society
@@ -67,7 +67,7 @@
 | <li>(artifically) peaceful relationship</li> | <li>partner may not fit, but you can't do anything about it</li> |
 | <li>financial dependence on the other family</li> | <li>no possibility to gain experience with different partners</li> |
 | <li>love might happen afterwards</li> | <li>no "actual" romance possible in the first place</li> |
-| <li>unattractive people also find a partner (may seem drastic)</li> | <li>you need time to get to knwo each other better</li> |
+| <li>unattractive people also find a partner (may seem drastic)</li> | <li>you need time to get to know each other better</li> |
 | <li>expectations can be fulfilled</li> | <li>"love machinery" – people are rather treated as objects</li> |
 | <li>people may need help regarding dating</li> | <li>almost no chance to get divorced again</li> |
 | <li>support from the regarding families</li> | <li>women often don't stand up for themselves</li> |
